@@ -58,19 +58,32 @@ nav{background:#0f1923;position:sticky;top:0;z-index:100;overflow:hidden;}
 .sync-dot{width:5px;height:5px;border-radius:50%;background:currentColor;flex-shrink:0;}
 .sync-dot.pulse{animation:pulse 2s infinite;}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:0.3}}
-/* TABS */
-.tab-bar{background:#0f1923;border-bottom:none;}
-.tab-inner{max-width:860px;margin:0 auto;display:flex;padding:0 24px;overflow-x:auto;gap:0;border-bottom:0.5px solid rgba(255,255,255,0.08);}
-.tab{font-size:12px;font-weight:400;padding:11px 16px;cursor:pointer;color:rgba(255,255,255,0.35);border:none;background:none;border-bottom:2px solid transparent;margin-bottom:-0.5px;white-space:nowrap;transition:all 0.15s;letter-spacing:0.02em;font-family:'Inter',sans-serif;}
-.tab:hover{color:rgba(255,255,255,0.7);}
-.tab.active{color:white;border-bottom-color:white;font-weight:500;}
+/* HAMBURGER */
+.hamburger{background:none;border:none;cursor:pointer;padding:6px;display:flex;flex-direction:column;gap:5px;position:relative;z-index:2;}
+.hamburger span{display:block;width:20px;height:1.5px;background:rgba(255,255,255,0.7);border-radius:2px;transition:all 0.25s;}
+.hamburger.open span:nth-child(1){transform:translateY(6.5px) rotate(45deg);}
+.hamburger.open span:nth-child(2){opacity:0;}
+.hamburger.open span:nth-child(3){transform:translateY(-6.5px) rotate(-45deg);}
 
-/* TABS */
-.tab-bar{background:var(--surface);border-bottom:0.5px solid var(--border);}
-.tab-inner{max-width:860px;margin:0 auto;display:flex;padding:0 24px;overflow-x:auto;gap:0;}
-.tab{font-size:13px;font-weight:400;padding:12px 16px;cursor:pointer;color:var(--muted);border:none;background:none;border-bottom:2px solid transparent;margin-bottom:-0.5px;white-space:nowrap;transition:all 0.15s;letter-spacing:-0.01em;}
-.tab:hover{color:var(--text);}
-.tab.active{color:var(--accent);border-bottom-color:var(--accent);font-weight:500;}
+/* DRAWER OVERLAY */
+.drawer-overlay{position:fixed;inset:0;background:rgba(0,0,0,0);z-index:200;pointer-events:none;transition:background 0.3s;}
+.drawer-overlay.open{background:rgba(0,0,0,0.5);pointer-events:all;}
+
+/* DRAWER */
+.drawer{position:fixed;top:0;left:0;height:100%;width:280px;background:#0f1923;z-index:201;transform:translateX(-100%);transition:transform 0.3s cubic-bezier(0.4,0,0.2,1);display:flex;flex-direction:column;overflow:hidden;}
+.drawer.open{transform:translateX(0);}
+.drawer-header{padding:28px 24px 20px;border-bottom:0.5px solid rgba(255,255,255,0.08);}
+.drawer-avatar{width:48px;height:48px;border-radius:14px;background:linear-gradient(135deg,#cc0000,#8a0000);display:flex;align-items:center;justify-content:center;font-family:'Fraunces',Georgia,serif;font-size:18px;font-weight:400;color:white;font-style:italic;margin-bottom:12px;border:0.5px solid rgba(255,255,255,0.15);}
+.drawer-name{font-family:'Fraunces',Georgia,serif;font-size:18px;font-weight:300;font-style:italic;color:white;line-height:1.2;}
+.drawer-sub{font-size:10px;color:rgba(255,255,255,0.35);letter-spacing:0.08em;text-transform:uppercase;margin-top:3px;}
+.drawer-nav{padding:16px 12px;flex:1;}
+.drawer-item{display:flex;align-items:center;gap:12px;padding:11px 14px;border-radius:10px;cursor:pointer;color:rgba(255,255,255,0.5);font-size:13px;font-weight:400;transition:all 0.15s;border:none;background:none;width:100%;text-align:left;font-family:'Inter',sans-serif;}
+.drawer-item:hover{background:rgba(255,255,255,0.06);color:rgba(255,255,255,0.85);}
+.drawer-item.active{background:rgba(255,255,255,0.1);color:white;font-weight:500;}
+.drawer-item-icon{font-size:16px;width:20px;text-align:center;flex-shrink:0;}
+.drawer-footer{padding:16px 24px;border-top:0.5px solid rgba(255,255,255,0.08);}
+
+.tab-bar{display:none;}
 
 /* MAIN */
 .main{max-width:860px;margin:0 auto;padding:28px 24px;}
@@ -210,34 +223,51 @@ code{font-family:ui-monospace,monospace;font-size:11px;background:var(--surface2
 </head>
 <body>
 
+<div class="drawer-overlay" id="overlay" onclick="closeDrawer()"></div>
+
+<div class="drawer" id="drawer">
+  <div class="drawer-header">
+    <div class="drawer-avatar">AB</div>
+    <div class="drawer-name">Adrien Bouré</div>
+    <div class="drawer-sub">Montréal · PJP · Gaming</div>
+  </div>
+  <div class="drawer-nav">
+    <button class="drawer-item active" id="di-tracker" onclick="drawerNav('tracker')"><span class="drawer-item-icon">📋</span>Candidatures</button>
+    <button class="drawer-item" id="di-entreprises" onclick="drawerNav('entreprises')"><span class="drawer-item-icon">🏢</span>Entreprises</button>
+    <button class="drawer-item" id="di-lm" onclick="drawerNav('lm')"><span class="drawer-item-icon">✉️</span>Lettre de motivation</button>
+    <button class="drawer-item" id="di-pjp" onclick="drawerNav('pjp')"><span class="drawer-item-icon">🇨🇦</span>Stratégie PJP</button>
+    <button class="drawer-item" id="di-setup" onclick="drawerNav('setup')"><span class="drawer-item-icon">⚙️</span>Réglages</button>
+  </div>
+  <div class="drawer-footer">
+    <div class="sync-pill" id="sync-pill" style="width:100%;justify-content:center;">
+      <div class="sync-dot"></div>
+      <span id="sync-label">Local</span>
+    </div>
+  </div>
+</div>
+
 <nav>
   <div class="nav-inner">
     <div class="nav-bg-text">Montréal</div>
     <div class="nav-brand">
-      <div class="nav-avatar">AB</div>
+      <button class="hamburger" id="hamburger" onclick="toggleDrawer()">
+        <span></span><span></span><span></span>
+      </button>
       <div class="nav-text">
         <div class="nav-title">Adrien Bouré <span>Job Search</span></div>
         <div class="nav-sub">Montréal &nbsp;·&nbsp; PJP &nbsp;·&nbsp; Entertainment & Gaming</div>
       </div>
     </div>
     <div class="nav-right">
-      <div class="sync-pill" id="sync-pill">
-        <div class="sync-dot"></div>
-        <span id="sync-label">Local</span>
+      <div class="sync-pill connected" id="sync-pill-nav" style="font-size:10px;padding:3px 8px;">
+        <div class="sync-dot pulse"></div>
+        <span id="sync-label-nav">—</span>
       </div>
     </div>
   </div>
 </nav>
 
-<div class="tab-bar">
-  <div class="tab-inner">
-    <button class="tab active" onclick="showTab('tracker',this)">Candidatures</button>
-    <button class="tab" onclick="showTab('entreprises',this)">Entreprises</button>
-    <button class="tab" onclick="showTab('lm',this)">Lettre de motivation</button>
-    <button class="tab" onclick="showTab('pjp',this)">Stratégie PJP</button>
-    <button class="tab" onclick="showTab('setup',this)">Réglages</button>
-  </div>
-</div>
+<div class="tab-bar"></div>
 
 <div class="main">
 
@@ -564,8 +594,19 @@ function fbErr(e){
 function setSynced(ok){
   var pill=document.getElementById('sync-pill');
   var lbl=document.getElementById('sync-label');
-  if(ok){pill.className='sync-pill connected';lbl.textContent='Synchronisé';pill.querySelector('.sync-dot').className='sync-dot pulse';}
-  else{pill.className='sync-pill';lbl.textContent='Local';pill.querySelector('.sync-dot').className='sync-dot';}
+  var pillNav=document.getElementById('sync-pill-nav');
+  var lblNav=document.getElementById('sync-label-nav');
+  if(ok){
+    if(pill){pill.className='sync-pill connected';pill.querySelector('.sync-dot').className='sync-dot pulse';}
+    if(lbl)lbl.textContent='Synchronisé';
+    if(pillNav){pillNav.className='sync-pill connected';pillNav.style.cssText='font-size:10px;padding:3px 8px;';}
+    if(lblNav)lblNav.textContent='Synchro';
+  } else {
+    if(pill){pill.className='sync-pill';pill.querySelector('.sync-dot').className='sync-dot';}
+    if(lbl)lbl.textContent='Local';
+    if(pillNav){pillNav.className='sync-pill';pillNav.style.cssText='font-size:10px;padding:3px 8px;';}
+    if(lblNav)lblNav.textContent='Local';
+  }
 }
 
 function initFb(cfg){
