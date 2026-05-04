@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Job MTL — Adrien Bouré</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js"></script>
+<style>
+*{box-sizing:border-box;margin:0;padding:0;}
+:root{
+  --bg:#f5f5f7;
+  --surface:#ffffff;
+  --surface2:#f5f5f7;
+  --border:#e5e5ea;
+  --border2:#d1d1d6;
+  --text:#1d1d1f;
+  --muted:#86868b;
+  --muted2:#aeaeb2;
+  --accent:#0071e3;
+  --accent-light:#e8f0fb;
+  --green:#34c759;
+  --green-light:#edfbf1;
+  --amber:#ff9f0a;
+  --amber-light:#fff5e6;
+  --red:#ff3b30;
+  --red-light:#fff0ef;
+  --purple:#bf5af2;
+  --purple-light:#f5eeff;
+  --radius:12px;
+  --radius-sm:8px;
+  --radius-xs:6px;
+  --sans:'Inter',system-ui,sans-serif;
+}
+html{-webkit-font-smoothing:antialiased;}
+body{background:var(--bg);color:var(--text);font-family:var(--sans);font-size:14px;line-height:1.5;min-height:100vh;}
+
+/* NAV */
+nav{background:rgba(245,245,247,0.85);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border-bottom:0.5px solid var(--border);position:sticky;top:0;z-index:100;padding:0 24px;}
+.nav-inner{max-width:860px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;height:52px;}
+.nav-brand{display:flex;flex-direction:column;}
+.nav-title{font-size:13px;font-weight:600;color:var(--text);letter-spacing:-0.01em;}
+.nav-sub{font-size:11px;color:var(--muted);margin-top:1px;}
+.sync-pill{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-weight:500;padding:4px 10px;border-radius:999px;border:0.5px solid var(--border2);color:var(--muted);background:var(--surface);transition:all 0.2s;}
+.sync-pill.connected{color:var(--green);border-color:rgba(52,199,89,0.3);background:var(--green-light);}
+.sync-dot{width:5px;height:5px;border-radius:50%;background:currentColor;}
+.sync-dot.pulse{animation:pulse 2s infinite;}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:0.3}}
+
+/* TABS */
+.tab-bar{background:var(--surface);border-bottom:0.5px solid var(--border);}
+.tab-inner{max-width:860px;margin:0 auto;display:flex;padding:0 24px;overflow-x:auto;gap:0;}
+.tab{font-size:13px;font-weight:400;padding:12px 16px;cursor:pointer;color:var(--muted);border:none;background:none;border-bottom:2px solid transparent;margin-bottom:-0.5px;white-space:nowrap;transition:all 0.15s;letter-spacing:-0.01em;}
+.tab:hover{color:var(--text);}
+.tab.active{color:var(--accent);border-bottom-color:var(--accent);font-weight:500;}
+
+/* MAIN */
+.main{max-width:860px;margin:0 auto;padding:28px 24px;}
+.panel{display:none;animation:fadeIn 0.2s ease;}
+.panel.active{display:block;}
+@keyframes fadeIn{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}
+
+/* STATS */
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:24px;}
+.stat{background:var(--surface);border:0.5px solid var(--border);border-radius:var(--radius);padding:16px 18px;}
+.stat-val{font-size:26px;font-weight:300;color:var(--text);letter-spacing:-0.03em;line-height:1;}
+.stat-label{font-size:11px;color:var(--muted);margin-top:6px;font-weight:400;}
+.stat-sub{font-size:10px;color:var(--muted2);margin-top:2px;}
+
+/* CARDS */
+.card{background:var(--surface);border:0.5px solid var(--border);border-radius:var(--radius);padding:20px;margin-bottom:14px;}
+.card-title{font-size:13px;font-weight:600;color:var(--text);margin-bottom:16px;letter-spacing:-0.01em;}
+
+/* FORM */
+.form-row{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:10px;}
+.form-group{display:flex;flex-direction:column;gap:5px;}
+.form-label{font-size:11px;font-weight:500;color:var(--muted);letter-spacing:0.02em;}
+input,select,textarea{background:var(--surface2);border:0.5px solid var(--border2);border-radius:var(--radius-sm);color:var(--text);font-family:var(--sans);font-size:13px;padding:8px 11px;width:100%;outline:none;transition:border-color 0.15s,box-shadow 0.15s;-webkit-appearance:none;}
+input:focus,select:focus,textarea:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(0,113,227,0.12);}
+textarea{resize:vertical;min-height:60px;line-height:1.5;}
+select{cursor:pointer;}
+
+/* PRIO */
+.prio-row{display:flex;gap:6px;flex-wrap:wrap;}
+.prio-btn{font-size:11px;font-weight:500;padding:5px 12px;border-radius:999px;cursor:pointer;border:0.5px solid var(--border2);color:var(--muted);background:var(--surface2);transition:all 0.15s;letter-spacing:0.01em;}
+.prio-btn.sel-haute{border-color:rgba(255,59,48,0.4);color:var(--red);background:var(--red-light);}
+.prio-btn.sel-moyenne{border-color:rgba(255,159,10,0.4);color:var(--amber);background:var(--amber-light);}
+.prio-btn.sel-basse{border-color:var(--border2);color:var(--muted);background:var(--surface);}
+
+/* BUTTONS */
+.btn{font-family:var(--sans);font-size:13px;font-weight:500;padding:8px 16px;border-radius:var(--radius-sm);cursor:pointer;border:0.5px solid var(--border2);color:var(--text);background:var(--surface);transition:all 0.15s;letter-spacing:-0.01em;}
+.btn:hover{background:var(--surface2);}
+.btn-primary{background:var(--accent);color:white;border-color:var(--accent);}
+.btn-primary:hover{background:#0077ed;}
+.btn-full{width:100%;}
+.btn-sm{font-size:11px;padding:5px 10px;}
+
+/* CAND CARDS */
+.cand-card{background:var(--surface);border:0.5px solid var(--border);border-radius:var(--radius);padding:14px 16px;margin-bottom:8px;transition:box-shadow 0.15s,border-color 0.15s;}
+.cand-card:hover{border-color:var(--border2);box-shadow:0 2px 8px rgba(0,0,0,0.05);}
+.cand-top{display:flex;align-items:flex-start;gap:10px;margin-bottom:5px;}
+.cand-poste{font-size:14px;font-weight:500;flex:1;color:var(--text);letter-spacing:-0.01em;}
+.cand-co-date{font-size:12px;color:var(--muted);margin-bottom:8px;}
+.cand-note{font-size:12px;color:var(--muted);margin-bottom:8px;padding:6px 8px;background:var(--surface2);border-radius:var(--radius-xs);border-left:2px solid var(--border2);}
+.cand-bottom{display:flex;align-items:center;gap:8px;}
+.mini-select{font-family:var(--sans);font-size:11px;font-weight:500;padding:4px 8px;border-radius:999px;background:var(--surface2);border:0.5px solid var(--border);color:var(--muted);cursor:pointer;-webkit-appearance:none;padding-right:16px;}
+.del-btn{background:none;border:none;color:var(--muted2);cursor:pointer;font-size:16px;padding:0 2px;line-height:1;transition:color 0.15s;margin-left:auto;}
+.del-btn:hover{color:var(--red);}
+
+/* BADGES */
+.badge{font-size:10px;font-weight:600;padding:3px 7px;border-radius:999px;letter-spacing:0.02em;display:inline-block;}
+.b-blue{background:var(--accent-light);color:var(--accent);}
+.b-green{background:var(--green-light);color:#1a7a35;}
+.b-amber{background:var(--amber-light);color:#8a5200;}
+.b-red{background:var(--red-light);color:#c0392b;}
+.b-purple{background:var(--purple-light);color:#7b2fbe;}
+.b-gray{background:var(--surface2);color:var(--muted);border:0.5px solid var(--border);}
+
+/* PRIO DOT */
+.pdot{width:7px;height:7px;border-radius:50%;flex-shrink:0;margin-top:5px;}
+.pdot-haute{background:var(--red);}
+.pdot-moyenne{background:var(--amber);}
+.pdot-basse{background:var(--muted2);}
+
+/* COMPANIES */
+.co-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;}
+.co-card{background:var(--surface);border:0.5px solid var(--border);border-radius:var(--radius);padding:16px;transition:box-shadow 0.15s;}
+.co-card:hover{box-shadow:0 2px 12px rgba(0,0,0,0.06);}
+.co-card.top{border-color:rgba(0,113,227,0.25);background:linear-gradient(135deg,#fff 0%,#f0f6ff 100%);}
+.co-top-badge{font-size:10px;font-weight:600;color:var(--accent);background:var(--accent-light);padding:2px 8px;border-radius:999px;display:inline-block;margin-bottom:8px;}
+.co-name{font-size:14px;font-weight:600;color:var(--text);margin-bottom:2px;letter-spacing:-0.01em;}
+.co-type{font-size:11px;color:var(--muted);margin-bottom:10px;}
+.co-postes{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:10px;}
+.co-link{font-size:12px;color:var(--accent);text-decoration:none;font-weight:500;}
+.co-link:hover{text-decoration:underline;}
+
+/* SKILL TAGS */
+.skill-tags{display:flex;flex-wrap:wrap;gap:6px;}
+.skill-tag{font-size:11px;font-weight:500;padding:5px 11px;border-radius:999px;cursor:pointer;border:0.5px solid var(--border2);color:var(--muted);background:var(--surface2);transition:all 0.15s;}
+.skill-tag.sel{border-color:rgba(0,113,227,0.4);color:var(--accent);background:var(--accent-light);}
+
+/* CHECKLIST */
+.check-item{display:flex;align-items:flex-start;gap:10px;padding:11px 0;border-bottom:0.5px solid var(--border);}
+.check-item:last-child{border-bottom:none;}
+.check-item input[type=checkbox]{width:16px;height:16px;margin-top:1px;accent-color:var(--accent);cursor:pointer;flex-shrink:0;}
+.check-label{font-size:13px;color:var(--text);line-height:1.4;}
+.check-label.done{text-decoration:line-through;color:var(--muted2);}
+.prog-bar{height:3px;background:var(--border);border-radius:2px;overflow:hidden;margin-top:14px;}
+.prog-fill{height:100%;background:var(--accent);border-radius:2px;transition:width 0.4s cubic-bezier(0.4,0,0.2,1);}
+.prog-text{font-size:11px;color:var(--muted);margin-top:6px;}
+
+/* TIPS */
+.tip{display:flex;gap:12px;padding:11px 0;border-bottom:0.5px solid var(--border);}
+.tip:last-child{border-bottom:none;}
+.tip-num{font-size:11px;font-weight:600;color:var(--accent);min-width:18px;padding-top:1px;}
+.tip-text{font-size:13px;color:var(--muted);line-height:1.5;}
+.tip-text strong{color:var(--text);font-weight:500;}
+
+/* SETUP */
+.setup-step{display:flex;gap:14px;padding:14px 0;border-bottom:0.5px solid var(--border);}
+.setup-step:last-child{border-bottom:none;}
+.step-n{font-size:11px;font-weight:600;color:var(--accent);min-width:20px;padding-top:2px;}
+.step-title{font-size:13px;font-weight:500;margin-bottom:4px;color:var(--text);}
+.step-desc{font-size:12px;color:var(--muted);line-height:1.6;}
+code{font-family:ui-monospace,monospace;font-size:11px;background:var(--surface2);padding:2px 5px;border-radius:4px;color:var(--text);}
+.cfg-input{background:var(--surface2);border:0.5px solid var(--border2);border-radius:var(--radius-sm);color:var(--text);font-family:ui-monospace,monospace;font-size:12px;padding:7px 10px;width:100%;margin-top:6px;margin-bottom:4px;outline:none;transition:border-color 0.15s;}
+.cfg-input:focus{border-color:var(--accent);}
+.fb-pill{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-weight:500;padding:5px 10px;border-radius:var(--radius-xs);}
+.fb-ok{background:var(--green-light);color:#1a7a35;}
+.fb-err{background:var(--red-light);color:#c0392b;}
+.fb-wait{background:var(--amber-light);color:#8a5200;}
+
+/* EMPTY */
+.empty{text-align:center;padding:48px 20px;color:var(--muted);}
+.empty-icon{font-size:32px;margin-bottom:10px;opacity:0.4;}
+.empty-text{font-size:13px;}
+
+/* SECTION HEADER */
+.section-hd{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px;}
+.section-title{font-size:15px;font-weight:600;color:var(--text);letter-spacing:-0.02em;}
+.section-count{font-size:12px;color:var(--muted);}
+
+@media(max-width:600px){
+  .stats{grid-template-columns:1fr 1fr;}
+  .form-row{grid-template-columns:1fr;}
+  .co-grid{grid-template-columns:1fr;}
+  .main{padding:20px 16px;}
+  nav{padding:0 16px;}
+  .tab-inner{padding:0 12px;}
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <div class="nav-brand">
+      <div class="nav-title">Adrien Bouré — Job Search</div>
+      <div class="nav-sub">Montréal · Programme Jeune Professionnel</div>
+    </div>
+    <div class="sync-pill" id="sync-pill">
+      <div class="sync-dot"></div>
+      <span id="sync-label">Local</span>
+    </div>
+  </div>
+</nav>
+
+<div class="tab-bar">
+  <div class="tab-inner">
+    <button class="tab active" onclick="showTab('tracker',this)">Candidatures</button>
+    <button class="tab" onclick="showTab('entreprises',this)">Entreprises</button>
+    <button class="tab" onclick="showTab('lm',this)">Lettre de motivation</button>
+    <button class="tab" onclick="showTab('pjp',this)">Stratégie PJP</button>
+    <button class="tab" onclick="showTab('setup',this)">Réglages</button>
+  </div>
+</div>
+
+<div class="main">
+
+<!-- TRACKER -->
+<div id="panel-tracker" class="panel active">
+  <div class="stats">
+    <div class="stat"><div class="stat-val" id="s-total">0</div><div class="stat-label">Candidatures</div></div>
+    <div class="stat"><div class="stat-val" id="s-relance">0</div><div class="stat-label">À relancer</div></div>
+    <div class="stat"><div class="stat-val" id="s-entretien">0</div><div class="stat-label">Entretiens</div></div>
+    <div class="stat"><div class="stat-val" id="s-taux">—</div><div class="stat-label">Taux réponse</div></div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">Nouvelle candidature</div>
+    <div class="form-row">
+      <div class="form-group"><div class="form-label">Poste</div><input type="text" id="f-poste" placeholder="ex : CRM Analyst"></div>
+      <div class="form-group"><div class="form-label">Entreprise</div><input type="text" id="f-co" placeholder="ex : Ubisoft Montréal"></div>
+    </div>
+    <div class="form-row">
+      <div class="form-group"><div class="form-label">Date</div><input type="date" id="f-date"></div>
+      <div class="form-group"><div class="form-label">Statut</div>
+        <select id="f-status">
+          <option value="envoyée">Envoyée</option>
+          <option value="relance">À relancer</option>
+          <option value="entretien">Entretien</option>
+          <option value="refus">Refus</option>
+          <option value="offre">Offre reçue</option>
+        </select>
+      </div>
+    </div>
+    <div class="form-group" style="margin-bottom:12px;"><div class="form-label">Note / lien</div><textarea id="f-note" placeholder="URL de l'offre, nom du contact, remarques..."></textarea></div>
+    <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;">
+      <div>
+        <div class="form-label" style="margin-bottom:6px;">Priorité</div>
+        <div class="prio-row">
+          <button class="prio-btn sel-haute" id="pb-haute" onclick="selPrio('haute')">Haute</button>
+          <button class="prio-btn" id="pb-moyenne" onclick="selPrio('moyenne')">Moyenne</button>
+          <button class="prio-btn" id="pb-basse" onclick="selPrio('basse')">Basse</button>
+        </div>
+      </div>
+      <button class="btn btn-primary" onclick="addCand()">Ajouter</button>
+    </div>
+  </div>
+
+  <div class="section-hd">
+    <div class="section-title">Mes candidatures</div>
+    <div class="section-count" id="cand-count"></div>
+  </div>
+  <div id="cand-list"></div>
+  <div id="empty-state" class="empty"><div class="empty-icon">📋</div><div class="empty-text">Aucune candidature — commence par en ajouter une !</div></div>
+</div>
+
+<!-- ENTREPRISES -->
+<div id="panel-entreprises" class="panel">
+  <div class="section-hd"><div class="section-title">Entreprises cibles</div><div class="section-count">8 boîtes</div></div>
+  <div class="co-grid" id="co-grid"></div>
+</div>
+
+<!-- LM -->
+<div id="panel-lm" class="panel">
+  <div class="card">
+    <div class="card-title">Générateur de lettre de motivation</div>
+    <div class="form-group" style="margin-bottom:10px;"><div class="form-label">Poste visé</div><input type="text" id="g-poste" placeholder="ex : Market Intelligence Analyst"></div>
+    <div class="form-group" style="margin-bottom:10px;"><div class="form-label">Entreprise</div><input type="text" id="g-co" placeholder="ex : Ubisoft Montréal"></div>
+    <div class="form-group" style="margin-bottom:12px;"><div class="form-label">Ce qui t'attire dans ce rôle</div><textarea id="g-why" placeholder="passion gaming, culture data-driven, projets internationaux..."></textarea></div>
+    <div style="margin-bottom:16px;">
+      <div class="form-label" style="margin-bottom:8px;">Compétences à mettre en avant</div>
+      <div class="skill-tags" id="skill-tags">
+        <span class="skill-tag sel" data-sk="SQL & data analysis">SQL & data</span>
+        <span class="skill-tag sel" data-sk="CRM & segmentation">CRM</span>
+        <span class="skill-tag sel" data-sk="market intelligence">Market intel</span>
+        <span class="skill-tag" data-sk="Salesforce Marketing Cloud">Salesforce MC</span>
+        <span class="skill-tag" data-sk="Power BI & data viz">Power BI</span>
+        <span class="skill-tag" data-sk="gestion de projet et leadership">Leadership</span>
+        <span class="skill-tag" data-sk="communication multilingue FR/EN/ES">Trilinguisme</span>
+        <span class="skill-tag" data-sk="analyse de panels distributeurs GfK/GSD">Panels distrib.</span>
+      </div>
+    </div>
+    <button class="btn btn-primary btn-full" onclick="genLM()">Copier le prompt pour Claude →</button>
+    <div style="font-size:11px;color:var(--muted);margin-top:8px;text-align:center;">Colle ensuite le prompt dans claude.ai pour générer ta lettre</div>
+  </div>
+</div>
+
+<!-- PJP -->
+<div id="panel-pjp" class="panel">
+  <div class="card" style="margin-bottom:14px;">
+    <div class="card-title">Checklist Programme Jeune Professionnel</div>
+    <div id="checklist-items"></div>
+    <div class="prog-bar"><div class="prog-fill" id="prog-fill" style="width:0%"></div></div>
+    <div class="prog-text" id="prog-text">0/9 étapes complétées</div>
+  </div>
+  <div class="card">
+    <div class="card-title">Conseils pour ton profil</div>
+    <div class="tip"><div class="tip-num">01</div><div class="tip-text">Finalise ta <strong>certif Salesforce Marketing Cloud</strong> — c'est un critère de filtre direct sur les postes CRM gaming.</div></div>
+    <div class="tip"><div class="tip-num">02</div><div class="tip-text">Cherche <strong>"EDHEC Montréal"</strong> dans les filtres Alumni LinkedIn — le réseau Grande École là-bas est actif.</div></div>
+    <div class="tip"><div class="tip-num">03</div><div class="tip-text">Utilise <strong>"Analyste de marché"</strong> plutôt que Business Analyst dans ton CV québécois.</div></div>
+    <div class="tip"><div class="tip-num">04</div><div class="tip-text">Mets ton <strong>TOEIC 980</strong> dès le titre du CV — le bilinguisme FR/EN est une vraie valeur à Montréal.</div></div>
+    <div class="tip"><div class="tip-num">05</div><div class="tip-text">L'employeur doit émettre l'offre <strong>avant</strong> la demande PJP — priorise les candidatures, le visa suit.</div></div>
+    <div class="tip"><div class="tip-num">06</div><div class="tip-text">Postule directement sur <strong>careers.ubisoft.com</strong> ET LinkedIn Ubisoft — les deux canaux sont actifs.</div></div>
+  </div>
+</div>
+
+<!-- SETUP -->
+<div id="panel-setup" class="panel">
+  <div class="card">
+    <div class="card-title">Firebase — synchronisation cloud</div>
+    <div class="setup-step">
+      <div class="step-n">01</div>
+      <div><div class="step-title">Créer un projet Firebase</div><div class="step-desc"><a href="https://console.firebase.google.com" target="_blank" style="color:var(--accent);">console.firebase.google.com</a> → Add project → nom → créer.</div></div>
+    </div>
+    <div class="setup-step">
+      <div class="step-n">02</div>
+      <div><div class="step-title">Activer Firestore en mode test</div><div class="step-desc">Menu gauche → Firestore Database → Create database → <strong>Start in test mode</strong> → région us-east1.</div></div>
+    </div>
+    <div class="setup-step">
+      <div class="step-n">03</div>
+      <div><div class="step-title">Coller ta config</div><div class="step-desc">⚙ Paramètres → Général → Vos applications → config firebaseConfig.</div>
+        <input class="cfg-input" id="cfg-apiKey" placeholder="apiKey">
+        <input class="cfg-input" id="cfg-authDomain" placeholder="authDomain">
+        <input class="cfg-input" id="cfg-projectId" placeholder="projectId">
+        <input class="cfg-input" id="cfg-storageBucket" placeholder="storageBucket">
+        <input class="cfg-input" id="cfg-messagingSenderId" placeholder="messagingSenderId">
+        <input class="cfg-input" id="cfg-appId" placeholder="appId">
+        <button class="btn btn-primary" style="margin-top:8px;" onclick="saveConfig()">Connecter →</button>
+      </div>
+    </div>
+    <div id="fb-result" style="margin-top:12px;"></div>
+  </div>
+</div>
+
+</div>
+
+<script>
+var candidatures=[], prio='haute', db=null, unsub=null;
+
+var FIREBASE_CONFIG={
+  apiKey:"AIzaSyDyySnoo4b8XSe6lkzC3jXSsljTS-WK33U",
+  authDomain:"objectif-montreal.firebaseapp.com",
+  projectId:"objectif-montreal",
+  storageBucket:"objectif-montreal.firebasestorage.app",
+  messagingSenderId:"10317943413",
+  appId:"1:10317943413:web:6ec4dcda10a95ed2e75e3c"
+};
+
+var companies=[
+  {name:'Ubisoft Montréal',type:'Studio gaming AAA',top:true,postes:['CRM Analyst','Market Intelligence','Player Engagement'],url:'https://www.ubisoft.com/en-gb/company/careers'},
+  {name:'EA Montréal',type:'Studio gaming AAA',top:true,postes:['Marketing Analyst','Consumer Insights','Data Analyst'],url:'https://www.ea.com/careers'},
+  {name:'WB Games Montréal',type:'Studio gaming',top:false,postes:['Brand Manager','Market Research'],url:'https://careers.wbd.com'},
+  {name:'Behaviour Interactive',type:'Studio indépendant',top:false,postes:['Marketing Coordinator','CRM Specialist'],url:'https://www.bhvr.com/careers/'},
+  {name:'Gameloft Montréal',type:'Gaming mobile',top:false,postes:['Analyst Marketing','CRM Manager'],url:'https://careers.gameloft.com'},
+  {name:'Keywords Studios',type:'Services gaming',top:false,postes:['Insights Analyst','Market Research'],url:'https://www.keywordsstudios.com/en/careers/'},
+  {name:'Cossette',type:'Agence media & data',top:false,postes:['Analyste data','Stratège CRM'],url:'https://www.cossette.com/fr/carrieres/'},
+  {name:'Moment Factory',type:'Entertainment immersif',top:false,postes:['Coordinateur marketing','Analyste'],url:'https://momentfactory.com/careers'},
+];
+
+var checklist=[
+  'CV adapté au format québécois (1 page, sans photo)',
+  'Lettre de motivation prête en FR et EN',
+  'Profil LinkedIn optimisé avec #OpenToWork',
+  'Certif Salesforce Marketing Cloud finalisée',
+  'Réseau alumni EDHEC à Montréal contacté',
+  'Candidatures envoyées sur careers.ubisoft.com',
+  'Candidatures envoyées sur autres entreprises cibles',
+  'Offre d\'emploi reçue (nécessaire avant PJP)',
+  'Demande PJP soumise sur Canada.ca',
+];
+var clState=JSON.parse(localStorage.getItem('adrien-cl')||'[]');
+if(clState.length!==checklist.length) clState=checklist.map(function(){return false;});
+
+// date
+document.getElementById('f-date').valueAsDate=new Date();
+
+// tabs
+function showTab(id,el){
+  document.querySelectorAll('.panel').forEach(function(p){p.classList.remove('active');});
+  document.querySelectorAll('.tab').forEach(function(t){t.classList.remove('active');});
+  document.getElementById('panel-'+id).classList.add('active');
+  el.classList.add('active');
+}
+window.showTab=showTab;
+
+// prio
+function selPrio(p){
+  prio=p;
+  ['haute','moyenne','basse'].forEach(function(x){
+    var el=document.getElementById('pb-'+x);
+    el.className='prio-btn'+(x===p?' sel-'+x:'');
+  });
+}
+window.selPrio=selPrio;
+
+// badges
+function sBadge(s){
+  var m={envoyée:['b-blue','Envoyée'],relance:['b-amber','À relancer'],entretien:['b-purple','Entretien'],refus:['b-gray','Refus'],offre:['b-green','Offre !']};
+  var v=m[s]||['b-gray',s];
+  return '<span class="badge '+v[0]+'">'+v[1]+'</span>';
+}
+
+// render
+function renderList(){
+  var el=document.getElementById('cand-list');
+  var emp=document.getElementById('empty-state');
+  var cnt=document.getElementById('cand-count');
+  if(!candidatures.length){el.innerHTML='';emp.style.display='block';cnt.textContent='';return;}
+  emp.style.display='none';
+  cnt.textContent=candidatures.length+' candidature'+(candidatures.length>1?'s':'');
+  var sorted=candidatures.slice().sort(function(a,b){var o={haute:0,moyenne:1,basse:2};return (o[a.prio]||1)-(o[b.prio]||1);});
+  el.innerHTML=sorted.map(function(c){
+    return '<div class="cand-card">'+
+      '<div class="cand-top">'+
+        '<div class="pdot pdot-'+(c.prio||'basse')+'"></div>'+
+        '<div class="cand-poste">'+c.poste+'</div>'+
+        sBadge(c.status)+
+        '<button class="del-btn" onclick="delCand(\''+c.id+'\')">×</button>'+
+      '</div>'+
+      '<div class="cand-co-date">'+c.co+(c.date?' · '+c.date:'')+'</div>'+
+      (c.note?'<div class="cand-note">'+c.note+'</div>':'')+
+      '<div class="cand-bottom">'+
+        '<select class="mini-select" onchange="chStatus(\''+c.id+'\',this.value)">'+
+          ['envoyée','relance','entretien','refus','offre'].map(function(s){return '<option value="'+s+'"'+(c.status===s?' selected':'')+'>'+s+'</option>';}).join('')+
+        '</select>'+
+      '</div>'+
+    '</div>';
+  }).join('');
+}
+
+function updateStats(){
+  var n=candidatures.length;
+  document.getElementById('s-total').textContent=n;
+  document.getElementById('s-relance').textContent=candidatures.filter(function(c){return c.status==='relance';}).length;
+  document.getElementById('s-entretien').textContent=candidatures.filter(function(c){return c.status==='entretien'||c.status==='offre';}).length;
+  var rep=candidatures.filter(function(c){return c.status!=='envoyée';}).length;
+  document.getElementById('s-taux').textContent=n?Math.round(rep/n*100)+'%':'—';
+}
+
+// add
+function addCand(){
+  var poste=document.getElementById('f-poste').value.trim();
+  var co=document.getElementById('f-co').value.trim();
+  if(!poste||!co)return;
+  var c={poste:poste,co:co,date:document.getElementById('f-date').value,status:document.getElementById('f-status').value,note:document.getElementById('f-note').value.trim(),prio:prio,ts:Date.now()};
+  document.getElementById('f-poste').value='';
+  document.getElementById('f-co').value='';
+  document.getElementById('f-note').value='';
+  if(db){
+    db.collection('candidatures').add(c).catch(fbErr);
+  } else {
+    c.id=Date.now().toString();
+    candidatures.push(c);
+    savLocal();renderList();updateStats();
+  }
+}
+window.addCand=addCand;
+
+function delCand(id){
+  if(db){db.collection('candidatures').doc(id).delete().catch(fbErr);}
+  else{candidatures=candidatures.filter(function(c){return c.id!==id;});savLocal();renderList();updateStats();}
+}
+window.delCand=delCand;
+
+function chStatus(id,val){
+  if(db){db.collection('candidatures').doc(id).update({status:val}).catch(fbErr);}
+  else{candidatures.forEach(function(c){if(c.id===id)c.status=val;});savLocal();renderList();updateStats();}
+}
+window.chStatus=chStatus;
+
+function savLocal(){localStorage.setItem('adrien-cands',JSON.stringify(candidatures));}
+
+// companies
+function renderCos(){
+  document.getElementById('co-grid').innerHTML=companies.map(function(c){
+    return '<div class="co-card'+(c.top?' top':'')+'">'+
+      (c.top?'<div class="co-top-badge">Priorité haute</div>':'')+
+      '<div class="co-name">'+c.name+'</div>'+
+      '<div class="co-type">'+c.type+'</div>'+
+      '<div class="co-postes">'+c.postes.map(function(p){return '<span class="badge b-gray">'+p+'</span>';}).join('')+'</div>'+
+      '<a href="'+c.url+'" target="_blank" class="co-link">Voir les offres →</a>'+
+    '</div>';
+  }).join('');
+}
+
+// checklist
+function renderCL(){
+  var done=clState.filter(Boolean).length;
+  document.getElementById('checklist-items').innerHTML=checklist.map(function(item,i){
+    return '<div class="check-item">'+
+      '<input type="checkbox"'+(clState[i]?' checked':'')+' onchange="togCL('+i+',this.checked)">'+
+      '<span class="check-label'+(clState[i]?' done':'')+'">'+item+'</span>'+
+    '</div>';
+  }).join('');
+  document.getElementById('prog-fill').style.width=Math.round(done/checklist.length*100)+'%';
+  document.getElementById('prog-text').textContent=done+'/'+checklist.length+' étapes complétées';
+}
+function togCL(i,v){clState[i]=v;localStorage.setItem('adrien-cl',JSON.stringify(clState));renderCL();}
+window.togCL=togCL;
+
+// skill tags
+document.querySelectorAll('.skill-tag').forEach(function(t){t.addEventListener('click',function(){this.classList.toggle('sel');});});
+
+// generate LM
+function genLM(){
+  var poste=document.getElementById('g-poste').value.trim();
+  var co=document.getElementById('g-co').value.trim();
+  var why=document.getElementById('g-why').value.trim();
+  var skills=Array.from(document.querySelectorAll('#skill-tags .skill-tag.sel')).map(function(t){return t.dataset.sk;}).join(', ');
+  if(!poste||!co){alert('Remplis le poste et l\'entreprise.');return;}
+  var prompt='Rédige une lettre de motivation percutante pour Adrien Bouré, diplômé EDHEC Business School (Grande École, France), qui postule au poste de "'+poste+'" chez '+co+' à Montréal via le Programme Jeune Professionnel France-Canada.\n\nProfil :\n- Market Intelligence chez Warner Bros. Discovery (panels GfK/GSD)\n- Content Strategist & CRM chez Studio TF1 (SQL, CRM, briefs data-driven)\n- Bilingue FR/EN (TOEIC 980), trilingue avec l\'espagnol\n- EDHEC Grande École + MSc Marketing · Passionné de gaming\n- Salesforce Marketing Cloud en cours\n\nCompétences : '+skills+'.\n'+(why?'Motivation : '+why+'.':'')+'\n\nFormat : 3 paragraphes, ton dynamique et professionnel, orienté résultats. En français.';
+  navigator.clipboard.writeText(prompt).then(function(){
+    alert('Prompt copié ! Colle-le dans claude.ai.');
+  }).catch(function(){
+    console.log(prompt);
+    alert('Copie le prompt depuis la console (F12).');
+  });
+}
+window.genLM=genLM;
+
+// firebase
+function fbErr(e){
+  console.error(e);
+  var r=document.getElementById('fb-result');
+  if(r)r.innerHTML='<span class="fb-pill fb-err">Erreur : '+e.message+'</span>';
+}
+
+function setSynced(ok){
+  var pill=document.getElementById('sync-pill');
+  var lbl=document.getElementById('sync-label');
+  if(ok){pill.className='sync-pill connected';lbl.textContent='Synchronisé';pill.querySelector('.sync-dot').className='sync-dot pulse';}
+  else{pill.className='sync-pill';lbl.textContent='Local';pill.querySelector('.sync-dot').className='sync-dot';}
+}
+
+function initFb(cfg){
+  try{
+    if(!window.firebase){setTimeout(function(){initFb(cfg);},800);return;}
+    try{firebase.app('js').delete();}catch(e){}
+    var app=firebase.initializeApp(cfg,'js');
+    db=firebase.firestore(app);
+    var r=document.getElementById('fb-result');
+    if(r)r.innerHTML='<span class="fb-pill fb-wait">Connexion...</span>';
+    if(unsub)unsub();
+    unsub=db.collection('candidatures').orderBy('ts').onSnapshot(function(snap){
+      candidatures=[];
+      snap.forEach(function(d){candidatures.push(Object.assign({},d.data(),{id:d.id}));});
+      renderList();updateStats();setSynced(true);
+      if(r)r.innerHTML='<span class="fb-pill fb-ok">Connecté — synchro active</span>';
+    },function(err){fbErr(err);setSynced(false);});
+  }catch(e){fbErr(e);setSynced(false);}
+}
+
+function saveConfig(){
+  var cfg={
+    apiKey:document.getElementById('cfg-apiKey').value.trim(),
+    authDomain:document.getElementById('cfg-authDomain').value.trim(),
+    projectId:document.getElementById('cfg-projectId').value.trim(),
+    storageBucket:document.getElementById('cfg-storageBucket').value.trim(),
+    messagingSenderId:document.getElementById('cfg-messagingSenderId').value.trim(),
+    appId:document.getElementById('cfg-appId').value.trim()
+  };
+  if(!cfg.apiKey||!cfg.projectId){document.getElementById('fb-result').innerHTML='<span class="fb-pill fb-err">Remplis apiKey et projectId</span>';return;}
+  localStorage.setItem('adrien-fbcfg',JSON.stringify(cfg));
+  initFb(cfg);
+}
+window.saveConfig=saveConfig;
+
+// pre-fill setup fields
+Object.keys(FIREBASE_CONFIG).forEach(function(k){var el=document.getElementById('cfg-'+k);if(el)el.value=FIREBASE_CONFIG[k];});
+
+// init
+renderCos();renderCL();
+var savedCands=localStorage.getItem('adrien-cands');
+if(savedCands)try{candidatures=JSON.parse(savedCands);}catch(e){}
+renderList();updateStats();
+setTimeout(function(){initFb(FIREBASE_CONFIG);},600);
+</script>
+</body>
+</html>
