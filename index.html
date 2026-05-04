@@ -9,7 +9,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="Job MTL">
 <title>Job MTL — Adrien Bouré</title>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;1,9..144,300&display=swap" rel="stylesheet">
 <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js"></script>
 <style>
@@ -42,16 +42,28 @@ html{-webkit-font-smoothing:antialiased;}
 body{background:var(--bg);color:var(--text);font-family:var(--sans);font-size:14px;line-height:1.5;min-height:100vh;}
 
 /* NAV */
-nav{background:rgba(245,245,247,0.85);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border-bottom:0.5px solid var(--border);position:sticky;top:0;z-index:100;padding:0 24px;}
-.nav-inner{max-width:860px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;height:52px;}
-.nav-brand{display:flex;flex-direction:column;}
-.nav-title{font-size:13px;font-weight:600;color:var(--text);letter-spacing:-0.01em;}
-.nav-sub{font-size:11px;color:var(--muted);margin-top:1px;}
-.sync-pill{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-weight:500;padding:4px 10px;border-radius:999px;border:0.5px solid var(--border2);color:var(--muted);background:var(--surface);transition:all 0.2s;}
-.sync-pill.connected{color:var(--green);border-color:rgba(52,199,89,0.3);background:var(--green-light);}
-.sync-dot{width:5px;height:5px;border-radius:50%;background:currentColor;}
+nav{background:#0f1923;position:sticky;top:0;z-index:100;overflow:hidden;}
+.nav-inner{max-width:860px;margin:0 auto;padding:0 24px;display:flex;align-items:center;justify-content:space-between;height:72px;position:relative;}
+.nav-bg-text{position:absolute;left:50%;transform:translateX(-50%);font-family:'Fraunces',Georgia,serif;font-size:72px;font-weight:300;font-style:italic;color:rgba(255,255,255,0.04);white-space:nowrap;pointer-events:none;letter-spacing:-2px;top:50%;transform:translate(-50%,-50%);}
+.nav-brand{display:flex;align-items:center;gap:14px;position:relative;z-index:2;}
+.nav-avatar{width:36px;height:36px;border-radius:10px;background:linear-gradient(135deg,#cc0000,#8a0000);display:flex;align-items:center;justify-content:center;font-family:'Fraunces',Georgia,serif;font-size:14px;font-weight:400;color:white;font-style:italic;flex-shrink:0;border:0.5px solid rgba(255,255,255,0.15);}
+.nav-text{display:flex;flex-direction:column;gap:1px;}
+.nav-title{font-family:'Fraunces',Georgia,serif;font-size:16px;font-weight:300;font-style:italic;color:white;letter-spacing:-0.02em;line-height:1.2;}
+.nav-title span{font-style:normal;font-weight:400;color:rgba(255,255,255,0.5);font-size:13px;font-family:'Inter',sans-serif;margin-left:6px;}
+.nav-sub{font-size:10px;color:rgba(255,255,255,0.35);letter-spacing:0.08em;text-transform:uppercase;font-family:'Inter',sans-serif;}
+.nav-right{display:flex;align-items:center;gap:10px;position:relative;z-index:2;}
+.nav-flag{font-size:18px;}
+.sync-pill{display:inline-flex;align-items:center;gap:5px;font-size:10px;font-weight:500;padding:4px 10px;border-radius:999px;border:0.5px solid rgba(255,255,255,0.15);color:rgba(255,255,255,0.4);background:rgba(255,255,255,0.06);transition:all 0.3s;font-family:'Inter',sans-serif;letter-spacing:0.04em;}
+.sync-pill.connected{color:#34c759;border-color:rgba(52,199,89,0.4);background:rgba(52,199,89,0.1);}
+.sync-dot{width:5px;height:5px;border-radius:50%;background:currentColor;flex-shrink:0;}
 .sync-dot.pulse{animation:pulse 2s infinite;}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:0.3}}
+/* TABS */
+.tab-bar{background:#0f1923;border-bottom:none;}
+.tab-inner{max-width:860px;margin:0 auto;display:flex;padding:0 24px;overflow-x:auto;gap:0;border-bottom:0.5px solid rgba(255,255,255,0.08);}
+.tab{font-size:12px;font-weight:400;padding:11px 16px;cursor:pointer;color:rgba(255,255,255,0.35);border:none;background:none;border-bottom:2px solid transparent;margin-bottom:-0.5px;white-space:nowrap;transition:all 0.15s;letter-spacing:0.02em;font-family:'Inter',sans-serif;}
+.tab:hover{color:rgba(255,255,255,0.7);}
+.tab.active{color:white;border-bottom-color:white;font-weight:500;}
 
 /* TABS */
 .tab-bar{background:var(--surface);border-bottom:0.5px solid var(--border);}
@@ -200,13 +212,19 @@ code{font-family:ui-monospace,monospace;font-size:11px;background:var(--surface2
 
 <nav>
   <div class="nav-inner">
+    <div class="nav-bg-text">Montréal</div>
     <div class="nav-brand">
-      <div class="nav-title">Adrien Bouré — Job Search</div>
-      <div class="nav-sub">Montréal · Programme Jeune Professionnel</div>
+      <div class="nav-avatar">AB</div>
+      <div class="nav-text">
+        <div class="nav-title">Adrien Bouré <span>Job Search</span></div>
+        <div class="nav-sub">Montréal &nbsp;·&nbsp; PJP &nbsp;·&nbsp; Entertainment & Gaming</div>
+      </div>
     </div>
-    <div class="sync-pill" id="sync-pill">
-      <div class="sync-dot"></div>
-      <span id="sync-label">Local</span>
+    <div class="nav-right">
+      <div class="sync-pill" id="sync-pill">
+        <div class="sync-dot"></div>
+        <span id="sync-label">Local</span>
+      </div>
     </div>
   </div>
 </nav>
