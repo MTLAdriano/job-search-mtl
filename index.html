@@ -504,6 +504,24 @@ textarea{resize:vertical;min-height:60px;line-height:1.5;}
   </div>
   <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px;">
     <input type="text" id="jsrch" placeholder="Rechercher..." style="flex:1;min-width:140px;font-size:12px;padding:7px 11px;" oninput="filterJobs()">
+    <select id="jloc" style="font-size:12px;padding:7px 11px;width:auto;" onchange="filterJobs()">
+      <option value="">Toutes les villes</option>
+      <option value="montreal" selected>Montreal</option>
+      <option value="new york">New York</option>
+      <option value="toronto">Toronto</option>
+      <option value="paris">Paris</option>
+    </select>
+    <select id="jsrc" style="font-size:12px;padding:7px 11px;width:auto;" onchange="filterJobs()">
+      <option value="">Toutes les sources</option>
+      <option value="Ubisoft">Ubisoft</option>
+      <option value="Behaviour Interactive">Behaviour</option>
+      <option value="EA">EA</option>
+      <option value="Gameloft Montreal">Gameloft</option>
+      <option value="Cirque du Soleil">Cirque du Soleil</option>
+      <option value="Rodeo FX">Rodeo FX</option>
+      <option value="Sid Lee">Sid Lee</option>
+      <option value="Business France VIE">VIE</option>
+    </select>
     <select id="jsrt" style="font-size:12px;padding:7px 11px;width:auto;" onchange="filterJobs()">
       <option value="date">Plus recentes</option>
       <option value="salary">Salaire</option>
@@ -829,8 +847,15 @@ function loadJobs(){
 
 function filterJobs(){
   var s=(document.getElementById('jsrch').value||'').toLowerCase();
+  var loc=(document.getElementById('jloc').value||'').toLowerCase();
+  var src=(document.getElementById('jsrc').value||'').toLowerCase();
   var sort=document.getElementById('jsrt').value;
-  filtjobs=alljobs.filter(function(j){return !s||(j.title||'').toLowerCase().includes(s)||(j.company||'').toLowerCase().includes(s);});
+  filtjobs=alljobs.filter(function(j){
+    var matchS=!s||(j.title||'').toLowerCase().includes(s)||(j.company||'').toLowerCase().includes(s);
+    var matchL=!loc||(j.location||'').toLowerCase().includes(loc);
+    var matchSrc=!src||(j.source||'').toLowerCase().includes(src)||(j.company||'').toLowerCase().includes(src);
+    return matchS && matchL && matchSrc;
+  });
   filtjobs.sort(function(a,b){
     if(sort==='salary')return(b.salary_min||0)-(a.salary_min||0);
     if(sort==='company')return(a.company||'').localeCompare(b.company||'');
