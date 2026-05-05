@@ -256,6 +256,30 @@ select{cursor:pointer;}
 .empty-icon{font-size:36px;margin-bottom:10px;opacity:0.3;}
 .empty-text{font-size:13px;}
 
+/* JOB CARDS */
+.job-card{background:var(--surface);border:0.5px solid var(--border);border-radius:var(--r);padding:16px;margin-bottom:8px;cursor:pointer;transition:all 0.15s;}
+.job-card:hover{box-shadow:0 4px 16px rgba(0,0,0,0.08);border-color:var(--border2);transform:translateY(-1px);}
+.job-card-top{display:flex;align-items:flex-start;gap:12px;margin-bottom:8px;}
+.job-logo{width:42px;height:42px;border-radius:10px;background:var(--accent-light);display:flex;align-items:center;justify-content:center;font-size:18px;flex-shrink:0;}
+.job-title{font-size:14px;font-weight:600;color:var(--text);margin-bottom:2px;line-height:1.3;}
+.job-company{font-size:12px;font-weight:500;color:var(--accent);}
+.job-meta{display:flex;gap:8px;flex-wrap:wrap;margin-top:6px;}
+.job-meta-item{font-size:11px;color:var(--muted);display:flex;align-items:center;gap:3px;}
+.job-desc-preview{font-size:12px;color:var(--muted);line-height:1.5;margin-top:8px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
+.job-footer{display:flex;align-items:center;justify-content:space-between;margin-top:10px;padding-top:10px;border-top:0.5px solid var(--border);}
+.job-date{font-size:11px;color:var(--muted2);}
+.job-salary{font-size:12px;font-weight:500;color:var(--green);}
+
+/* JOB MODAL */
+.jm-header{display:flex;align-items:flex-start;gap:14px;margin-bottom:20px;}
+.jm-logo{width:54px;height:54px;border-radius:14px;background:var(--accent-light);display:flex;align-items:center;justify-content:center;font-size:24px;flex-shrink:0;}
+.jm-title{font-size:18px;font-weight:600;color:var(--text);margin-bottom:4px;line-height:1.2;}
+.jm-company{font-size:14px;font-weight:500;color:var(--accent);}
+.jm-meta{display:flex;gap:10px;flex-wrap:wrap;margin:12px 0;padding:12px;background:var(--surface2);border-radius:var(--rsm);}
+.jm-meta-item{font-size:12px;color:var(--muted);display:flex;align-items:center;gap:4px;}
+.jm-desc{font-size:13px;color:var(--text);line-height:1.7;white-space:pre-wrap;margin-bottom:20px;}
+.jm-actions{display:flex;gap:8px;}
+
 @media(max-width:600px){
   .dash-kpis{grid-template-columns:1fr 1fr;}
   .dash-row{grid-template-columns:1fr;}
@@ -282,7 +306,7 @@ select{cursor:pointer;}
     <button class="d-item active" id="di-dashboard" onclick="goTo('dashboard')"><span class="d-item-icon">⚡</span>Dashboard</button>
     <button class="d-item" id="di-tracker" onclick="goTo('tracker')"><span class="d-item-icon">📋</span>Candidatures</button>
     <button class="d-item" id="di-contacts" onclick="goTo('contacts')"><span class="d-item-icon">👥</span>Contacts LinkedIn</button>
-    <button class="d-item" id="di-entreprises" onclick="goTo('entreprises')"><span class="d-item-icon">🏢</span>Entreprises</button>
+    <button class="d-item" id="di-entreprises" onclick="goTo('entreprises')"><span class="d-item-icon">💼</span>Offres d'emploi</button>
     <button class="d-item" id="di-lm" onclick="goTo('lm')"><span class="d-item-icon">✉️</span>Lettre de motivation</button>
     <button class="d-item" id="di-pjp" onclick="goTo('pjp')"><span class="d-item-icon">🇨🇦</span>Stratégie PJP</button>
     <div class="d-section-label" style="margin-top:8px;">Actions</div>
@@ -449,10 +473,42 @@ select{cursor:pointer;}
   <div id="empty-contacts" class="empty"><div class="empty-icon">👥</div><div class="empty-text">Aucun contact — utilise le menu pour en ajouter un !</div></div>
 </div>
 
-<!-- ENTREPRISES -->
+<!-- OFFRES -->
 <div id="panel-entreprises" class="panel">
-  <div class="section-hd"><div class="section-title">Entreprises cibles</div><div class="section-count">8 boîtes</div></div>
-  <div class="co-grid" id="co-grid"></div>
+  <div class="section-hd">
+    <div class="section-title">Offres d'emploi</div>
+    <div style="display:flex;gap:8px;align-items:center;">
+      <div style="font-size:11px;color:var(--muted);" id="jobs-updated"></div>
+      <button class="btn" style="font-size:11px;padding:5px 12px;" onclick="loadJobs()">↻ Actualiser</button>
+    </div>
+  </div>
+
+  <!-- FILTRES -->
+  <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px;">
+    <input type="text" id="jobs-search" placeholder="Rechercher..." style="flex:1;min-width:140px;font-size:12px;padding:7px 11px;" oninput="filterJobs()">
+    <select id="jobs-filter-co" style="font-size:12px;padding:7px 11px;width:auto;" onchange="filterJobs()">
+      <option value="">Toutes les boîtes</option>
+      <option value="ubisoft">Ubisoft</option>
+      <option value="ea">EA</option>
+      <option value="gameloft">Gameloft</option>
+      <option value="behaviour">Behaviour</option>
+      <option value="warner">Warner</option>
+    </select>
+    <select id="jobs-filter-sort" style="font-size:12px;padding:7px 11px;width:auto;" onchange="filterJobs()">
+      <option value="date">Plus récentes</option>
+      <option value="salary">Salaire</option>
+      <option value="company">Entreprise</option>
+    </select>
+  </div>
+
+  <div id="jobs-list"></div>
+  <div id="jobs-empty" class="empty" style="display:none;"><div class="empty-icon">🔍</div><div class="empty-text">Aucune offre trouvée</div></div>
+  <div id="jobs-loading" style="text-align:center;padding:40px;color:var(--muted);font-size:13px;">Chargement des offres...</div>
+</div>
+
+<!-- MODAL OFFRE -->
+<div class="modal-overlay" id="modal-job" onclick="closeJobModal(event)" style="align-items:center;">
+  <div class="modal" style="border-radius:20px;max-height:85vh;overflow-y:auto;padding-bottom:24px;" id="modal-job-content"></div>
 </div>
 
 <!-- LM -->
@@ -714,6 +770,159 @@ function delContact(id){if(db){db.collection('contacts').doc(id).delete().catch(
 window.delContact=delContact;
 function savLocalC(){localStorage.setItem('adrien-contacts',JSON.stringify(contacts));}
 
+// JOBS
+var allJobs = [], filteredJobs = [];
+
+var companyEmojis = {
+  'ubisoft': '🎮', 'ea': '🎯', 'gameloft': '📱', 'behaviour': '🕹️',
+  'warner': '🎬', 'warnermedia': '🎬', 'wb': '🎬', 'cossette': '📊',
+  'moment factory': '✨', 'keywords': '🔧', 'default': '🏢'
+};
+
+function getEmoji(company) {
+  if (!company) return '🏢';
+  var c = company.toLowerCase();
+  for (var k in companyEmojis) {
+    if (c.includes(k)) return companyEmojis[k];
+  }
+  return '🏢';
+}
+
+function formatDate(dateStr) {
+  if (!dateStr) return '';
+  var d = new Date(dateStr);
+  var diff = Math.floor((Date.now() - d) / 86400000);
+  if (diff === 0) return "Aujourd'hui";
+  if (diff === 1) return "Hier";
+  if (diff < 7) return "Il y a " + diff + " jours";
+  if (diff < 30) return "Il y a " + Math.floor(diff/7) + " sem.";
+  return d.toLocaleDateString('fr-FR', {day:'numeric',month:'short'});
+}
+
+function formatSalary(min, max) {
+  if (!min && !max) return null;
+  var fmt = function(n) { return Math.round(n/1000) + 'k$'; };
+  if (min && max) return fmt(min) + ' – ' + fmt(max) + ' CAD';
+  if (min) return 'À partir de ' + fmt(min) + ' CAD';
+  return 'Jusqu'à ' + fmt(max) + ' CAD';
+}
+
+function loadJobs() {
+  document.getElementById('jobs-loading').style.display = 'block';
+  document.getElementById('jobs-list').innerHTML = '';
+  document.getElementById('jobs-empty').style.display = 'none';
+  
+  var cacheBust = '?v=' + Date.now();
+  fetch('data/jobs.json' + cacheBust)
+    .then(function(r) {
+      if (!r.ok) throw new Error('Fichier non trouvé');
+      return r.json();
+    })
+    .then(function(data) {
+      allJobs = data.jobs || [];
+      var upd = document.getElementById('jobs-updated');
+      if (upd && data.updated) {
+        upd.textContent = 'Mis à jour ' + formatDate(data.updated);
+      }
+      document.getElementById('jobs-loading').style.display = 'none';
+      filterJobs();
+    })
+    .catch(function(e) {
+      document.getElementById('jobs-loading').innerHTML = '<div style="text-align:center;padding:40px 20px;"><div style="font-size:32px;margin-bottom:12px;">⚙️</div><div style="font-size:14px;font-weight:500;color:var(--text);margin-bottom:8px;">GitHub Actions pas encore configuré</div><div style="font-size:12px;color:var(--muted);line-height:1.6;">Upload <strong>fetch_jobs.py</strong> et le dossier <strong>.github/workflows</strong> dans ton repo GitHub pour activer le fetch automatique des offres.</div></div>';
+    });
+}
+
+function filterJobs() {
+  var search = (document.getElementById('jobs-search').value || '').toLowerCase();
+  var co = (document.getElementById('jobs-filter-co').value || '').toLowerCase();
+  var sort = document.getElementById('jobs-filter-sort').value;
+  
+  filteredJobs = allJobs.filter(function(j) {
+    var matchSearch = !search || 
+      (j.title||'').toLowerCase().includes(search) || 
+      (j.company||'').toLowerCase().includes(search) ||
+      (j.description||'').toLowerCase().includes(search);
+    var matchCo = !co || (j.company||'').toLowerCase().includes(co);
+    return matchSearch && matchCo;
+  });
+
+  filteredJobs.sort(function(a, b) {
+    if (sort === 'salary') return (b.salary_min||0) - (a.salary_min||0);
+    if (sort === 'company') return (a.company||'').localeCompare(b.company||'');
+    return new Date(b.created||0) - new Date(a.created||0);
+  });
+
+  renderJobs();
+}
+
+function renderJobs() {
+  var el = document.getElementById('jobs-list');
+  var emp = document.getElementById('jobs-empty');
+  if (!filteredJobs.length) { el.innerHTML = ''; emp.style.display = 'block'; return; }
+  emp.style.display = 'none';
+  el.innerHTML = filteredJobs.map(function(j, i) {
+    var salary = formatSalary(j.salary_min, j.salary_max);
+    return '<div class="job-card" onclick="openJob(' + i + ')">' +
+      '<div class="job-card-top">' +
+        '<div class="job-logo">' + getEmoji(j.company) + '</div>' +
+        '<div style="flex:1;min-width:0;">' +
+          '<div class="job-title">' + (j.title||'') + '</div>' +
+          '<div class="job-company">' + (j.company||'') + '</div>' +
+        '</div>' +
+      '</div>' +
+      '<div class="job-meta">' +
+        (j.location ? '<span class="job-meta-item">📍 ' + j.location + '</span>' : '') +
+        (j.category ? '<span class="job-meta-item">🏷 ' + j.category + '</span>' : '') +
+        (salary ? '<span class="job-meta-item" style="color:var(--green);font-weight:500;">💰 ' + salary + '</span>' : '') +
+      '</div>' +
+      '<div class="job-desc-preview">' + (j.description||'').replace(/<[^>]*>/g,'').substring(0, 150) + '…</div>' +
+      '<div class="job-footer">' +
+        '<span class="job-date">' + formatDate(j.created) + '</span>' +
+        '<span class="badge b-blue" style="font-size:10px;">Voir l'offre →</span>' +
+      '</div>' +
+    '</div>';
+  }).join('');
+}
+
+function openJob(i) {
+  var j = filteredJobs[i];
+  if (!j) return;
+  var salary = formatSalary(j.salary_min, j.salary_max);
+  var desc = (j.description||'').replace(/<[^>]*>/g,'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>');
+  document.getElementById('modal-job-content').innerHTML = 
+    '<div class="modal-handle"></div>' +
+    '<div class="jm-header">' +
+      '<div class="jm-logo">' + getEmoji(j.company) + '</div>' +
+      '<div><div class="jm-title">' + (j.title||'') + '</div><div class="jm-company">' + (j.company||'') + '</div></div>' +
+    '</div>' +
+    '<div class="jm-meta">' +
+      (j.location ? '<span class="jm-meta-item">📍 ' + j.location + '</span>' : '') +
+      '<span class="jm-meta-item">📅 ' + formatDate(j.created) + '</span>' +
+      (salary ? '<span class="jm-meta-item" style="color:var(--green);font-weight:500;">💰 ' + salary + '</span>' : '') +
+      (j.category ? '<span class="jm-meta-item">🏷 ' + j.category + '</span>' : '') +
+    '</div>' +
+    '<div class="jm-desc">' + desc + '</div>' +
+    '<div class="jm-actions">' +
+      '<button class="btn" onclick="closeJobModalBtn()" style="flex:1;">Fermer</button>' +
+      '<button class="btn btn-primary" onclick="addJobToTracker('' + (j.title||'').replace(/'/g,"\'") + '','' + (j.company||'').replace(/'/g,"\'") + '')" style="flex:1;">+ Ajouter au tracker</button>' +
+      (j.url ? '<a href="' + j.url + '" target="_blank" class="btn btn-primary" style="flex:1;text-align:center;text-decoration:none;">Postuler →</a>' : '') +
+    '</div>';
+  document.getElementById('modal-job').classList.add('open');
+}
+
+function closeJobModal(e) { if(e.target===document.getElementById('modal-job')) document.getElementById('modal-job').classList.remove('open'); }
+function closeJobModalBtn() { document.getElementById('modal-job').classList.remove('open'); }
+window.closeJobModal=closeJobModal;window.closeJobModalBtn=closeJobModalBtn;window.openJob=openJob;window.loadJobs=loadJobs;window.filterJobs=filterJobs;
+
+function addJobToTracker(title, company) {
+  var c = {poste:title, co:company, date:new Date().toISOString().split('T')[0], status:'envoyée', note:'', prio:'haute', ts:Date.now()};
+  if(db){db.collection('candidatures').add(c).catch(fbErr);}
+  else{c.id=Date.now().toString();candidatures.push(c);savLocal();renderList();updateStats();}
+  document.getElementById('modal-job').classList.remove('open');
+  goTo('tracker');
+}
+window.addJobToTracker=addJobToTracker;
+
 // COMPANIES
 function renderCos(){
   document.getElementById('co-grid').innerHTML=companies.map(function(c){
@@ -791,7 +1000,7 @@ Object.keys(FB).forEach(function(k){var el=document.getElementById('cfg-'+k);if(
 renderCos();renderCL();
 var saved=localStorage.getItem('adrien-cands');if(saved)try{candidatures=JSON.parse(saved);}catch(e){}
 var savedC=localStorage.getItem('adrien-contacts');if(savedC)try{contacts=JSON.parse(savedC);}catch(e){}
-renderList();renderContacts();updateStats();renderDashboard();
+renderList();renderContacts();updateStats();renderDashboard();loadJobs();
 setTimeout(function(){initFb(FB);},600);
 </script>
 </body>
