@@ -11,11 +11,14 @@ if not APP_ID or not APP_KEY:
     exit(1)
 
 SEARCHES = [
-    {"what": "CRM analyst marketing", "where": "Montreal"},
-    {"what": "market intelligence data analyst", "where": "Montreal"},
-    {"what": "player engagement gaming marketing", "where": "Montreal"},
-    {"what": "marketing analyst entertainment gaming", "where": "Montreal"},
-    {"what": "data analyst entertainment media", "where": "Montreal"},
+    {"what": "marketing analyst", "where": "Montreal"},
+    {"what": "CRM marketing", "where": "Montreal"},
+    {"what": "data analyst marketing", "where": "Montreal"},
+    {"what": "market research analyst", "where": "Montreal"},
+    {"what": "digital marketing", "where": "Montreal"},
+    {"what": "gaming marketing", "where": "Canada"},
+    {"what": "marketing coordinator", "where": "Montreal"},
+    {"what": "business analyst marketing", "where": "Montreal"},
 ]
 
 def fetch_jobs(what, where):
@@ -23,17 +26,21 @@ def fetch_jobs(what, where):
     params = {
         "app_id": APP_ID,
         "app_key": APP_KEY,
-        "results_per_page": 10,
+        "results_per_page": 8,
         "what": what,
         "where": where,
         "sort_by": "date",
+        "distance": 30,
     }
     try:
-        r = requests.get(url, params=params, timeout=10)
+        r = requests.get(url, params=params, timeout=15)
         r.raise_for_status()
-        return r.json().get("results", [])
+        data = r.json()
+        results = data.get("results", [])
+        print(f"  '{what}' in {where}: {len(results)} results")
+        return results
     except Exception as e:
-        print(f"Error fetching '{what}': {e}")
+        print(f"  Error '{what}': {e}")
         return []
 
 all_jobs = []
@@ -58,6 +65,8 @@ for search in SEARCHES:
                 "category": job.get("category", {}).get("label", ""),
             })
 
+print(f"Total: {len(all_jobs)} unique jobs")
+
 output = {
     "updated": datetime.utcnow().isoformat() + "Z",
     "count": len(all_jobs),
@@ -68,4 +77,4 @@ os.makedirs("data", exist_ok=True)
 with open("data/jobs.json", "w", encoding="utf-8") as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
 
-print(f"✅ Saved {len(all_jobs)} jobs to data/jobs.json")
+print(f"Saved to data/jobs.json")
