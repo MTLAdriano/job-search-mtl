@@ -833,7 +833,7 @@ function renderContactsList(list) {
 }
 
 function toggleContact(id){var b=document.getElementById('cb-'+id);if(b)b.classList.toggle('open');}
-window.toggleContact=toggleContact;
+window.toggleContact=toggleContact;window.renderContactsList=renderContactsList;window.filterContacts=filterContacts;
 
 function updateContactStatus(id,val){
   if(db){db.collection('contacts').doc(id).update({status:val}).catch(fbErr);}
