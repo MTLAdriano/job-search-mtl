@@ -246,8 +246,8 @@ textarea{resize:vertical;min-height:60px;line-height:1.5;}
 .gs-frac{font-size:15px;font-weight:700;color:#fff;letter-spacing:-.02em;line-height:1.2;}
 .gs-frac.done{color:#4ade80;}
 .gs-frac.almost{color:#fbbf24;}
-.gs-segs{display:grid;grid-template-columns:repeat(5,1fr);gap:3px;margin-bottom:4px;min-height:6px;}
-.gs-seg{height:6px;border-radius:999px;background:rgba(255,255,255,.07);transition:all .4s ease;}
+.gs-segs{display:flex;gap:3px;margin-bottom:6px;height:8px;}
+.gs-seg{flex:1;height:8px;border-radius:999px;background:rgba(255,255,255,.12);transition:all .4s ease;}
 .gs-seg.fb{background:linear-gradient(90deg,#60a5fa,#3b82f6);box-shadow:0 0 5px rgba(96,165,250,.35);}
 .gs-seg.fp{background:linear-gradient(90deg,#c084fc,#a855f7);box-shadow:0 0 5px rgba(192,132,252,.35);}
 .gs-seg.fg{background:linear-gradient(90deg,#4ade80,#22c55e);box-shadow:0 0 5px rgba(74,222,128,.35);}
@@ -911,8 +911,7 @@ function getWeekLabel() {
 function renderSegs(containerId, done, target, colorClass) {
   var el = document.getElementById(containerId);
   if (!el) return;
-  var cols = Math.min(target, 10);
-  el.style.gridTemplateColumns = 'repeat('+cols+', 1fr)';
+  el.style.display = 'flex';
   var html = '';
   for (var i = 0; i < target; i++) {
     var filled = i < done;
