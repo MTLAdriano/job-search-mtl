@@ -223,6 +223,38 @@ textarea{resize:vertical;min-height:60px;line-height:1.5;}
 .mh2{width:36px;height:4px;background:var(--bdr2);border-radius:2px;margin:0 auto 20px;}
 .mtl{font-size:16px;font-weight:600;color:var(--txt);margin-bottom:18px;}
 .empty{text-align:center;padding:48px 20px;color:var(--mut);}
+/* DASH LAYOUT */
+.dash-layout{display:grid;grid-template-columns:1fr 200px;gap:16px;align-items:start;}
+.dash-main{min-width:0;}
+/* SIDEBAR GOALS */
+.goals-side{background:var(--dark);border-radius:20px;padding:18px;position:sticky;top:76px;}
+.gs-header{margin-bottom:14px;}
+.gs-title{font-size:11px;font-weight:700;color:rgba(255,255,255,.4);letter-spacing:.1em;text-transform:uppercase;}
+.gs-week{font-size:10px;color:rgba(255,255,255,.18);margin-top:2px;}
+.streak-block{background:rgba(251,146,60,.1);border:.5px solid rgba(251,146,60,.25);border-radius:12px;padding:12px;text-align:center;margin-bottom:14px;}
+.streak-top{display:flex;align-items:center;justify-content:center;gap:6px;}
+.streak-fire{font-size:20px;}
+.streak-num{font-size:28px;font-weight:700;color:#fb923c;letter-spacing:-.03em;line-height:1;}
+.streak-lbl{font-size:10px;color:rgba(251,146,60,.6);margin-top:3px;letter-spacing:.04em;}
+.gs-divider{height:.5px;background:rgba(255,255,255,.06);margin-bottom:14px;}
+.gs-goal{margin-bottom:16px;}
+.gs-goal:last-child{margin-bottom:0;}
+.gs-goal-top{display:flex;align-items:center;gap:8px;margin-bottom:8px;}
+.gs-ico{font-size:16px;flex-shrink:0;}
+.gs-info{flex:1;min-width:0;}
+.gs-name{font-size:11px;color:rgba(255,255,255,.5);font-weight:400;}
+.gs-frac{font-size:15px;font-weight:700;color:#fff;letter-spacing:-.02em;line-height:1.2;}
+.gs-frac.done{color:#4ade80;}
+.gs-frac.almost{color:#fbbf24;}
+.gs-segs{display:grid;gap:3px;margin-bottom:4px;}
+.gs-seg{height:6px;border-radius:999px;background:rgba(255,255,255,.07);transition:all .4s ease;}
+.gs-seg.fb{background:linear-gradient(90deg,#60a5fa,#3b82f6);box-shadow:0 0 5px rgba(96,165,250,.35);}
+.gs-seg.fp{background:linear-gradient(90deg,#c084fc,#a855f7);box-shadow:0 0 5px rgba(192,132,252,.35);}
+.gs-seg.fg{background:linear-gradient(90deg,#4ade80,#22c55e);box-shadow:0 0 5px rgba(74,222,128,.35);}
+.gs-pct{font-size:10px;color:rgba(255,255,255,.25);text-align:right;}
+.goal-edit{background:none;border:none;cursor:pointer;font-size:11px;color:rgba(255,255,255,.2);padding:2px 4px;border-radius:3px;font-family:var(--sans);flex-shrink:0;}
+.goal-edit:hover{color:rgba(255,255,255,.5);}
+@media(max-width:700px){.dash-layout{grid-template-columns:1fr;}.goals-side{position:static;}}
 /* GOALS */
 .goals{background:var(--dark);border-radius:20px;padding:22px;margin-bottom:16px;position:relative;overflow:hidden;}
 .goals::before{content:'';position:absolute;top:-40px;right:-40px;width:180px;height:180px;background:radial-gradient(circle,rgba(99,102,241,.15) 0%,transparent 70%);pointer-events:none;}
@@ -879,10 +911,12 @@ function getWeekLabel() {
 function renderSegs(containerId, done, target, colorClass) {
   var el = document.getElementById(containerId);
   if (!el) return;
+  var cols = Math.min(target, 10);
+  el.style.gridTemplateColumns = 'repeat('+cols+', 1fr)';
   var html = '';
   for (var i = 0; i < target; i++) {
     var filled = i < done;
-    var cls = filled ? (done >= target ? 'goal-seg filled-green' : 'goal-seg '+colorClass) : 'goal-seg';
+    var cls = filled ? (done >= target ? 'gs-seg fg' : 'gs-seg '+colorClass) : 'gs-seg';
     html += '<div class="'+cls+'"></div>';
   }
   el.innerHTML = html;
@@ -942,13 +976,13 @@ function renderGoals() {
   var cp = document.getElementById('g-cand-pct');
   var mp = document.getElementById('g-msg-pct');
 
-  if (cf) { cf.textContent = candThisWeek+'/'+ct; cf.className = 'goal-frac'+(candThisWeek>=ct?' done':candThisWeek>=ct*0.7?' almost':''); }
-  if (mf) { mf.textContent = msgThisWeek+'/'+mt; mf.className = 'goal-frac'+(msgThisWeek>=mt?' done':msgThisWeek>=mt*0.7?' almost':''); }
+  if (cf) { cf.textContent = candThisWeek+'/'+ct; cf.className = 'gs-frac'+(candThisWeek>=ct?' done':candThisWeek>=ct*0.7?' almost':''); }
+  if (mf) { mf.textContent = msgThisWeek+'/'+mt; mf.className = 'gs-frac'+(msgThisWeek>=mt?' done':msgThisWeek>=mt*0.7?' almost':''); }
   if (cp) cp.textContent = cpct+'%';
   if (mp) mp.textContent = mpct+'%';
 
-  renderSegs('g-cand-segs', candThisWeek, ct, 'filled-blue');
-  renderSegs('g-msg-segs', msgThisWeek, mt, 'filled-purple');
+  renderSegs('g-cand-segs', candThisWeek, ct, 'fb');
+  renderSegs('g-msg-segs', msgThisWeek, mt, 'fp');
 
   var hasActivity = candThisWeek > 0 || msgThisWeek > 0;
   updateStreak(hasActivity);
