@@ -1,7 +1,33 @@
 {
-  "updated": "2026-05-05T19:43:12.912135Z",
-  "count": 221,
+  "updated": "2026-05-05T20:15:49.949950Z",
+  "count": 223,
   "jobs": [
+    {
+      "id": "sr-744000124739434",
+      "title": "Coordonnateur.trice de production VFX Senior- Expression d'intêret",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000124739434",
+      "created": "2026-05-05T20:11:28.720Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000124739039",
+      "title": "Senior VFX Production Coordinator - Expression of interest",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000124739039",
+      "created": "2026-05-05T20:07:42.678Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000124725878",
       "title": "Artistes d’animation - Contrat temporaire",
