@@ -224,21 +224,39 @@ textarea{resize:vertical;min-height:60px;line-height:1.5;}
 .mtl{font-size:16px;font-weight:600;color:var(--txt);margin-bottom:18px;}
 .empty{text-align:center;padding:48px 20px;color:var(--mut);}
 /* GOALS */
-.goals{background:var(--dark);border-radius:20px;padding:20px;margin-bottom:16px;}
-.goals-title{font-size:12px;font-weight:600;color:rgba(255,255,255,.35);letter-spacing:.08em;text-transform:uppercase;margin-bottom:14px;display:flex;align-items:center;justify-content:space-between;}
+.goals{background:var(--dark);border-radius:20px;padding:22px;margin-bottom:16px;position:relative;overflow:hidden;}
+.goals::before{content:'';position:absolute;top:-40px;right:-40px;width:180px;height:180px;background:radial-gradient(circle,rgba(99,102,241,.15) 0%,transparent 70%);pointer-events:none;}
+.goals-hd{display:flex;align-items:center;justify-content:space-between;margin-bottom:18px;}
+.goals-title{font-size:11px;font-weight:600;color:rgba(255,255,255,.35);letter-spacing:.1em;text-transform:uppercase;}
 .goals-week{font-size:10px;color:rgba(255,255,255,.2);}
-.goal-item{margin-bottom:14px;}
+
+/* STREAK */
+.streak-pill{display:inline-flex;align-items:center;gap:6px;background:rgba(251,146,60,.12);border:.5px solid rgba(251,146,60,.3);border-radius:999px;padding:5px 12px;}
+.streak-fire{font-size:14px;}
+.streak-num{font-size:14px;font-weight:700;color:#fb923c;}
+.streak-lbl{font-size:10px;color:rgba(251,146,60,.7);letter-spacing:.04em;}
+
+/* GOAL ITEMS */
+.goal-item{margin-bottom:16px;}
 .goal-item:last-child{margin-bottom:0;}
-.goal-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:6px;}
-.goal-label{font-size:13px;color:rgba(255,255,255,.8);font-weight:400;}
-.goal-count{font-size:13px;font-weight:600;color:#fff;}
-.goal-bar{height:6px;background:rgba(255,255,255,.08);border-radius:3px;overflow:hidden;}
-.goal-fill{height:100%;border-radius:3px;transition:width .5s ease;}
-.gf-blue{background:linear-gradient(90deg,#60a5fa,#3b82f6);}
-.gf-purple{background:linear-gradient(90deg,#c084fc,#a855f7);}
-.goal-done{color:#4ade80 !important;}
-.goal-edit{background:none;border:none;cursor:pointer;font-size:10px;color:rgba(255,255,255,.25);padding:2px 6px;border-radius:4px;font-family:var(--sans);}
-.goal-edit:hover{color:rgba(255,255,255,.6);background:rgba(255,255,255,.06);}
+.goal-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px;}
+.goal-ico-label{display:flex;align-items:center;gap:8px;}
+.goal-ico{font-size:18px;}
+.goal-name{font-size:13px;color:rgba(255,255,255,.75);font-weight:400;}
+.goal-right{display:flex;align-items:center;gap:8px;}
+.goal-frac{font-size:13px;font-weight:700;color:#fff;letter-spacing:-.01em;}
+.goal-frac.done{color:#4ade80;}
+.goal-frac.almost{color:#fbbf24;}
+.goal-pct{font-size:10px;color:rgba(255,255,255,.3);}
+.goal-edit{background:none;border:none;cursor:pointer;font-size:10px;color:rgba(255,255,255,.2);padding:2px 5px;border-radius:3px;font-family:var(--sans);}
+.goal-edit:hover{color:rgba(255,255,255,.5);}
+.goal-track{display:flex;gap:4px;align-items:center;}
+.goal-seg{flex:1;height:8px;border-radius:999px;background:rgba(255,255,255,.07);transition:all .4s ease;position:relative;overflow:hidden;}
+.goal-seg.filled-blue{background:linear-gradient(90deg,#60a5fa,#3b82f6);box-shadow:0 0 6px rgba(96,165,250,.4);}
+.goal-seg.filled-purple{background:linear-gradient(90deg,#c084fc,#a855f7);box-shadow:0 0 6px rgba(192,132,252,.4);}
+.goal-seg.filled-green{background:linear-gradient(90deg,#4ade80,#22c55e);box-shadow:0 0 6px rgba(74,222,128,.4);}
+.goal-celebrate{font-size:16px;animation:pop .4s ease;}
+@keyframes pop{0%{transform:scale(0)}60%{transform:scale(1.3)}100%{transform:scale(1)}}
 .eico{font-size:36px;margin-bottom:10px;opacity:.3;}
 .etxt{font-size:13px;}
 @media(max-width:600px){.kpis,.drow,.fr,.cogr{grid-template-columns:1fr 1fr;}.main{padding:16px;}.ni{padding:0 16px;}}
@@ -365,29 +383,44 @@ textarea{resize:vertical;min-height:60px;line-height:1.5;}
     </div>
   </div>
   <div class="goals">
-    <div class="goals-title">
-      Objectifs de la semaine
-      <span class="goals-week" id="goals-week"></span>
+    <div class="goals-hd">
+      <div>
+        <div class="goals-title">Objectifs de la semaine</div>
+        <div class="goals-week" id="goals-week"></div>
+      </div>
+      <div class="streak-pill" id="streak-pill">
+        <span class="streak-fire">🔥</span>
+        <span class="streak-num" id="streak-num">0</span>
+        <span class="streak-lbl">jours</span>
+      </div>
     </div>
-    <div class="goal-item">
-      <div class="goal-header">
-        <span class="goal-label">📋 Candidatures envoyees</span>
-        <div style="display:flex;align-items:center;gap:8px;">
-          <span class="goal-count" id="g-cand-count">0 / <span id="g-cand-target">5</span></span>
-          <button class="goal-edit" onclick="editGoal('cand')">modifier</button>
+    <div class="goal-item" id="g-cand-item">
+      <div class="goal-top">
+        <div class="goal-ico-label">
+          <span class="goal-ico">📋</span>
+          <span class="goal-name">Candidatures</span>
+        </div>
+        <div class="goal-right">
+          <span class="goal-frac" id="g-cand-frac">0/5</span>
+          <span class="goal-pct" id="g-cand-pct">0%</span>
+          <button class="goal-edit" onclick="editGoal('cand')">✎</button>
         </div>
       </div>
-      <div class="goal-bar"><div class="goal-fill gf-blue" id="g-cand-bar" style="width:0%"></div></div>
+      <div class="goal-track" id="g-cand-segs"></div>
     </div>
-    <div class="goal-item">
-      <div class="goal-header">
-        <span class="goal-label">💬 Messages LinkedIn envoyes</span>
-        <div style="display:flex;align-items:center;gap:8px;">
-          <span class="goal-count" id="g-msg-count">0 / <span id="g-msg-target">8</span></span>
-          <button class="goal-edit" onclick="editGoal('msg')">modifier</button>
+    <div class="goal-item" id="g-msg-item">
+      <div class="goal-top">
+        <div class="goal-ico-label">
+          <span class="goal-ico">💬</span>
+          <span class="goal-name">Messages LinkedIn</span>
+        </div>
+        <div class="goal-right">
+          <span class="goal-frac" id="g-msg-frac">0/8</span>
+          <span class="goal-pct" id="g-msg-pct">0%</span>
+          <button class="goal-edit" onclick="editGoal('msg')">✎</button>
         </div>
       </div>
-      <div class="goal-bar"><div class="goal-fill gf-purple" id="g-msg-bar" style="width:0%"></div></div>
+      <div class="goal-track" id="g-msg-segs"></div>
     </div>
   </div>
 
@@ -824,94 +857,114 @@ function fmtD(d){
 }
 
 // GOALS
-var goals = JSON.parse(localStorage.getItem('adrien-goals') || '{"candTarget":5,"msgTarget":8,"weekKey":""}');
+var goals = JSON.parse(localStorage.getItem('adrien-goals') || '{"candTarget":5,"msgTarget":8,"weekKey":"","streak":0,"lastActiveDay":""}');
 
 function getWeekKey() {
-  var d = new Date();
-  var day = d.getDay();
-  var monday = new Date(d);
-  monday.setDate(d.getDate() - (day === 0 ? 6 : day - 1));
-  return monday.toISOString().split('T')[0];
+  var d = new Date(), day = d.getDay();
+  var mon = new Date(d);
+  mon.setDate(d.getDate() - (day === 0 ? 6 : day - 1));
+  return mon.toISOString().split('T')[0];
 }
 
+function getDayKey() { return new Date().toISOString().split('T')[0]; }
+
 function getWeekLabel() {
-  var d = new Date();
-  var day = d.getDay();
-  var monday = new Date(d);
-  monday.setDate(d.getDate() - (day === 0 ? 6 : day - 1));
-  var sunday = new Date(monday);
-  sunday.setDate(monday.getDate() + 6);
-  var mos = ['jan','fev','mar','avr','mai','jun','jul','aou','sep','oct','nov','dec'];
-  return monday.getDate()+' '+mos[monday.getMonth()]+' - '+sunday.getDate()+' '+mos[sunday.getMonth()];
+  var d = new Date(), day = d.getDay();
+  var mon = new Date(d); mon.setDate(d.getDate() - (day===0?6:day-1));
+  var sun = new Date(mon); sun.setDate(mon.getDate()+6);
+  var m = ['jan','fev','mar','avr','mai','jun','jul','aou','sep','oct','nov','dec'];
+  return mon.getDate()+' '+m[mon.getMonth()]+' - '+sun.getDate()+' '+m[sun.getMonth()];
+}
+
+function renderSegs(containerId, done, target, colorClass) {
+  var el = document.getElementById(containerId);
+  if (!el) return;
+  var html = '';
+  for (var i = 0; i < target; i++) {
+    var filled = i < done;
+    var cls = filled ? (done >= target ? 'goal-seg filled-green' : 'goal-seg '+colorClass) : 'goal-seg';
+    html += '<div class="'+cls+'"></div>';
+  }
+  el.innerHTML = html;
+}
+
+function updateStreak(hasActivity) {
+  var today = getDayKey();
+  var yesterday = new Date(); yesterday.setDate(yesterday.getDate()-1);
+  var yKey = yesterday.toISOString().split('T')[0];
+  if (hasActivity) {
+    if (goals.lastActiveDay === today) {
+      // already counted
+    } else if (goals.lastActiveDay === yKey) {
+      goals.streak = (goals.streak || 0) + 1;
+      goals.lastActiveDay = today;
+    } else if (goals.lastActiveDay !== today) {
+      goals.streak = 1;
+      goals.lastActiveDay = today;
+    }
+    saveGoals();
+  }
+  var sn = document.getElementById('streak-num');
+  if (sn) sn.textContent = goals.streak || 0;
+  var sp = document.getElementById('streak-pill');
+  if (sp) {
+    var s = goals.streak || 0;
+    sp.style.background = s >= 7 ? 'rgba(251,146,60,.25)' : s >= 3 ? 'rgba(251,146,60,.15)' : 'rgba(251,146,60,.08)';
+  }
 }
 
 function renderGoals() {
   var wk = getWeekKey();
-  // Reset if new week
-  if (goals.weekKey !== wk) {
-    goals.weekKey = wk;
-    goals.candDone = 0;
-    goals.msgDone = 0;
-    saveGoals();
-  }
+  if (goals.weekKey !== wk) { goals.weekKey = wk; saveGoals(); }
 
   var wlbl = document.getElementById('goals-week');
   if (wlbl) wlbl.textContent = getWeekLabel();
 
-  // Count cands this week
   var weekStart = new Date(wk);
-  var candThisWeek = cands.filter(function(c) {
-    if (!c.ts) return false;
-    return new Date(c.ts) >= weekStart;
-  }).length;
+  var candThisWeek = cands.filter(function(c) { return c.ts && new Date(c.ts) >= weekStart; }).length;
 
-  // Count msgs this week (from contacts messages)
   var msgThisWeek = 0;
   conts.forEach(function(c) {
     (c.messages || []).forEach(function(m) {
       if (!m.date) return;
       var parts = m.date.split('/');
-      if (parts.length === 3) {
-        var d = new Date(parts[2], parts[1]-1, parts[0]);
-        if (d >= weekStart) msgThisWeek++;
-      }
+      if (parts.length === 3) { var d = new Date(parts[2], parts[1]-1, parts[0]); if (d >= weekStart) msgThisWeek++; }
     });
   });
 
   var ct = goals.candTarget || 5;
   var mt = goals.msgTarget || 8;
-  var cpct = Math.min(100, Math.round(candThisWeek / ct * 100));
-  var mpct = Math.min(100, Math.round(msgThisWeek / mt * 100));
+  var cpct = Math.min(100, Math.round(candThisWeek/ct*100));
+  var mpct = Math.min(100, Math.round(msgThisWeek/mt*100));
 
-  var cc = document.getElementById('g-cand-count');
-  var mc = document.getElementById('g-msg-count');
-  var ct2 = document.getElementById('g-cand-target');
-  var mt2 = document.getElementById('g-msg-target');
-  var cb = document.getElementById('g-cand-bar');
-  var mb = document.getElementById('g-msg-bar');
+  var cf = document.getElementById('g-cand-frac');
+  var mf = document.getElementById('g-msg-frac');
+  var cp = document.getElementById('g-cand-pct');
+  var mp = document.getElementById('g-msg-pct');
 
-  if (ct2) ct2.textContent = ct;
-  if (mt2) mt2.textContent = mt;
-  if (cc) { cc.innerHTML = candThisWeek + ' / <span id="g-cand-target">' + ct + '</span>'; cc.className = 'goal-count' + (candThisWeek >= ct ? ' goal-done' : ''); }
-  if (mc) { mc.innerHTML = msgThisWeek + ' / <span id="g-msg-target">' + mt + '</span>'; mc.className = 'goal-count' + (msgThisWeek >= mt ? ' goal-done' : ''); }
-  if (cb) cb.style.width = cpct + '%';
-  if (mb) mb.style.width = mpct + '%';
+  if (cf) { cf.textContent = candThisWeek+'/'+ct; cf.className = 'goal-frac'+(candThisWeek>=ct?' done':candThisWeek>=ct*0.7?' almost':''); }
+  if (mf) { mf.textContent = msgThisWeek+'/'+mt; mf.className = 'goal-frac'+(msgThisWeek>=mt?' done':msgThisWeek>=mt*0.7?' almost':''); }
+  if (cp) cp.textContent = cpct+'%';
+  if (mp) mp.textContent = mpct+'%';
+
+  renderSegs('g-cand-segs', candThisWeek, ct, 'filled-blue');
+  renderSegs('g-msg-segs', msgThisWeek, mt, 'filled-purple');
+
+  var hasActivity = candThisWeek > 0 || msgThisWeek > 0;
+  updateStreak(hasActivity);
 }
 
 function editGoal(type) {
-  var cur = type === 'cand' ? (goals.candTarget || 5) : (goals.msgTarget || 8);
-  var label = type === 'cand' ? 'candidatures' : 'messages LinkedIn';
-  var val = prompt('Objectif hebdo de ' + label + ' :', cur);
+  var cur = type === 'cand' ? (goals.candTarget||5) : (goals.msgTarget||8);
+  var lbl = type === 'cand' ? 'candidatures' : 'messages LinkedIn';
+  var val = prompt('Objectif hebdo '+lbl+':', cur);
   if (!val || isNaN(parseInt(val))) return;
   if (type === 'cand') goals.candTarget = parseInt(val);
   else goals.msgTarget = parseInt(val);
-  saveGoals();
-  renderGoals();
+  saveGoals(); renderGoals();
 }
 
-function saveGoals() {
-  localStorage.setItem('adrien-goals', JSON.stringify(goals));
-}
+function saveGoals() { localStorage.setItem('adrien-goals', JSON.stringify(goals)); }
 
 function renderCos(){
   document.getElementById('cogr').innerHTML=cos.map(function(c){
