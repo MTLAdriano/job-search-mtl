@@ -6,323 +6,277 @@
 <link rel="apple-touch-icon" href="icon.png">
 <link rel="icon" type="image/png" href="icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="Job MTL">
 <title>Job MTL — Adrien Bouré</title>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Fraunces:ital,opsz,wght@0,9..144,300;1,9..144,300&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Fraunces:ital,opsz,wght@1,9..144,300&display=swap" rel="stylesheet">
 <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js"></script>
 <style>
 *{box-sizing:border-box;margin:0;padding:0;}
 :root{
-  --bg:#f2f2f7;--surface:#fff;--surface2:#f2f2f7;--surface3:#e8e8ed;
-  --border:#e0e0e5;--border2:#c8c8d0;
-  --text:#1d1d1f;--muted:#86868b;--muted2:#aeaeb2;
-  --accent:#0071e3;--accent-light:#e8f0fb;
-  --green:#34c759;--green-light:#edfbf1;
-  --amber:#ff9f0a;--amber-light:#fff5e6;
-  --red:#ff3b30;--red-light:#fff0ef;
-  --purple:#bf5af2;--purple-light:#f5eeff;
+  --bg:#f2f2f7;--surf:#fff;--surf2:#f2f2f7;--surf3:#e8e8ed;
+  --bdr:#e0e0e5;--bdr2:#c8c8d0;
+  --txt:#1d1d1f;--mut:#86868b;--mut2:#aeaeb2;
+  --acc:#0071e3;--acc-l:#e8f0fb;
+  --grn:#34c759;--grn-l:#edfbf1;
+  --amb:#ff9f0a;--amb-l:#fff5e6;
+  --red:#ff3b30;--red-l:#fff0ef;
+  --pur:#bf5af2;--pur-l:#f5eeff;
   --dark:#0f1923;
-  --r:14px;--rsm:9px;--rxs:6px;
+  --r:14px;--rs:9px;--rx:6px;
   --sans:'Inter',system-ui,sans-serif;
   --serif:'Fraunces',Georgia,serif;
 }
 html{-webkit-font-smoothing:antialiased;}
-body{background:var(--bg);color:var(--text);font-family:var(--sans);font-size:14px;line-height:1.5;min-height:100vh;}
+body{background:var(--bg);color:var(--txt);font-family:var(--sans);font-size:14px;line-height:1.5;min-height:100vh;}
 
-/* OVERLAY */
-#overlay{position:fixed;inset:0;background:rgba(0,0,0,0);z-index:200;pointer-events:none;transition:background 0.3s;}
-#overlay.open{background:rgba(0,0,0,0.55);pointer-events:all;}
+#overlay{position:fixed;inset:0;background:rgba(0,0,0,0);z-index:200;pointer-events:none;transition:background .3s;}
+#overlay.open{background:rgba(0,0,0,.55);pointer-events:all;}
 
-/* DRAWER */
-#drawer{position:fixed;top:0;left:0;height:100%;width:280px;background:var(--dark);z-index:201;transform:translateX(-100%);transition:transform 0.3s cubic-bezier(0.4,0,0.2,1);display:flex;flex-direction:column;}
+#drawer{position:fixed;top:0;left:0;height:100%;width:280px;background:var(--dark);z-index:201;transform:translateX(-100%);transition:transform .3s cubic-bezier(.4,0,.2,1);display:flex;flex-direction:column;}
 #drawer.open{transform:translateX(0);}
-.d-head{padding:36px 20px 22px;border-bottom:0.5px solid rgba(255,255,255,0.07);}
-.d-avatar{width:54px;height:54px;border-radius:16px;background:linear-gradient(135deg,#cc0000,#7a0000);display:flex;align-items:center;justify-content:center;font-family:var(--serif);font-size:22px;color:white;font-style:italic;margin-bottom:14px;border:0.5px solid rgba(255,255,255,0.12);}
-.d-name{font-family:var(--serif);font-size:20px;font-weight:300;font-style:italic;color:white;line-height:1.2;}
-.d-sub{font-size:10px;color:rgba(255,255,255,0.28);letter-spacing:0.1em;text-transform:uppercase;margin-top:4px;}
-.d-nav{padding:16px 10px;flex:1;overflow-y:auto;}
-.d-section-label{font-size:10px;color:rgba(255,255,255,0.22);letter-spacing:0.1em;text-transform:uppercase;padding:8px 14px 6px;}
-.d-item{display:flex;align-items:center;gap:11px;padding:11px 14px;border-radius:10px;cursor:pointer;color:rgba(255,255,255,0.42);font-size:13px;font-weight:400;transition:all 0.15s;border:none;background:none;width:100%;text-align:left;font-family:var(--sans);margin-bottom:2px;}
-.d-item:hover{background:rgba(255,255,255,0.07);color:rgba(255,255,255,0.85);}
-.d-item.active{background:rgba(255,255,255,0.11);color:white;font-weight:500;}
-.d-item-icon{font-size:15px;width:22px;text-align:center;flex-shrink:0;}
-.d-item-special{background:rgba(0,113,227,0.18);color:#60a5fa;border:0.5px solid rgba(0,113,227,0.3);}
-.d-item-special:hover{background:rgba(0,113,227,0.28);color:#93c5fd;}
-.d-foot{padding:16px 20px;border-top:0.5px solid rgba(255,255,255,0.07);}
-.sync-pill{display:inline-flex;align-items:center;gap:6px;font-size:11px;font-weight:500;padding:7px 12px;border-radius:999px;border:0.5px solid rgba(255,255,255,0.12);color:rgba(255,255,255,0.35);background:rgba(255,255,255,0.05);transition:all 0.3s;width:100%;justify-content:center;}
-.sync-pill.connected{color:#34c759;border-color:rgba(52,199,89,0.4);background:rgba(52,199,89,0.1);}
-.sync-dot{width:5px;height:5px;border-radius:50%;background:currentColor;flex-shrink:0;}
-.sync-dot.pulse{animation:pulse 2s infinite;}
-@keyframes pulse{0%,100%{opacity:1}50%{opacity:0.3}}
+.dh{padding:36px 20px 22px;border-bottom:.5px solid rgba(255,255,255,.07);}
+.dav{width:54px;height:54px;border-radius:16px;background:linear-gradient(135deg,#cc0000,#7a0000);display:flex;align-items:center;justify-content:center;font-family:var(--serif);font-size:22px;color:#fff;font-style:italic;margin-bottom:14px;border:.5px solid rgba(255,255,255,.12);}
+.dn{font-family:var(--serif);font-size:20px;font-weight:300;font-style:italic;color:#fff;line-height:1.2;}
+.ds{font-size:10px;color:rgba(255,255,255,.28);letter-spacing:.1em;text-transform:uppercase;margin-top:4px;}
+.dnav{padding:16px 10px;flex:1;overflow-y:auto;}
+.dlbl{font-size:10px;color:rgba(255,255,255,.22);letter-spacing:.1em;text-transform:uppercase;padding:8px 14px 6px;}
+.di{display:flex;align-items:center;gap:11px;padding:11px 14px;border-radius:10px;cursor:pointer;color:rgba(255,255,255,.42);font-size:13px;transition:all .15s;border:none;background:none;width:100%;text-align:left;font-family:var(--sans);margin-bottom:2px;}
+.di:hover{background:rgba(255,255,255,.07);color:rgba(255,255,255,.85);}
+.di.active{background:rgba(255,255,255,.11);color:#fff;font-weight:500;}
+.di-icon{font-size:15px;width:22px;text-align:center;flex-shrink:0;}
+.di-add{background:rgba(0,113,227,.18);color:#60a5fa;border:.5px solid rgba(0,113,227,.3);}
+.di-add:hover{background:rgba(0,113,227,.28);}
+.di-add2{background:rgba(191,90,242,.12);color:#c084fc;border:.5px solid rgba(191,90,242,.25);}
+.di-add2:hover{background:rgba(191,90,242,.22);}
+.dfoot{padding:16px 20px;border-top:.5px solid rgba(255,255,255,.07);}
+.spill{display:inline-flex;align-items:center;gap:6px;font-size:11px;font-weight:500;padding:7px 12px;border-radius:999px;border:.5px solid rgba(255,255,255,.12);color:rgba(255,255,255,.35);background:rgba(255,255,255,.05);transition:all .3s;width:100%;justify-content:center;}
+.spill.ok{color:#34c759;border-color:rgba(52,199,89,.4);background:rgba(52,199,89,.1);}
+.sdot{width:5px;height:5px;border-radius:50%;background:currentColor;flex-shrink:0;}
+.sdot.pulse{animation:pulse 2s infinite;}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
 
-/* NAV */
 nav{background:var(--dark);position:sticky;top:0;z-index:100;overflow:hidden;}
-.nav-inner{max-width:900px;margin:0 auto;padding:0 20px;display:flex;align-items:center;justify-content:space-between;height:60px;position:relative;}
-.nav-watermark{position:absolute;right:16px;font-family:var(--serif);font-size:88px;font-weight:300;font-style:italic;color:rgba(255,255,255,0.025);white-space:nowrap;pointer-events:none;top:50%;transform:translateY(-50%);}
-.nav-left{display:flex;align-items:center;gap:14px;position:relative;z-index:2;}
-.hamburger{background:none;border:none;cursor:pointer;padding:8px;display:flex;flex-direction:column;gap:5px;}
-.hamburger span{display:block;width:22px;height:1.5px;background:rgba(255,255,255,0.65);border-radius:2px;transition:all 0.25s ease;}
-.hamburger.open span:nth-child(1){transform:translateY(6.5px) rotate(45deg);}
-.hamburger.open span:nth-child(2){opacity:0;}
-.hamburger.open span:nth-child(3){transform:translateY(-6.5px) rotate(-45deg);}
-.nav-info .nav-title{font-family:var(--serif);font-size:16px;font-weight:300;font-style:italic;color:white;letter-spacing:-0.01em;line-height:1.2;}
-.nav-info .nav-title em{font-style:normal;font-weight:400;color:rgba(255,255,255,0.35);font-size:12px;font-family:var(--sans);margin-left:8px;}
-.nav-info .nav-sub{font-size:10px;color:rgba(255,255,255,0.25);letter-spacing:0.08em;text-transform:uppercase;margin-top:2px;}
-.nav-sync{display:inline-flex;align-items:center;gap:5px;font-size:10px;font-weight:500;padding:4px 10px;border-radius:999px;border:0.5px solid rgba(255,255,255,0.1);color:rgba(255,255,255,0.3);background:rgba(255,255,255,0.04);transition:all 0.3s;position:relative;z-index:2;}
-.nav-sync.connected{color:#34c759;border-color:rgba(52,199,89,0.35);background:rgba(52,199,89,0.08);}
+.navi{max-width:900px;margin:0 auto;padding:0 20px;display:flex;align-items:center;justify-content:space-between;height:60px;position:relative;}
+.nwm{position:absolute;right:16px;font-family:var(--serif);font-size:88px;font-weight:300;font-style:italic;color:rgba(255,255,255,.025);white-space:nowrap;pointer-events:none;top:50%;transform:translateY(-50%);}
+.nl{display:flex;align-items:center;gap:14px;position:relative;z-index:2;}
+.hbg{background:none;border:none;cursor:pointer;padding:8px;display:flex;flex-direction:column;gap:5px;}
+.hbg span{display:block;width:22px;height:1.5px;background:rgba(255,255,255,.65);border-radius:2px;transition:all .25s ease;}
+.hbg.open span:nth-child(1){transform:translateY(6.5px) rotate(45deg);}
+.hbg.open span:nth-child(2){opacity:0;}
+.hbg.open span:nth-child(3){transform:translateY(-6.5px) rotate(-45deg);}
+.ntitle{font-family:var(--serif);font-size:16px;font-weight:300;font-style:italic;color:#fff;letter-spacing:-.01em;line-height:1.2;}
+.ntitle em{font-style:normal;font-weight:400;color:rgba(255,255,255,.35);font-size:12px;font-family:var(--sans);margin-left:8px;}
+.nsub{font-size:10px;color:rgba(255,255,255,.25);letter-spacing:.08em;text-transform:uppercase;margin-top:2px;}
+.nsync{display:inline-flex;align-items:center;gap:5px;font-size:10px;font-weight:500;padding:4px 10px;border-radius:999px;border:.5px solid rgba(255,255,255,.1);color:rgba(255,255,255,.3);background:rgba(255,255,255,.04);transition:all .3s;position:relative;z-index:2;}
+.nsync.ok{color:#34c759;border-color:rgba(52,199,89,.35);background:rgba(52,199,89,.08);}
 
-/* MAIN */
 .main{max-width:900px;margin:0 auto;padding:24px 20px;}
-.panel{display:none;animation:fadeIn 0.2s ease;}
+.panel{display:none;animation:fi .2s ease;}
 .panel.active{display:block;}
-@keyframes fadeIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+@keyframes fi{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
 
-/* ============ DASHBOARD ============ */
-.dash-hero{background:var(--dark);border-radius:20px;padding:28px;margin-bottom:16px;position:relative;overflow:hidden;}
-.dash-hero-bg{position:absolute;right:-20px;bottom:-30px;font-family:var(--serif);font-size:140px;font-weight:300;font-style:italic;color:rgba(255,255,255,0.025);line-height:1;pointer-events:none;}
-.dash-hero-top{display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:24px;}
-.dash-greeting{font-family:var(--serif);font-size:26px;font-weight:300;font-style:italic;color:white;line-height:1.2;}
-.dash-greeting span{display:block;font-family:var(--sans);font-size:12px;font-style:normal;color:rgba(255,255,255,0.35);letter-spacing:0.06em;text-transform:uppercase;margin-bottom:4px;}
-.dash-date{font-size:11px;color:rgba(255,255,255,0.3);text-align:right;line-height:1.6;}
-.dash-kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;}
-.kpi{background:rgba(255,255,255,0.06);border:0.5px solid rgba(255,255,255,0.08);border-radius:12px;padding:14px 16px;}
-.kpi-val{font-size:28px;font-weight:300;color:white;letter-spacing:-0.04em;line-height:1;}
-.kpi-label{font-size:10px;color:rgba(255,255,255,0.3);margin-top:5px;letter-spacing:0.05em;text-transform:uppercase;}
-.kpi.accent{background:rgba(0,113,227,0.2);border-color:rgba(0,113,227,0.3);}
-.kpi.accent .kpi-val{color:#60a5fa;}
-.kpi.green{background:rgba(52,199,89,0.15);border-color:rgba(52,199,89,0.25);}
-.kpi.green .kpi-val{color:#4ade80;}
-.kpi.amber{background:rgba(255,159,10,0.15);border-color:rgba(255,159,10,0.25);}
-.kpi.amber .kpi-val{color:#fbbf24;}
+/* DASHBOARD */
+.hero{background:var(--dark);border-radius:20px;padding:28px;margin-bottom:16px;position:relative;overflow:hidden;}
+.hero-bg{position:absolute;right:-20px;bottom:-30px;font-family:var(--serif);font-size:140px;font-weight:300;font-style:italic;color:rgba(255,255,255,.025);line-height:1;pointer-events:none;}
+.hero-top{display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:24px;}
+.greet{font-family:var(--serif);font-size:26px;font-weight:300;font-style:italic;color:#fff;line-height:1.2;}
+.greet span{display:block;font-family:var(--sans);font-size:12px;font-style:normal;color:rgba(255,255,255,.35);letter-spacing:.06em;text-transform:uppercase;margin-bottom:4px;}
+.hdate{font-size:11px;color:rgba(255,255,255,.3);text-align:right;line-height:1.6;}
+.kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;}
+.kpi{background:rgba(255,255,255,.06);border:.5px solid rgba(255,255,255,.08);border-radius:12px;padding:14px 16px;}
+.kv{font-size:28px;font-weight:300;color:#fff;letter-spacing:-.04em;line-height:1;}
+.kl{font-size:10px;color:rgba(255,255,255,.3);margin-top:5px;letter-spacing:.05em;text-transform:uppercase;}
+.kpi.ka{background:rgba(0,113,227,.2);border-color:rgba(0,113,227,.3);}
+.kpi.ka .kv{color:#60a5fa;}
+.kpi.kg{background:rgba(52,199,89,.15);border-color:rgba(52,199,89,.25);}
+.kpi.kg .kv{color:#4ade80;}
+.kpi.km{background:rgba(255,159,10,.15);border-color:rgba(255,159,10,.25);}
+.kpi.km .kv{color:#fbbf24;}
+.drow{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:14px;}
+.dcard{background:var(--surf);border:.5px solid var(--bdr);border-radius:var(--r);padding:18px;}
+.dct{font-size:12px;font-weight:600;color:var(--mut);letter-spacing:.04em;text-transform:uppercase;margin-bottom:14px;display:flex;align-items:center;justify-content:space-between;}
+.dca{font-size:11px;font-weight:500;color:var(--acc);cursor:pointer;text-transform:none;letter-spacing:0;}
+.ri{display:flex;align-items:center;gap:10px;padding:8px 0;border-bottom:.5px solid var(--bdr);}
+.ri:last-child{border-bottom:none;}
+.rdot{width:7px;height:7px;border-radius:50%;flex-shrink:0;}
+.rinfo{flex:1;min-width:0;}
+.rp{font-size:13px;font-weight:500;color:var(--txt);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.rc{font-size:11px;color:var(--mut);}
+.sr{display:flex;align-items:center;justify-content:space-between;padding:7px 0;border-bottom:.5px solid var(--bdr);}
+.sr:last-child{border-bottom:none;}
+.pb{height:5px;background:var(--surf2);border-radius:3px;overflow:hidden;margin-top:6px;}
+.pf{height:100%;background:var(--acc);border-radius:3px;transition:width .5s ease;}
+.ns{display:flex;align-items:flex-start;gap:10px;padding:9px 0;border-bottom:.5px solid var(--bdr);}
+.ns:last-child{border-bottom:none;}
+.ni{font-size:14px;flex-shrink:0;margin-top:1px;}
+.nt{font-size:12px;color:var(--mut);line-height:1.5;}
 
-.dash-row{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:14px;}
-.dash-card{background:var(--surface);border:0.5px solid var(--border);border-radius:var(--r);padding:18px;}
-.dash-card-title{font-size:12px;font-weight:600;color:var(--muted);letter-spacing:0.04em;text-transform:uppercase;margin-bottom:14px;display:flex;align-items:center;justify-content:space-between;}
-.dash-card-action{font-size:11px;font-weight:500;color:var(--accent);cursor:pointer;text-transform:none;letter-spacing:0;}
+/* CARDS */
+.card{background:var(--surf);border:.5px solid var(--bdr);border-radius:var(--r);padding:20px;margin-bottom:12px;}
+.ct{font-size:13px;font-weight:600;color:var(--txt);margin-bottom:16px;}
+.shd{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px;}
+.stl{font-size:15px;font-weight:600;color:var(--txt);letter-spacing:-.02em;}
+.scnt{font-size:12px;color:var(--mut);}
 
-.recent-item{display:flex;align-items:center;gap:10px;padding:8px 0;border-bottom:0.5px solid var(--border);}
-.recent-item:last-child{border-bottom:none;}
-.recent-dot{width:7px;height:7px;border-radius:50%;flex-shrink:0;}
-.recent-dot-haute{background:var(--red);}
-.recent-dot-moyenne{background:var(--amber);}
-.recent-dot-basse{background:var(--muted2);}
-.recent-info{flex:1;min-width:0;}
-.recent-poste{font-size:13px;font-weight:500;color:var(--text);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
-.recent-co{font-size:11px;color:var(--muted);}
+/* FORM */
+.frow{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:10px;}
+.fg{display:flex;flex-direction:column;gap:5px;}
+.fl{font-size:11px;font-weight:500;color:var(--mut);letter-spacing:.02em;}
+input,select,textarea{background:var(--surf2);border:.5px solid var(--bdr2);border-radius:var(--rs);color:var(--txt);font-family:var(--sans);font-size:13px;padding:9px 12px;width:100%;outline:none;transition:border-color .15s,box-shadow .15s;-webkit-appearance:none;}
+input:focus,select:focus,textarea:focus{border-color:var(--acc);box-shadow:0 0 0 3px rgba(0,113,227,.1);}
+textarea{resize:vertical;min-height:60px;line-height:1.5;}
+select{cursor:pointer;}
+.prow{display:flex;gap:6px;flex-wrap:wrap;}
+.pb2{font-size:11px;font-weight:500;padding:6px 13px;border-radius:999px;cursor:pointer;border:.5px solid var(--bdr2);color:var(--mut);background:var(--surf2);transition:all .15s;font-family:var(--sans);}
+.pb2.ph{border-color:rgba(255,59,48,.4);color:var(--red);background:var(--red-l);}
+.pb2.pm{border-color:rgba(255,159,10,.4);color:var(--amb);background:var(--amb-l);}
+.pb2.pl{border-color:var(--bdr2);color:var(--mut);background:var(--surf);}
+.btn{font-family:var(--sans);font-size:13px;font-weight:500;padding:9px 18px;border-radius:var(--rs);cursor:pointer;border:.5px solid var(--bdr2);color:var(--txt);background:var(--surf);transition:all .15s;}
+.btn:hover{background:var(--surf2);}
+.btn-p{background:var(--acc);color:#fff;border-color:var(--acc);}
+.btn-p:hover{background:#0077ed;}
+.btn-f{width:100%;}
 
-.prog-section{margin-bottom:10px;}
-.prog-label{display:flex;justify-content:space-between;font-size:12px;color:var(--muted);margin-bottom:6px;}
-.prog-label strong{color:var(--text);font-weight:500;}
-.prog-bar{height:5px;background:var(--surface2);border-radius:3px;overflow:hidden;}
-.prog-fill{height:100%;background:var(--accent);border-radius:3px;transition:width 0.5s ease;}
-.prog-fill.green{background:var(--green);}
-.prog-fill.amber{background:var(--amber);}
-
-.status-row{display:flex;align-items:center;justify-content:space-between;padding:7px 0;border-bottom:0.5px solid var(--border);}
-.status-row:last-child{border-bottom:none;}
-.status-name{font-size:12px;color:var(--text);}
-.status-count{font-size:13px;font-weight:600;color:var(--text);}
-
-.next-step{display:flex;align-items:flex-start;gap:10px;padding:9px 0;border-bottom:0.5px solid var(--border);}
-.next-step:last-child{border-bottom:none;}
-.next-icon{font-size:14px;flex-shrink:0;margin-top:1px;}
-.next-text{font-size:12px;color:var(--muted);line-height:1.5;}
-.next-text strong{color:var(--text);font-weight:500;display:block;font-size:13px;margin-bottom:1px;}
-
-/* ============ TRACKER ============ */
-.cand-card{background:var(--surface);border:0.5px solid var(--border);border-radius:var(--r);padding:14px 16px;margin-bottom:8px;transition:box-shadow 0.15s,border-color 0.15s;}
-.cand-card:hover{box-shadow:0 2px 12px rgba(0,0,0,0.06);border-color:var(--border2);}
-.cand-top{display:flex;align-items:flex-start;gap:10px;margin-bottom:4px;}
-.cand-poste{font-size:14px;font-weight:500;flex:1;color:var(--text);}
-.cand-meta{font-size:12px;color:var(--muted);margin-bottom:8px;}
-.cand-note{font-size:12px;color:var(--muted);padding:6px 8px;background:var(--surface2);border-radius:var(--rxs);border-left:2px solid var(--border2);margin-bottom:8px;line-height:1.5;}
-.pdot{width:7px;height:7px;border-radius:50%;flex-shrink:0;margin-top:5px;}
-.pdot-haute{background:var(--red);}
-.pdot-moyenne{background:var(--amber);}
-.pdot-basse{background:var(--muted2);}
-.del-btn{background:none;border:none;color:var(--muted2);cursor:pointer;font-size:18px;line-height:1;transition:color 0.15s;padding:0 2px;}
-.del-btn:hover{color:var(--red);}
-.mini-sel{font-family:var(--sans);font-size:11px;font-weight:500;padding:3px 8px;border-radius:999px;background:var(--surface2);border:0.5px solid var(--border);color:var(--muted);cursor:pointer;-webkit-appearance:none;}
-
-/* ============ FORM (modal) ============ */
-.modal-overlay{position:fixed;inset:0;background:rgba(0,0,0,0.45);z-index:300;display:none;align-items:flex-end;justify-content:center;}
-.modal-overlay.open{display:flex;}
-.modal{background:var(--surface);border-radius:20px 20px 0 0;padding:24px 20px 36px;width:100%;max-width:540px;animation:slideUp 0.3s cubic-bezier(0.4,0,0.2,1);}
-@keyframes slideUp{from{transform:translateY(100%)}to{transform:translateY(0)}}
-.modal-handle{width:36px;height:4px;background:var(--border2);border-radius:2px;margin:0 auto 20px;}
-.modal-title{font-size:16px;font-weight:600;color:var(--text);margin-bottom:18px;}
-
-/* ============ CONTACTS ============ */
-.contact-card{background:var(--surface);border:0.5px solid var(--border);border-radius:var(--r);padding:16px;margin-bottom:8px;display:flex;align-items:center;gap:14px;transition:box-shadow 0.15s;}
-.contact-card:hover{box-shadow:0 2px 12px rgba(0,0,0,0.06);border-color:var(--border2);}
-.contact-avatar{width:44px;height:44px;border-radius:12px;background:var(--accent-light);display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:600;color:var(--accent);flex-shrink:0;font-family:var(--serif);font-style:italic;}
-.contact-info{flex:1;min-width:0;}
-.contact-name{font-size:14px;font-weight:500;color:var(--text);}
-.contact-role{font-size:12px;color:var(--muted);margin-top:1px;}
-.contact-co{font-size:11px;color:var(--muted2);margin-top:1px;}
-.contact-actions{display:flex;gap:6px;align-items:center;}
-.contact-status-badge{font-size:10px;font-weight:600;padding:3px 8px;border-radius:999px;}
-.cs-contacted{background:#e8f0fb;color:#0052a3;}
-.cs-replied{background:var(--green-light);color:#1a7a35;}
-.cs-tocontact{background:var(--amber-light);color:#8a5200;}
-.cs-meeting{background:var(--purple-light);color:#7b2fbe;}
-.contact-del{background:none;border:none;color:var(--muted2);cursor:pointer;font-size:16px;padding:2px 4px;transition:color 0.15s;}
-.contact-del:hover{color:var(--red);}
-.li-btn{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-weight:500;color:#0071e3;text-decoration:none;padding:4px 10px;border-radius:999px;background:var(--accent-light);border:0.5px solid rgba(0,113,227,0.2);transition:all 0.15s;}
-.li-btn:hover{background:#d4e5f9;}
-
-/* ============ COMPANIES ============ */
-.co-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;}
-.co-card{background:var(--surface);border:0.5px solid var(--border);border-radius:var(--r);padding:16px;transition:box-shadow 0.15s;}
-.co-card:hover{box-shadow:0 2px 12px rgba(0,0,0,0.06);}
-.co-card.top{border-color:rgba(0,113,227,0.25);background:linear-gradient(135deg,#fff 0%,#f0f6ff 100%);}
-.co-top-badge{font-size:10px;font-weight:600;color:var(--accent);background:var(--accent-light);padding:2px 8px;border-radius:999px;display:inline-block;margin-bottom:8px;}
-.co-name{font-size:14px;font-weight:600;color:var(--text);margin-bottom:2px;}
-.co-type{font-size:11px;color:var(--muted);margin-bottom:10px;}
-.co-postes{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:10px;}
-.co-link{font-size:12px;color:var(--accent);text-decoration:none;font-weight:500;}
+/* CAND */
+.cc{background:var(--surf);border:.5px solid var(--bdr);border-radius:var(--r);padding:14px 16px;margin-bottom:8px;transition:box-shadow .15s,border-color .15s;}
+.cc:hover{box-shadow:0 2px 12px rgba(0,0,0,.06);border-color:var(--bdr2);}
+.cct{display:flex;align-items:flex-start;gap:10px;margin-bottom:4px;}
+.ccp{font-size:14px;font-weight:500;flex:1;color:var(--txt);}
+.ccm{font-size:12px;color:var(--mut);margin-bottom:8px;}
+.ccn{font-size:12px;color:var(--mut);padding:6px 8px;background:var(--surf2);border-radius:var(--rx);border-left:2px solid var(--bdr2);margin-bottom:8px;line-height:1.5;}
+.pd{width:7px;height:7px;border-radius:50%;flex-shrink:0;margin-top:5px;}
+.pdh{background:var(--red);}
+.pdm{background:var(--amb);}
+.pdl{background:var(--mut2);}
+.xbtn{background:none;border:none;color:var(--mut2);cursor:pointer;font-size:18px;line-height:1;transition:color .15s;padding:0 2px;}
+.xbtn:hover{color:var(--red);}
+.msel{font-family:var(--sans);font-size:11px;font-weight:500;padding:3px 8px;border-radius:999px;background:var(--surf2);border:.5px solid var(--bdr);color:var(--mut);cursor:pointer;-webkit-appearance:none;}
 
 /* BADGE */
 .badge{font-size:10px;font-weight:600;padding:3px 7px;border-radius:999px;display:inline-block;}
-.b-blue{background:var(--accent-light);color:var(--accent);}
-.b-green{background:var(--green-light);color:#1a7a35;}
-.b-amber{background:var(--amber-light);color:#8a5200;}
-.b-red{background:var(--red-light);color:#c0392b;}
-.b-purple{background:var(--purple-light);color:#7b2fbe;}
-.b-gray{background:var(--surface2);color:var(--muted);border:0.5px solid var(--border);}
+.bb{background:var(--acc-l);color:var(--acc);}
+.bg{background:var(--grn-l);color:#1a7a35;}
+.ba{background:var(--amb-l);color:#8a5200;}
+.br{background:var(--red-l);color:#c0392b;}
+.bp{background:var(--pur-l);color:#7b2fbe;}
+.bx{background:var(--surf2);color:var(--mut);border:.5px solid var(--bdr);}
 
-/* SKILL TAGS */
-.skill-tags{display:flex;flex-wrap:wrap;gap:6px;}
-.skill-tag{font-size:11px;font-weight:500;padding:5px 11px;border-radius:999px;cursor:pointer;border:0.5px solid var(--border2);color:var(--muted);background:var(--surface2);transition:all 0.15s;}
-.skill-tag.sel{border-color:rgba(0,113,227,0.4);color:var(--accent);background:var(--accent-light);}
+/* CONTACTS */
+.cocard{background:var(--surf);border:.5px solid var(--bdr);border-radius:var(--r);margin-bottom:8px;overflow:hidden;}
+.coh{display:flex;align-items:center;gap:14px;padding:16px;cursor:pointer;transition:background .15s;}
+.coh:hover{background:var(--surf2);}
+.coav{width:46px;height:46px;border-radius:13px;background:var(--acc-l);display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:600;color:var(--acc);flex-shrink:0;}
+.coi{flex:1;min-width:0;}
+.con{font-size:14px;font-weight:600;color:var(--txt);}
+.cor{font-size:12px;color:var(--mut);margin-top:1px;}
+.cob{border-top:.5px solid var(--bdr);padding:16px;display:none;}
+.cob.open{display:block;}
+
+/* RELANCE */
+.rb{display:inline-flex;align-items:center;gap:4px;font-size:10px;font-weight:600;padding:3px 8px;border-radius:999px;}
+.rbu{background:#fff0ef;color:#c0392b;}
+.rbs{background:#fff5e6;color:#8a5200;}
+.rbg{background:#edfbf1;color:#1a7a35;}
+.rbn{background:var(--surf2);color:var(--mut);}
+
+/* MSG */
+.mhi{padding:10px 0;border-bottom:.5px solid var(--bdr);}
+.mhi:last-child{border-bottom:none;}
+.mhh{display:flex;align-items:center;justify-content:space-between;margin-bottom:4px;}
+.mht{font-size:10px;font-weight:600;padding:2px 7px;border-radius:999px;}
+.mts{background:var(--acc-l);color:var(--acc);}
+.mtr{background:var(--grn-l);color:#1a7a35;}
+.mtno{background:var(--surf2);color:var(--mut);border:.5px solid var(--bdr);}
+.mhd{font-size:10px;color:var(--mut2);}
+.mhc{font-size:12px;color:var(--txt);line-height:1.5;}
+
+/* TEMPLATE */
+.tc{background:var(--surf2);border:.5px solid var(--bdr);border-radius:var(--rs);padding:14px;margin-bottom:10px;cursor:pointer;transition:all .15s;}
+.tc:hover{border-color:var(--acc);background:var(--acc-l);}
+.tct{font-size:13px;font-weight:600;color:var(--txt);margin-bottom:3px;}
+.tcd{font-size:11px;color:var(--mut);line-height:1.5;}
+
+/* COMPANIES */
+.cogrid{display:grid;grid-template-columns:1fr 1fr;gap:10px;}
+.coitem{background:var(--surf);border:.5px solid var(--bdr);border-radius:var(--r);padding:16px;transition:box-shadow .15s;}
+.coitem:hover{box-shadow:0 2px 12px rgba(0,0,0,.06);}
+.coitem.top{border-color:rgba(0,113,227,.25);background:linear-gradient(135deg,#fff 0%,#f0f6ff 100%);}
+.cotb{font-size:10px;font-weight:600;color:var(--acc);background:var(--acc-l);padding:2px 8px;border-radius:999px;display:inline-block;margin-bottom:8px;}
+.con2{font-size:14px;font-weight:600;color:var(--txt);margin-bottom:2px;}
+.coty{font-size:11px;color:var(--mut);margin-bottom:10px;}
+.cops{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:10px;}
+.coln{font-size:12px;color:var(--acc);text-decoration:none;font-weight:500;}
+
+/* JOBS */
+.jcard{background:var(--surf);border:.5px solid var(--bdr);border-radius:var(--r);padding:16px;margin-bottom:8px;cursor:pointer;transition:all .15s;}
+.jcard:hover{box-shadow:0 4px 16px rgba(0,0,0,.08);border-color:var(--bdr2);transform:translateY(-1px);}
+.jlt{font-size:14px;font-weight:600;color:var(--txt);margin-bottom:2px;line-height:1.3;}
+.jlc{font-size:12px;font-weight:500;color:var(--acc);}
+.jmeta{display:flex;gap:8px;flex-wrap:wrap;margin-top:6px;}
+.jmi{font-size:11px;color:var(--mut);}
+.jdp{font-size:12px;color:var(--mut);line-height:1.5;margin-top:8px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
+.jft{display:flex;align-items:center;justify-content:space-between;margin-top:10px;padding-top:10px;border-top:.5px solid var(--bdr);}
+
+/* SKILLS */
+.stags{display:flex;flex-wrap:wrap;gap:6px;}
+.stag{font-size:11px;font-weight:500;padding:5px 11px;border-radius:999px;cursor:pointer;border:.5px solid var(--bdr2);color:var(--mut);background:var(--surf2);transition:all .15s;}
+.stag.sel{border-color:rgba(0,113,227,.4);color:var(--acc);background:var(--acc-l);}
 
 /* CHECKLIST */
-.check-item{display:flex;align-items:flex-start;gap:10px;padding:11px 0;border-bottom:0.5px solid var(--border);}
-.check-item:last-child{border-bottom:none;}
-.check-item input[type=checkbox]{width:16px;height:16px;margin-top:1px;accent-color:var(--accent);cursor:pointer;flex-shrink:0;}
-.check-label{font-size:13px;color:var(--text);line-height:1.4;}
-.check-label.done{text-decoration:line-through;color:var(--muted2);}
-.prog-bar-cl{height:3px;background:var(--border);border-radius:2px;overflow:hidden;margin-top:14px;}
-.prog-fill-cl{height:100%;background:var(--accent);border-radius:2px;transition:width 0.4s ease;}
-.prog-text{font-size:11px;color:var(--muted);margin-top:6px;}
+.cli{display:flex;align-items:flex-start;gap:10px;padding:11px 0;border-bottom:.5px solid var(--bdr);}
+.cli:last-child{border-bottom:none;}
+.cli input[type=checkbox]{width:16px;height:16px;margin-top:1px;accent-color:var(--acc);cursor:pointer;flex-shrink:0;}
+.cll{font-size:13px;color:var(--txt);line-height:1.4;}
+.cll.done{text-decoration:line-through;color:var(--mut2);}
+.clpb{height:3px;background:var(--bdr);border-radius:2px;overflow:hidden;margin-top:14px;}
+.clpf{height:100%;background:var(--acc);border-radius:2px;transition:width .4s ease;}
+.clpt{font-size:11px;color:var(--mut);margin-top:6px;}
 
 /* TIPS */
-.tip{display:flex;gap:12px;padding:11px 0;border-bottom:0.5px solid var(--border);}
+.tip{display:flex;gap:12px;padding:11px 0;border-bottom:.5px solid var(--bdr);}
 .tip:last-child{border-bottom:none;}
-.tip-num{font-size:11px;font-weight:600;color:var(--accent);min-width:18px;padding-top:1px;}
-.tip-text{font-size:13px;color:var(--muted);line-height:1.5;}
-.tip-text strong{color:var(--text);font-weight:500;}
-
-/* FORM ELEMENTS */
-.form-row{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:10px;}
-.form-group{display:flex;flex-direction:column;gap:5px;}
-.form-label{font-size:11px;font-weight:500;color:var(--muted);letter-spacing:0.02em;}
-input,select,textarea{background:var(--surface2);border:0.5px solid var(--border2);border-radius:var(--rsm);color:var(--text);font-family:var(--sans);font-size:13px;padding:9px 12px;width:100%;outline:none;transition:border-color 0.15s,box-shadow 0.15s;-webkit-appearance:none;}
-input:focus,select:focus,textarea:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(0,113,227,0.1);}
-textarea{resize:vertical;min-height:60px;line-height:1.5;}
-select{cursor:pointer;}
-.prio-row{display:flex;gap:6px;flex-wrap:wrap;}
-.prio-btn{font-size:11px;font-weight:500;padding:6px 13px;border-radius:999px;cursor:pointer;border:0.5px solid var(--border2);color:var(--muted);background:var(--surface2);transition:all 0.15s;font-family:var(--sans);}
-.prio-btn.sel-haute{border-color:rgba(255,59,48,0.4);color:var(--red);background:var(--red-light);}
-.prio-btn.sel-moyenne{border-color:rgba(255,159,10,0.4);color:var(--amber);background:var(--amber-light);}
-.prio-btn.sel-basse{border-color:var(--border2);color:var(--muted);background:var(--surface);}
-.btn{font-family:var(--sans);font-size:13px;font-weight:500;padding:9px 18px;border-radius:var(--rsm);cursor:pointer;border:0.5px solid var(--border2);color:var(--text);background:var(--surface);transition:all 0.15s;}
-.btn:hover{background:var(--surface2);}
-.btn-primary{background:var(--accent);color:white;border-color:var(--accent);}
-.btn-primary:hover{background:#0077ed;}
-.btn-full{width:100%;}
+.tipn{font-size:11px;font-weight:600;color:var(--acc);min-width:18px;padding-top:1px;}
+.tipt{font-size:13px;color:var(--mut);line-height:1.5;}
+.tipt strong{color:var(--txt);font-weight:500;}
 
 /* SETUP */
-.card{background:var(--surface);border:0.5px solid var(--border);border-radius:var(--r);padding:20px;margin-bottom:12px;}
-.card-title{font-size:13px;font-weight:600;color:var(--text);margin-bottom:16px;}
-.setup-step{display:flex;gap:14px;padding:14px 0;border-bottom:0.5px solid var(--border);}
-.setup-step:last-child{border-bottom:none;}
-.step-n{font-size:11px;font-weight:600;color:var(--accent);min-width:20px;padding-top:2px;}
-.step-title{font-size:13px;font-weight:500;margin-bottom:4px;color:var(--text);}
-.step-desc{font-size:12px;color:var(--muted);line-height:1.6;}
-.cfg-input{background:var(--surface2);border:0.5px solid var(--border2);border-radius:var(--rsm);color:var(--text);font-family:ui-monospace,monospace;font-size:12px;padding:8px 11px;width:100%;margin-top:6px;margin-bottom:4px;outline:none;transition:border-color 0.15s;}
-.cfg-input:focus{border-color:var(--accent);}
-.fb-pill{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-weight:500;padding:5px 10px;border-radius:var(--rxs);}
-.fb-ok{background:var(--green-light);color:#1a7a35;}
-.fb-err{background:var(--red-light);color:#c0392b;}
-.fb-wait{background:var(--amber-light);color:#8a5200;}
+.ss{display:flex;gap:14px;padding:14px 0;border-bottom:.5px solid var(--bdr);}
+.ss:last-child{border-bottom:none;}
+.ssn{font-size:11px;font-weight:600;color:var(--acc);min-width:20px;padding-top:2px;}
+.sst{font-size:13px;font-weight:500;margin-bottom:4px;color:var(--txt);}
+.ssd{font-size:12px;color:var(--mut);line-height:1.6;}
+.ci{background:var(--surf2);border:.5px solid var(--bdr2);border-radius:var(--rs);color:var(--txt);font-family:ui-monospace,monospace;font-size:12px;padding:8px 11px;width:100%;margin-top:6px;margin-bottom:4px;outline:none;transition:border-color .15s;}
+.ci:focus{border-color:var(--acc);}
+.fp{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-weight:500;padding:5px 10px;border-radius:var(--rx);}
+.fok{background:var(--grn-l);color:#1a7a35;}
+.ferr{background:var(--red-l);color:#c0392b;}
+.fwt{background:var(--amb-l);color:#8a5200;}
 
-.section-hd{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px;}
-.section-title{font-size:15px;font-weight:600;color:var(--text);letter-spacing:-0.02em;}
-.section-count{font-size:12px;color:var(--muted);}
-.empty{text-align:center;padding:48px 20px;color:var(--muted);}
-.empty-icon{font-size:36px;margin-bottom:10px;opacity:0.3;}
-.empty-text{font-size:13px;}
+/* LI BTN */
+.libtn{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-weight:500;color:var(--acc);text-decoration:none;padding:4px 10px;border-radius:999px;background:var(--acc-l);border:.5px solid rgba(0,113,227,.2);transition:all .15s;}
+.libtn:hover{background:#d4e5f9;}
 
-/* CONTACT DETAIL / MESSAGING */
-.contact-detail{background:var(--surface);border:0.5px solid var(--border);border-radius:var(--r);margin-bottom:8px;overflow:hidden;}
-.contact-detail-header{display:flex;align-items:center;gap:14px;padding:16px;cursor:pointer;transition:background 0.15s;}
-.contact-detail-header:hover{background:var(--surface2);}
-.contact-avatar-lg{width:46px;height:46px;border-radius:13px;background:var(--accent-light);display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:600;color:var(--accent);flex-shrink:0;font-family:var(--serif);font-style:italic;}
-.contact-detail-info{flex:1;min-width:0;}
-.contact-detail-name{font-size:14px;font-weight:600;color:var(--text);}
-.contact-detail-role{font-size:12px;color:var(--muted);margin-top:1px;}
-.contact-detail-body{border-top:0.5px solid var(--border);padding:16px;display:none;}
-.contact-detail-body.open{display:block;}
+/* MODAL */
+.moverlay{position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:300;display:none;align-items:flex-end;justify-content:center;}
+.moverlay.open{display:flex;}
+.moverlay.center{align-items:center;}
+.modal{background:var(--surf);border-radius:20px 20px 0 0;padding:24px 20px 36px;width:100%;max-width:540px;animation:sup .3s cubic-bezier(.4,0,.2,1);}
+.modal.cm{border-radius:20px;max-height:85vh;overflow-y:auto;padding-bottom:24px;}
+@keyframes sup{from{transform:translateY(100%)}to{transform:translateY(0)}}
+.mh{width:36px;height:4px;background:var(--bdr2);border-radius:2px;margin:0 auto 20px;}
+.mtitle{font-size:16px;font-weight:600;color:var(--txt);margin-bottom:18px;}
 
-/* RELANCE INDICATOR */
-.relance-badge{display:inline-flex;align-items:center;gap:4px;font-size:10px;font-weight:600;padding:3px 8px;border-radius:999px;}
-.rb-urgent{background:#fff0ef;color:#c0392b;}
-.rb-soon{background:#fff5e6;color:#8a5200;}
-.rb-ok{background:#edfbf1;color:#1a7a35;}
-.rb-none{background:var(--surface2);color:var(--muted);}
-
-/* MESSAGE HISTORY */
-.msg-item{padding:10px 0;border-bottom:0.5px solid var(--border);}
-.msg-item:last-child{border-bottom:none;}
-.msg-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:4px;}
-.msg-type{font-size:10px;font-weight:600;padding:2px 7px;border-radius:999px;}
-.mt-sent{background:var(--accent-light);color:var(--accent);}
-.mt-received{background:var(--green-light);color:#1a7a35;}
-.mt-note{background:var(--surface2);color:var(--muted);border:0.5px solid var(--border);}
-.msg-date{font-size:10px;color:var(--muted2);}
-.msg-content{font-size:12px;color:var(--text);line-height:1.5;}
-
-/* TEMPLATE MODAL */
-.tmpl-card{background:var(--surface2);border:0.5px solid var(--border);border-radius:var(--rsm);padding:14px;margin-bottom:10px;cursor:pointer;transition:all 0.15s;}
-.tmpl-card:hover{border-color:var(--accent);background:var(--accent-light);}
-.tmpl-card-title{font-size:12px;font-weight:600;color:var(--text);margin-bottom:4px;}
-.tmpl-card-preview{font-size:11px;color:var(--muted);line-height:1.5;}
-.tmpl-generated{background:var(--surface2);border:0.5px solid var(--border2);border-radius:var(--rsm);padding:12px;font-size:12px;color:var(--text);line-height:1.7;white-space:pre-wrap;margin:12px 0;min-height:120px;}
-
-/* JOB CARDS */
-.job-card{background:var(--surface);border:0.5px solid var(--border);border-radius:var(--r);padding:16px;margin-bottom:8px;cursor:pointer;transition:all 0.15s;}
-.job-card:hover{box-shadow:0 4px 16px rgba(0,0,0,0.08);border-color:var(--border2);transform:translateY(-1px);}
-.job-card-top{display:flex;align-items:flex-start;gap:12px;margin-bottom:8px;}
-.job-logo{width:42px;height:42px;border-radius:10px;background:var(--accent-light);display:flex;align-items:center;justify-content:center;font-size:18px;flex-shrink:0;}
-.job-title{font-size:14px;font-weight:600;color:var(--text);margin-bottom:2px;line-height:1.3;}
-.job-company{font-size:12px;font-weight:500;color:var(--accent);}
-.job-meta{display:flex;gap:8px;flex-wrap:wrap;margin-top:6px;}
-.job-meta-item{font-size:11px;color:var(--muted);display:flex;align-items:center;gap:3px;}
-.job-desc-preview{font-size:12px;color:var(--muted);line-height:1.5;margin-top:8px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
-.job-footer{display:flex;align-items:center;justify-content:space-between;margin-top:10px;padding-top:10px;border-top:0.5px solid var(--border);}
-.job-date{font-size:11px;color:var(--muted2);}
-.job-salary{font-size:12px;font-weight:500;color:var(--green);}
-
-/* JOB MODAL */
-.jm-header{display:flex;align-items:flex-start;gap:14px;margin-bottom:20px;}
-.jm-logo{width:54px;height:54px;border-radius:14px;background:var(--accent-light);display:flex;align-items:center;justify-content:center;font-size:24px;flex-shrink:0;}
-.jm-title{font-size:18px;font-weight:600;color:var(--text);margin-bottom:4px;line-height:1.2;}
-.jm-company{font-size:14px;font-weight:500;color:var(--accent);}
-.jm-meta{display:flex;gap:10px;flex-wrap:wrap;margin:12px 0;padding:12px;background:var(--surface2);border-radius:var(--rsm);}
-.jm-meta-item{font-size:12px;color:var(--muted);display:flex;align-items:center;gap:4px;}
-.jm-desc{font-size:13px;color:var(--text);line-height:1.7;white-space:pre-wrap;margin-bottom:20px;}
-.jm-actions{display:flex;gap:8px;}
+.empty{text-align:center;padding:48px 20px;color:var(--mut);}
+.eico{font-size:36px;margin-bottom:10px;opacity:.3;}
+.etxt{font-size:13px;}
 
 @media(max-width:600px){
-  .dash-kpis{grid-template-columns:1fr 1fr;}
-  .dash-row{grid-template-columns:1fr;}
-  .form-row{grid-template-columns:1fr;}
-  .co-grid{grid-template-columns:1fr;}
+  .kpis,.drow{grid-template-columns:1fr 1fr;}
+  .frow{grid-template-columns:1fr;}
+  .cogrid{grid-template-columns:1fr;}
   .main{padding:16px;}
-  .nav-inner{padding:0 16px;}
+  .navi{padding:0 16px;}
 }
 </style>
 </head>
@@ -330,61 +284,58 @@ select{cursor:pointer;}
 
 <div id="overlay" onclick="closeDrawer()"></div>
 
-<!-- DRAWER -->
 <div id="drawer">
-  <div class="d-head">
-    <div class="d-avatar">AB</div>
-    <div class="d-name">Adrien Bouré</div>
-    <div class="d-sub">Montréal · PJP · Gaming</div>
+  <div class="dh">
+    <div class="dav">AB</div>
+    <div class="dn">Adrien Bouré</div>
+    <div class="ds">Montréal · PJP · Gaming</div>
   </div>
-  <div class="d-nav">
-    <div class="d-section-label">Navigation</div>
-    <button class="d-item active" id="di-dashboard" onclick="goTo('dashboard')"><span class="d-item-icon">⚡</span>Dashboard</button>
-    <button class="d-item" id="di-tracker" onclick="goTo('tracker')"><span class="d-item-icon">📋</span>Candidatures</button>
-    <button class="d-item" id="di-contacts" onclick="goTo('contacts')"><span class="d-item-icon">👥</span>Contacts LinkedIn</button>
-    <button class="d-item" id="di-entreprises" onclick="goTo('entreprises')"><span class="d-item-icon">💼</span>Offres d'emploi</button>
-    <button class="d-item" id="di-lm" onclick="goTo('lm')"><span class="d-item-icon">✉️</span>Lettre de motivation</button>
-    <button class="d-item" id="di-pjp" onclick="goTo('pjp')"><span class="d-item-icon">🇨🇦</span>Stratégie PJP</button>
-    <div class="d-section-label" style="margin-top:8px;">Actions</div>
-    <button class="d-item d-item-special" onclick="openModal()"><span class="d-item-icon">+</span>Nouvelle candidature</button>
-    <button class="d-item d-item-special" onclick="openContactModal()" style="background:rgba(191,90,242,0.12);color:#c084fc;border-color:rgba(191,90,242,0.25);margin-top:4px;" id="new-contact-btn"><span class="d-item-icon">+</span>Nouveau contact</button>
-    <div class="d-section-label" style="margin-top:8px;">Compte</div>
-    <button class="d-item" id="di-setup" onclick="goTo('setup')"><span class="d-item-icon">⚙️</span>Réglages Firebase</button>
+  <div class="dnav">
+    <div class="dlbl">Navigation</div>
+    <button class="di active" id="di-dashboard" onclick="goTo('dashboard')"><span class="di-icon">⚡</span>Dashboard</button>
+    <button class="di" id="di-tracker" onclick="goTo('tracker')"><span class="di-icon">📋</span>Candidatures</button>
+    <button class="di" id="di-contacts" onclick="goTo('contacts')"><span class="di-icon">👥</span>Contacts LinkedIn</button>
+    <button class="di" id="di-jobs" onclick="goTo('jobs')"><span class="di-icon">💼</span>Offres d'emploi</button>
+    <button class="di" id="di-cos" onclick="goTo('cos')"><span class="di-icon">🏢</span>Entreprises</button>
+    <button class="di" id="di-lm" onclick="goTo('lm')"><span class="di-icon">✉️</span>Lettre de motivation</button>
+    <button class="di" id="di-pjp" onclick="goTo('pjp')"><span class="di-icon">🇨🇦</span>Stratégie PJP</button>
+    <div class="dlbl" style="margin-top:8px;">Actions</div>
+    <button class="di di-add" onclick="openModal('cand')"><span class="di-icon">+</span>Nouvelle candidature</button>
+    <button class="di di-add2" style="margin-top:4px;" onclick="openModal('contact')"><span class="di-icon">+</span>Nouveau contact</button>
+    <div class="dlbl" style="margin-top:8px;">Compte</div>
+    <button class="di" id="di-setup" onclick="goTo('setup')"><span class="di-icon">⚙️</span>Réglages Firebase</button>
   </div>
-  <div class="d-foot">
-    <div class="sync-pill" id="sync-drawer"><div class="sync-dot" id="sd-dot"></div><span id="sd-label">Local</span></div>
+  <div class="dfoot">
+    <div class="spill" id="spill"><div class="sdot" id="sd"></div><span id="sl">Local</span></div>
   </div>
 </div>
 
-<!-- NAV -->
 <nav>
-  <div class="nav-inner">
-    <div class="nav-watermark">Montréal</div>
-    <div class="nav-left">
-      <button class="hamburger" id="hbg" onclick="toggleDrawer()">
-        <span></span><span></span><span></span>
-      </button>
-      <div class="nav-info">
-        <div class="nav-title">Adrien Bouré <em>Job Search</em></div>
-        <div class="nav-sub">Montréal · PJP · Entertainment & Gaming</div>
+  <div class="navi">
+    <div class="nwm">Montréal</div>
+    <div class="nl">
+      <button class="hbg" id="hbg" onclick="toggleDrawer()"><span></span><span></span><span></span></button>
+      <div>
+        <div class="ntitle">Adrien Bouré <em>Job Search</em></div>
+        <div class="nsub">Montréal · PJP · Entertainment & Gaming</div>
       </div>
     </div>
-    <div class="nav-sync" id="sync-nav"><div class="sync-dot" id="sn-dot"></div><span id="sn-label">—</span></div>
+    <div class="nsync" id="nsync"><div class="sdot" id="nd"></div><span id="nl2">—</span></div>
   </div>
 </nav>
 
-<!-- MODAL NOUVELLE CANDIDATURE -->
-<div class="modal-overlay" id="modal-cand" onclick="closeModalOutside(event)">
+<!-- MODAL CANDIDATURE -->
+<div class="moverlay" id="m-cand" onclick="if(event.target===this)closeModal('cand')">
   <div class="modal">
-    <div class="modal-handle"></div>
-    <div class="modal-title">Nouvelle candidature</div>
-    <div class="form-row">
-      <div class="form-group"><div class="form-label">Poste</div><input type="text" id="f-poste" placeholder="ex : CRM Analyst"></div>
-      <div class="form-group"><div class="form-label">Entreprise</div><input type="text" id="f-co" placeholder="ex : Ubisoft Montréal"></div>
+    <div class="mh"></div>
+    <div class="mtitle">Nouvelle candidature</div>
+    <div class="frow">
+      <div class="fg"><div class="fl">Poste</div><input type="text" id="f-poste" placeholder="ex : CRM Analyst"></div>
+      <div class="fg"><div class="fl">Entreprise</div><input type="text" id="f-co" placeholder="ex : Ubisoft Montréal"></div>
     </div>
-    <div class="form-row">
-      <div class="form-group"><div class="form-label">Date</div><input type="date" id="f-date"></div>
-      <div class="form-group"><div class="form-label">Statut</div>
+    <div class="frow">
+      <div class="fg"><div class="fl">Date</div><input type="date" id="f-date"></div>
+      <div class="fg"><div class="fl">Statut</div>
         <select id="f-status">
           <option value="envoyée">Envoyée</option>
           <option value="relance">À relancer</option>
@@ -394,36 +345,36 @@ select{cursor:pointer;}
         </select>
       </div>
     </div>
-    <div class="form-group" style="margin-bottom:12px;"><div class="form-label">Note / lien</div><textarea id="f-note" placeholder="URL de l'offre, contact, remarques..."></textarea></div>
+    <div class="fg" style="margin-bottom:12px;"><div class="fl">Note / lien</div><textarea id="f-note" placeholder="URL de l'offre, contact..."></textarea></div>
     <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;margin-bottom:16px;">
       <div>
-        <div class="form-label" style="margin-bottom:6px;">Priorité</div>
-        <div class="prio-row">
-          <button class="prio-btn sel-haute" id="pb-haute" onclick="selPrio('haute')">Haute</button>
-          <button class="prio-btn" id="pb-moyenne" onclick="selPrio('moyenne')">Moyenne</button>
-          <button class="prio-btn" id="pb-basse" onclick="selPrio('basse')">Basse</button>
+        <div class="fl" style="margin-bottom:6px;">Priorité</div>
+        <div class="prow">
+          <button class="pb2 ph" id="pb-h" onclick="selPrio('h')">Haute</button>
+          <button class="pb2" id="pb-m" onclick="selPrio('m')">Moyenne</button>
+          <button class="pb2" id="pb-l" onclick="selPrio('l')">Basse</button>
         </div>
       </div>
     </div>
     <div style="display:flex;gap:8px;">
-      <button class="btn btn-full" onclick="closeModal()">Annuler</button>
-      <button class="btn btn-primary btn-full" onclick="addCand()">Ajouter</button>
+      <button class="btn btn-f" onclick="closeModal('cand')">Annuler</button>
+      <button class="btn btn-p btn-f" onclick="addCand()">Ajouter</button>
     </div>
   </div>
 </div>
 
-<!-- MODAL NOUVEAU CONTACT -->
-<div class="modal-overlay" id="modal-contact" onclick="closeContactModalOutside(event)">
+<!-- MODAL CONTACT -->
+<div class="moverlay" id="m-contact" onclick="if(event.target===this)closeModal('contact')">
   <div class="modal">
-    <div class="modal-handle"></div>
-    <div class="modal-title">Nouveau contact LinkedIn</div>
-    <div class="form-row">
-      <div class="form-group"><div class="form-label">Prénom Nom</div><input type="text" id="c-name" placeholder="ex : Sophie Martin"></div>
-      <div class="form-group"><div class="form-label">Entreprise</div><input type="text" id="c-co" placeholder="ex : Ubisoft Montréal"></div>
+    <div class="mh"></div>
+    <div class="mtitle">Nouveau contact LinkedIn</div>
+    <div class="frow">
+      <div class="fg"><div class="fl">Prénom Nom</div><input type="text" id="c-name" placeholder="ex : Sophie Martin"></div>
+      <div class="fg"><div class="fl">Entreprise</div><input type="text" id="c-co" placeholder="ex : Ubisoft Montréal"></div>
     </div>
-    <div class="form-group" style="margin-bottom:10px;"><div class="form-label">Poste</div><input type="text" id="c-role" placeholder="ex : Senior CRM Manager"></div>
-    <div class="form-row">
-      <div class="form-group"><div class="form-label">Statut</div>
+    <div class="fg" style="margin-bottom:10px;"><div class="fl">Poste</div><input type="text" id="c-role" placeholder="ex : Senior CRM Manager"></div>
+    <div class="frow">
+      <div class="fg"><div class="fl">Statut</div>
         <select id="c-status">
           <option value="tocontact">À contacter</option>
           <option value="contacted">Message envoyé</option>
@@ -431,81 +382,80 @@ select{cursor:pointer;}
           <option value="meeting">Appel / café prévu</option>
         </select>
       </div>
-      <div class="form-group"><div class="form-label">URL LinkedIn</div><input type="text" id="c-url" placeholder="linkedin.com/in/..."></div>
+      <div class="fg"><div class="fl">URL LinkedIn</div><input type="text" id="c-url" placeholder="linkedin.com/in/..."></div>
     </div>
-    <div class="form-group" style="margin-bottom:16px;"><div class="form-label">Note</div><textarea id="c-note" placeholder="Comment vous vous êtes trouvés, sujets à aborder..."></textarea></div>
+    <div class="fg" style="margin-bottom:16px;"><div class="fl">Note</div><textarea id="c-note" placeholder="Comment trouvé, sujets à aborder..."></textarea></div>
     <div style="display:flex;gap:8px;">
-      <button class="btn btn-full" onclick="closeContactModal()">Annuler</button>
-      <button class="btn btn-primary btn-full" onclick="addContact()">Ajouter</button>
+      <button class="btn btn-f" onclick="closeModal('contact')">Annuler</button>
+      <button class="btn btn-p btn-f" onclick="addContact()">Ajouter</button>
     </div>
   </div>
+</div>
+
+<!-- MODAL MESSAGE -->
+<div class="moverlay" id="m-msg" onclick="if(event.target===this)closeModal('msg')">
+  <div class="modal" style="border-radius:20px 20px 0 0;max-height:90vh;overflow-y:auto;padding-bottom:32px;" id="m-msg-body"></div>
+</div>
+
+<!-- MODAL JOB -->
+<div class="moverlay center" id="m-job" onclick="if(event.target===this)closeModal('job')">
+  <div class="modal cm" id="m-job-body"></div>
 </div>
 
 <div class="main">
 
 <!-- DASHBOARD -->
 <div id="panel-dashboard" class="panel active">
-  <div class="dash-hero">
-    <div class="dash-hero-bg">MTL</div>
-    <div class="dash-hero-top">
-      <div class="dash-greeting">
-        <span>Bonjour Adrien</span>
-        Objectif<br>Montréal 🇨🇦
-      </div>
-      <div class="dash-date" id="dash-date"></div>
+  <div class="hero">
+    <div class="hero-bg">MTL</div>
+    <div class="hero-top">
+      <div class="greet"><span>Bonjour Adrien</span>Objectif<br>Montréal 🇨🇦</div>
+      <div class="hdate" id="hdate"></div>
     </div>
-    <div class="dash-kpis">
-      <div class="kpi"><div class="kpi-val" id="dk-total">0</div><div class="kpi-label">Candidatures</div></div>
-      <div class="kpi amber"><div class="kpi-val" id="dk-relance">0</div><div class="kpi-label">À relancer</div></div>
-      <div class="kpi green"><div class="kpi-val" id="dk-entretien">0</div><div class="kpi-label">Entretiens</div></div>
-      <div class="kpi accent"><div class="kpi-val" id="dk-contacts">0</div><div class="kpi-label">Contacts</div></div>
+    <div class="kpis">
+      <div class="kpi"><div class="kv" id="dk1">0</div><div class="kl">Candidatures</div></div>
+      <div class="kpi km"><div class="kv" id="dk2">0</div><div class="kl">À relancer</div></div>
+      <div class="kpi kg"><div class="kv" id="dk3">0</div><div class="kl">Entretiens</div></div>
+      <div class="kpi ka"><div class="kv" id="dk4">0</div><div class="kl">Contacts</div></div>
     </div>
   </div>
-
-  <div class="dash-row">
-    <div class="dash-card">
-      <div class="dash-card-title">Candidatures récentes <span class="dash-card-action" onclick="goTo('tracker')">Voir tout →</span></div>
-      <div id="dash-recent"></div>
+  <div class="drow">
+    <div class="dcard">
+      <div class="dct">Candidatures récentes <span class="dca" onclick="goTo('tracker')">Voir tout →</span></div>
+      <div id="d-recent"></div>
     </div>
-    <div class="dash-card">
-      <div class="dash-card-title">Par statut</div>
-      <div id="dash-status"></div>
+    <div class="dcard">
+      <div class="dct">Par statut</div>
+      <div id="d-status"></div>
     </div>
   </div>
-
-  <div class="dash-row">
-    <div class="dash-card">
-      <div class="dash-card-title">Progression PJP <span class="dash-card-action" onclick="goTo('pjp')">Checklist →</span></div>
-      <div class="prog-section">
-        <div class="prog-label"><strong id="pjp-prog-label">0/9 étapes</strong></div>
-        <div class="prog-bar"><div class="prog-fill" id="pjp-prog-fill" style="width:0%"></div></div>
-      </div>
-      <div style="margin-top:14px;" id="dash-next-steps"></div>
+  <div class="drow">
+    <div class="dcard">
+      <div class="dct">Progression PJP <span class="dca" onclick="goTo('pjp')">Checklist →</span></div>
+      <div class="pb" style="margin-bottom:10px;"><div class="pf" id="d-pf" style="width:0%"></div></div>
+      <div id="d-pjp"></div>
     </div>
-    <div class="dash-card">
-      <div class="dash-card-title">Contacts LinkedIn <span class="dash-card-action" onclick="goTo('contacts')">Voir tout →</span></div>
-      <div id="dash-contacts-preview"></div>
+    <div class="dcard">
+      <div class="dct">Contacts LinkedIn <span class="dca" onclick="goTo('contacts')">Voir tout →</span></div>
+      <div id="d-contacts"></div>
     </div>
   </div>
 </div>
 
 <!-- TRACKER -->
 <div id="panel-tracker" class="panel">
-  <div class="section-hd">
-    <div class="section-title">Candidatures</div>
-    <div class="section-count" id="cand-count"></div>
-  </div>
+  <div class="shd"><div class="stl">Candidatures</div><div class="scnt" id="cand-cnt"></div></div>
   <div id="cand-list"></div>
-  <div id="empty-state" class="empty"><div class="empty-icon">📋</div><div class="empty-text">Aucune candidature — utilise le menu pour en ajouter une !</div></div>
+  <div id="cand-empty" class="empty"><div class="eico">📋</div><div class="etxt">Utilise le menu pour ajouter une candidature !</div></div>
 </div>
 
 <!-- CONTACTS -->
 <div id="panel-contacts" class="panel">
-  <div class="section-hd">
-    <div class="section-title">Contacts LinkedIn</div>
+  <div class="shd">
+    <div class="stl">Contacts LinkedIn</div>
     <div style="display:flex;gap:8px;align-items:center;">
-      <div class="section-count" id="contact-count"></div>
-      <select id="contact-filter" style="font-size:11px;padding:4px 8px;width:auto;" onchange="filterContacts()">
+      <div class="scnt" id="cont-cnt"></div>
+      <select style="font-size:11px;padding:4px 8px;width:auto;" onchange="filterContacts(this.value)">
         <option value="">Tous</option>
         <option value="tocontact">À contacter</option>
         <option value="contacted">Contactés</option>
@@ -514,123 +464,98 @@ select{cursor:pointer;}
       </select>
     </div>
   </div>
-  <div id="relance-banner" style="display:none;background:#fff5e6;border:0.5px solid rgba(255,159,10,0.3);border-radius:var(--rsm);padding:10px 14px;margin-bottom:12px;font-size:12px;color:#8a5200;"></div>
-  <div id="contact-list"></div>
-  <div id="empty-contacts" class="empty"><div class="empty-icon">👥</div><div class="empty-text">Aucun contact — utilise le menu pour en ajouter un !</div></div>
+  <div id="relance-banner" style="display:none;background:#fff5e6;border:.5px solid rgba(255,159,10,.3);border-radius:var(--rs);padding:10px 14px;margin-bottom:12px;font-size:12px;color:#8a5200;"></div>
+  <div id="cont-list"></div>
+  <div id="cont-empty" class="empty"><div class="eico">👥</div><div class="etxt">Utilise le menu pour ajouter un contact !</div></div>
 </div>
 
-<!-- MODAL MESSAGE LINKEDIN -->
-<div class="modal-overlay" id="modal-msg" onclick="closeMsgModalOutside(event)">
-  <div class="modal" style="border-radius:20px 20px 0 0;max-height:90vh;overflow-y:auto;padding-bottom:32px;" id="modal-msg-content">
-  </div>
-</div>
-
-<!-- OFFRES -->
-<div id="panel-entreprises" class="panel">
-  <div class="section-hd">
-    <div class="section-title">Offres d'emploi</div>
+<!-- JOBS -->
+<div id="panel-jobs" class="panel">
+  <div class="shd">
+    <div class="stl">Offres d'emploi</div>
     <div style="display:flex;gap:8px;align-items:center;">
-      <div style="font-size:11px;color:var(--muted);" id="jobs-updated"></div>
-      <button class="btn" style="font-size:11px;padding:5px 12px;" onclick="loadJobs()">↻ Actualiser</button>
+      <div style="font-size:11px;color:var(--mut);" id="jobs-upd"></div>
+      <button class="btn" style="font-size:11px;padding:5px 12px;" onclick="loadJobs()">↻</button>
     </div>
   </div>
-
-  <!-- FILTRES -->
   <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px;">
-    <input type="text" id="jobs-search" placeholder="Rechercher..." style="flex:1;min-width:140px;font-size:12px;padding:7px 11px;" oninput="filterJobs()">
-    <select id="jobs-filter-co" style="font-size:12px;padding:7px 11px;width:auto;" onchange="filterJobs()">
-      <option value="">Toutes les boîtes</option>
-      <option value="ubisoft">Ubisoft</option>
-      <option value="ea">EA</option>
-      <option value="gameloft">Gameloft</option>
-      <option value="behaviour">Behaviour</option>
-      <option value="warner">Warner</option>
-    </select>
-    <select id="jobs-filter-sort" style="font-size:12px;padding:7px 11px;width:auto;" onchange="filterJobs()">
+    <input type="text" id="jsearch" placeholder="Rechercher..." style="flex:1;min-width:140px;font-size:12px;padding:7px 11px;" oninput="filterJobs()">
+    <select id="jsort" style="font-size:12px;padding:7px 11px;width:auto;" onchange="filterJobs()">
       <option value="date">Plus récentes</option>
       <option value="salary">Salaire</option>
       <option value="company">Entreprise</option>
     </select>
   </div>
-
   <div id="jobs-list"></div>
-  <div id="jobs-empty" class="empty" style="display:none;"><div class="empty-icon">🔍</div><div class="empty-text">Aucune offre trouvée</div></div>
-  <div id="jobs-loading" style="text-align:center;padding:40px;color:var(--muted);font-size:13px;">Chargement des offres...</div>
+  <div id="jobs-empty" class="empty" style="display:none;"><div class="eico">🔍</div><div class="etxt">Aucune offre trouvée</div></div>
+  <div id="jobs-loading" style="text-align:center;padding:40px;color:var(--mut);font-size:13px;">Chargement des offres...</div>
 </div>
 
-<!-- MODAL OFFRE -->
-<div class="modal-overlay" id="modal-job" onclick="closeJobModal(event)" style="align-items:center;">
-  <div class="modal" style="border-radius:20px;max-height:85vh;overflow-y:auto;padding-bottom:24px;" id="modal-job-content"></div>
+<!-- ENTREPRISES -->
+<div id="panel-cos" class="panel">
+  <div class="shd"><div class="stl">Entreprises cibles</div><div class="scnt">8 boîtes</div></div>
+  <div class="cogrid" id="cos-grid"></div>
 </div>
 
 <!-- LM -->
 <div id="panel-lm" class="panel">
   <div class="card">
-    <div class="card-title">Générateur de lettre de motivation</div>
-    <div class="form-group" style="margin-bottom:10px;"><div class="form-label">Poste visé</div><input type="text" id="g-poste" placeholder="ex : Market Intelligence Analyst"></div>
-    <div class="form-group" style="margin-bottom:10px;"><div class="form-label">Entreprise</div><input type="text" id="g-co" placeholder="ex : Ubisoft Montréal"></div>
-    <div class="form-group" style="margin-bottom:12px;"><div class="form-label">Ce qui t'attire dans ce rôle</div><textarea id="g-why" placeholder="passion gaming, culture data-driven..."></textarea></div>
+    <div class="ct">Générateur de lettre de motivation</div>
+    <div class="fg" style="margin-bottom:10px;"><div class="fl">Poste visé</div><input type="text" id="g-poste" placeholder="ex : Market Intelligence Analyst"></div>
+    <div class="fg" style="margin-bottom:10px;"><div class="fl">Entreprise</div><input type="text" id="g-co" placeholder="ex : Ubisoft Montréal"></div>
+    <div class="fg" style="margin-bottom:12px;"><div class="fl">Ce qui t'attire</div><textarea id="g-why" placeholder="passion gaming, culture data-driven..."></textarea></div>
     <div style="margin-bottom:16px;">
-      <div class="form-label" style="margin-bottom:8px;">Compétences à mettre en avant</div>
-      <div class="skill-tags" id="skill-tags">
-        <span class="skill-tag sel" data-sk="SQL & data analysis">SQL & data</span>
-        <span class="skill-tag sel" data-sk="CRM & segmentation">CRM</span>
-        <span class="skill-tag sel" data-sk="market intelligence">Market intel</span>
-        <span class="skill-tag" data-sk="Salesforce Marketing Cloud">Salesforce MC</span>
-        <span class="skill-tag" data-sk="Power BI & data viz">Power BI</span>
-        <span class="skill-tag" data-sk="gestion de projet et leadership">Leadership</span>
-        <span class="skill-tag" data-sk="communication multilingue FR/EN/ES">Trilinguisme</span>
-        <span class="skill-tag" data-sk="analyse de panels distributeurs GfK/GSD">Panels distrib.</span>
+      <div class="fl" style="margin-bottom:8px;">Compétences à mettre en avant</div>
+      <div class="stags" id="stags">
+        <span class="stag sel" data-sk="SQL & data analysis">SQL & data</span>
+        <span class="stag sel" data-sk="CRM & segmentation">CRM</span>
+        <span class="stag sel" data-sk="market intelligence">Market intel</span>
+        <span class="stag" data-sk="Salesforce Marketing Cloud">Salesforce MC</span>
+        <span class="stag" data-sk="Power BI">Power BI</span>
+        <span class="stag" data-sk="leadership & gestion de projet">Leadership</span>
+        <span class="stag" data-sk="trilinguisme FR/EN/ES">Trilinguisme</span>
+        <span class="stag" data-sk="panels GfK/GSD">Panels distrib.</span>
       </div>
     </div>
-    <button class="btn btn-primary btn-full" onclick="genLM()">Copier le prompt pour Claude →</button>
-    <div style="font-size:11px;color:var(--muted);margin-top:8px;text-align:center;">Colle ensuite le prompt dans claude.ai</div>
+    <button class="btn btn-p btn-f" onclick="genLM()">Copier le prompt pour Claude →</button>
+    <div style="font-size:11px;color:var(--mut);margin-top:8px;text-align:center;">Colle le prompt dans claude.ai pour générer ta lettre</div>
   </div>
 </div>
 
 <!-- PJP -->
 <div id="panel-pjp" class="panel">
   <div class="card" style="margin-bottom:12px;">
-    <div class="card-title">Checklist Programme Jeune Professionnel</div>
-    <div id="checklist-items"></div>
-    <div class="prog-bar-cl"><div class="prog-fill-cl" id="prog-fill" style="width:0%"></div></div>
-    <div class="prog-text" id="prog-text">0/9 étapes</div>
+    <div class="ct">Checklist Programme Jeune Professionnel</div>
+    <div id="cl-items"></div>
+    <div class="clpb"><div class="clpf" id="cl-pf" style="width:0%"></div></div>
+    <div class="clpt" id="cl-pt">0/9 étapes</div>
   </div>
   <div class="card">
-    <div class="card-title">Conseils pour ton profil</div>
-    <div class="tip"><div class="tip-num">01</div><div class="tip-text">Finalise ta <strong>certif Salesforce Marketing Cloud</strong> — critère de filtre direct sur les postes CRM gaming.</div></div>
-    <div class="tip"><div class="tip-num">02</div><div class="tip-text">Cherche <strong>"EDHEC Montréal"</strong> dans les filtres Alumni LinkedIn — le réseau Grande École est actif.</div></div>
-    <div class="tip"><div class="tip-num">03</div><div class="tip-text">Utilise <strong>"Analyste de marché"</strong> plutôt que Business Analyst dans ton CV québécois.</div></div>
-    <div class="tip"><div class="tip-num">04</div><div class="tip-text">Mets ton <strong>TOEIC 980</strong> dès le titre du CV — bilinguisme FR/EN très valorisé à Montréal.</div></div>
-    <div class="tip"><div class="tip-num">05</div><div class="tip-text">L'employeur doit émettre l'offre <strong>avant</strong> la demande PJP — priorise les candidatures.</div></div>
-    <div class="tip"><div class="tip-num">06</div><div class="tip-text">Postule sur <strong>careers.ubisoft.com</strong> ET LinkedIn Ubisoft — les deux canaux sont actifs.</div></div>
+    <div class="ct">Conseils pour ton profil</div>
+    <div class="tip"><div class="tipn">01</div><div class="tipt">Finalise ta <strong>certif Salesforce Marketing Cloud</strong> — critère de filtre direct sur les postes CRM gaming.</div></div>
+    <div class="tip"><div class="tipn">02</div><div class="tipt">Cherche <strong>"EDHEC Montréal"</strong> dans les filtres Alumni LinkedIn — le réseau Grande École est actif.</div></div>
+    <div class="tip"><div class="tipn">03</div><div class="tipt">Utilise <strong>"Analyste de marché"</strong> plutôt que Business Analyst dans ton CV québécois.</div></div>
+    <div class="tip"><div class="tipn">04</div><div class="tipt">Mets ton <strong>TOEIC 980</strong> dès le titre du CV — bilinguisme FR/EN très valorisé à Montréal.</div></div>
+    <div class="tip"><div class="tipn">05</div><div class="tipt">L'employeur doit émettre l'offre <strong>avant</strong> la demande PJP — priorise les candidatures.</div></div>
+    <div class="tip"><div class="tipn">06</div><div class="tipt">Postule sur <strong>careers.ubisoft.com</strong> ET LinkedIn Ubisoft — les deux canaux sont actifs.</div></div>
   </div>
 </div>
 
 <!-- SETUP -->
 <div id="panel-setup" class="panel">
   <div class="card">
-    <div class="card-title">Firebase — synchronisation cloud</div>
-    <div class="setup-step">
-      <div class="step-n">01</div>
-      <div><div class="step-title">Créer un projet Firebase</div><div class="step-desc"><a href="https://console.firebase.google.com" target="_blank" style="color:var(--accent);">console.firebase.google.com</a> → Add project → créer.</div></div>
-    </div>
-    <div class="setup-step">
-      <div class="step-n">02</div>
-      <div><div class="step-title">Activer Firestore en mode test</div><div class="step-desc">Firestore Database → Create database → Start in test mode → us-east1.</div></div>
-    </div>
-    <div class="setup-step">
-      <div class="step-n">03</div>
-      <div><div class="step-title">Coller ta config</div><div class="step-desc">⚙ Paramètres → Général → Vos applications → firebaseConfig.</div>
-        <input class="cfg-input" id="cfg-apiKey" placeholder="apiKey">
-        <input class="cfg-input" id="cfg-authDomain" placeholder="authDomain">
-        <input class="cfg-input" id="cfg-projectId" placeholder="projectId">
-        <input class="cfg-input" id="cfg-storageBucket" placeholder="storageBucket">
-        <input class="cfg-input" id="cfg-messagingSenderId" placeholder="messagingSenderId">
-        <input class="cfg-input" id="cfg-appId" placeholder="appId">
-        <button class="btn btn-primary" style="margin-top:8px;" onclick="saveConfig()">Connecter →</button>
-      </div>
-    </div>
+    <div class="ct">Firebase — synchronisation cloud</div>
+    <div class="ss"><div class="ssn">01</div><div><div class="sst">Créer un projet Firebase</div><div class="ssd"><a href="https://console.firebase.google.com" target="_blank" style="color:var(--acc);">console.firebase.google.com</a> → Add project → créer.</div></div></div>
+    <div class="ss"><div class="ssn">02</div><div><div class="sst">Activer Firestore en mode test</div><div class="ssd">Firestore Database → Create database → Start in test mode → us-east1.</div></div></div>
+    <div class="ss"><div class="ssn">03</div><div><div class="sst">Coller ta config</div><div class="ssd">⚙ Paramètres → Général → Vos applications → firebaseConfig.</div>
+      <input class="ci" id="cfg-apiKey" placeholder="apiKey">
+      <input class="ci" id="cfg-authDomain" placeholder="authDomain">
+      <input class="ci" id="cfg-projectId" placeholder="projectId">
+      <input class="ci" id="cfg-storageBucket" placeholder="storageBucket">
+      <input class="ci" id="cfg-messagingSenderId" placeholder="messagingSenderId">
+      <input class="ci" id="cfg-appId" placeholder="appId">
+      <button class="btn btn-p" style="margin-top:8px;" onclick="saveConfig()">Connecter →</button>
+    </div></div>
     <div id="fb-result" style="margin-top:12px;"></div>
   </div>
 </div>
@@ -638,28 +563,23 @@ select{cursor:pointer;}
 </div>
 
 <script>
-var candidatures=[], contacts=[], prio='haute', db=null, unsub=null, unsubC=null;
+// ===== STATE =====
+var cands=[], conts=[], allJobs=[], filtJobs=[], prio='h', db=null, unsub1=null, unsub2=null;
+
 var FB={apiKey:"AIzaSyDyySnoo4b8XSe6lkzC3jXSsljTS-WK33U",authDomain:"objectif-montreal.firebaseapp.com",projectId:"objectif-montreal",storageBucket:"objectif-montreal.firebasestorage.app",messagingSenderId:"10317943413",appId:"1:10317943413:web:6ec4dcda10a95ed2e75e3c"};
-var ADRIEN_PROFILE = {
-  name: "Adrien Bouré",
-  school: "EDHEC Business School (Grande École)",
-  degree: "Master in Management + MSc Marketing",
-  experiences: [
-    {role: "Content Strategist", company: "Studio TF1", period: "mars-août 2025", skills: ["market intelligence", "SQL", "CRM", "briefs data-driven", "10+ projets"]},
-    {role: "Business Analyst", company: "Warner Bros. Discovery", period: "sept. 2024-fév. 2025", skills: ["panels GfK/GSD", "marché jeux vidéo", "insights compétitifs", "rapports stratégiques"]},
-  ],
-  languages: "bilingue FR/EN (TOEIC 980), espagnol courant",
-  certif: "Salesforce Marketing Cloud (en cours)",
-  passion: "gaming et player engagement",
-  style: "sobre, orienté résultats, phrases courtes, toujours une preuve concrète",
-  linkedin: "linkedin.com/in/adrienboure",
-  email: "adrien.boure@edhec.com",
-  phone: "+33 7 89 98 68 40"
+
+var ADRIEN={
+  name:"Adrien Bouré",
+  school:"EDHEC Business School (Grande École)",
+  exp1:"Warner Bros. Discovery — market intelligence gaming, panels GfK/GSD",
+  exp2:"Studio TF1 — CRM, SQL, briefs data-driven hebdomadaires",
+  languages:"bilingue FR/EN (TOEIC 980), espagnol courant",
+  linkedin:"linkedin.com/in/adrienboure"
 };
 
-var companies=[
+var cos=[
   {name:'Ubisoft Montréal',type:'Studio gaming AAA',top:true,postes:['CRM Analyst','Market Intelligence','Player Engagement'],url:'https://www.ubisoft.com/en-gb/company/careers'},
-  {name:'EA Montréal',type:'Studio gaming AAA',top:true,postes:['Marketing Analyst','Consumer Insights','Data Analyst'],url:'https://www.ea.com/careers'},
+  {name:'EA Montréal',type:'Studio gaming AAA',top:true,postes:['Marketing Analyst','Consumer Insights'],url:'https://www.ea.com/careers'},
   {name:'WB Games Montréal',type:'Studio gaming',top:false,postes:['Brand Manager','Market Research'],url:'https://careers.wbd.com'},
   {name:'Behaviour Interactive',type:'Studio indépendant',top:false,postes:['Marketing Coordinator','CRM Specialist'],url:'https://www.bhvr.com/careers/'},
   {name:'Gameloft Montréal',type:'Gaming mobile',top:false,postes:['Analyst Marketing','CRM Manager'],url:'https://careers.gameloft.com'},
@@ -667,559 +587,434 @@ var companies=[
   {name:'Cossette',type:'Agence media & data',top:false,postes:['Analyste data','Stratège CRM'],url:'https://www.cossette.com/fr/carrieres/'},
   {name:'Moment Factory',type:'Entertainment immersif',top:false,postes:['Coordinateur marketing','Analyste'],url:'https://momentfactory.com/careers'},
 ];
-var checklist=['CV adapté au format québécois (1 page, sans photo)','Lettre de motivation prête en FR et EN','Profil LinkedIn optimisé avec #OpenToWork','Certif Salesforce Marketing Cloud finalisée','Réseau alumni EDHEC à Montréal contacté','Candidatures envoyées sur careers.ubisoft.com','Candidatures envoyées sur autres entreprises cibles','Offre d\'emploi reçue (nécessaire avant PJP)','Demande PJP soumise sur Canada.ca'];
-var clState=JSON.parse(localStorage.getItem('adrien-cl')||'[]');
-if(clState.length!==checklist.length)clState=checklist.map(function(){return false;});
 
-// DATE
-var now=new Date();
-var days=['Dimanche','Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi'];
-var months=['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
-var el=document.getElementById('dash-date');
-if(el)el.innerHTML=days[now.getDay()]+'<br>'+now.getDate()+' '+months[now.getMonth()]+' '+now.getFullYear();
+var cl=['CV adapté au format québécois (1 page, sans photo)','Lettre de motivation prête en FR et EN','Profil LinkedIn optimisé avec #OpenToWork','Certif Salesforce Marketing Cloud finalisée','Réseau alumni EDHEC à Montréal contacté','Candidatures envoyées sur careers.ubisoft.com','Candidatures envoyées sur autres entreprises cibles','Offre d\'emploi reçue (nécessaire avant PJP)','Demande PJP soumise sur Canada.ca'];
+var cls=JSON.parse(localStorage.getItem('adrien-cl')||'[]');
+if(cls.length!==cl.length) cls=cl.map(function(){return false;});
+
+// Date
+var now=new Date(),days=['Dimanche','Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi'],mos=['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
+var hd=document.getElementById('hdate');
+if(hd) hd.innerHTML=days[now.getDay()]+'<br>'+now.getDate()+' '+mos[now.getMonth()]+' '+now.getFullYear();
 document.getElementById('f-date').valueAsDate=now;
 
-// DRAWER
+// ===== DRAWER =====
 function toggleDrawer(){document.getElementById('drawer').classList.contains('open')?closeDrawer():openDrawer();}
-function openDrawer(){document.getElementById('drawer').classList.add('open');document.getElementById('overlay').classList.add('open');document.getElementById('hbg').classList.add('open');document.body.style.overflow='hidden';}
-function closeDrawer(){document.getElementById('drawer').classList.remove('open');document.getElementById('overlay').classList.remove('open');document.getElementById('hbg').classList.remove('open');document.body.style.overflow='';}
+function openDrawer(){['drawer','overlay'].forEach(function(id){document.getElementById(id).classList.add('open');});document.getElementById('hbg').classList.add('open');document.body.style.overflow='hidden';}
+function closeDrawer(){['drawer','overlay'].forEach(function(id){document.getElementById(id).classList.remove('open');});document.getElementById('hbg').classList.remove('open');document.body.style.overflow='';}
 function goTo(id){
-  document.querySelectorAll('.d-item').forEach(function(el){el.classList.remove('active');});
-  var di=document.getElementById('di-'+id);if(di)di.classList.add('active');
+  document.querySelectorAll('.di').forEach(function(el){el.classList.remove('active');});
+  var d=document.getElementById('di-'+id);if(d)d.classList.add('active');
   document.querySelectorAll('.panel').forEach(function(p){p.classList.remove('active');});
   document.getElementById('panel-'+id).classList.add('active');
   closeDrawer();
 }
-window.toggleDrawer=toggleDrawer;window.closeDrawer=closeDrawer;window.goTo=goTo;
 
-// MODAL CAND
-function openModal(){closeDrawer();document.getElementById('modal-cand').classList.add('open');}
-function closeModal(){document.getElementById('modal-cand').classList.remove('open');}
-function closeModalOutside(e){if(e.target===document.getElementById('modal-cand'))closeModal();}
-window.openModal=openModal;window.closeModal=closeModal;window.closeModalOutside=closeModalOutside;
+// ===== MODALS =====
+function openModal(id){closeDrawer();document.getElementById('m-'+id).classList.add('open');}
+function closeModal(id){document.getElementById('m-'+id).classList.remove('open');}
 
-// MODAL CONTACT
-function openContactModal(){closeDrawer();document.getElementById('modal-contact').classList.add('open');}
-function closeContactModal(){document.getElementById('modal-contact').classList.remove('open');}
-function closeContactModalOutside(e){if(e.target===document.getElementById('modal-contact'))closeContactModal();}
-window.openContactModal=openContactModal;window.closeContactModal=closeContactModal;window.closeContactModalOutside=closeContactModalOutside;
+// ===== PRIO =====
+function selPrio(p){
+  prio=p;
+  var map={h:'ph',m:'pm',l:'pl'};
+  Object.keys(map).forEach(function(k){document.getElementById('pb-'+k).className='pb2'+(k===p?' '+map[k]:'');});
+}
 
-// PRIO
-function selPrio(p){prio=p;['haute','moyenne','basse'].forEach(function(x){document.getElementById('pb-'+x).className='prio-btn'+(x===p?' sel-'+x:'');});}
-window.selPrio=selPrio;
+// ===== BADGES =====
+function sbadge(s){var m={envoyée:['bb','Envoyée'],relance:['ba','À relancer'],entretien:['bp','Entretien'],refus:['bx','Refus'],offre:['bg','Offre !']};var v=m[s]||['bx',s];return '<span class="badge '+v[0]+'">'+v[1]+'</span>';}
+function csbadge(s){var m={tocontact:['ba','À contacter'],contacted:['bb','Contacté'],replied:['bg','A répondu'],meeting:['bp','Appel prévu']};var v=m[s]||['bx',s];return '<span class="badge '+v[0]+'">'+v[1]+'</span>';}
+function rdaysbadge(c){
+  if(c.status==='meeting'||c.status==='replied') return '<span class="rb rbg">✓ Actif</span>';
+  if(!c.lastContact) return '<span class="rb rbn">Pas encore contacté</span>';
+  var d=Math.floor((Date.now()-new Date(c.lastContact).getTime())/86400000);
+  if(d>=7) return '<span class="rb rbu">⚠ Relancer (+'+d+'j)</span>';
+  if(d>=4) return '<span class="rb rbs">Bientôt ('+d+'j)</span>';
+  return '<span class="rb rbg">Récent ('+d+'j)</span>';
+}
 
-// BADGES
-function sBadge(s){var m={envoyée:['b-blue','Envoyée'],relance:['b-amber','À relancer'],entretien:['b-purple','Entretien'],refus:['b-gray','Refus'],offre:['b-green','Offre !']};var v=m[s]||['b-gray',s];return '<span class="badge '+v[0]+'">'+v[1]+'</span>';}
-function csBadge(s){var m={tocontact:['cs-tocontact','À contacter'],contacted:['cs-contacted','Contacté'],replied:['cs-replied','A répondu'],meeting:['cs-meeting','Appel prévu']};var v=m[s]||['cs-tocontact',s];return '<span class="contact-status-badge '+v[0]+'">'+v[1]+'</span>';}
-
-// RENDER CANDS
-function renderList(){
-  var el=document.getElementById('cand-list'),emp=document.getElementById('empty-state'),cnt=document.getElementById('cand-count');
-  if(!candidatures.length){el.innerHTML='';emp.style.display='block';cnt.textContent='';return;}
+// ===== CANDIDATURES =====
+function renderCands(){
+  var el=document.getElementById('cand-list'),emp=document.getElementById('cand-empty'),cnt=document.getElementById('cand-cnt');
+  if(!cands.length){el.innerHTML='';emp.style.display='block';cnt.textContent='';return;}
   emp.style.display='none';
-  cnt.textContent=candidatures.length+' candidature'+(candidatures.length>1?'s':'');
-  var sorted=candidatures.slice().sort(function(a,b){var o={haute:0,moyenne:1,basse:2};return (o[a.prio]||1)-(o[b.prio]||1);});
+  cnt.textContent=cands.length+' candidature'+(cands.length>1?'s':'');
+  var sorted=cands.slice().sort(function(a,b){var o={h:0,m:1,l:2};return (o[a.prio]||1)-(o[b.prio]||1);});
   el.innerHTML=sorted.map(function(c){
-    return '<div class="cand-card"><div class="cand-top"><div class="pdot pdot-'+(c.prio||'basse')+'"></div><div class="cand-poste">'+c.poste+'</div>'+sBadge(c.status)+'<button class="del-btn" onclick="delCand(\''+c.id+'\')">×</button></div>'+
-    '<div class="cand-meta">'+c.co+(c.date?' · '+c.date:'')+'</div>'+
-    (c.note?'<div class="cand-note">'+c.note+'</div>':'')+
-    '<select class="mini-sel" onchange="chStatus(\''+c.id+'\',this.value)">'+['envoyée','relance','entretien','refus','offre'].map(function(s){return '<option value="'+s+'"'+(c.status===s?' selected':'')+'>'+s+'</option>';}).join('')+'</select></div>';
+    return '<div class="cc"><div class="cct"><div class="pd pd'+(c.prio||'l')+'"></div><div class="ccp">'+c.poste+'</div>'+sbadge(c.status)+'<button class="xbtn" onclick="delCand(\''+c.id+'\')">×</button></div>'+
+    '<div class="ccm">'+c.co+(c.date?' · '+c.date:'')+'</div>'+
+    (c.note?'<div class="ccn">'+c.note+'</div>':'')+
+    '<select class="msel" onchange="chStat(\''+c.id+'\',this.value)">'+['envoyée','relance','entretien','refus','offre'].map(function(s){return '<option value="'+s+'"'+(c.status===s?' selected':'')+'>'+s+'</option>';}).join('')+'</select></div>';
   }).join('');
+  updateStats();
 }
 
-function updateStats(){
-  var n=candidatures.length;
-  ['dk-total','s-total'].forEach(function(id){var e=document.getElementById(id);if(e)e.textContent=n;});
-  var r=candidatures.filter(function(c){return c.status==='relance';}).length;
-  ['dk-relance'].forEach(function(id){var e=document.getElementById(id);if(e)e.textContent=r;});
-  var en=candidatures.filter(function(c){return c.status==='entretien'||c.status==='offre';}).length;
-  ['dk-entretien'].forEach(function(id){var e=document.getElementById(id);if(e)e.textContent=en;});
-  var e2=document.getElementById('dk-contacts');if(e2)e2.textContent=contacts.length;
-  renderDashboard();
-}
-
-// RENDER CONTACTS
-var ADRIEN_PROFILE = {
-  name: "Adrien Bouré",
-  school: "EDHEC Business School (Grande École)",
-  experiences: [
-    {role: "Content Strategist", co: "Studio TF1", skills: ["market intelligence", "SQL", "CRM", "briefs data-driven"]},
-    {role: "Business Analyst", co: "Warner Bros. Discovery", skills: ["panels GfK/GSD", "marché jeux vidéo", "insights compétitifs"]},
-  ],
-  languages: "bilingue FR/EN (TOEIC 980), espagnol courant",
-  linkedin: "linkedin.com/in/adrienboure",
-};
-
-function getRelanceDays(c) {
-  if (!c.lastContact) return null;
-  return Math.floor((Date.now() - new Date(c.lastContact).getTime()) / 86400000);
-}
-
-function relanceBadge(c) {
-  var days = getRelanceDays(c);
-  if (c.status === 'meeting' || c.status === 'replied') return '<span class="relance-badge rb-ok">✓ Actif</span>';
-  if (days === null) return '<span class="relance-badge rb-none">Pas encore contacté</span>';
-  if (days >= 7) return '<span class="relance-badge rb-urgent">⚠ Relancer (+'+days+'j)</span>';
-  if (days >= 4) return '<span class="relance-badge rb-soon">Bientôt ('+days+'j)</span>';
-  return '<span class="relance-badge rb-ok">Récent ('+days+'j)</span>';
-}
-
-function filterContacts() {
-  var f = document.getElementById('contact-filter') ? document.getElementById('contact-filter').value : '';
-  var filtered = f ? contacts.filter(function(c){return c.status===f;}) : contacts;
-  renderContactsList(filtered);
-}
-
-function renderContacts(){
-  var e2=document.getElementById('dk-contacts');if(e2)e2.textContent=contacts.length;
-  renderDashboard();
-  filterContacts();
-  var urgent = contacts.filter(function(c){
-    var d=getRelanceDays(c);
-    return d!==null && d>=7 && c.status!=='meeting' && c.status!=='replied';
-  });
-  var banner=document.getElementById('relance-banner');
-  if(banner){
-    if(urgent.length){
-      banner.style.display='block';
-      banner.innerHTML='⚠️ <strong>'+urgent.length+' contact'+(urgent.length>1?'s':'')+' à relancer</strong> — '+urgent.map(function(c){return c.name;}).join(', ');
-    } else { banner.style.display='none'; }
-  }
-}
-
-function renderContactsList(list) {
-  var el=document.getElementById('contact-list'),emp=document.getElementById('empty-contacts'),cnt=document.getElementById('contact-count');
-  var all = list !== undefined ? list : contacts;
-  if(!contacts.length){el.innerHTML='';emp.style.display='block';cnt.textContent='';return;}
-  emp.style.display='none';
-  cnt.textContent=contacts.length+' contact'+(contacts.length>1?'s':'');
-  el.innerHTML=all.map(function(c){
-    var initials=c.name.split(' ').map(function(w){return w[0];}).join('').substring(0,2).toUpperCase();
-    var msgs = c.messages || [];
-    return '<div class="contact-detail">'+
-      '<div class="contact-detail-header" onclick="toggleContact(''+c.id+'')">'+
-        '<div class="contact-avatar-lg">'+initials+'</div>'+
-        '<div class="contact-detail-info">'+
-          '<div class="contact-detail-name">'+c.name+'</div>'+
-          '<div class="contact-detail-role">'+c.role+' · '+c.co+'</div>'+
-          '<div style="margin-top:5px;display:flex;gap:6px;flex-wrap:wrap;">'+csBadge(c.status)+relanceBadge(c)+'</div>'+
-        '</div>'+
-        '<div style="display:flex;flex-direction:column;align-items:flex-end;gap:6px;">'+
-          (c.url?'<a href="'+(c.url.startsWith('http')?c.url:'https://'+c.url)+'" target="_blank" class="li-btn" onclick="event.stopPropagation()">LinkedIn ↗</a>':'')+
-          '<button class="contact-del" onclick="event.stopPropagation();delContact(''+c.id+'')">×</button>'+
-        '</div>'+
-      '</div>'+
-      '<div class="contact-detail-body" id="cb-'+c.id+'">'+
-        (msgs.length ?
-          '<div style="margin-bottom:12px;"><div style="font-size:11px;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.06em;margin-bottom:8px;">Historique</div>'+
-          msgs.map(function(m){
-            return '<div class="msg-item"><div class="msg-header"><span class="msg-type mt-'+m.type+'">'+({sent:'Envoyé',received:'Réponse',note:'Note'}[m.type]||m.type)+'</span><span class="msg-date">'+m.date+'</span></div><div class="msg-content">'+m.content+'</div></div>';
-          }).join('')+'</div>'
-          : '<div style="font-size:12px;color:var(--muted);margin-bottom:12px;padding:10px;background:var(--surface2);border-radius:var(--rxs);">Aucun message enregistré</div>'
-        )+
-        '<div style="display:flex;gap:8px;flex-wrap:wrap;">'+
-          '<button class="btn btn-primary" style="font-size:12px;padding:7px 14px;" onclick="openMsgModal(''+c.id+'')">✉ Générer un message</button>'+
-          '<button class="btn" style="font-size:12px;padding:7px 14px;" onclick="addNote(''+c.id+'')">+ Note</button>'+
-          '<select class="mini-sel" onchange="updateContactStatus(''+c.id+'',this.value)">'+
-            ['tocontact','contacted','replied','meeting'].map(function(s){
-              return '<option value="'+s+'"'+(c.status===s?' selected':'')+'>'+{tocontact:'À contacter',contacted:'Contacté',replied:'A répondu',meeting:'Appel prévu'}[s]+'</option>';
-            }).join('')+
-          '</select>'+
-        '</div>'+
-        (c.note?'<div style="margin-top:10px;font-size:12px;color:var(--muted);padding:8px;background:var(--surface2);border-radius:var(--rxs);border-left:2px solid var(--border2);">'+c.note+'</div>':'')+
-      '</div>'+
-    '</div>';
-  }).join('');
-}
-
-function toggleContact(id){var b=document.getElementById('cb-'+id);if(b)b.classList.toggle('open');}
-window.toggleContact=toggleContact;window.renderContactsList=renderContactsList;window.filterContacts=filterContacts;
-
-function updateContactStatus(id,val){
-  if(db){db.collection('contacts').doc(id).update({status:val}).catch(fbErr);}
-  else{contacts.forEach(function(c){if(c.id===id)c.status=val;});savLocalC();renderContacts();}
-}
-window.updateContactStatus=updateContactStatus;
-
-function addNote(id){
-  var note=prompt('Note pour ce contact :');
-  if(!note)return;
-  if(db){db.collection('contacts').doc(id).update({note:note}).catch(fbErr);}
-  else{contacts.forEach(function(c){if(c.id===id)c.note=note;});savLocalC();renderContacts();}
-}
-window.addNote=addNote;
-
-function openMsgModal(id){
-  var c=contacts.find(function(x){return x.id===id;});
-  if(!c)return;
-  var fn=c.name.split(' ')[0];
-  var templates=[
-    {id:'first',title:'Premier contact',desc:'Message d'approche initial — chaleureux, précis, max 80 mots',
-     text:"Bonjour "+fn+",
-
-Je me permets de vous contacter car votre parcours chez "+c.co+" m'intéresse beaucoup. Je suis en fin de Master à EDHEC et recherche activement une opportunité à Montréal via le Programme Jeune Professionnel — dans des rôles marketing/data ou market intelligence.
-
-Mon expérience chez Warner Bros. Discovery (marchés gaming, panels GfK/GSD) et Studio TF1 (CRM, SQL) me semble cohérente avec vos enjeux. Seriez-vous disponible pour un échange de 15 minutes ?
-
-Merci,
-Adrien Bouré
-linkedin.com/in/adrienboure"},
-    {id:'relance',title:'Relance (sans réponse)',desc:'Relance discrète après 7+ jours',
-     text:"Bonjour "+fn+",
-
-Je me permets de revenir vers vous suite à mon message de la semaine dernière. Je comprends que les agendas sont chargés — je voulais simplement réitérer mon intérêt pour un échange sur votre expérience chez "+c.co+".
-
-Je reste disponible selon vos disponibilités.
-
-Bonne journée,
-Adrien Bouré"},
-    {id:'postapp',title:'Après candidature',desc:'Message suite à une candidature déposée chez leur entreprise',
-     text:"Bonjour "+fn+",
-
-Je viens de soumettre ma candidature chez "+c.co+" et j'ai vu votre profil en faisant mes recherches. Mon profil combine market intelligence gaming (Warner Bros. Discovery, GfK/GSD) et CRM/data (Studio TF1, SQL) — et je cherche à rejoindre une équipe comme la vôtre à Montréal via le PJP.
-
-Un échange de 10 minutes pour avoir votre perspective serait précieux.
-
-Merci,
-Adrien Bouré"},
-    {id:'thanks',title:'Après un échange',desc:'Remerciement après un appel ou café',
-     text:"Bonjour "+fn+",
-
-Merci beaucoup pour le temps que vous m'avez accordé. Notre échange était très enrichissant — vos conseils sur "+c.co+" et le marché montréalais me sont précieux.
-
-Je vous tiens informé de la suite. N'hésitez pas à me solliciter si je peux vous être utile.
-
-Bonne continuation,
-Adrien Bouré"},
-    {id:'claude',title:'Personnalisé via Claude',desc:'Génère un message sur-mesure — copie le prompt dans claude.ai',
-     text:"[PROMPT À COLLER DANS CLAUDE.AI]
-
-Rédige un message LinkedIn pour Adrien Bouré (EDHEC Grande École, ex-Warner Bros. Discovery market intelligence gaming avec panels GfK/GSD, ex-Studio TF1 CRM/SQL) qui contacte "+c.name+", "+c.role+" chez "+c.co+".
-
-Contexte : Adrien cherche un poste marketing/data à Montréal via le Programme Jeune Professionnel.
-Style d'Adrien : sobre, orienté résultats, phrases courtes, toujours une preuve concrète, jamais de flatterie excessive.
-Type : "+(c.messages&&c.messages.length?'relance après '+c.messages.length+' échange(s)':'premier contact')+".
-Longueur max : 100 mots.
-Langue : français."},
-  ];
-
-  document.getElementById('modal-msg-content').innerHTML=
-    '<div class="modal-handle"></div>'+
-    '<div style="font-size:16px;font-weight:600;margin-bottom:2px;">Message pour '+c.name+'</div>'+
-    '<div style="font-size:12px;color:var(--muted);margin-bottom:16px;">'+c.role+' · '+c.co+'</div>'+
-    '<div style="font-size:11px;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.06em;margin-bottom:10px;">Choisir un template</div>'+
-    templates.map(function(t){
-      return '<div class="tmpl-card" onclick="selectTmpl(''+c.id+'','+JSON.stringify(t.text).replace(/'/g,"\'")+')">'+
-        '<div class="tmpl-card-title">'+t.title+'</div>'+
-        '<div class="tmpl-card-preview">'+t.desc+'</div>'+
-      '</div>';
-    }).join('')+
-    '<div id="tmpl-result" style="display:none;">'+
-      '<div style="font-size:11px;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.06em;margin-bottom:8px;">Message généré</div>'+
-      '<textarea class="tmpl-generated" id="tmpl-text" style="width:100%;border:0.5px solid var(--border2);border-radius:var(--rsm);padding:12px;font-size:12px;line-height:1.7;min-height:180px;font-family:var(--sans);color:var(--text);background:var(--surface2);resize:vertical;"></textarea>'+
-      '<div style="display:flex;gap:8px;margin-top:10px;">'+
-        '<button class="btn" onclick="closeMsgModal()" style="flex:1;">Fermer</button>'+
-        '<button class="btn btn-primary" onclick="copyAndSave(''+c.id+'')" style="flex:1;">Copier + Enregistrer</button>'+
-      '</div>'+
-    '</div>';
-
-  document.getElementById('modal-msg').classList.add('open');
-}
-window.openMsgModal=openMsgModal;
-
-function selectTmpl(contactId, text){
-  document.getElementById('tmpl-text').value=text;
-  document.getElementById('tmpl-result').style.display='block';
-  document.getElementById('tmpl-result').scrollIntoView({behavior:'smooth'});
-  window._msgContactId=contactId;
-}
-window.selectTmpl=selectTmpl;
-
-function copyAndSave(contactId){
-  var text=document.getElementById('tmpl-text').value;
-  if(!text)return;
-  navigator.clipboard.writeText(text).then(function(){
-    var today=new Date().toLocaleDateString('fr-FR');
-    var msgs=[];
-    contacts.forEach(function(c){if(c.id===contactId)msgs=c.messages||[];});
-    msgs.push({type:'sent',date:today,content:text.substring(0,200)+(text.length>200?'…':'')});
-    var upd={messages:msgs,lastContact:new Date().toISOString(),status:'contacted'};
-    if(db){db.collection('contacts').doc(contactId).update(upd).catch(fbErr);}
-    else{contacts.forEach(function(c){if(c.id===contactId){c.messages=msgs;c.lastContact=upd.lastContact;c.status='contacted';}});savLocalC();}
-    closeMsgModal();renderContacts();
-    alert('Copié ! Colle dans LinkedIn 🚀');
-  }).catch(function(){alert('Copie manuelle depuis la zone de texte.');});
-}
-window.copyAndSave=copyAndSave;
-
-function closeMsgModal(){document.getElementById('modal-msg').classList.remove('open');}
-function closeMsgModalOutside(e){if(e.target===document.getElementById('modal-msg'))closeMsgModal();}
-window.closeMsgModal=closeMsgModal;window.closeMsgModalOutside=closeMsgModalOutside;
-
-// ADD CAND
 function addCand(){
   var poste=document.getElementById('f-poste').value.trim(),co=document.getElementById('f-co').value.trim();
   if(!poste||!co)return;
   var c={poste:poste,co:co,date:document.getElementById('f-date').value,status:document.getElementById('f-status').value,note:document.getElementById('f-note').value.trim(),prio:prio,ts:Date.now()};
   document.getElementById('f-poste').value='';document.getElementById('f-co').value='';document.getElementById('f-note').value='';
-  closeModal();
-  if(db){db.collection('candidatures').add(c).catch(fbErr);}
-  else{c.id=Date.now().toString();candidatures.push(c);savLocal();renderList();updateStats();}
+  closeModal('cand');
+  if(db) db.collection('cands').add(c).catch(fberr);
+  else{c.id=Date.now().toString();cands.push(c);savCands();renderCands();}
 }
-window.addCand=addCand;
+function delCand(id){
+  if(db) db.collection('cands').doc(id).delete().catch(fberr);
+  else{cands=cands.filter(function(c){return c.id!==id;});savCands();renderCands();}
+}
+function chStat(id,v){
+  if(db) db.collection('cands').doc(id).update({status:v}).catch(fberr);
+  else{cands.forEach(function(c){if(c.id===id)c.status=v;});savCands();renderCands();}
+}
+function savCands(){localStorage.setItem('ac',JSON.stringify(cands));}
 
-function delCand(id){if(db){db.collection('candidatures').doc(id).delete().catch(fbErr);}else{candidatures=candidatures.filter(function(c){return c.id!==id;});savLocal();renderList();updateStats();}}
-window.delCand=delCand;
-function chStatus(id,val){if(db){db.collection('candidatures').doc(id).update({status:val}).catch(fbErr);}else{candidatures.forEach(function(c){if(c.id===id)c.status=val;});savLocal();renderList();updateStats();}}
-window.chStatus=chStatus;
-function savLocal(){localStorage.setItem('adrien-cands',JSON.stringify(candidatures));}
+// ===== CONTACTS =====
+function filterContacts(f){
+  var list=f?conts.filter(function(c){return c.status===f;}):conts;
+  renderContList(list);
+}
 
-// ADD CONTACT
+function renderConts(){
+  // Relance banner
+  var urgent=conts.filter(function(c){
+    if(c.status==='meeting'||c.status==='replied') return false;
+    if(!c.lastContact) return false;
+    return Math.floor((Date.now()-new Date(c.lastContact).getTime())/86400000)>=7;
+  });
+  var ban=document.getElementById('relance-banner');
+  if(ban){
+    if(urgent.length){ban.style.display='block';ban.innerHTML='⚠️ <strong>'+urgent.length+' contact'+(urgent.length>1?'s':'')+' à relancer</strong> — '+urgent.map(function(c){return c.name;}).join(', ');}
+    else ban.style.display='none';
+  }
+  filterContacts('');
+  updateStats();
+}
+
+function renderContList(list){
+  var el=document.getElementById('cont-list'),emp=document.getElementById('cont-empty'),cnt=document.getElementById('cont-cnt');
+  if(!conts.length){el.innerHTML='';emp.style.display='block';cnt.textContent='';return;}
+  emp.style.display='none';
+  cnt.textContent=conts.length+' contact'+(conts.length>1?'s':'');
+  el.innerHTML=(list||conts).map(function(c){
+    var ini=c.name.split(' ').map(function(w){return w[0]||'';}).join('').substring(0,2).toUpperCase();
+    var msgs=c.messages||[];
+    return '<div class="cocard">'+
+      '<div class="coh" onclick="toggleCont(\''+c.id+'\')">'+
+        '<div class="coav">'+ini+'</div>'+
+        '<div class="coi">'+
+          '<div class="con">'+c.name+'</div>'+
+          '<div class="cor">'+c.role+' · '+c.co+'</div>'+
+          '<div style="margin-top:5px;display:flex;gap:6px;flex-wrap:wrap;">'+csbadge(c.status)+rdaysbadge(c)+'</div>'+
+        '</div>'+
+        '<div style="display:flex;flex-direction:column;align-items:flex-end;gap:6px;">'+
+          (c.url?'<a href="'+(c.url.startsWith('http')?c.url:'https://'+c.url)+'" target="_blank" class="libtn" onclick="event.stopPropagation()">LinkedIn ↗</a>':'')+
+          '<button class="xbtn" onclick="event.stopPropagation();delCont(\''+c.id+'\')">×</button>'+
+        '</div>'+
+      '</div>'+
+      '<div class="cob" id="cb-'+c.id+'">'+
+        (msgs.length?
+          '<div style="margin-bottom:12px;"><div style="font-size:11px;font-weight:600;color:var(--mut);text-transform:uppercase;letter-spacing:.06em;margin-bottom:8px;">Historique</div>'+
+          msgs.map(function(m){return '<div class="mhi"><div class="mhh"><span class="mht mt'+(m.type==='sent'?'s':m.type==='received'?'r':'no')+'">'+{sent:'Envoyé',received:'Réponse',note:'Note'}[m.type]+'</span><span class="mhd">'+m.date+'</span></div><div class="mhc">'+m.content+'</div></div>';}).join('')+'</div>'
+          :'<div style="font-size:12px;color:var(--mut);margin-bottom:12px;padding:10px;background:var(--surf2);border-radius:var(--rx);">Aucun message — commence par en envoyer un !</div>'
+        )+
+        '<div style="display:flex;gap:8px;flex-wrap:wrap;">'+
+          '<button class="btn btn-p" style="font-size:12px;padding:7px 14px;" onclick="openMsgModal(\''+c.id+'\')">✉ Générer un message</button>'+
+          '<button class="btn" style="font-size:12px;padding:7px 14px;" onclick="addNoteCont(\''+c.id+'\')">+ Note</button>'+
+          '<select class="msel" onchange="chContStat(\''+c.id+'\',this.value)">'+
+            ['tocontact','contacted','replied','meeting'].map(function(s){return '<option value="'+s+'"'+(c.status===s?' selected':'')+'>'+{tocontact:'À contacter',contacted:'Contacté',replied:'A répondu',meeting:'Appel prévu'}[s]+'</option>';}).join('')+
+          '</select>'+
+        '</div>'+
+        (c.note?'<div style="margin-top:10px;font-size:12px;color:var(--mut);padding:8px;background:var(--surf2);border-radius:var(--rx);border-left:2px solid var(--bdr2);">'+c.note+'</div>':'')+
+      '</div>'+
+    '</div>';
+  }).join('');
+}
+
+function toggleCont(id){var b=document.getElementById('cb-'+id);if(b)b.classList.toggle('open');}
+
 function addContact(){
   var name=document.getElementById('c-name').value.trim(),co=document.getElementById('c-co').value.trim();
   if(!name||!co)return;
-  var c={name:name,co:co,role:document.getElementById('c-role').value.trim(),status:document.getElementById('c-status').value,url:document.getElementById('c-url').value.trim(),note:document.getElementById('c-note').value.trim(),ts:Date.now()};
-  document.getElementById('c-name').value='';document.getElementById('c-co').value='';document.getElementById('c-role').value='';document.getElementById('c-url').value='';document.getElementById('c-note').value='';
-  closeContactModal();
-  if(db){db.collection('contacts').add(c).catch(fbErr);}
-  else{c.id=Date.now().toString();contacts.push(c);savLocalC();renderContacts();}
+  var c={name:name,co:co,role:document.getElementById('c-role').value.trim(),status:document.getElementById('c-status').value,url:document.getElementById('c-url').value.trim(),note:document.getElementById('c-note').value.trim(),messages:[],ts:Date.now()};
+  ['c-name','c-co','c-role','c-url','c-note'].forEach(function(id){document.getElementById(id).value='';});
+  closeModal('contact');
+  if(db) db.collection('conts').add(c).catch(fberr);
+  else{c.id=Date.now().toString();conts.push(c);savConts();renderConts();}
 }
-window.addContact=addContact;
-function delContact(id){if(db){db.collection('contacts').doc(id).delete().catch(fbErr);}else{contacts=contacts.filter(function(c){return c.id!==id;});savLocalC();renderContacts();}}
-window.delContact=delContact;
-function savLocalC(){localStorage.setItem('adrien-contacts',JSON.stringify(contacts));}
+function delCont(id){
+  if(db) db.collection('conts').doc(id).delete().catch(fberr);
+  else{conts=conts.filter(function(c){return c.id!==id;});savConts();renderConts();}
+}
+function chContStat(id,v){
+  if(db) db.collection('conts').doc(id).update({status:v}).catch(fberr);
+  else{conts.forEach(function(c){if(c.id===id)c.status=v;});savConts();renderConts();}
+}
+function addNoteCont(id){
+  var note=prompt('Note pour ce contact :');
+  if(!note)return;
+  if(db) db.collection('conts').doc(id).update({note:note}).catch(fberr);
+  else{conts.forEach(function(c){if(c.id===id)c.note=note;});savConts();renderConts();}
+}
+function savConts(){localStorage.setItem('aco',JSON.stringify(conts));}
 
-// JOBS
-var allJobs = [], filteredJobs = [];
-
-var companyEmojis = {
-  'ubisoft': '🎮', 'ea': '🎯', 'gameloft': '📱', 'behaviour': '🕹️',
-  'warner': '🎬', 'warnermedia': '🎬', 'wb': '🎬', 'cossette': '📊',
-  'moment factory': '✨', 'keywords': '🔧', 'default': '🏢'
-};
-
-function getEmoji(company) {
-  if (!company) return '🏢';
-  var c = company.toLowerCase();
-  for (var k in companyEmojis) {
-    if (c.includes(k)) return companyEmojis[k];
-  }
-  return '🏢';
+// ===== MSG MODAL =====
+function openMsgModal(id){
+  var c=conts.find(function(x){return x.id===id;});
+  if(!c)return;
+  var fn=c.name.split(' ')[0];
+  var tmpls=[
+    {title:'Premier contact',desc:'Message d\'approche initial — sobre, avec preuve concrète',
+     text:"Bonjour "+fn+",\n\nJe me permets de vous contacter car votre parcours chez "+c.co+" m'intéresse. Je suis en fin de Master à EDHEC et recherche une opportunité à Montréal via le Programme Jeune Professionnel, dans des rôles marketing/data ou market intelligence.\n\nMon expérience chez Warner Bros. Discovery (marchés gaming, panels GfK/GSD) et Studio TF1 (CRM, SQL) me semble cohérente avec vos enjeux. Seriez-vous disponible pour un échange de 15 minutes ?\n\nMerci,\nAdrien Bouré\n"+ADRIEN.linkedin},
+    {title:'Relance (sans réponse)',desc:'Après 7+ jours sans réponse — discret et bref',
+     text:"Bonjour "+fn+",\n\nJe me permets de revenir vers vous suite à mon message de la semaine dernière. Je comprends que les agendas sont chargés — je souhaitais simplement réitérer mon intérêt pour un échange sur votre expérience chez "+c.co+".\n\nJe reste disponible selon vos disponibilités.\n\nBonne journée,\nAdrien Bouré"},
+    {title:'Après candidature',desc:'Suite à une candidature déposée chez leur entreprise',
+     text:"Bonjour "+fn+",\n\nJe viens de soumettre ma candidature chez "+c.co+" et j'ai vu votre profil en faisant mes recherches. Mon parcours combine market intelligence gaming (Warner Bros. Discovery, GfK/GSD) et CRM/data (Studio TF1, SQL) — et je cherche à rejoindre une équipe comme la vôtre à Montréal via le PJP.\n\nUn échange de 10 minutes serait précieux pour avoir votre perspective.\n\nMerci,\nAdrien Bouré"},
+    {title:'Remerciement après échange',desc:'Après un appel ou un café',
+     text:"Bonjour "+fn+",\n\nMerci pour le temps que vous m'avez accordé. Notre échange était vraiment enrichissant — vos conseils sur "+c.co+" et le marché montréalais me sont très précieux.\n\nJe vous tiens informé de la suite. N'hésitez pas à me solliciter si je peux vous être utile.\n\nBonne continuation,\nAdrien Bouré"},
+    {title:'Prompt Claude personnalisé',desc:'Copie dans claude.ai pour un message 100% sur-mesure',
+     text:"[COLLE CE PROMPT DANS CLAUDE.AI]\n\nRédige un message LinkedIn pour Adrien Bouré (EDHEC Grande École, ex-Warner Bros. Discovery market intelligence gaming avec panels GfK/GSD, ex-Studio TF1 CRM/SQL, bilingue FR/EN TOEIC 980) qui contacte "+c.name+", "+c.role+" chez "+c.co+".\n\nContexte : Adrien cherche un poste marketing/data à Montréal via le Programme Jeune Professionnel.\nStyle : sobre, orienté résultats, phrases courtes, toujours une preuve concrète, jamais de flatterie excessive.\nType : "+(c.messages&&c.messages.length?'relance — '+c.messages.length+' échange(s) précédent(s)':'premier contact')+".\nTon : professionnel mais humain.\nLongueur : max 100 mots.\nLangue : français."},
+  ];
+  document.getElementById('m-msg-body').innerHTML=
+    '<div class="mh"></div>'+
+    '<div style="font-size:16px;font-weight:600;margin-bottom:2px;">Message pour '+c.name+'</div>'+
+    '<div style="font-size:12px;color:var(--mut);margin-bottom:16px;">'+c.role+' · '+c.co+'</div>'+
+    '<div style="font-size:11px;font-weight:600;color:var(--mut);text-transform:uppercase;letter-spacing:.06em;margin-bottom:10px;">Choisir un template</div>'+
+    tmpls.map(function(t,i){return '<div class="tc" onclick="selTmpl(\''+c.id+'\',\'tmpl'+i+'\')"><div class="tct">'+t.title+'</div><div class="tcd">'+t.desc+'</div><textarea id="tmpl'+i+'" style="display:none;">'+t.text+'</textarea></div>';}).join('')+
+    '<div id="tmpl-res" style="display:none;">'+
+      '<div style="font-size:11px;font-weight:600;color:var(--mut);text-transform:uppercase;letter-spacing:.06em;margin-bottom:8px;">Message généré</div>'+
+      '<textarea id="tmpl-txt" style="width:100%;background:var(--surf2);border:.5px solid var(--bdr2);border-radius:var(--rs);padding:12px;font-size:12px;line-height:1.7;min-height:200px;font-family:var(--sans);color:var(--txt);resize:vertical;outline:none;"></textarea>'+
+      '<div style="display:flex;gap:8px;margin-top:10px;">'+
+        '<button class="btn btn-f" onclick="closeModal(\'msg\')">Fermer</button>'+
+        '<button class="btn btn-p btn-f" onclick="copyAndSave(\''+c.id+'\')">Copier + Enregistrer</button>'+
+      '</div>'+
+    '</div>';
+  openModal('msg');
 }
 
-function formatDate(dateStr) {
-  if (!dateStr) return '';
-  var d = new Date(dateStr);
-  var diff = Math.floor((Date.now() - d) / 86400000);
-  if (diff === 0) return "Aujourd'hui";
-  if (diff === 1) return "Hier";
-  if (diff < 7) return "Il y a " + diff + " jours";
-  if (diff < 30) return "Il y a " + Math.floor(diff/7) + " sem.";
-  return d.toLocaleDateString('fr-FR', {day:'numeric',month:'short'});
+function selTmpl(cid,srcId){
+  var src=document.getElementById(srcId);
+  if(!src)return;
+  document.getElementById('tmpl-txt').value=src.value;
+  document.getElementById('tmpl-res').style.display='block';
+  document.getElementById('tmpl-res').scrollIntoView({behavior:'smooth'});
+  window._msgCid=cid;
 }
 
-function formatSalary(min, max) {
-  if (!min && !max) return null;
-  var fmt = function(n) { return Math.round(n/1000) + 'k$'; };
-  if (min && max) return fmt(min) + ' – ' + fmt(max) + ' CAD';
-  if (min) return 'À partir de ' + fmt(min) + ' CAD';
-  return 'Jusqu'à ' + fmt(max) + ' CAD';
+function copyAndSave(cid){
+  var txt=document.getElementById('tmpl-txt').value;
+  if(!txt)return;
+  navigator.clipboard.writeText(txt).then(function(){
+    var today=new Date().toLocaleDateString('fr-FR');
+    var upd={messages:[],lastContact:new Date().toISOString(),status:'contacted'};
+    conts.forEach(function(c){if(c.id===cid){upd.messages=(c.messages||[]).concat([{type:'sent',date:today,content:txt.substring(0,200)+(txt.length>200?'…':'')}]);}});
+    if(db) db.collection('conts').doc(cid).update(upd).catch(fberr);
+    else{conts.forEach(function(c){if(c.id===cid){c.messages=upd.messages;c.lastContact=upd.lastContact;c.status='contacted';}});savConts();}
+    closeModal('msg');renderConts();
+    alert('Copié ! Colle dans LinkedIn 🚀');
+  }).catch(function(){alert('Utilise Ctrl+A / Cmd+A dans la zone de texte pour copier manuellement.');});
 }
 
-function loadJobs() {
-  document.getElementById('jobs-loading').style.display = 'block';
-  document.getElementById('jobs-list').innerHTML = '';
-  document.getElementById('jobs-empty').style.display = 'none';
-  
-  var cacheBust = '?v=' + Date.now();
-  fetch('data/jobs.json' + cacheBust)
-    .then(function(r) {
-      if (!r.ok) throw new Error('Fichier non trouvé');
-      return r.json();
-    })
-    .then(function(data) {
-      allJobs = data.jobs || [];
-      var upd = document.getElementById('jobs-updated');
-      if (upd && data.updated) {
-        upd.textContent = 'Mis à jour ' + formatDate(data.updated);
-      }
-      document.getElementById('jobs-loading').style.display = 'none';
+// ===== JOBS =====
+function loadJobs(){
+  document.getElementById('jobs-loading').style.display='block';
+  document.getElementById('jobs-list').innerHTML='';
+  document.getElementById('jobs-empty').style.display='none';
+  fetch('data/jobs.json?v='+Date.now())
+    .then(function(r){if(!r.ok)throw new Error('404');return r.json();})
+    .then(function(data){
+      allJobs=data.jobs||[];
+      var u=document.getElementById('jobs-upd');
+      if(u&&data.updated) u.textContent='Mis à jour '+fmtDate(data.updated);
+      document.getElementById('jobs-loading').style.display='none';
       filterJobs();
     })
-    .catch(function(e) {
-      document.getElementById('jobs-loading').innerHTML = '<div style="text-align:center;padding:40px 20px;"><div style="font-size:32px;margin-bottom:12px;">⚙️</div><div style="font-size:14px;font-weight:500;color:var(--text);margin-bottom:8px;">GitHub Actions pas encore configuré</div><div style="font-size:12px;color:var(--muted);line-height:1.6;">Upload <strong>fetch_jobs.py</strong> et le dossier <strong>.github/workflows</strong> dans ton repo GitHub pour activer le fetch automatique des offres.</div></div>';
+    .catch(function(){
+      document.getElementById('jobs-loading').innerHTML='<div style="text-align:center;padding:40px 20px;"><div style="font-size:32px;margin-bottom:12px;">⚙️</div><div style="font-size:14px;font-weight:500;color:var(--txt);margin-bottom:8px;">GitHub Actions pas encore configuré</div><div style="font-size:12px;color:var(--mut);line-height:1.6;">Upload <strong>fetch_jobs.py</strong> et <strong>.github/workflows/fetch_jobs.yml</strong> dans ton repo, puis lance le workflow.</div></div>';
     });
 }
 
-function filterJobs() {
-  var search = (document.getElementById('jobs-search').value || '').toLowerCase();
-  var co = (document.getElementById('jobs-filter-co').value || '').toLowerCase();
-  var sort = document.getElementById('jobs-filter-sort').value;
-  
-  filteredJobs = allJobs.filter(function(j) {
-    var matchSearch = !search || 
-      (j.title||'').toLowerCase().includes(search) || 
-      (j.company||'').toLowerCase().includes(search) ||
-      (j.description||'').toLowerCase().includes(search);
-    var matchCo = !co || (j.company||'').toLowerCase().includes(co);
-    return matchSearch && matchCo;
+function filterJobs(){
+  var s=(document.getElementById('jsearch').value||'').toLowerCase();
+  var sort=document.getElementById('jsort').value;
+  filtJobs=allJobs.filter(function(j){
+    return !s||(j.title||'').toLowerCase().includes(s)||(j.company||'').toLowerCase().includes(s)||(j.description||'').toLowerCase().includes(s);
   });
-
-  filteredJobs.sort(function(a, b) {
-    if (sort === 'salary') return (b.salary_min||0) - (a.salary_min||0);
-    if (sort === 'company') return (a.company||'').localeCompare(b.company||'');
-    return new Date(b.created||0) - new Date(a.created||0);
+  filtJobs.sort(function(a,b){
+    if(sort==='salary') return (b.salary_min||0)-(a.salary_min||0);
+    if(sort==='company') return (a.company||'').localeCompare(b.company||'');
+    return new Date(b.created||0)-new Date(a.created||0);
   });
-
-  renderJobs();
-}
-
-function renderJobs() {
-  var el = document.getElementById('jobs-list');
-  var emp = document.getElementById('jobs-empty');
-  if (!filteredJobs.length) { el.innerHTML = ''; emp.style.display = 'block'; return; }
-  emp.style.display = 'none';
-  el.innerHTML = filteredJobs.map(function(j, i) {
-    var salary = formatSalary(j.salary_min, j.salary_max);
-    return '<div class="job-card" onclick="openJob(' + i + ')">' +
-      '<div class="job-card-top">' +
-        '<div class="job-logo">' + getEmoji(j.company) + '</div>' +
-        '<div style="flex:1;min-width:0;">' +
-          '<div class="job-title">' + (j.title||'') + '</div>' +
-          '<div class="job-company">' + (j.company||'') + '</div>' +
-        '</div>' +
-      '</div>' +
-      '<div class="job-meta">' +
-        (j.location ? '<span class="job-meta-item">📍 ' + j.location + '</span>' : '') +
-        (j.category ? '<span class="job-meta-item">🏷 ' + j.category + '</span>' : '') +
-        (salary ? '<span class="job-meta-item" style="color:var(--green);font-weight:500;">💰 ' + salary + '</span>' : '') +
-      '</div>' +
-      '<div class="job-desc-preview">' + (j.description||'').replace(/<[^>]*>/g,'').substring(0, 150) + '…</div>' +
-      '<div class="job-footer">' +
-        '<span class="job-date">' + formatDate(j.created) + '</span>' +
-        '<span class="badge b-blue" style="font-size:10px;">Voir l'offre →</span>' +
-      '</div>' +
+  var el=document.getElementById('jobs-list'),emp=document.getElementById('jobs-empty');
+  if(!filtJobs.length){el.innerHTML='';emp.style.display='block';return;}
+  emp.style.display='none';
+  el.innerHTML=filtJobs.map(function(j,i){
+    var sal=j.salary_min?Math.round(j.salary_min/1000)+'k–'+Math.round((j.salary_max||j.salary_min)/1000)+'k$ CAD':null;
+    return '<div class="jcard" onclick="openJob('+i+')">'+
+      '<div class="jlt">'+j.title+'</div><div class="jlc">'+j.company+'</div>'+
+      '<div class="jmeta">'+
+        (j.location?'<span class="jmi">📍 '+j.location+'</span>':'')+
+        (sal?'<span class="jmi" style="color:var(--grn);font-weight:500;">💰 '+sal+'</span>':'')+
+      '</div>'+
+      '<div class="jdp">'+(j.description||'').replace(/<[^>]*>/g,'').substring(0,150)+'…</div>'+
+      '<div class="jft"><span style="font-size:11px;color:var(--mut2);">'+fmtDate(j.created)+'</span><span class="badge bb">Voir l\'offre →</span></div>'+
     '</div>';
   }).join('');
 }
 
-function openJob(i) {
-  var j = filteredJobs[i];
-  if (!j) return;
-  var salary = formatSalary(j.salary_min, j.salary_max);
-  var desc = (j.description||'').replace(/<[^>]*>/g,'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>');
-  document.getElementById('modal-job-content').innerHTML = 
-    '<div class="modal-handle"></div>' +
-    '<div class="jm-header">' +
-      '<div class="jm-logo">' + getEmoji(j.company) + '</div>' +
-      '<div><div class="jm-title">' + (j.title||'') + '</div><div class="jm-company">' + (j.company||'') + '</div></div>' +
-    '</div>' +
-    '<div class="jm-meta">' +
-      (j.location ? '<span class="jm-meta-item">📍 ' + j.location + '</span>' : '') +
-      '<span class="jm-meta-item">📅 ' + formatDate(j.created) + '</span>' +
-      (salary ? '<span class="jm-meta-item" style="color:var(--green);font-weight:500;">💰 ' + salary + '</span>' : '') +
-      (j.category ? '<span class="jm-meta-item">🏷 ' + j.category + '</span>' : '') +
-    '</div>' +
-    '<div class="jm-desc">' + desc + '</div>' +
-    '<div class="jm-actions">' +
-      '<button class="btn" onclick="closeJobModalBtn()" style="flex:1;">Fermer</button>' +
-      '<button class="btn btn-primary" onclick="addJobToTracker('' + (j.title||'').replace(/'/g,"\'") + '','' + (j.company||'').replace(/'/g,"\'") + '')" style="flex:1;">+ Ajouter au tracker</button>' +
-      (j.url ? '<a href="' + j.url + '" target="_blank" class="btn btn-primary" style="flex:1;text-align:center;text-decoration:none;">Postuler →</a>' : '') +
+function openJob(i){
+  var j=filtJobs[i];if(!j)return;
+  var sal=j.salary_min?Math.round(j.salary_min/1000)+'k–'+Math.round((j.salary_max||j.salary_min)/1000)+'k$ CAD':null;
+  var desc=(j.description||'').replace(/<[^>]*>/g,'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>');
+  document.getElementById('m-job-body').innerHTML=
+    '<div class="mh"></div>'+
+    '<div style="font-size:18px;font-weight:600;margin-bottom:4px;line-height:1.3;">'+j.title+'</div>'+
+    '<div style="font-size:14px;font-weight:500;color:var(--acc);margin-bottom:12px;">'+j.company+'</div>'+
+    '<div style="display:flex;gap:10px;flex-wrap:wrap;padding:12px;background:var(--surf2);border-radius:var(--rs);margin-bottom:16px;">'+
+      (j.location?'<span style="font-size:12px;color:var(--mut);">📍 '+j.location+'</span>':'')+
+      '<span style="font-size:12px;color:var(--mut);">📅 '+fmtDate(j.created)+'</span>'+
+      (sal?'<span style="font-size:12px;color:var(--grn);font-weight:500;">💰 '+sal+'</span>':'')+
+    '</div>'+
+    '<div style="font-size:13px;color:var(--txt);line-height:1.7;white-space:pre-wrap;margin-bottom:20px;">'+desc+'</div>'+
+    '<div style="display:flex;gap:8px;">'+
+      '<button class="btn btn-f" onclick="closeModal(\'job\')">Fermer</button>'+
+      '<button class="btn btn-p btn-f" onclick="jobToTracker(\''+j.title.replace(/'/g,"\\'")+'\',' +'\''+j.company.replace(/'/g,"\\'")+'\')">+ Tracker</button>'+
+      (j.url?'<a href="'+j.url+'" target="_blank" class="btn btn-p btn-f" style="text-align:center;text-decoration:none;">Postuler →</a>':'')+
     '</div>';
-  document.getElementById('modal-job').classList.add('open');
+  openModal('job');
 }
 
-function closeJobModal(e) { if(e.target===document.getElementById('modal-job')) document.getElementById('modal-job').classList.remove('open'); }
-function closeJobModalBtn() { document.getElementById('modal-job').classList.remove('open'); }
-window.closeJobModal=closeJobModal;window.closeJobModalBtn=closeJobModalBtn;window.openJob=openJob;window.loadJobs=loadJobs;window.filterJobs=filterJobs;
-
-function addJobToTracker(title, company) {
-  var c = {poste:title, co:company, date:new Date().toISOString().split('T')[0], status:'envoyée', note:'', prio:'haute', ts:Date.now()};
-  if(db){db.collection('candidatures').add(c).catch(fbErr);}
-  else{c.id=Date.now().toString();candidatures.push(c);savLocal();renderList();updateStats();}
-  document.getElementById('modal-job').classList.remove('open');
-  goTo('tracker');
+function jobToTracker(title,company){
+  var c={poste:title,co:company,date:new Date().toISOString().split('T')[0],status:'envoyée',note:'',prio:'h',ts:Date.now()};
+  if(db) db.collection('cands').add(c).catch(fberr);
+  else{c.id=Date.now().toString();cands.push(c);savCands();renderCands();}
+  closeModal('job');goTo('tracker');
 }
-window.addJobToTracker=addJobToTracker;
 
-// COMPANIES
+function fmtDate(d){
+  if(!d)return'';
+  var diff=Math.floor((Date.now()-new Date(d).getTime())/86400000);
+  if(diff===0)return"Aujourd'hui";if(diff===1)return"Hier";
+  if(diff<7)return"Il y a "+diff+"j";if(diff<30)return"Il y a "+Math.floor(diff/7)+" sem.";
+  return new Date(d).toLocaleDateString('fr-FR',{day:'numeric',month:'short'});
+}
+
+// ===== COMPANIES =====
 function renderCos(){
-  document.getElementById('co-grid').innerHTML=companies.map(function(c){
-    return '<div class="co-card'+(c.top?' top':'')+'">'+
-      (c.top?'<div class="co-top-badge">Priorité haute</div>':'')+
-      '<div class="co-name">'+c.name+'</div><div class="co-type">'+c.type+'</div>'+
-      '<div class="co-postes">'+c.postes.map(function(p){return '<span class="badge b-gray">'+p+'</span>';}).join('')+'</div>'+
-      '<a href="'+c.url+'" target="_blank" class="co-link">Voir les offres →</a></div>';
+  document.getElementById('cos-grid').innerHTML=cos.map(function(c){
+    return '<div class="coitem'+(c.top?' top':'')+'">'+
+      (c.top?'<div class="cotb">Priorité haute</div>':'')+
+      '<div class="con2">'+c.name+'</div><div class="coty">'+c.type+'</div>'+
+      '<div class="cops">'+c.postes.map(function(p){return '<span class="badge bx">'+p+'</span>';}).join('')+'</div>'+
+      '<a href="'+c.url+'" target="_blank" class="coln">Voir les offres →</a></div>';
   }).join('');
 }
 
-// CHECKLIST
+// ===== CHECKLIST =====
 function renderCL(){
-  var done=clState.filter(Boolean).length;
-  document.getElementById('checklist-items').innerHTML=checklist.map(function(item,i){
-    return '<div class="check-item"><input type="checkbox"'+(clState[i]?' checked':'')+' onchange="togCL('+i+',this.checked)"><span class="check-label'+(clState[i]?' done':'')+'">'+item+'</span></div>';
+  var done=cls.filter(Boolean).length;
+  document.getElementById('cl-items').innerHTML=cl.map(function(item,i){
+    return '<div class="cli"><input type="checkbox"'+(cls[i]?' checked':'')+' onchange="togCL('+i+',this.checked)"><span class="cll'+(cls[i]?' done':'')+'">'+item+'</span></div>';
   }).join('');
-  document.getElementById('prog-fill').style.width=Math.round(done/checklist.length*100)+'%';
-  document.getElementById('prog-text').textContent=done+'/'+checklist.length+' étapes complétées';
-  renderDashboard();
+  document.getElementById('cl-pf').style.width=Math.round(done/cl.length*100)+'%';
+  document.getElementById('cl-pt').textContent=done+'/'+cl.length+' étapes complétées';
+  var dpf=document.getElementById('d-pf');if(dpf)dpf.style.width=Math.round(done/cl.length*100)+'%';
 }
-function togCL(i,v){clState[i]=v;localStorage.setItem('adrien-cl',JSON.stringify(clState));renderCL();}
-window.togCL=togCL;
+function togCL(i,v){cls[i]=v;localStorage.setItem('adrien-cl',JSON.stringify(cls));renderCL();renderDash();}
 
-// SKILL TAGS
-document.querySelectorAll('.skill-tag').forEach(function(t){t.addEventListener('click',function(){this.classList.toggle('sel');});});
-
-// GEN LM
+// ===== LM =====
+document.querySelectorAll('.stag').forEach(function(t){t.addEventListener('click',function(){this.classList.toggle('sel');});});
 function genLM(){
   var poste=document.getElementById('g-poste').value.trim(),co=document.getElementById('g-co').value.trim();
   var why=document.getElementById('g-why').value.trim();
-  var skills=Array.from(document.querySelectorAll('#skill-tags .skill-tag.sel')).map(function(t){return t.dataset.sk;}).join(', ');
+  var skills=Array.from(document.querySelectorAll('#stags .stag.sel')).map(function(t){return t.dataset.sk;}).join(', ');
   if(!poste||!co){alert('Remplis le poste et l\'entreprise.');return;}
-  var p='Rédige une lettre de motivation percutante pour Adrien Bouré, diplômé EDHEC Business School, qui postule au poste de "'+poste+'" chez '+co+' à Montréal via le Programme Jeune Professionnel.\n\nProfil : Market Intelligence chez Warner Bros. Discovery (GfK/GSD), CRM & data chez Studio TF1, bilingue FR/EN (TOEIC 980), EDHEC + MSc Marketing, passionné gaming.\n\nCompétences : '+skills+'.\n'+(why?'Motivation : '+why+'.\n':'')+'\nFormat : 3 paragraphes, dynamique, orienté résultats. En français.';
-  navigator.clipboard.writeText(p).then(function(){alert('Prompt copié ! Colle-le dans claude.ai.');}).catch(function(){console.log(p);alert('Prompt dans la console (F12).');});
+  var p='Rédige une lettre de motivation pour Adrien Bouré, diplômé EDHEC Business School (Grande École), qui postule au poste de "'+poste+'" chez '+co+' à Montréal via le Programme Jeune Professionnel.\n\nProfil : Market Intelligence chez Warner Bros. Discovery (panels GfK/GSD, marché gaming), Content Strategist & CRM chez Studio TF1 (SQL, briefs data-driven), bilingue FR/EN (TOEIC 980), Salesforce MC en cours.\n\nCompétences clés : '+skills+'.\n'+(why?'Motivation : '+why+'.\n':'')+'\nStyle : sobre, orienté résultats, phrases courtes, preuves concrètes (comme la LM de référence). 3 paragraphes. En français.';
+  navigator.clipboard.writeText(p).then(function(){alert('Prompt copié ! Colle dans claude.ai.');}).catch(function(){console.log(p);alert('Voir la console (F12) pour le prompt.');});
 }
-window.genLM=genLM;
 
-// FIREBASE
-function fbErr(e){console.error(e);var r=document.getElementById('fb-result');if(r)r.innerHTML='<span class="fb-pill fb-err">'+e.message+'</span>';}
-function setSynced(ok){
-  var sn=document.getElementById('sync-nav'),sd=document.getElementById('sync-drawer');
-  if(ok){sn.className='nav-sync connected';document.getElementById('sn-dot').className='sync-dot pulse';document.getElementById('sn-label').textContent='Synchro';sd.className='sync-pill connected';document.getElementById('sd-dot').className='sync-dot pulse';document.getElementById('sd-label').textContent='Synchronisé';}
-  else{sn.className='nav-sync';document.getElementById('sn-dot').className='sync-dot';document.getElementById('sn-label').textContent='Local';sd.className='sync-pill';document.getElementById('sd-dot').className='sync-dot';document.getElementById('sd-label').textContent='Local';}
+// ===== DASHBOARD =====
+function updateStats(){
+  var n=cands.length,r=cands.filter(function(c){return c.status==='relance';}).length,e=cands.filter(function(c){return c.status==='entretien'||c.status==='offre';}).length;
+  ['dk1'].forEach(function(id){var el=document.getElementById(id);if(el)el.textContent=n;});
+  ['dk2'].forEach(function(id){var el=document.getElementById(id);if(el)el.textContent=r;});
+  ['dk3'].forEach(function(id){var el=document.getElementById(id);if(el)el.textContent=e;});
+  ['dk4'].forEach(function(id){var el=document.getElementById(id);if(el)el.textContent=conts.length;});
+  renderDash();
 }
+
+function renderDash(){
+  var dr=document.getElementById('d-recent');
+  if(dr){
+    var s=cands.slice().sort(function(a,b){return b.ts-a.ts;}).slice(0,4);
+    dr.innerHTML=s.length?s.map(function(c){return '<div class="ri"><div class="rdot" style="background:'+(c.prio==='h'?'var(--red)':c.prio==='m'?'var(--amb)':'var(--mut2)')+'"></div><div class="rinfo"><div class="rp">'+c.poste+'</div><div class="rc">'+c.co+'</div></div>'+sbadge(c.status)+'</div>';}).join(''):'<div style="font-size:12px;color:var(--mut);padding:12px 0;">Aucune candidature</div>';
+  }
+  var ds=document.getElementById('d-status');
+  if(ds){
+    var sts=[{k:'envoyée',l:'Envoyées'},{k:'relance',l:'À relancer'},{k:'entretien',l:'Entretiens'},{k:'offre',l:'Offres'},{k:'refus',l:'Refus'}];
+    ds.innerHTML=sts.map(function(s){var n=cands.filter(function(c){return c.status===s.k;}).length;return '<div class="sr"><span style="font-size:12px;">'+s.l+'</span><span style="font-size:13px;font-weight:600;">'+n+'</span></div>';}).join('');
+  }
+  var done=cls.filter(Boolean).length;
+  var dpf=document.getElementById('d-pf');if(dpf)dpf.style.width=Math.round(done/cl.length*100)+'%';
+  var dc=document.getElementById('d-contacts');
+  if(dc){
+    var top=conts.slice(0,3);
+    dc.innerHTML=top.length?top.map(function(c){var ini=c.name.split(' ').map(function(w){return w[0]||'';}).join('').substring(0,2).toUpperCase();return '<div class="ri"><div class="coav" style="width:32px;height:32px;border-radius:8px;font-size:12px;">'+ini+'</div><div class="rinfo"><div class="rp">'+c.name+'</div><div class="rc">'+c.co+'</div></div>'+csbadge(c.status)+'</div>';}).join(''):'<div style="font-size:12px;color:var(--mut);padding:12px 0;">Aucun contact</div>';
+  }
+  var dpjp=document.getElementById('d-pjp');
+  if(dpjp){
+    var next=cl.filter(function(_,i){return !cls[i];}).slice(0,3);
+    dpjp.innerHTML=next.map(function(item){return '<div class="ns"><span class="ni">→</span><div class="nt">'+item+'</div></div>';}).join('');
+  }
+}
+
+// ===== FIREBASE =====
+function fberr(e){console.error('FB:',e);var r=document.getElementById('fb-result');if(r)r.innerHTML='<span class="fp ferr">'+e.message+'</span>';}
+
+function setSynced(ok){
+  var ns=document.getElementById('nsync'),sp=document.getElementById('spill');
+  if(ok){
+    ns.className='nsync ok';document.getElementById('nd').className='sdot pulse';document.getElementById('nl2').textContent='Synchro';
+    sp.className='spill ok';document.getElementById('sd').className='sdot pulse';document.getElementById('sl').textContent='Synchronisé';
+  } else {
+    ns.className='nsync';document.getElementById('nd').className='sdot';document.getElementById('nl2').textContent='Local';
+    sp.className='spill';document.getElementById('sd').className='sdot';document.getElementById('sl').textContent='Local';
+  }
+}
+
 function initFb(cfg){
   if(!window.firebase){setTimeout(function(){initFb(cfg);},600);return;}
   try{firebase.app('j').delete();}catch(e){}
   try{
     var app=firebase.initializeApp(cfg,'j');
     db=firebase.firestore(app);
-    if(unsub)unsub();
-    unsub=db.collection('candidatures').orderBy('ts').onSnapshot(function(snap){
-      candidatures=[];snap.forEach(function(d){candidatures.push(Object.assign({},d.data(),{id:d.id}));});
-      renderList();updateStats();setSynced(true);
-      var r=document.getElementById('fb-result');if(r)r.innerHTML='<span class="fb-pill fb-ok">Connecté — synchro active</span>';
-    },fbErr);
-    if(unsubC)unsubC();
-    unsubC=db.collection('contacts').orderBy('ts').onSnapshot(function(snap){
-      contacts=[];snap.forEach(function(d){contacts.push(Object.assign({},d.data(),{id:d.id}));});
-      renderContacts();
-    },fbErr);
-  }catch(e){fbErr(e);}
+    if(unsub1)unsub1();
+    if(unsub2)unsub2();
+    unsub1=db.collection('cands').orderBy('ts').onSnapshot(function(snap){
+      cands=[];snap.forEach(function(d){cands.push(Object.assign({},d.data(),{id:d.id}));});
+      renderCands();setSynced(true);
+      var r=document.getElementById('fb-result');if(r)r.innerHTML='<span class="fp fok">Connecté — synchro active</span>';
+    },fberr);
+    unsub2=db.collection('conts').orderBy('ts').onSnapshot(function(snap){
+      conts=[];snap.forEach(function(d){conts.push(Object.assign({},d.data(),{id:d.id}));});
+      renderConts();
+    },fberr);
+  }catch(e){fberr(e);}
 }
+
 function saveConfig(){
   var cfg={apiKey:document.getElementById('cfg-apiKey').value.trim(),authDomain:document.getElementById('cfg-authDomain').value.trim(),projectId:document.getElementById('cfg-projectId').value.trim(),storageBucket:document.getElementById('cfg-storageBucket').value.trim(),messagingSenderId:document.getElementById('cfg-messagingSenderId').value.trim(),appId:document.getElementById('cfg-appId').value.trim()};
-  if(!cfg.apiKey||!cfg.projectId){document.getElementById('fb-result').innerHTML='<span class="fb-pill fb-err">Remplis apiKey et projectId</span>';return;}
+  if(!cfg.apiKey||!cfg.projectId){document.getElementById('fb-result').innerHTML='<span class="fp ferr">Remplis apiKey et projectId</span>';return;}
   localStorage.setItem('adrien-fbcfg',JSON.stringify(cfg));initFb(cfg);
 }
-window.saveConfig=saveConfig;
 
+// PRE-FILL CONFIG
 Object.keys(FB).forEach(function(k){var el=document.getElementById('cfg-'+k);if(el)el.value=FB[k];});
 
-// INIT
+// ===== INIT =====
 renderCos();renderCL();
-var saved=localStorage.getItem('adrien-cands');if(saved)try{candidatures=JSON.parse(saved);}catch(e){}
-var savedC=localStorage.getItem('adrien-contacts');if(savedC)try{contacts=JSON.parse(savedC);}catch(e){}
-renderList();renderContacts();updateStats();renderDashboard();loadJobs();
+try{cands=JSON.parse(localStorage.getItem('ac')||'[]');}catch(e){}
+try{conts=JSON.parse(localStorage.getItem('aco')||'[]');}catch(e){}
+renderCands();renderConts();renderDash();loadJobs();
 setTimeout(function(){initFb(FB);},600);
 </script>
 </body>
