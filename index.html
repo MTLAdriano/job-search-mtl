@@ -256,6 +256,42 @@ select{cursor:pointer;}
 .empty-icon{font-size:36px;margin-bottom:10px;opacity:0.3;}
 .empty-text{font-size:13px;}
 
+/* CONTACT DETAIL / MESSAGING */
+.contact-detail{background:var(--surface);border:0.5px solid var(--border);border-radius:var(--r);margin-bottom:8px;overflow:hidden;}
+.contact-detail-header{display:flex;align-items:center;gap:14px;padding:16px;cursor:pointer;transition:background 0.15s;}
+.contact-detail-header:hover{background:var(--surface2);}
+.contact-avatar-lg{width:46px;height:46px;border-radius:13px;background:var(--accent-light);display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:600;color:var(--accent);flex-shrink:0;font-family:var(--serif);font-style:italic;}
+.contact-detail-info{flex:1;min-width:0;}
+.contact-detail-name{font-size:14px;font-weight:600;color:var(--text);}
+.contact-detail-role{font-size:12px;color:var(--muted);margin-top:1px;}
+.contact-detail-body{border-top:0.5px solid var(--border);padding:16px;display:none;}
+.contact-detail-body.open{display:block;}
+
+/* RELANCE INDICATOR */
+.relance-badge{display:inline-flex;align-items:center;gap:4px;font-size:10px;font-weight:600;padding:3px 8px;border-radius:999px;}
+.rb-urgent{background:#fff0ef;color:#c0392b;}
+.rb-soon{background:#fff5e6;color:#8a5200;}
+.rb-ok{background:#edfbf1;color:#1a7a35;}
+.rb-none{background:var(--surface2);color:var(--muted);}
+
+/* MESSAGE HISTORY */
+.msg-item{padding:10px 0;border-bottom:0.5px solid var(--border);}
+.msg-item:last-child{border-bottom:none;}
+.msg-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:4px;}
+.msg-type{font-size:10px;font-weight:600;padding:2px 7px;border-radius:999px;}
+.mt-sent{background:var(--accent-light);color:var(--accent);}
+.mt-received{background:var(--green-light);color:#1a7a35;}
+.mt-note{background:var(--surface2);color:var(--muted);border:0.5px solid var(--border);}
+.msg-date{font-size:10px;color:var(--muted2);}
+.msg-content{font-size:12px;color:var(--text);line-height:1.5;}
+
+/* TEMPLATE MODAL */
+.tmpl-card{background:var(--surface2);border:0.5px solid var(--border);border-radius:var(--rsm);padding:14px;margin-bottom:10px;cursor:pointer;transition:all 0.15s;}
+.tmpl-card:hover{border-color:var(--accent);background:var(--accent-light);}
+.tmpl-card-title{font-size:12px;font-weight:600;color:var(--text);margin-bottom:4px;}
+.tmpl-card-preview{font-size:11px;color:var(--muted);line-height:1.5;}
+.tmpl-generated{background:var(--surface2);border:0.5px solid var(--border2);border-radius:var(--rsm);padding:12px;font-size:12px;color:var(--text);line-height:1.7;white-space:pre-wrap;margin:12px 0;min-height:120px;}
+
 /* JOB CARDS */
 .job-card{background:var(--surface);border:0.5px solid var(--border);border-radius:var(--r);padding:16px;margin-bottom:8px;cursor:pointer;transition:all 0.15s;}
 .job-card:hover{box-shadow:0 4px 16px rgba(0,0,0,0.08);border-color:var(--border2);transform:translateY(-1px);}
@@ -467,10 +503,26 @@ select{cursor:pointer;}
 <div id="panel-contacts" class="panel">
   <div class="section-hd">
     <div class="section-title">Contacts LinkedIn</div>
-    <div class="section-count" id="contact-count"></div>
+    <div style="display:flex;gap:8px;align-items:center;">
+      <div class="section-count" id="contact-count"></div>
+      <select id="contact-filter" style="font-size:11px;padding:4px 8px;width:auto;" onchange="filterContacts()">
+        <option value="">Tous</option>
+        <option value="tocontact">À contacter</option>
+        <option value="contacted">Contactés</option>
+        <option value="replied">Ont répondu</option>
+        <option value="meeting">Appel prévu</option>
+      </select>
+    </div>
   </div>
+  <div id="relance-banner" style="display:none;background:#fff5e6;border:0.5px solid rgba(255,159,10,0.3);border-radius:var(--rsm);padding:10px 14px;margin-bottom:12px;font-size:12px;color:#8a5200;"></div>
   <div id="contact-list"></div>
   <div id="empty-contacts" class="empty"><div class="empty-icon">👥</div><div class="empty-text">Aucun contact — utilise le menu pour en ajouter un !</div></div>
+</div>
+
+<!-- MODAL MESSAGE LINKEDIN -->
+<div class="modal-overlay" id="modal-msg" onclick="closeMsgModalOutside(event)">
+  <div class="modal" style="border-radius:20px 20px 0 0;max-height:90vh;overflow-y:auto;padding-bottom:32px;" id="modal-msg-content">
+  </div>
 </div>
 
 <!-- OFFRES -->
@@ -588,6 +640,23 @@ select{cursor:pointer;}
 <script>
 var candidatures=[], contacts=[], prio='haute', db=null, unsub=null, unsubC=null;
 var FB={apiKey:"AIzaSyDyySnoo4b8XSe6lkzC3jXSsljTS-WK33U",authDomain:"objectif-montreal.firebaseapp.com",projectId:"objectif-montreal",storageBucket:"objectif-montreal.firebasestorage.app",messagingSenderId:"10317943413",appId:"1:10317943413:web:6ec4dcda10a95ed2e75e3c"};
+var ADRIEN_PROFILE = {
+  name: "Adrien Bouré",
+  school: "EDHEC Business School (Grande École)",
+  degree: "Master in Management + MSc Marketing",
+  experiences: [
+    {role: "Content Strategist", company: "Studio TF1", period: "mars-août 2025", skills: ["market intelligence", "SQL", "CRM", "briefs data-driven", "10+ projets"]},
+    {role: "Business Analyst", company: "Warner Bros. Discovery", period: "sept. 2024-fév. 2025", skills: ["panels GfK/GSD", "marché jeux vidéo", "insights compétitifs", "rapports stratégiques"]},
+  ],
+  languages: "bilingue FR/EN (TOEIC 980), espagnol courant",
+  certif: "Salesforce Marketing Cloud (en cours)",
+  passion: "gaming et player engagement",
+  style: "sobre, orienté résultats, phrases courtes, toujours une preuve concrète",
+  linkedin: "linkedin.com/in/adrienboure",
+  email: "adrien.boure@edhec.com",
+  phone: "+33 7 89 98 68 40"
+};
+
 var companies=[
   {name:'Ubisoft Montréal',type:'Studio gaming AAA',top:true,postes:['CRM Analyst','Market Intelligence','Player Engagement'],url:'https://www.ubisoft.com/en-gb/company/careers'},
   {name:'EA Montréal',type:'Studio gaming AAA',top:true,postes:['Marketing Analyst','Consumer Insights','Data Analyst'],url:'https://www.ea.com/careers'},
@@ -670,72 +739,222 @@ function updateStats(){
 }
 
 // RENDER CONTACTS
+var ADRIEN_PROFILE = {
+  name: "Adrien Bouré",
+  school: "EDHEC Business School (Grande École)",
+  experiences: [
+    {role: "Content Strategist", co: "Studio TF1", skills: ["market intelligence", "SQL", "CRM", "briefs data-driven"]},
+    {role: "Business Analyst", co: "Warner Bros. Discovery", skills: ["panels GfK/GSD", "marché jeux vidéo", "insights compétitifs"]},
+  ],
+  languages: "bilingue FR/EN (TOEIC 980), espagnol courant",
+  linkedin: "linkedin.com/in/adrienboure",
+};
+
+function getRelanceDays(c) {
+  if (!c.lastContact) return null;
+  return Math.floor((Date.now() - new Date(c.lastContact).getTime()) / 86400000);
+}
+
+function relanceBadge(c) {
+  var days = getRelanceDays(c);
+  if (c.status === 'meeting' || c.status === 'replied') return '<span class="relance-badge rb-ok">✓ Actif</span>';
+  if (days === null) return '<span class="relance-badge rb-none">Pas encore contacté</span>';
+  if (days >= 7) return '<span class="relance-badge rb-urgent">⚠ Relancer (+'+days+'j)</span>';
+  if (days >= 4) return '<span class="relance-badge rb-soon">Bientôt ('+days+'j)</span>';
+  return '<span class="relance-badge rb-ok">Récent ('+days+'j)</span>';
+}
+
+function filterContacts() {
+  var f = document.getElementById('contact-filter') ? document.getElementById('contact-filter').value : '';
+  var filtered = f ? contacts.filter(function(c){return c.status===f;}) : contacts;
+  renderContactsList(filtered);
+}
+
 function renderContacts(){
+  var e2=document.getElementById('dk-contacts');if(e2)e2.textContent=contacts.length;
+  renderDashboard();
+  filterContacts();
+  var urgent = contacts.filter(function(c){
+    var d=getRelanceDays(c);
+    return d!==null && d>=7 && c.status!=='meeting' && c.status!=='replied';
+  });
+  var banner=document.getElementById('relance-banner');
+  if(banner){
+    if(urgent.length){
+      banner.style.display='block';
+      banner.innerHTML='⚠️ <strong>'+urgent.length+' contact'+(urgent.length>1?'s':'')+' à relancer</strong> — '+urgent.map(function(c){return c.name;}).join(', ');
+    } else { banner.style.display='none'; }
+  }
+}
+
+function renderContactsList(list) {
   var el=document.getElementById('contact-list'),emp=document.getElementById('empty-contacts'),cnt=document.getElementById('contact-count');
+  var all = list !== undefined ? list : contacts;
   if(!contacts.length){el.innerHTML='';emp.style.display='block';cnt.textContent='';return;}
   emp.style.display='none';
   cnt.textContent=contacts.length+' contact'+(contacts.length>1?'s':'');
-  el.innerHTML=contacts.map(function(c){
+  el.innerHTML=all.map(function(c){
     var initials=c.name.split(' ').map(function(w){return w[0];}).join('').substring(0,2).toUpperCase();
-    return '<div class="contact-card">'+
-      '<div class="contact-avatar">'+initials+'</div>'+
-      '<div class="contact-info">'+
-        '<div class="contact-name">'+c.name+'</div>'+
-        '<div class="contact-role">'+c.role+'</div>'+
-        '<div class="contact-co">'+c.co+'</div>'+
+    var msgs = c.messages || [];
+    return '<div class="contact-detail">'+
+      '<div class="contact-detail-header" onclick="toggleContact(''+c.id+'')">'+
+        '<div class="contact-avatar-lg">'+initials+'</div>'+
+        '<div class="contact-detail-info">'+
+          '<div class="contact-detail-name">'+c.name+'</div>'+
+          '<div class="contact-detail-role">'+c.role+' · '+c.co+'</div>'+
+          '<div style="margin-top:5px;display:flex;gap:6px;flex-wrap:wrap;">'+csBadge(c.status)+relanceBadge(c)+'</div>'+
+        '</div>'+
+        '<div style="display:flex;flex-direction:column;align-items:flex-end;gap:6px;">'+
+          (c.url?'<a href="'+(c.url.startsWith('http')?c.url:'https://'+c.url)+'" target="_blank" class="li-btn" onclick="event.stopPropagation()">LinkedIn ↗</a>':'')+
+          '<button class="contact-del" onclick="event.stopPropagation();delContact(''+c.id+'')">×</button>'+
+        '</div>'+
       '</div>'+
-      '<div class="contact-actions">'+
-        csBadge(c.status)+
-        (c.url?'<a href="'+( c.url.startsWith('http')?c.url:'https://'+c.url)+'" target="_blank" class="li-btn">LinkedIn</a>':'')+
-        '<button class="contact-del" onclick="delContact(\''+c.id+'\')">×</button>'+
+      '<div class="contact-detail-body" id="cb-'+c.id+'">'+
+        (msgs.length ?
+          '<div style="margin-bottom:12px;"><div style="font-size:11px;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.06em;margin-bottom:8px;">Historique</div>'+
+          msgs.map(function(m){
+            return '<div class="msg-item"><div class="msg-header"><span class="msg-type mt-'+m.type+'">'+({sent:'Envoyé',received:'Réponse',note:'Note'}[m.type]||m.type)+'</span><span class="msg-date">'+m.date+'</span></div><div class="msg-content">'+m.content+'</div></div>';
+          }).join('')+'</div>'
+          : '<div style="font-size:12px;color:var(--muted);margin-bottom:12px;padding:10px;background:var(--surface2);border-radius:var(--rxs);">Aucun message enregistré</div>'
+        )+
+        '<div style="display:flex;gap:8px;flex-wrap:wrap;">'+
+          '<button class="btn btn-primary" style="font-size:12px;padding:7px 14px;" onclick="openMsgModal(''+c.id+'')">✉ Générer un message</button>'+
+          '<button class="btn" style="font-size:12px;padding:7px 14px;" onclick="addNote(''+c.id+'')">+ Note</button>'+
+          '<select class="mini-sel" onchange="updateContactStatus(''+c.id+'',this.value)">'+
+            ['tocontact','contacted','replied','meeting'].map(function(s){
+              return '<option value="'+s+'"'+(c.status===s?' selected':'')+'>'+{tocontact:'À contacter',contacted:'Contacté',replied:'A répondu',meeting:'Appel prévu'}[s]+'</option>';
+            }).join('')+
+          '</select>'+
+        '</div>'+
+        (c.note?'<div style="margin-top:10px;font-size:12px;color:var(--muted);padding:8px;background:var(--surface2);border-radius:var(--rxs);border-left:2px solid var(--border2);">'+c.note+'</div>':'')+
       '</div>'+
     '</div>';
   }).join('');
-  var e2=document.getElementById('dk-contacts');if(e2)e2.textContent=contacts.length;
-  renderDashboard();
 }
 
-// DASHBOARD
-function renderDashboard(){
-  // Recent cands
-  var rc=document.getElementById('dash-recent');
-  if(rc){
-    var sorted=candidatures.slice().sort(function(a,b){return b.ts-a.ts;}).slice(0,4);
-    rc.innerHTML=sorted.length?sorted.map(function(c){
-      return '<div class="recent-item"><div class="recent-dot recent-dot-'+(c.prio||'basse')+'"></div><div class="recent-info"><div class="recent-poste">'+c.poste+'</div><div class="recent-co">'+c.co+'</div></div>'+sBadge(c.status)+'</div>';
-    }).join(''):'<div style="font-size:12px;color:var(--muted);padding:12px 0;">Aucune candidature</div>';
-  }
-  // Status breakdown
-  var ds=document.getElementById('dash-status');
-  if(ds){
-    var statuses=[{k:'envoyée',l:'Envoyées'},{k:'relance',l:'À relancer'},{k:'entretien',l:'Entretiens'},{k:'offre',l:'Offres'},{k:'refus',l:'Refus'}];
-    ds.innerHTML=statuses.map(function(s){
-      var n=candidatures.filter(function(c){return c.status===s.k;}).length;
-      return '<div class="status-row"><span class="status-name">'+s.l+'</span><span class="status-count">'+n+'</span></div>';
-    }).join('');
-  }
-  // PJP progress
-  var done=clState.filter(Boolean).length;
-  var pf=document.getElementById('pjp-prog-fill');if(pf)pf.style.width=Math.round(done/checklist.length*100)+'%';
-  var pl=document.getElementById('pjp-prog-label');if(pl)pl.textContent=done+'/'+checklist.length+' étapes';
-  // Next steps
-  var ns=document.getElementById('dash-next-steps');
-  if(ns){
-    var nextItems=checklist.filter(function(_,i){return !clState[i];}).slice(0,3);
-    ns.innerHTML=nextItems.map(function(item){
-      return '<div class="next-step"><span class="next-icon">→</span><div class="next-text">'+item+'</div></div>';
-    }).join('');
-  }
-  // Contacts preview
-  var cp=document.getElementById('dash-contacts-preview');
-  if(cp){
-    var top=contacts.slice(0,3);
-    cp.innerHTML=top.length?top.map(function(c){
-      var initials=c.name.split(' ').map(function(w){return w[0];}).join('').substring(0,2).toUpperCase();
-      return '<div class="recent-item"><div class="contact-avatar" style="width:32px;height:32px;border-radius:8px;font-size:12px;">'+initials+'</div><div class="recent-info"><div class="recent-poste">'+c.name+'</div><div class="recent-co">'+c.co+'</div></div>'+csBadge(c.status)+'</div>';
-    }).join(''):'<div style="font-size:12px;color:var(--muted);padding:12px 0;">Aucun contact LinkedIn</div>';
-  }
+function toggleContact(id){var b=document.getElementById('cb-'+id);if(b)b.classList.toggle('open');}
+window.toggleContact=toggleContact;
+
+function updateContactStatus(id,val){
+  if(db){db.collection('contacts').doc(id).update({status:val}).catch(fbErr);}
+  else{contacts.forEach(function(c){if(c.id===id)c.status=val;});savLocalC();renderContacts();}
 }
+window.updateContactStatus=updateContactStatus;
+
+function addNote(id){
+  var note=prompt('Note pour ce contact :');
+  if(!note)return;
+  if(db){db.collection('contacts').doc(id).update({note:note}).catch(fbErr);}
+  else{contacts.forEach(function(c){if(c.id===id)c.note=note;});savLocalC();renderContacts();}
+}
+window.addNote=addNote;
+
+function openMsgModal(id){
+  var c=contacts.find(function(x){return x.id===id;});
+  if(!c)return;
+  var fn=c.name.split(' ')[0];
+  var templates=[
+    {id:'first',title:'Premier contact',desc:'Message d'approche initial — chaleureux, précis, max 80 mots',
+     text:"Bonjour "+fn+",
+
+Je me permets de vous contacter car votre parcours chez "+c.co+" m'intéresse beaucoup. Je suis en fin de Master à EDHEC et recherche activement une opportunité à Montréal via le Programme Jeune Professionnel — dans des rôles marketing/data ou market intelligence.
+
+Mon expérience chez Warner Bros. Discovery (marchés gaming, panels GfK/GSD) et Studio TF1 (CRM, SQL) me semble cohérente avec vos enjeux. Seriez-vous disponible pour un échange de 15 minutes ?
+
+Merci,
+Adrien Bouré
+linkedin.com/in/adrienboure"},
+    {id:'relance',title:'Relance (sans réponse)',desc:'Relance discrète après 7+ jours',
+     text:"Bonjour "+fn+",
+
+Je me permets de revenir vers vous suite à mon message de la semaine dernière. Je comprends que les agendas sont chargés — je voulais simplement réitérer mon intérêt pour un échange sur votre expérience chez "+c.co+".
+
+Je reste disponible selon vos disponibilités.
+
+Bonne journée,
+Adrien Bouré"},
+    {id:'postapp',title:'Après candidature',desc:'Message suite à une candidature déposée chez leur entreprise',
+     text:"Bonjour "+fn+",
+
+Je viens de soumettre ma candidature chez "+c.co+" et j'ai vu votre profil en faisant mes recherches. Mon profil combine market intelligence gaming (Warner Bros. Discovery, GfK/GSD) et CRM/data (Studio TF1, SQL) — et je cherche à rejoindre une équipe comme la vôtre à Montréal via le PJP.
+
+Un échange de 10 minutes pour avoir votre perspective serait précieux.
+
+Merci,
+Adrien Bouré"},
+    {id:'thanks',title:'Après un échange',desc:'Remerciement après un appel ou café',
+     text:"Bonjour "+fn+",
+
+Merci beaucoup pour le temps que vous m'avez accordé. Notre échange était très enrichissant — vos conseils sur "+c.co+" et le marché montréalais me sont précieux.
+
+Je vous tiens informé de la suite. N'hésitez pas à me solliciter si je peux vous être utile.
+
+Bonne continuation,
+Adrien Bouré"},
+    {id:'claude',title:'Personnalisé via Claude',desc:'Génère un message sur-mesure — copie le prompt dans claude.ai',
+     text:"[PROMPT À COLLER DANS CLAUDE.AI]
+
+Rédige un message LinkedIn pour Adrien Bouré (EDHEC Grande École, ex-Warner Bros. Discovery market intelligence gaming avec panels GfK/GSD, ex-Studio TF1 CRM/SQL) qui contacte "+c.name+", "+c.role+" chez "+c.co+".
+
+Contexte : Adrien cherche un poste marketing/data à Montréal via le Programme Jeune Professionnel.
+Style d'Adrien : sobre, orienté résultats, phrases courtes, toujours une preuve concrète, jamais de flatterie excessive.
+Type : "+(c.messages&&c.messages.length?'relance après '+c.messages.length+' échange(s)':'premier contact')+".
+Longueur max : 100 mots.
+Langue : français."},
+  ];
+
+  document.getElementById('modal-msg-content').innerHTML=
+    '<div class="modal-handle"></div>'+
+    '<div style="font-size:16px;font-weight:600;margin-bottom:2px;">Message pour '+c.name+'</div>'+
+    '<div style="font-size:12px;color:var(--muted);margin-bottom:16px;">'+c.role+' · '+c.co+'</div>'+
+    '<div style="font-size:11px;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.06em;margin-bottom:10px;">Choisir un template</div>'+
+    templates.map(function(t){
+      return '<div class="tmpl-card" onclick="selectTmpl(''+c.id+'','+JSON.stringify(t.text).replace(/'/g,"\'")+')">'+
+        '<div class="tmpl-card-title">'+t.title+'</div>'+
+        '<div class="tmpl-card-preview">'+t.desc+'</div>'+
+      '</div>';
+    }).join('')+
+    '<div id="tmpl-result" style="display:none;">'+
+      '<div style="font-size:11px;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.06em;margin-bottom:8px;">Message généré</div>'+
+      '<textarea class="tmpl-generated" id="tmpl-text" style="width:100%;border:0.5px solid var(--border2);border-radius:var(--rsm);padding:12px;font-size:12px;line-height:1.7;min-height:180px;font-family:var(--sans);color:var(--text);background:var(--surface2);resize:vertical;"></textarea>'+
+      '<div style="display:flex;gap:8px;margin-top:10px;">'+
+        '<button class="btn" onclick="closeMsgModal()" style="flex:1;">Fermer</button>'+
+        '<button class="btn btn-primary" onclick="copyAndSave(''+c.id+'')" style="flex:1;">Copier + Enregistrer</button>'+
+      '</div>'+
+    '</div>';
+
+  document.getElementById('modal-msg').classList.add('open');
+}
+window.openMsgModal=openMsgModal;
+
+function selectTmpl(contactId, text){
+  document.getElementById('tmpl-text').value=text;
+  document.getElementById('tmpl-result').style.display='block';
+  document.getElementById('tmpl-result').scrollIntoView({behavior:'smooth'});
+  window._msgContactId=contactId;
+}
+window.selectTmpl=selectTmpl;
+
+function copyAndSave(contactId){
+  var text=document.getElementById('tmpl-text').value;
+  if(!text)return;
+  navigator.clipboard.writeText(text).then(function(){
+    var today=new Date().toLocaleDateString('fr-FR');
+    var msgs=[];
+    contacts.forEach(function(c){if(c.id===contactId)msgs=c.messages||[];});
+    msgs.push({type:'sent',date:today,content:text.substring(0,200)+(text.length>200?'…':'')});
+    var upd={messages:msgs,lastContact:new Date().toISOString(),status:'contacted'};
+    if(db){db.collection('contacts').doc(contactId).update(upd).catch(fbErr);}
+    else{contacts.forEach(function(c){if(c.id===contactId){c.messages=msgs;c.lastContact=upd.lastContact;c.status='contacted';}});savLocalC();}
+    closeMsgModal();renderContacts();
+    alert('Copié ! Colle dans LinkedIn 🚀');
+  }).catch(function(){alert('Copie manuelle depuis la zone de texte.');});
+}
+window.copyAndSave=copyAndSave;
+
+function closeMsgModal(){document.getElementById('modal-msg').classList.remove('open');}
+function closeMsgModalOutside(e){if(e.target===document.getElementById('modal-msg'))closeMsgModal();}
+window.closeMsgModal=closeMsgModal;window.closeMsgModalOutside=closeMsgModalOutside;
 
 // ADD CAND
 function addCand(){
