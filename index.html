@@ -610,14 +610,18 @@ var cands=[], conts=[], alljobs=[], filtjobs=[], prio='h', db=null, u1=null, u2=
 var FB={apiKey:"AIzaSyDyySnoo4b8XSe6lkzC3jXSsljTS-WK33U",authDomain:"objectif-montreal.firebaseapp.com",projectId:"objectif-montreal",storageBucket:"objectif-montreal.firebasestorage.app",messagingSenderId:"10317943413",appId:"1:10317943413:web:6ec4dcda10a95ed2e75e3c"};
 
 var cos=[
-  {n:'Ubisoft Montreal',t:'Studio gaming AAA',top:true,p:['CRM Analyst','Market Intelligence','Player Engagement'],u:'https://www.ubisoft.com/en-gb/company/careers'},
-  {n:'EA Montreal',t:'Studio gaming AAA',top:true,p:['Marketing Analyst','Consumer Insights'],u:'https://www.ea.com/careers'},
-  {n:'WB Games Montreal',t:'Studio gaming',top:false,p:['Brand Manager','Market Research'],u:'https://careers.wbd.com'},
-  {n:'Behaviour Interactive',t:'Studio independant',top:false,p:['Marketing Coordinator','CRM Specialist'],u:'https://www.bhvr.com/careers/'},
-  {n:'Gameloft Montreal',t:'Gaming mobile',top:false,p:['Analyst Marketing','CRM Manager'],u:'https://careers.gameloft.com'},
-  {n:'Keywords Studios',t:'Services gaming',top:false,p:['Insights Analyst','Market Research'],u:'https://www.keywordsstudios.com/en/careers/'},
-  {n:'Cossette',t:'Agence media et data',top:false,p:['Analyste data','Stratege CRM'],u:'https://www.cossette.com/fr/carrieres/'},
-  {n:'Moment Factory',t:'Entertainment immersif',top:false,p:['Coordinateur marketing','Analyste'],u:'https://momentfactory.com/careers'},
+  {n:'Ubisoft Montreal',t:'Studio gaming AAA',top:true,p:['CRM Analyst','Market Intelligence','Player Engagement'],u:'https://www.ubisoft.com/en-gb/company/careers',direct:'https://www.ubisoft.com/en-gb/company/careers/search?locations=Canada',manual:true},
+  {n:'EA Montreal',t:'Studio gaming AAA',top:true,p:['Marketing Analyst','Consumer Insights','Data Analyst'],u:'https://www.ea.com/careers',direct:'https://ea.gr8people.com/jobs?q=marketing&location=Montreal',manual:true},
+  {n:'WB Games Montreal',t:'Studio gaming',top:true,p:['Brand Manager','Market Research','Community Manager'],u:'https://careers.wbd.com',direct:'https://careers.wbd.com/global/en/search-results?keywords=marketing&location=Montreal',manual:true},
+  {n:'Behaviour Interactive',t:'Studio independant',top:false,p:['Marketing Coordinator','CRM Specialist','Community Manager'],u:'https://www.bhvr.com/careers/',direct:'https://www.bhvr.com/careers/',manual:false},
+  {n:'Gameloft Montreal',t:'Gaming mobile',top:false,p:['Analyst Marketing','CRM Manager','Digital Marketing'],u:'https://careers.gameloft.com',direct:'https://careers.gameloft.com',manual:false},
+  {n:'Cirque du Soleil',t:'Entertainment & spectacle',top:false,p:['Marketing','Communications','Digital'],u:'https://www.cirquedusoleil.com/careers',direct:'https://jobs.lever.co/cirquedusoleil',manual:false},
+  {n:'Rodeo FX',t:'VFX & animation',top:false,p:['Coordinateur marketing','Communications'],u:'https://www.rodeofx.com/careers',direct:'https://www.smartrecruiters.com/RodeoFX',manual:false},
+  {n:'Moment Factory',t:'Entertainment immersif',top:false,p:['Coordinateur marketing','Analyste'],u:'https://momentfactory.com/careers',direct:'https://momentfactory.com/careers',manual:false},
+  {n:'Keywords Studios',t:'Services gaming',top:false,p:['Insights Analyst','Market Research'],u:'https://www.keywordsstudios.com/en/careers/',direct:'https://www.keywordsstudios.com/en/careers/',manual:false},
+  {n:'Sid Lee',t:'Agence creative',top:false,p:['Stratege','Analyste','Account Manager'],u:'https://sidlee.com/en/careers',direct:'https://sidlee.com/en/careers',manual:false},
+  {n:'lg2',t:'Agence pub & digital',top:false,p:['Stratege','Planificateur','Analyste'],u:'https://www.lg2.com/en/careers',direct:'https://www.lg2.com/en/careers',manual:false},
+  {n:'Radio-Canada',t:'Media public',top:false,p:['Marketing','Communications','Digital'],u:'https://emplois.radio-canada.ca',direct:'https://emplois.radio-canada.ca',manual:false},
 ];
 
 var cl=['CV adapte au format quebecois (1 page, sans photo)','Lettre de motivation prete en FR et EN','Profil LinkedIn optimise avec OpenToWork','Certif Salesforce Marketing Cloud finalisee','Reseau alumni EDHEC a Montreal contacte','Candidatures envoyees sur careers.ubisoft.com','Candidatures envoyees sur autres entreprises cibles','Offre emploi recue (necessaire avant PJP)','Demande PJP soumise sur Canada.ca'];
@@ -1031,10 +1035,22 @@ function saveGoals() { localStorage.setItem('adrien-goals', JSON.stringify(goals
 function renderCos(){
   document.getElementById('cogr').innerHTML=cos.map(function(c){
     return '<div class="coit'+(c.top?' top':'')+'">'+
-      (c.top?'<div class="cotb">Priorite haute</div>':'')+
-      '<div class="con2">'+c.n+'</div><div class="cot">'+c.t+'</div>'+
+      '<div style="display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:6px;">'+
+        '<div>'+
+          (c.top?'<div class="cotb" style="margin-bottom:6px;">Priorite haute</div>':'')+
+          '<div class="con2">'+c.n+'</div>'+
+          '<div class="cot">'+c.t+'</div>'+
+        '</div>'+
+        (c.manual?'<span style="font-size:9px;background:#fff5e6;color:#8a5200;border:.5px solid rgba(255,159,10,.3);padding:2px 6px;border-radius:4px;font-weight:600;white-space:nowrap;margin-left:6px;">Lien direct</span>':'<span style="font-size:9px;background:var(--grn-l);color:#1a7a35;border:.5px solid rgba(52,199,89,.3);padding:2px 6px;border-radius:4px;font-weight:600;white-space:nowrap;margin-left:6px;">Auto</span>')+
+      '</div>'+
       '<div class="cop">'+c.p.map(function(p){return '<span class="badge bx">'+p+'</span>';}).join('')+'</div>'+
-      '<a href="'+c.u+'" target="_blank" class="col">Voir les offres</a></div>';
+      '<div style="display:flex;gap:6px;flex-wrap:wrap;margin-top:8px;">'+
+        '<a href="'+c.direct+'" target="_blank" class="col" style="display:inline-flex;align-items:center;gap:4px;background:var(--acc-l);padding:5px 10px;border-radius:6px;font-size:11px;">'+
+          (c.manual?'Voir les offres →':'Voir les offres →')+
+        '</a>'+
+        (c.manual?'<span style="font-size:10px;color:var(--mut);align-self:center;">Filtre manuellement "Montreal"</span>':'')+
+      '</div>'+
+    '</div>';
   }).join('');
 }
 
