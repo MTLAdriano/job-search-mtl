@@ -223,6 +223,22 @@ textarea{resize:vertical;min-height:60px;line-height:1.5;}
 .mh2{width:36px;height:4px;background:var(--bdr2);border-radius:2px;margin:0 auto 20px;}
 .mtl{font-size:16px;font-weight:600;color:var(--txt);margin-bottom:18px;}
 .empty{text-align:center;padding:48px 20px;color:var(--mut);}
+/* GOALS */
+.goals{background:var(--dark);border-radius:20px;padding:20px;margin-bottom:16px;}
+.goals-title{font-size:12px;font-weight:600;color:rgba(255,255,255,.35);letter-spacing:.08em;text-transform:uppercase;margin-bottom:14px;display:flex;align-items:center;justify-content:space-between;}
+.goals-week{font-size:10px;color:rgba(255,255,255,.2);}
+.goal-item{margin-bottom:14px;}
+.goal-item:last-child{margin-bottom:0;}
+.goal-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:6px;}
+.goal-label{font-size:13px;color:rgba(255,255,255,.8);font-weight:400;}
+.goal-count{font-size:13px;font-weight:600;color:#fff;}
+.goal-bar{height:6px;background:rgba(255,255,255,.08);border-radius:3px;overflow:hidden;}
+.goal-fill{height:100%;border-radius:3px;transition:width .5s ease;}
+.gf-blue{background:linear-gradient(90deg,#60a5fa,#3b82f6);}
+.gf-purple{background:linear-gradient(90deg,#c084fc,#a855f7);}
+.goal-done{color:#4ade80 !important;}
+.goal-edit{background:none;border:none;cursor:pointer;font-size:10px;color:rgba(255,255,255,.25);padding:2px 6px;border-radius:4px;font-family:var(--sans);}
+.goal-edit:hover{color:rgba(255,255,255,.6);background:rgba(255,255,255,.06);}
 .eico{font-size:36px;margin-bottom:10px;opacity:.3;}
 .etxt{font-size:13px;}
 @media(max-width:600px){.kpis,.drow,.fr,.cogr{grid-template-columns:1fr 1fr;}.main{padding:16px;}.ni{padding:0 16px;}}
@@ -348,6 +364,33 @@ textarea{resize:vertical;min-height:60px;line-height:1.5;}
       <div class="kpi ka"><div class="kv" id="k4">0</div><div class="kl">Contacts</div></div>
     </div>
   </div>
+  <div class="goals">
+    <div class="goals-title">
+      Objectifs de la semaine
+      <span class="goals-week" id="goals-week"></span>
+    </div>
+    <div class="goal-item">
+      <div class="goal-header">
+        <span class="goal-label">📋 Candidatures envoyees</span>
+        <div style="display:flex;align-items:center;gap:8px;">
+          <span class="goal-count" id="g-cand-count">0 / <span id="g-cand-target">5</span></span>
+          <button class="goal-edit" onclick="editGoal('cand')">modifier</button>
+        </div>
+      </div>
+      <div class="goal-bar"><div class="goal-fill gf-blue" id="g-cand-bar" style="width:0%"></div></div>
+    </div>
+    <div class="goal-item">
+      <div class="goal-header">
+        <span class="goal-label">💬 Messages LinkedIn envoyes</span>
+        <div style="display:flex;align-items:center;gap:8px;">
+          <span class="goal-count" id="g-msg-count">0 / <span id="g-msg-target">8</span></span>
+          <button class="goal-edit" onclick="editGoal('msg')">modifier</button>
+        </div>
+      </div>
+      <div class="goal-bar"><div class="goal-fill gf-purple" id="g-msg-bar" style="width:0%"></div></div>
+    </div>
+  </div>
+
   <div class="drow">
     <div class="dc"><div class="dct">Candidatures recentes <span class="dca" onclick="goTo('track')">Voir tout</span></div><div id="drec"></div></div>
     <div class="dc"><div class="dct">Par statut</div><div id="dstat"></div></div>
@@ -578,7 +621,7 @@ function renderConts(){
   });
   var ban=document.getElementById('rban');
   if(ban){if(ur.length){ban.style.display='block';ban.innerHTML='Relancer: '+ur.map(function(c){return c.name;}).join(', ');}else{ban.style.display='none';}}
-  filterConts('');updStats();
+  filterConts('');updStats();renderGoals();
 }
 
 function renderContList(list){
@@ -780,6 +823,96 @@ function fmtD(d){
   return new Date(d).toLocaleDateString('fr-FR',{day:'numeric',month:'short'});
 }
 
+// GOALS
+var goals = JSON.parse(localStorage.getItem('adrien-goals') || '{"candTarget":5,"msgTarget":8,"weekKey":""}');
+
+function getWeekKey() {
+  var d = new Date();
+  var day = d.getDay();
+  var monday = new Date(d);
+  monday.setDate(d.getDate() - (day === 0 ? 6 : day - 1));
+  return monday.toISOString().split('T')[0];
+}
+
+function getWeekLabel() {
+  var d = new Date();
+  var day = d.getDay();
+  var monday = new Date(d);
+  monday.setDate(d.getDate() - (day === 0 ? 6 : day - 1));
+  var sunday = new Date(monday);
+  sunday.setDate(monday.getDate() + 6);
+  var mos = ['jan','fev','mar','avr','mai','jun','jul','aou','sep','oct','nov','dec'];
+  return monday.getDate()+' '+mos[monday.getMonth()]+' - '+sunday.getDate()+' '+mos[sunday.getMonth()];
+}
+
+function renderGoals() {
+  var wk = getWeekKey();
+  // Reset if new week
+  if (goals.weekKey !== wk) {
+    goals.weekKey = wk;
+    goals.candDone = 0;
+    goals.msgDone = 0;
+    saveGoals();
+  }
+
+  var wlbl = document.getElementById('goals-week');
+  if (wlbl) wlbl.textContent = getWeekLabel();
+
+  // Count cands this week
+  var weekStart = new Date(wk);
+  var candThisWeek = cands.filter(function(c) {
+    if (!c.ts) return false;
+    return new Date(c.ts) >= weekStart;
+  }).length;
+
+  // Count msgs this week (from contacts messages)
+  var msgThisWeek = 0;
+  conts.forEach(function(c) {
+    (c.messages || []).forEach(function(m) {
+      if (!m.date) return;
+      var parts = m.date.split('/');
+      if (parts.length === 3) {
+        var d = new Date(parts[2], parts[1]-1, parts[0]);
+        if (d >= weekStart) msgThisWeek++;
+      }
+    });
+  });
+
+  var ct = goals.candTarget || 5;
+  var mt = goals.msgTarget || 8;
+  var cpct = Math.min(100, Math.round(candThisWeek / ct * 100));
+  var mpct = Math.min(100, Math.round(msgThisWeek / mt * 100));
+
+  var cc = document.getElementById('g-cand-count');
+  var mc = document.getElementById('g-msg-count');
+  var ct2 = document.getElementById('g-cand-target');
+  var mt2 = document.getElementById('g-msg-target');
+  var cb = document.getElementById('g-cand-bar');
+  var mb = document.getElementById('g-msg-bar');
+
+  if (ct2) ct2.textContent = ct;
+  if (mt2) mt2.textContent = mt;
+  if (cc) { cc.innerHTML = candThisWeek + ' / <span id="g-cand-target">' + ct + '</span>'; cc.className = 'goal-count' + (candThisWeek >= ct ? ' goal-done' : ''); }
+  if (mc) { mc.innerHTML = msgThisWeek + ' / <span id="g-msg-target">' + mt + '</span>'; mc.className = 'goal-count' + (msgThisWeek >= mt ? ' goal-done' : ''); }
+  if (cb) cb.style.width = cpct + '%';
+  if (mb) mb.style.width = mpct + '%';
+}
+
+function editGoal(type) {
+  var cur = type === 'cand' ? (goals.candTarget || 5) : (goals.msgTarget || 8);
+  var label = type === 'cand' ? 'candidatures' : 'messages LinkedIn';
+  var val = prompt('Objectif hebdo de ' + label + ' :', cur);
+  if (!val || isNaN(parseInt(val))) return;
+  if (type === 'cand') goals.candTarget = parseInt(val);
+  else goals.msgTarget = parseInt(val);
+  saveGoals();
+  renderGoals();
+}
+
+function saveGoals() {
+  localStorage.setItem('adrien-goals', JSON.stringify(goals));
+}
+
 function renderCos(){
   document.getElementById('cogr').innerHTML=cos.map(function(c){
     return '<div class="coit'+(c.top?' top':'')+'">'+
@@ -816,6 +949,7 @@ function updStats(){
   var ids={k1:n,k2:r,k3:e,k4:conts.length};
   Object.keys(ids).forEach(function(k){var el=document.getElementById(k);if(el)el.textContent=ids[k];});
   renderDash();
+  renderGoals();
 }
 
 function renderDash(){
@@ -878,7 +1012,7 @@ Object.keys(FB).forEach(function(k){var el=document.getElementById('cfg-'+k);if(
 renderCos();renderCL();
 try{cands=JSON.parse(localStorage.getItem('ac')||'[]');}catch(e){}
 try{conts=JSON.parse(localStorage.getItem('aco')||'[]');}catch(e){}
-renderCands();renderConts();renderDash();loadJobs();
+renderCands();renderConts();renderDash();renderGoals();loadJobs();
 setTimeout(function(){initFb(FB);},600);
 </script>
 </body>
