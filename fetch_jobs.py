@@ -17,30 +17,28 @@ def add_job(job):
 def log(msg):
     print(msg, flush=True)
 
-def fetch_greenhouse(slug, company_name, filter_montreal=False, filter_keywords=None):
+def fetch_smartrecruiters(slug, company_name, filter_keywords=None):
     try:
-        r = requests.get(f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true", headers=headers, timeout=10)
+        params = {"limit": 100}
+        r = requests.get(f"https://api.smartrecruiters.com/v1/companies/{slug}/postings", params=params, headers=headers, timeout=15)
         if r.status_code == 200:
-            jobs = r.json().get("jobs", [])
-            if filter_montreal:
-                jobs = [j for j in jobs if "montreal" in j.get("location",{}).get("name","").lower()]
+            jobs = r.json().get("content", [])
             if filter_keywords:
-                jobs = [j for j in jobs if any(k in j.get("title","").lower() for k in filter_keywords)]
-            log(f"  {company_name} (Greenhouse/{slug}): {len(jobs)} offres")
+                jobs = [j for j in jobs if any(k in j.get("name","").lower() for k in filter_keywords)]
+            log(f"  {company_name} (SR/{slug}): {len(jobs)} offres")
             for job in jobs:
-                add_job({"id": f"gh-{job.get('id','')}", "title": job.get("title",""), "company": company_name, "location": job.get("location",{}).get("name","Montreal"), "description": job.get("content","")[:500], "salary_min": None, "salary_max": None, "url": job.get("absolute_url",""), "created": job.get("updated_at",""), "category": "Gaming & Entertainment", "source": company_name})
+                loc = f"{job.get('location',{}).get('city','')}, {job.get('location',{}).get('country','')}"
+                add_job({"id": f"sr-{job.get('id','')}", "title": job.get("name",""), "company": company_name, "location": loc, "description": "", "salary_min": None, "salary_max": None, "url": f"https://careers.smartrecruiters.com/{slug}/{job.get('id','')}", "created": job.get("releasedDate",""), "category": "Gaming & Entertainment", "source": company_name})
         else:
-            log(f"  {company_name} (Greenhouse/{slug}): {r.status_code}")
+            log(f"  {company_name} (SR/{slug}): {r.status_code}")
     except Exception as e:
-        log(f"  {company_name} error: {e}")
+        log(f"  {company_name} SR error: {e}")
 
-def fetch_lever(slug, company_name, filter_montreal=False, filter_keywords=None):
+def fetch_lever(slug, company_name, filter_keywords=None):
     try:
         r = requests.get(f"https://api.lever.co/v0/postings/{slug}?mode=json", headers=headers, timeout=10)
         if r.status_code == 200:
             jobs = r.json() if isinstance(r.json(), list) else []
-            if filter_montreal:
-                jobs = [j for j in jobs if "montreal" in str(j.get("categories",{}).get("location","")).lower() or "montreal" in str(j.get("categories",{}).get("allLocations",[])).lower()]
             if filter_keywords:
                 jobs = [j for j in jobs if any(k in j.get("text","").lower() for k in filter_keywords)]
             log(f"  {company_name} (Lever/{slug}): {len(jobs)} offres")
@@ -53,159 +51,149 @@ def fetch_lever(slug, company_name, filter_montreal=False, filter_keywords=None)
         else:
             log(f"  {company_name} (Lever/{slug}): {r.status_code}")
     except Exception as e:
-        log(f"  {company_name} error: {e}")
+        log(f"  {company_name} Lever error: {e}")
 
-def fetch_smartrecruiters(slug, company_name, filter_montreal=False, filter_keywords=None):
+# ============================================================
+# 1. GAMELOFT — SmartRecruiters (fonctionne !)
+# ============================================================
+log("\n[1] Gameloft...")
+fetch_smartrecruiters("Gameloft", "Gameloft Montreal")
+
+# ============================================================
+# 2. CIRQUE DU SOLEIL — Lever (fonctionne !)
+# ============================================================
+log("\n[2] Cirque du Soleil...")
+fetch_lever("cirquedusoleil", "Cirque du Soleil")
+
+# ============================================================
+# 3. RODEO FX — SmartRecruiters (fonctionne !)
+# ============================================================
+log("\n[3] Rodeo FX...")
+fetch_smartrecruiters("RodeoFX", "Rodeo FX")
+
+# ============================================================
+# 4. UBISOFT — SmartRecruiters SANS filtre Montreal
+# ============================================================
+log("\n[4] Ubisoft (toutes offres)...")
+fetch_smartrecruiters("Ubisoft", "Ubisoft")
+
+# ============================================================
+# 5. BEHAVIOUR INTERACTIVE — SmartRecruiters SANS filtre
+# ============================================================
+log("\n[5] Behaviour Interactive (toutes offres)...")
+fetch_smartrecruiters("BehaviourInteractive", "Behaviour Interactive")
+
+# ============================================================
+# 6. EA — SmartRecruiters SANS filtre
+# ============================================================
+log("\n[6] EA (toutes offres)...")
+fetch_smartrecruiters("ElectronicArts", "EA")
+
+# ============================================================
+# 7. WB GAMES — SmartRecruiters SANS filtre
+# ============================================================
+log("\n[7] WB Games (toutes offres)...")
+fetch_smartrecruiters("WarnerMediaGames", "WB Games")
+fetch_smartrecruiters("WarnerbrosDiscovery", "WB Games")
+
+# ============================================================
+# 8. RADIO-CANADA — essai avec bon slug
+# ============================================================
+log("\n[8] Radio-Canada...")
+for slug in ["RadioCanadaCBC", "CBC-Radio-Canada", "CBCRadioCanada", "cbc-radio-canada"]:
+    fetch_smartrecruiters(slug, "Radio-Canada")
+fetch_lever("cbc", "Radio-Canada")
+fetch_lever("cbcradiocanada", "Radio-Canada")
+
+# ============================================================
+# 9. SID LEE — Greenhouse fonctionne !
+# ============================================================
+log("\n[9] Sid Lee...")
+try:
+    r = requests.get("https://boards-api.greenhouse.io/v1/boards/sidlee/jobs", headers=headers, timeout=10)
+    if r.status_code == 200:
+        jobs = r.json().get("jobs", [])
+        log(f"  Sid Lee (Greenhouse): {len(jobs)} offres")
+        for job in jobs:
+            add_job({"id": f"gh-{job.get('id','')}", "title": job.get("title",""), "company": "Sid Lee", "location": job.get("location",{}).get("name","Montreal"), "description": "", "salary_min": None, "salary_max": None, "url": job.get("absolute_url",""), "created": job.get("updated_at",""), "category": "Agence", "source": "Sid Lee"})
+    else:
+        log(f"  Sid Lee (Greenhouse): {r.status_code}")
+except Exception as e:
+    log(f"  Sid Lee error: {e}")
+fetch_smartrecruiters("SidLee", "Sid Lee")
+fetch_lever("sidlee", "Sid Lee")
+
+# ============================================================
+# 10. LG2 — essai slugs alternatifs
+# ============================================================
+log("\n[10] lg2...")
+for slug in ["lg2agency", "lg2-agency", "agence-lg2"]:
+    fetch_lever(slug, "lg2")
+for slug in ["lg2", "lg2Agency", "lg2agence"]:
+    fetch_smartrecruiters(slug, "lg2")
+
+# ============================================================
+# 11. MOMENT FACTORY
+# ============================================================
+log("\n[11] Moment Factory...")
+fetch_smartrecruiters("MomentFactory", "Moment Factory")
+fetch_lever("moment-factory", "Moment Factory")
+
+# ============================================================
+# 12. KEYWORDS STUDIOS
+# ============================================================
+log("\n[12] Keywords Studios...")
+fetch_smartrecruiters("KeywordsStudios", "Keywords Studios")
+fetch_lever("keywords-studios", "Keywords Studios")
+
+# ============================================================
+# 13. BUSINESS FRANCE VIE — essai avec regex corrige
+# ============================================================
+log("\n[13] Business France VIE...")
+for city, pays in [("Montr%C3%A9al", "Canada"), ("New+York", "USA")]:
     try:
-        params = {"limit": 100}
-        if filter_montreal:
-            params["city"] = "Montreal"
-        r = requests.get(f"https://api.smartrecruiters.com/v1/companies/{slug}/postings", params=params, headers=headers, timeout=10)
+        url = f"https://mon-vie-via.businessfrance.fr/offres/recherche?villeDestination={city}"
+        r = requests.get(url, headers=headers, timeout=20)
+        log(f"  VIE {city}: {r.status_code}, {len(r.text)} chars")
         if r.status_code == 200:
-            jobs = r.json().get("content", [])
-            if filter_keywords:
-                jobs = [j for j in jobs if any(k in j.get("name","").lower() for k in filter_keywords)]
-            log(f"  {company_name} (SmartRecruiters/{slug}): {len(jobs)} offres")
-            for job in jobs:
-                add_job({"id": f"sr-{job.get('id','')}", "title": job.get("name",""), "company": company_name, "location": f"{job.get('location',{}).get('city','')}, {job.get('location',{}).get('country','')}", "description": "", "salary_min": None, "salary_max": None, "url": f"https://careers.smartrecruiters.com/{slug}/{job.get('id','')}", "created": job.get("releasedDate",""), "category": "Gaming & Entertainment", "source": company_name})
-        else:
-            log(f"  {company_name} (SmartRecruiters/{slug}): {r.status_code}")
+            # Try multiple patterns
+            patterns = [
+                r'data-intitule="([^"]+)"',
+                r'"poste"\s*:\s*"([^"]+)"',
+                r'class="job-title[^"]*"[^>]*>\s*([^<]+)',
+                r'itemprop="title"[^>]*>([^<]+)',
+            ]
+            found = []
+            for pat in patterns:
+                found = re.findall(pat, r.text)
+                if found:
+                    log(f"  VIE {city}: {len(found)} offres avec pattern {pat[:30]}")
+                    break
+            if not found:
+                # Try to find any JSON in the page
+                json_matches = re.findall(r'\{[^{}]*"intitule"[^{}]*\}', r.text)
+                log(f"  VIE {city}: {len(json_matches)} JSON blocks found")
+                for jm in json_matches[:20]:
+                    try:
+                        data = json.loads(jm)
+                        title = data.get("intitule","")
+                        if title:
+                            add_job({"id": f"vie-{city}-{title}", "title": title, "company": data.get("entreprise",""), "location": city.replace("%C3%A9", "é").replace("+", " "), "description": "", "salary_min": None, "salary_max": None, "url": "https://mon-vie-via.businessfrance.fr", "created": datetime.utcnow().isoformat()+"Z", "category": "VIE", "source": "Business France VIE"})
+                    except: pass
     except Exception as e:
-        log(f"  {company_name} error: {e}")
-
-def fetch_ashby(slug, company_name, filter_montreal=False, filter_keywords=None):
-    try:
-        r = requests.post("https://jobs.ashbyhq.com/api/non-user-graphql",
-            json={"operationName": "ApiJobBoardWithTeams", "variables": {"organizationHostedJobsPageName": slug}, "query": "query ApiJobBoardWithTeams($organizationHostedJobsPageName: String!) { jobBoard: jobBoardWithTeams(organizationHostedJobsPageName: $organizationHostedJobsPageName) { jobPostings { id title locationName isListed } } }"},
-            headers={**headers, "Content-Type": "application/json"}, timeout=15)
-        if r.status_code == 200:
-            jobs = r.json().get("data",{}).get("jobBoard",{}).get("jobPostings",[])
-            jobs = [j for j in jobs if j.get("isListed")]
-            if filter_montreal:
-                jobs = [j for j in jobs if "montreal" in str(j.get("locationName","")).lower()]
-            if filter_keywords:
-                jobs = [j for j in jobs if any(k in j.get("title","").lower() for k in filter_keywords)]
-            log(f"  {company_name} (Ashby/{slug}): {len(jobs)} offres")
-            for job in jobs:
-                add_job({"id": f"ash-{job.get('id','')}", "title": job.get("title",""), "company": company_name, "location": job.get("locationName","Montreal"), "description": "", "salary_min": None, "salary_max": None, "url": f"https://jobs.ashbyhq.com/{slug}/{job.get('id','')}", "created": datetime.utcnow().isoformat()+"Z", "category": "Entertainment", "source": company_name})
-        else:
-            log(f"  {company_name} (Ashby/{slug}): {r.status_code}")
-    except Exception as e:
-        log(f"  {company_name} error: {e}")
+        log(f"  VIE {city} error: {e}")
 
 # ============================================================
-# GAMING & ENTERTAINMENT — MONTREAL (TOUTES LES OFFRES)
+# 14. THE MUSE — backup avec filtre strict
 # ============================================================
-log("\n=== GAMING & ENTERTAINMENT - MONTREAL ===")
-
-# Ubisoft — Workday via SmartRecruiters
-log("\n[1] Ubisoft...")
-fetch_smartrecruiters("Ubisoft", "Ubisoft Montreal", filter_montreal=True)
-# Fallback Greenhouse
-fetch_greenhouse("ubisoft", "Ubisoft Montreal", filter_montreal=True)
-
-# Behaviour Interactive
-log("\n[2] Behaviour Interactive...")
-fetch_smartrecruiters("BehaviourInteractive", "Behaviour Interactive", filter_montreal=True)
-fetch_greenhouse("behaviour-interactive", "Behaviour Interactive", filter_montreal=True)
-fetch_lever("behaviour", "Behaviour Interactive", filter_montreal=True)
-
-# EA Montreal
-log("\n[3] EA Montreal...")
-fetch_greenhouse("ea", "EA Montreal", filter_montreal=True)
-fetch_lever("ea", "EA Montreal", filter_montreal=True)
-fetch_smartrecruiters("ElectronicArts", "EA Montreal", filter_montreal=True)
-
-# Gameloft
-log("\n[4] Gameloft...")
-fetch_smartrecruiters("Gameloft", "Gameloft Montreal", filter_montreal=True)
-fetch_greenhouse("gameloft-montreal", "Gameloft Montreal", filter_montreal=True)
-
-# WB Games Montreal
-log("\n[5] WB Games Montreal...")
-fetch_greenhouse("warnermediagames", "WB Games Montreal", filter_montreal=True)
-fetch_lever("warnermedia", "WB Games Montreal", filter_montreal=True)
-fetch_smartrecruiters("WarnerMediaGames", "WB Games Montreal", filter_montreal=True)
-
-# Keywords Studios
-log("\n[6] Keywords Studios...")
-for slug in ["keywordsgroup", "keywords-group", "keywordsintl", "keywordsstudiosgroup"]:
-    fetch_greenhouse(slug, "Keywords Studios", filter_montreal=False)
-
-# ============================================================
-# ENTERTAINMENT & CREATIVE — MONTREAL
-# ============================================================
-log("\n=== ENTERTAINMENT & CREATIVE ===")
-
-# Cirque du Soleil
-log("\n[7] Cirque du Soleil...")
-fetch_greenhouse("cirquedusoleil", "Cirque du Soleil", filter_montreal=False)
-fetch_lever("cirquedusoleil", "Cirque du Soleil", filter_montreal=False)
-fetch_smartrecruiters("CirqueDuSoleil", "Cirque du Soleil", filter_montreal=False)
-fetch_ashby("cirque-du-soleil", "Cirque du Soleil", filter_montreal=False)
-
-# Moment Factory
-log("\n[8] Moment Factory...")
-fetch_ashby("momentfactory", "Moment Factory", filter_montreal=False)
-fetch_greenhouse("moment-factory", "Moment Factory", filter_montreal=False)
-fetch_lever("momentfactory", "Moment Factory", filter_montreal=False)
-
-# Framestore
-log("\n[9] Framestore...")
-fetch_greenhouse("framestore", "Framestore", filter_montreal=True)
-fetch_lever("framestore", "Framestore", filter_montreal=True)
-fetch_smartrecruiters("Framestore", "Framestore", filter_montreal=True)
-
-# Rodeo FX
-log("\n[10] Rodeo FX...")
-fetch_greenhouse("rodeofx", "Rodeo FX", filter_montreal=False)
-fetch_lever("rodeofx", "Rodeo FX", filter_montreal=False)
-fetch_smartrecruiters("RodeoFX", "Rodeo FX", filter_montreal=False)
-fetch_ashby("rodeo-fx", "Rodeo FX", filter_montreal=False)
-
-# ============================================================
-# MEDIA & AGENCES — MONTREAL
-# ============================================================
-log("\n=== MEDIA & AGENCES ===")
-
-# Radio-Canada / CBC
-log("\n[11] Radio-Canada...")
-fetch_greenhouse("radio-canada", "Radio-Canada", filter_montreal=True)
-fetch_lever("radiocanada", "Radio-Canada", filter_montreal=True)
-fetch_smartrecruiters("RadioCanada", "Radio-Canada", filter_montreal=True)
-fetch_ashby("radio-canada", "Radio-Canada", filter_montreal=True)
-
-# TVA / Quebecor
-log("\n[12] TVA / Quebecor...")
-fetch_greenhouse("quebecor", "TVA / Quebecor", filter_montreal=True)
-fetch_lever("quebecor", "TVA / Quebecor", filter_montreal=True)
-fetch_smartrecruiters("Quebecor", "TVA / Quebecor", filter_montreal=True)
-
-# Sid Lee
-log("\n[13] Sid Lee...")
-fetch_greenhouse("sidlee", "Sid Lee", filter_montreal=True)
-fetch_lever("sidlee", "Sid Lee", filter_montreal=True)
-fetch_smartrecruiters("SidLee", "Sid Lee", filter_montreal=True)
-fetch_ashby("sid-lee", "Sid Lee", filter_montreal=True)
-
-# lg2
-log("\n[14] lg2...")
-fetch_greenhouse("lg2", "lg2", filter_montreal=True)
-fetch_lever("lg2agency", "lg2", filter_montreal=True)
-fetch_smartrecruiters("lg2", "lg2", filter_montreal=True)
-fetch_ashby("lg2", "lg2", filter_montreal=True)
-
-# ============================================================
-# THE MUSE — backup
-# ============================================================
-log("\n=== THE MUSE (backup) ===")
-kw_muse = ["marketing","crm","data analyst","market intelligence","brand","digital marketing","media","communications"]
-for s in [{"category": "Marketing and PR", "location": "Canada"}, {"category": "Data and Analytics", "location": "Canada"}]:
+log("\n[14] The Muse (backup)...")
+kw = ["marketing","crm","data analyst","market intelligence","brand manager","digital marketing","media planner","communications manager"]
+for s in [{"category": "Marketing and PR", "location": "Canada"}, {"category": "Data and Analytics", "location": "Canada"}, {"category": "Marketing and PR", "location": "New York City, NY"}]:
     try:
         r = requests.get("https://www.themuse.com/api/public/jobs", params={"category": s["category"], "location": s["location"], "page": 0}, headers=headers, timeout=15)
         results = r.json().get("results", [])
-        relevant = [j for j in results if any(k in j.get("name","").lower() for k in kw_muse)]
-        log(f"  The Muse '{s['category']}': {len(results)} total, {len(relevant)} relevant")
+        relevant = [j for j in results if any(k in j.get("name","").lower() for k in kw)]
+        log(f"  The Muse '{s['category']}' {s['location']}: {len(relevant)} relevant")
         for job in relevant:
             loc = ", ".join([l.get("name","") for l in job.get("locations", [])])
             add_job({"id": "muse-"+str(job.get("id","")), "title": job.get("name",""), "company": job.get("company",{}).get("name",""), "location": loc, "description": job.get("contents","")[:500], "salary_min": None, "salary_max": None, "url": job.get("refs",{}).get("landing_page",""), "created": job.get("publication_date",""), "category": s["category"], "source": "The Muse"})
@@ -213,39 +201,20 @@ for s in [{"category": "Marketing and PR", "location": "Canada"}, {"category": "
         log(f"  The Muse error: {e}")
 
 # ============================================================
-# BUSINESS FRANCE VIE
-# ============================================================
-log("\n=== BUSINESS FRANCE VIE ===")
-for city in ["Montreal", "New+York"]:
-    try:
-        r = requests.get(f"https://mon-vie-via.businessfrance.fr/offres/recherche?villeDestination={city}", headers=headers, timeout=15)
-        log(f"  VIE {city}: {r.status_code}, {len(r.text)} chars")
-        titles = re.findall(r'class="offer-title[^"]*"[^>]*>([^<]+)<', r.text)
-        companies = re.findall(r'class="offer-company[^"]*"[^>]*>([^<]+)<', r.text)
-        links = re.findall(r'href="(/offres/detail/[^"]+)"', r.text)
-        log(f"  VIE {city}: {len(titles)} offres trouvees")
-        for i, title in enumerate(titles):
-            co = companies[i] if i < len(companies) else ""
-            link = "https://mon-vie-via.businessfrance.fr" + links[i] if i < len(links) else "https://mon-vie-via.businessfrance.fr"
-            add_job({"id": f"vie-{city}-{i}", "title": title.strip(), "company": co.strip(), "location": city.replace("+", " "), "description": "", "salary_min": None, "salary_max": None, "url": link, "created": datetime.utcnow().isoformat()+"Z", "category": "VIE", "source": "Business France VIE"})
-    except Exception as e:
-        log(f"  VIE {city} error: {e}")
-
-# ============================================================
-# ADZUNA
+# 15. ADZUNA
 # ============================================================
 APP_ID = os.environ.get("ADZUNA_APP_ID", "")
 APP_KEY = os.environ.get("ADZUNA_APP_KEY", "")
 if APP_ID and APP_KEY:
-    log("\n=== ADZUNA ===")
-    for s in [{"what": "marketing analyst", "where": "Montreal"}, {"what": "CRM", "where": "Montreal"}, {"what": "data analyst", "where": "Montreal"}]:
+    log("\n[15] Adzuna...")
+    for s in [{"what": "marketing analyst", "where": "Montreal"}, {"what": "CRM", "where": "Montreal"}]:
         try:
             r = requests.get("https://api.adzuna.com/v1/api/jobs/ca/search/1", params={"app_id": APP_ID, "app_key": APP_KEY, "results_per_page": 10, "what": s["what"], "where": s["where"]}, headers=headers, timeout=15)
             if r.status_code == 200:
-                results = r.json().get("results", [])
-                log(f"  Adzuna '{s['what']}': {len(results)}")
-                for job in results:
+                for job in r.json().get("results",[]):
                     add_job({"id": "az-"+str(job.get("id","")), "title": job.get("title",""), "company": job.get("company",{}).get("display_name",""), "location": job.get("location",{}).get("display_name",""), "description": job.get("description",""), "salary_min": job.get("salary_min"), "salary_max": job.get("salary_max"), "url": job.get("redirect_url",""), "created": job.get("created",""), "category": "Marketing", "source": "Adzuna"})
+            else:
+                log(f"  Adzuna {r.status_code}")
         except Exception as e:
             log(f"  Adzuna error: {e}")
 
