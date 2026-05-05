@@ -842,7 +842,11 @@ function filterJobs(){
   el.innerHTML=filtjobs.map(function(j,i){
     var sal=j.salary_min?Math.round(j.salary_min/1000)+'k-'+Math.round((j.salary_max||j.salary_min)/1000)+'k$ CAD':null;
     return '<div class="jcard" onclick="openJob('+i+')">'+
-      '<div class="jt">'+j.title+'</div><div class="jc">'+j.company+'</div>'+
+      '<div class="jt">'+j.title+'</div>'+
+      '<div style="display:flex;align-items:center;gap:8px;margin-bottom:2px;">'+
+        '<div class="jc">'+j.company+'</div>'+
+        (j.source?'<span style="font-size:9px;font-weight:600;padding:2px 6px;border-radius:999px;background:var(--surf2);color:var(--mut);border:.5px solid var(--bdr);">'+j.source+'</span>':'')+
+      '</div>'+
       '<div class="jm">'+(j.location?'<span class="jmi">'+j.location+'</span>':'')+(sal?'<span class="jmi" style="color:var(--grn);font-weight:500;">'+sal+'</span>':'')+'</div>'+
       '<div class="jdp">'+(j.description||'').replace(/<[^>]*>/g,'').substring(0,150)+'</div>'+
       '<div class="jft"><span style="font-size:11px;color:var(--mut2);">'+fmtD(j.created)+'</span><span class="badge bb">Voir</span></div>'+
