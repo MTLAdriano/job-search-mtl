@@ -610,9 +610,9 @@ var cands=[], conts=[], alljobs=[], filtjobs=[], prio='h', db=null, u1=null, u2=
 var FB={apiKey:"AIzaSyDyySnoo4b8XSe6lkzC3jXSsljTS-WK33U",authDomain:"objectif-montreal.firebaseapp.com",projectId:"objectif-montreal",storageBucket:"objectif-montreal.firebasestorage.app",messagingSenderId:"10317943413",appId:"1:10317943413:web:6ec4dcda10a95ed2e75e3c"};
 
 var cos=[
-  {n:'Ubisoft Montreal',t:'Studio gaming AAA',top:true,p:['CRM Analyst','Market Intelligence','Player Engagement'],u:'https://www.ubisoft.com/en-gb/company/careers',direct:'https://www.ubisoft.com/en-gb/company/careers/search?locations=Canada',manual:true},
-  {n:'EA Montreal',t:'Studio gaming AAA',top:true,p:['Marketing Analyst','Consumer Insights','Data Analyst'],u:'https://www.ea.com/careers',direct:'https://ea.gr8people.com/jobs?q=marketing&location=Montreal',manual:true},
-  {n:'WB Games Montreal',t:'Studio gaming',top:true,p:['Brand Manager','Market Research','Community Manager'],u:'https://careers.wbd.com',direct:'https://careers.wbd.com/global/en/search-results?keywords=marketing&location=Montreal',manual:true},
+  {n:'Ubisoft Montreal',t:'Studio gaming AAA',top:true,p:['CRM Analyst','Market Intelligence','Player Engagement'],u:'https://www.ubisoft.com/en-gb/company/careers',direct:'https://www.ubisoft.com/en-gb/company/careers/search?locations=Canada&disciplines=Marketing',manual:true},
+  {n:'EA Montreal',t:'Studio gaming AAA',top:true,p:['Marketing Analyst','Consumer Insights','Data Analyst'],u:'https://www.ea.com/careers',direct:'https://www.ea.com/careers/search#q=marketing&numberOfResults=25&locationCodes=CA',manual:true},
+  {n:'WB Games Montreal',t:'Studio gaming',top:true,p:['Brand Manager','Market Research','Community Manager'],u:'https://careers.wbd.com',direct:'https://careers.wbd.com/global/en/search-results?keywords=marketing',manual:true},
   {n:'Behaviour Interactive',t:'Studio independant',top:false,p:['Marketing Coordinator','CRM Specialist','Community Manager'],u:'https://www.bhvr.com/careers/',direct:'https://www.bhvr.com/careers/',manual:false},
   {n:'Gameloft Montreal',t:'Gaming mobile',top:false,p:['Analyst Marketing','CRM Manager','Digital Marketing'],u:'https://careers.gameloft.com',direct:'https://careers.gameloft.com',manual:false},
   {n:'Cirque du Soleil',t:'Entertainment & spectacle',top:false,p:['Marketing','Communications','Digital'],u:'https://www.cirquedusoleil.com/careers',direct:'https://jobs.lever.co/cirquedusoleil',manual:false},
@@ -1048,7 +1048,7 @@ function renderCos(){
         '<a href="'+c.direct+'" target="_blank" class="col" style="display:inline-flex;align-items:center;gap:4px;background:var(--acc-l);padding:5px 10px;border-radius:6px;font-size:11px;">'+
           (c.manual?'Voir les offres →':'Voir les offres →')+
         '</a>'+
-        (c.manual?'<span style="font-size:10px;color:var(--mut);align-self:center;">Filtre manuellement "Montreal"</span>':'')+
+        (c.manual?'<span style="font-size:10px;color:var(--mut);align-self:center;">Cherche Montreal sur leur site</span>':'')+
       '</div>'+
     '</div>';
   }).join('');
