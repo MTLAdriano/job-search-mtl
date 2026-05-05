@@ -246,7 +246,7 @@ textarea{resize:vertical;min-height:60px;line-height:1.5;}
 .gs-frac{font-size:15px;font-weight:700;color:#fff;letter-spacing:-.02em;line-height:1.2;}
 .gs-frac.done{color:#4ade80;}
 .gs-frac.almost{color:#fbbf24;}
-.gs-segs{display:grid;gap:3px;margin-bottom:4px;}
+.gs-segs{display:grid;grid-template-columns:repeat(5,1fr);gap:3px;margin-bottom:4px;min-height:6px;}
 .gs-seg{height:6px;border-radius:999px;background:rgba(255,255,255,.07);transition:all .4s ease;}
 .gs-seg.fb{background:linear-gradient(90deg,#60a5fa,#3b82f6);box-shadow:0 0 5px rgba(96,165,250,.35);}
 .gs-seg.fp{background:linear-gradient(90deg,#c084fc,#a855f7);box-shadow:0 0 5px rgba(192,132,252,.35);}
@@ -326,7 +326,7 @@ textarea{resize:vertical;min-height:60px;line-height:1.5;}
     <div class="nwm">Montreal</div>
     <div class="nl">
       <button class="hb" id="hb" onclick="toggleDrawer()"><span></span><span></span><span></span></button>
-      <div><div class="ntl">Adrien Boure <em>Job Search</em></div><div class="nsb">Montreal - PJP - Entertainment and Gaming</div></div>
+      <div onclick="goTo('dash')" style="cursor:pointer;"><div class="ntl">Adrien Boure <em>Job Search</em></div><div class="nsb">Montreal - PJP - Entertainment and Gaming</div></div>
     </div>
     <div class="nsy" id="nsy"><div class="sdot" id="nd"></div><span id="ns">--</span></div>
   </div>
