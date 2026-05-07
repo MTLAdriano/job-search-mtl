@@ -1,7 +1,20 @@
 {
-  "updated": "2026-05-07T09:46:27.226384Z",
+  "updated": "2026-05-07T18:01:41.683110Z",
   "count": 223,
   "jobs": [
+    {
+      "id": "gh-7904571",
+      "title": "Producteur.trice Principal.e - Lead Producer",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7904571",
+      "created": "2026-05-07T11:52:25-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
     {
       "id": "sr-744000124976119",
       "title": "Post-Production Producer - Advertising Department - Permanent role",
@@ -992,10 +1005,10 @@
     },
     {
       "id": "lv-5cb664b3-a0ee-4936-b974-c769960c2fe5",
-      "title": "Stratège créatif – Marketing intégré | Creative Strategist – Integrated Marketing",
+      "title": "Stratège - Marketing intégré | Integrated Marketing Strategist",
       "company": "Cirque du Soleil",
       "location": "Montréal, QC",
-      "description": "Stratège créatif - Marketing intégré\nVentes, marketing et communication\nPoste permanent/Temps plein\n \nNous recherchons des personnes passionné(e)s par le bon déroulement de nos spectacles et événements, la conception de produits exceptionnels, la mise à profit de leur ingéniosité au sein de leur équipe et l’amélioration de leur expertise pour développer des pratiques novatrices. Le Groupe Cirque du Soleil mise sur une approche de travail toujours plus créative et collaborative afin de repousser ",
+      "description": "Stratège - Marketing intégré\nVentes, marketing et communication\nPoste permanent/Temps plein\n \nNous recherchons des personnes passionné(e)s par le bon déroulement de nos spectacles et événements, la conception de produits exceptionnels, la mise à profit de leur ingéniosité au sein de leur équipe et l’amélioration de leur expertise pour développer des pratiques novatrices. Le Groupe Cirque du Soleil mise sur une approche de travail toujours plus créative et collaborative afin de repousser sans ces",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/5cb664b3-a0ee-4936-b974-c769960c2fe5",
@@ -2146,19 +2159,6 @@
       "created": "2026-03-11T08:35:43.896Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "lv-72c2a52b-5a28-46b7-bd0a-9d446d51d59b",
-      "title": "Électricien sur appel | On-Call Electrician",
-      "company": "Cirque du Soleil",
-      "location": "Barcelona",
-      "description": "Électricien sur appel\nSite et infrastructure\nPoste sur appel\n\n\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n\nNOTRE MISSION\n\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos productions à ve",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/72c2a52b-5a28-46b7-bd0a-9d446d51d59b",
-      "created": "2026-03-06T12:46:53.881000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000113045937",
