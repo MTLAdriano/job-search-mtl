@@ -1,7 +1,59 @@
 {
-  "updated": "2026-05-07T18:01:41.683110Z",
-  "count": 223,
+  "updated": "2026-05-07T23:15:12.083728Z",
+  "count": 224,
   "jobs": [
+    {
+      "id": "sr-744000125213059",
+      "title": "Artiste Animation Intermédiaire et Senior - Contrat temporaire - Paris",
+      "company": "Rodeo FX",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000125213059",
+      "created": "2026-05-07T19:58:54.304Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000125212779",
+      "title": "Mid ans Senior Animation Artist - Temporary contract - Paris",
+      "company": "Rodeo FX",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000125212779",
+      "created": "2026-05-07T19:56:14.459Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "lv-d9520aae-447c-4e7b-b304-6a9db40a9015",
+      "title": "Dessinateur.trice en génie civil | Civil Engineering Draftsperson",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Technicien.ne en génie civil – Dessin\nSite et infrastructure\nPoste permanent/temps plein\n\n\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n\nNOTRE MISSION\n\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de tran",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/d9520aae-447c-4e7b-b304-6a9db40a9015",
+      "created": "2026-05-07T19:54:48.047000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-29fd432f-3ce7-43ef-b513-f904afac01c9",
+      "title": "Box Office Staff – Blue Man Group Orlando",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/29fd432f-3ce7-43ef-b513-f904afac01c9",
+      "created": "2026-05-07T18:11:08.972000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "gh-7904571",
       "title": "Producteur.trice Principal.e - Lead Producer",
@@ -220,32 +272,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000124739039",
       "created": "2026-05-05T20:07:42.678Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000124725878",
-      "title": "Artistes d’animation - Contrat temporaire",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000124725878",
-      "created": "2026-05-05T18:43:56.093Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000124725219",
-      "title": "Animation Artist - Temporary Contract ",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000124725219",
-      "created": "2026-05-05T18:38:24.352Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -1457,19 +1483,6 @@
       "created": "2026-04-13T14:06:32.260Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "gh-7489048",
-      "title": "Account Director ",
-      "company": "Sid Lee",
-      "location": "New York, New York, United States",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7489048",
-      "created": "2026-04-13T14:00:59-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "gh-7644439",
