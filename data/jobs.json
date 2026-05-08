@@ -1,7 +1,46 @@
 {
-  "updated": "2026-05-08T12:17:26.951297Z",
+  "updated": "2026-05-08T20:07:33.365757Z",
   "count": 234,
   "jobs": [
+    {
+      "id": "lv-9f48928b-289a-4e21-9cd1-ca253b065e85",
+      "title": "Vendor Relationship Coordinator",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "Stratège - Marketing intégré\nVentes, marketing et communication\nPoste permanent/Temps plein\n \nNous recherchons des personnes passionné(e)s par le bon déroulement de nos spectacles et événements, la conception de produits exceptionnels, la mise à profit de leur ingéniosité au sein de leur équipe et l’amélioration de leur expertise pour développer des pratiques novatrices. Le Groupe Cirque du Soleil mise sur une approche de travail toujours plus créative et collaborative afin de repousser sans ces",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/9f48928b-289a-4e21-9cd1-ca253b065e85",
+      "created": "2026-05-08T20:04:32.923000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-f68e6137-eb9e-4baa-98f2-5019178ae602",
+      "title": "Integrated Marketing Strategist",
+      "company": "Cirque du Soleil",
+      "location": "London",
+      "description": "Stratège - Marketing intégré\nVentes, marketing et communication\nPoste permanent/Temps plein\n \nNous recherchons des personnes passionné(e)s par le bon déroulement de nos spectacles et événements, la conception de produits exceptionnels, la mise à profit de leur ingéniosité au sein de leur équipe et l’amélioration de leur expertise pour développer des pratiques novatrices. Le Groupe Cirque du Soleil mise sur une approche de travail toujours plus créative et collaborative afin de repousser sans ces",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/f68e6137-eb9e-4baa-98f2-5019178ae602",
+      "created": "2026-05-08T20:01:45.974000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-d9c38b9c-1e6f-4544-89e2-972caeabdc20",
+      "title": "Integrated Marketing Strategist",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "Stratège - Marketing intégré\nVentes, marketing et communication\nPoste permanent/Temps plein\n \nNous recherchons des personnes passionné(e)s par le bon déroulement de nos spectacles et événements, la conception de produits exceptionnels, la mise à profit de leur ingéniosité au sein de leur équipe et l’amélioration de leur expertise pour développer des pratiques novatrices. Le Groupe Cirque du Soleil mise sur une approche de travail toujours plus créative et collaborative afin de repousser sans ces",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/d9c38b9c-1e6f-4544-89e2-972caeabdc20",
+      "created": "2026-05-08T19:39:50.638000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000125324854",
       "title": "3D Character Artist Internship (part-time & hybrid)",
@@ -163,7 +202,7 @@
       "title": "Coordonnateur.trice, relations fournisseurs | Vendor Relationship Coordinator",
       "company": "Cirque du Soleil",
       "location": "Montréal, QC",
-      "description": "Stratège - Marketing intégré\nVentes, marketing et communication\nPoste permanent/Temps plein\n \nNous recherchons des personnes passionné(e)s par le bon déroulement de nos spectacles et événements, la conception de produits exceptionnels, la mise à profit de leur ingéniosité au sein de leur équipe et l’amélioration de leur expertise pour développer des pratiques novatrices. Le Groupe Cirque du Soleil mise sur une approche de travail toujours plus créative et collaborative afin de repousser sans ces",
+      "description": "Coordonnateur.trice, relations fournisseurs\nMode de travail hybride – 4 jours/semaine au bureau\nPoste permanent/Temps plein\n \nRelevant du gestionnaire des relations partenaires d’affaires, cette personne soutient plusieurs étapes du cycle de développement de produits, notamment les achats, la facturation, la création de SKU, la recherche de marché et les communications avec les fournisseurs.\nCe poste est responsable de la création, du suivi et de la gestion des bons de commande (PO) afin d’assur",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/3bfda82e-4da4-4c4e-9e50-8ba62d260142",
@@ -1212,19 +1251,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "gh-6987724",
-      "title": "Concepteur·trice-rédacteur·trice Senior - Senior Copywriter",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=6987724",
-      "created": "2026-04-24T13:45:50-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "lv-1695e680-7a21-457c-abff-589ba9a275f6",
       "title": "On-Call Wardrobe Technician – 'Auana",
       "company": "Cirque du Soleil",
@@ -2265,19 +2291,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000114076107",
-      "title": "[Dungeons & Dragons PC Console] Concepteur(trice) de jeu technique - Technical Game Designer",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000114076107",
-      "created": "2026-03-11T14:52:48.739Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000114012293",
       "title": "プロジェクトマネージャー ",
       "company": "Keywords Studios",
@@ -2718,19 +2731,6 @@
       "created": "2026-02-03T15:22:06.407Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "lv-173883e2-5dae-46ee-a727-d7b43427dd41",
-      "title": "Lead Rigging Technician  – \"O\"",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n____________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/173883e2-5dae-46ee-a727-d7b43427dd41",
-      "created": "2026-01-29T18:45:49.964000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-6ae5d23a-0e1b-475b-b3c4-9dfda1734c81",
