@@ -1,7 +1,33 @@
 {
-  "updated": "2026-05-07T23:15:12.083728Z",
+  "updated": "2026-05-08T06:19:27.384665Z",
   "count": 224,
   "jobs": [
+    {
+      "id": "sr-744000125255279",
+      "title": "Senior 3D Environment Artist",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000125255279",
+      "created": "2026-05-08T04:27:21.078Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "lv-3bfda82e-4da4-4c4e-9e50-8ba62d260142",
+      "title": "Coordonnateur.trice, relations fournisseurs | Vendor Relationship Coordinator",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Stratège - Marketing intégré\nVentes, marketing et communication\nPoste permanent/Temps plein\n \nNous recherchons des personnes passionné(e)s par le bon déroulement de nos spectacles et événements, la conception de produits exceptionnels, la mise à profit de leur ingéniosité au sein de leur équipe et l’amélioration de leur expertise pour développer des pratiques novatrices. Le Groupe Cirque du Soleil mise sur une approche de travail toujours plus créative et collaborative afin de repousser sans ces",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/3bfda82e-4da4-4c4e-9e50-8ba62d260142",
+      "created": "2026-05-08T00:12:27.586000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000125213059",
       "title": "Artiste Animation Intermédiaire et Senior - Contrat temporaire - Paris",
@@ -480,19 +506,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000124582999",
       "created": "2026-05-05T08:14:56.830Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000124568122",
-      "title": "Senior 3D Motion Designer",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000124568122",
-      "created": "2026-05-05T07:01:39.600Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1884,19 +1897,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000116612089",
       "created": "2026-03-25T12:51:17.623Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000116320817",
-      "title": "Senior 3D Environment Artist",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000116320817",
-      "created": "2026-03-24T04:43:17.899Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
