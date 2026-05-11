@@ -1,7 +1,33 @@
 {
-  "updated": "2026-05-10T22:31:21.659583Z",
-  "count": 235,
+  "updated": "2026-05-11T11:49:18.905708Z",
+  "count": 232,
   "jobs": [
+    {
+      "id": "sr-744000125810684",
+      "title": "Junior Sales Reporting Specialist – Business Intelligence Team",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000125810684",
+      "created": "2026-05-11T11:24:20.335Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000125809085",
+      "title": "Global Talent & Learning (L&D) Operations Specialist",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000125809085",
+      "created": "2026-05-11T11:13:27.199Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-1e74a454-2645-4c28-b9e2-95cd2df170e3",
       "title": "Chef Éclairage – JOYÀ | Head of Lighting – JOYÀ",
@@ -705,19 +731,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000124342069",
-      "title": "Global Talent & Learning (L&D) Operations Specialist",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000124342069",
-      "created": "2026-05-04T04:26:16.613Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "lv-dccc55aa-43c1-4cf4-8ba7-1ed56492c087",
       "title": "Head of Department, Automation – Mystère",
       "company": "Cirque du Soleil",
@@ -1078,58 +1091,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000123384514",
       "created": "2026-04-28T08:04:46.330Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000123334512",
-      "title": "Intern QA Tester",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000123334512",
-      "created": "2026-04-28T01:24:37.455Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000123331394",
-      "title": "Intern Engine Programmer ",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000123331394",
-      "created": "2026-04-28T01:23:15.922Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000123326823",
-      "title": "Intern Animator",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000123326823",
-      "created": "2026-04-28T01:13:04.403Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000123326158",
-      "title": "Intern Game Designer ",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000123326158",
-      "created": "2026-04-28T01:09:42.017Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
