@@ -1,7 +1,20 @@
 {
-  "updated": "2026-05-11T18:24:42.441513Z",
+  "updated": "2026-05-11T23:15:13.177433Z",
   "count": 242,
   "jobs": [
+    {
+      "id": "lv-76cbe3c9-abca-4bdc-b57c-6763979c293b",
+      "title": "Postes temporaires – ECHO | Temporary Staffing Positions – ECHO",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Postes temporaires\nSpectacle : ECHO\nServices de soutien aux spectacles\nLieu: Montréal, QC\nDate de début: 15 mai 2026          \nDate de fin: 15 août 2026\n \n \nDepuis 1984, le groupe de divertissement du Cirque du Soleil se consacre à la création d'expériences novatrices et magiques pour le public. Nous nous efforçons de repousser constamment les limites de l'imagination et de surprendre nos spectateurs à chaque spectacle.\n \n \nAujourd'hui, nous avons le plaisir d'offrir une occasion passionnante à ",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/76cbe3c9-abca-4bdc-b57c-6763979c293b",
+      "created": "2026-05-11T19:29:33.604000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000125913021",
       "title": "Mid Character Surfacing Artist - UNDISCLOSED PROJECT - Expression of Interest",
@@ -2198,19 +2211,6 @@
       "created": "2026-03-23T02:34:33.753Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000115899707",
-      "title": "[Disney Dreamlight Valley] Concepteur(trice) narratif(ve) - Narrative Designer",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000115899707",
-      "created": "2026-03-20T14:43:33.055Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000115751358",
