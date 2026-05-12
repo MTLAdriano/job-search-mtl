@@ -1,7 +1,33 @@
 {
-  "updated": "2026-05-12T10:03:38.703824Z",
-  "count": 242,
+  "updated": "2026-05-12T18:26:15.373644Z",
+  "count": 239,
   "jobs": [
+    {
+      "id": "sr-744000126102079",
+      "title": "Senior UI/UX Designer (+3 Years Gaming Exp.)",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000126102079",
+      "created": "2026-05-12T14:18:24.111Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000126073800",
+      "title": "Marketing Concept & Graphic artist",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000126073800",
+      "created": "2026-05-12T12:45:59.143Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000125993689",
       "title": "Frontend Developer Intern",
@@ -692,19 +718,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000124924850",
-      "title": "Senior UI/UX Designer",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000124924850",
-      "created": "2026-05-06T14:48:39.498Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000124920970",
       "title": "Content Designer - Narrative & Systems (Open World)",
       "company": "Gameloft Montreal",
@@ -740,19 +753,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000124900497",
       "created": "2026-05-06T13:22:28.859Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000124899609",
-      "title": "Marketing Concept & Graphic artist",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000124899609",
-      "created": "2026-05-06T13:13:44.876Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1771,32 +1771,6 @@
       "source": "Sid Lee"
     },
     {
-      "id": "sr-744000120533532",
-      "title": " Compositeur.trice numérique Senior - Contrat temporaire",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000120533532",
-      "created": "2026-04-13T19:39:12.767Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000120534058",
-      "title": "Senior Compositing Artist - Temporary Contract ",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000120534058",
-      "created": "2026-04-13T19:38:05.345Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "lv-08e455c1-d963-44d9-a991-46985b867471",
       "title": "Assistant Carpentry Technician – Blue Man Group North American Tour",
       "company": "Cirque du Soleil",
@@ -1884,19 +1858,6 @@
       "salary_max": null,
       "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7807336",
       "created": "2026-04-13T13:57:28-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-7807448",
-      "title": "Senior Creative Team",
-      "company": "Sid Lee",
-      "location": "Toronto, Ontario, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7807448",
-      "created": "2026-04-13T13:57:01-04:00",
       "category": "Agence",
       "source": "Sid Lee"
     },
