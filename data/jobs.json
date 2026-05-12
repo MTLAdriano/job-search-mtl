@@ -1,7 +1,46 @@
 {
-  "updated": "2026-05-12T18:26:15.373644Z",
-  "count": 239,
+  "updated": "2026-05-12T23:40:36.488953Z",
+  "count": 240,
   "jobs": [
+    {
+      "id": "lv-ec88bd21-3b2a-4baf-b9af-a1dc53db35f4",
+      "title": "Director of Public Relations – North America",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/ec88bd21-3b2a-4baf-b9af-a1dc53db35f4",
+      "created": "2026-05-12T21:20:32.721000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000126156830",
+      "title": "Artiste d'effets de créatures Intermédiaire (Blender) - PROJET CONFIDENTIEL - Candidature Spontanée",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000126156830",
+      "created": "2026-05-12T19:20:38.309Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000126155397",
+      "title": "Mid CFX Artist (Blender) - UNDISCLOSED PROJECT - Expression of Interest",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000126155397",
+      "created": "2026-05-12T19:03:25.252Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000126102079",
       "title": "Senior UI/UX Designer (+3 Years Gaming Exp.)",
@@ -1223,32 +1262,6 @@
       "created": "2026-04-29T11:42:52.381Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000123543329",
-      "title": "Artiste d'effets de créatures - Manifestation d'intérêt",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000123543329",
-      "created": "2026-04-28T20:07:20.509Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000123543065",
-      "title": "CFX Artist - Expression of interest",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000123543065",
-      "created": "2026-04-28T20:06:12.702Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000123526884",
