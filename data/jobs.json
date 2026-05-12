@@ -1,7 +1,124 @@
 {
-  "updated": "2026-05-11T23:15:13.177433Z",
+  "updated": "2026-05-12T10:03:38.703824Z",
   "count": 242,
   "jobs": [
+    {
+      "id": "sr-744000125993689",
+      "title": "Frontend Developer Intern",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000125993689",
+      "created": "2026-05-12T04:56:15.580Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000125989249",
+      "title": "Senior 3D Character Artist",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000125989249",
+      "created": "2026-05-12T03:26:58.025Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000125989159",
+      "title": "Senior 3D Environment Artist",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000125989159",
+      "created": "2026-05-12T03:26:12.859Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000125989079",
+      "title": "3D Video Artist",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000125989079",
+      "created": "2026-05-12T03:25:16.453Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000125988929",
+      "title": "3D Video Artist (Cinematic)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000125988929",
+      "created": "2026-05-12T03:24:24.821Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000125988650",
+      "title": "CGI Video Artist",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000125988650",
+      "created": "2026-05-12T03:23:09.893Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000125988679",
+      "title": "Game Designer (Middle/Senior)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000125988679",
+      "created": "2026-05-12T03:21:00.250Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000125988639",
+      "title": "Senior Game Data Analyst",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000125988639",
+      "created": "2026-05-12T03:20:58.508Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000125988609",
+      "title": "AI Engineer Intern (Game Development)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000125988609",
+      "created": "2026-05-12T03:20:55.475Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-76cbe3c9-abca-4bdc-b57c-6763979c293b",
       "title": "Postes temporaires – ECHO | Temporary Staffing Positions – ECHO",
@@ -484,32 +601,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000125282470",
-      "title": "3D Video Artist",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000125282470",
-      "created": "2026-05-08T07:56:52.454Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000125255279",
-      "title": "Senior 3D Environment Artist",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000125255279",
-      "created": "2026-05-08T04:27:21.078Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "lv-3bfda82e-4da4-4c4e-9e50-8ba62d260142",
       "title": "Coordonnateur.trice, relations fournisseurs | Vendor Relationship Coordinator",
       "company": "Cirque du Soleil",
@@ -714,32 +805,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000124864619",
       "created": "2026-05-06T10:30:51.467Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000124804659",
-      "title": "AI Engineer Intern (Game Development)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000124804659",
-      "created": "2026-05-06T04:30:23.160Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000124803865",
-      "title": "Senior Game Data Analyst",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000124803865",
-      "created": "2026-05-06T04:18:50.194Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1238,19 +1303,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000123427217",
-      "title": "Senior 3D Character Artist",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000123427217",
-      "created": "2026-04-28T11:13:59.592Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "gh-7800331",
       "title": "Architecte, Chargé·e de projet sénior",
       "company": "Sid Lee",
@@ -1262,19 +1314,6 @@
       "created": "2026-04-28T09:15:04-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000123384514",
-      "title": "Frontend Developer Intern",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000123384514",
-      "created": "2026-04-28T08:04:46.330Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000123320369",
@@ -1433,19 +1472,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000122403922",
-      "title": "Game Designer (Middle/Senior)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000122403922",
-      "created": "2026-04-23T08:35:30.340Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000122335641",
       "title": "[Dungeons & Dragons PC-Console] Stagiaire Concepteur(-trice) expérience utilisateur - UX Designer Intern",
       "company": "Gameloft Montreal",
@@ -1468,19 +1494,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000122253025",
       "created": "2026-04-22T12:45:14.756Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000122208177",
-      "title": "3D Video Artist (Cinematic)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000122208177",
-      "created": "2026-04-22T09:26:44.019Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -2261,19 +2274,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000115626329",
       "created": "2026-03-19T10:35:44.075Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000115585627",
-      "title": "CGI Video Artist",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000115585627",
-      "created": "2026-03-19T04:39:56.948Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
