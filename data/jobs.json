@@ -1,7 +1,20 @@
 {
-  "updated": "2026-05-12T23:40:36.488953Z",
-  "count": 240,
+  "updated": "2026-05-13T10:02:03.704143Z",
+  "count": 238,
   "jobs": [
+    {
+      "id": "sr-744000126265622",
+      "title": "Content Designer - Narrative & Systems (Open World)",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000126265622",
+      "created": "2026-05-13T09:32:32.517Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-ec88bd21-3b2a-4baf-b9af-a1dc53db35f4",
       "title": "Director of Public Relations – North America",
@@ -419,19 +432,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000125850345",
-      "title": "Market Analyst",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000125850345",
-      "created": "2026-05-11T13:50:05.521Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000125836599",
       "title": "Senior Lighting Artist",
       "company": "Gameloft Montreal",
@@ -755,19 +755,6 @@
       "created": "2026-05-06T19:19:48.548Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000124920970",
-      "title": "Content Designer - Narrative & Systems (Open World)",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000124920970",
-      "created": "2026-05-06T14:24:20.515Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000124910636",
@@ -2471,19 +2458,6 @@
       "created": "2026-03-05T05:15:04.737Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000112711287",
-      "title": "UI Artist Disney Dreamlight Valley (Middle/Senior)",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000112711287",
-      "created": "2026-03-04T15:22:45.644Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000112677478",
