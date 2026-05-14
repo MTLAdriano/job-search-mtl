@@ -1,7 +1,20 @@
 {
-  "updated": "2026-05-13T23:40:49.553192Z",
-  "count": 243,
+  "updated": "2026-05-14T09:39:58.305805Z",
+  "count": 244,
   "jobs": [
+    {
+      "id": "sr-744000126472340",
+      "title": "HR Manager",
+      "company": "Gameloft Montreal",
+      "location": "Brisbane, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000126472340",
+      "created": "2026-05-14T07:28:37.146Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000126361379",
       "title": "Assistant projet & reporting - Contrôle de gestion (Alternance septembre 2026)",
