@@ -1,7 +1,20 @@
 {
-  "updated": "2026-05-17T15:43:31.020785Z",
+  "updated": "2026-05-17T19:56:38.713850Z",
   "count": 243,
   "jobs": [
+    {
+      "id": "muse-21628780",
+      "title": "Salesforce Marketing Cloud Architect",
+      "company": "Sunrun",
+      "location": "Flexible / Remote",
+      "description": "<p>Ever since we started in 2007, Sunrun has been at the forefront of connecting people to the cleanest energy on Earth. It's why we've become the #1 home solar and battery company in America. Today, we're on a mission to change the way the world interacts with energy, and we're building a company and brand that puts power at the center of life. And we're doing it by designing a dynamic culture where employee development, well-being, and safety come first. We're unlike any other solar company. O",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://www.themuse.com/jobs/sunrun/salesforce-marketing-cloud-architect",
+      "created": "2026-05-17T19:30:32Z",
+      "category": "Data and Analytics",
+      "source": "The Muse"
+    },
     {
       "id": "lv-892fcbd0-fa0e-4f93-bfd2-e69a9e12c50c",
       "title": "Lighting and Special Effects Technician – MJ One",
@@ -1522,19 +1535,6 @@
       "created": "2026-04-27T14:38:13-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "muse-21628780",
-      "title": "Salesforce Marketing Cloud Architect",
-      "company": "Sunrun",
-      "location": "Flexible / Remote",
-      "description": "<p>Ever since we started in 2007, Sunrun has been at the forefront of connecting people to the cleanest energy on Earth. It's why we've become the #1 home solar and battery company in America. Today, we're on a mission to change the way the world interacts with energy, and we're building a company and brand that puts power at the center of life. And we're doing it by designing a dynamic culture where employee development, well-being, and safety come first. We're unlike any other solar company. O",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://www.themuse.com/jobs/sunrun/salesforce-marketing-cloud-architect",
-      "created": "2026-04-25T20:35:48Z",
-      "category": "Data and Analytics",
-      "source": "The Muse"
     },
     {
       "id": "lv-5cb664b3-a0ee-4936-b974-c769960c2fe5",
