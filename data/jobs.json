@@ -1,7 +1,33 @@
 {
-  "updated": "2026-05-17T23:14:41.617579Z",
-  "count": 243,
+  "updated": "2026-05-18T12:52:53.680799Z",
+  "count": 241,
   "jobs": [
+    {
+      "id": "sr-744000126922619",
+      "title": "Music Composer",
+      "company": "Gameloft Montreal",
+      "location": "Yogyakarta, id",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000126922619",
+      "created": "2026-05-18T07:31:25.517Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000126920744",
+      "title": "Market Analyst",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000126920744",
+      "created": "2026-05-18T07:24:53.321Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "muse-21628780",
       "title": "Salesforce Marketing Cloud Architect",
@@ -55,19 +81,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000126666149",
-      "title": "Music Composer",
-      "company": "Gameloft Montreal",
-      "location": "Yogyakarta, id",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000126666149",
-      "created": "2026-05-15T10:15:03.825Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000126539670",
       "title": "Account Manager ",
       "company": "Gameloft Montreal",
@@ -77,19 +90,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000126539670",
       "created": "2026-05-14T15:13:29.661Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000126516889",
-      "title": "Market Analyst",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000126516889",
-      "created": "2026-05-14T13:17:28.556Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1797,19 +1797,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000121191693",
-      "title": "Game Designer (PC/Console, Racing)",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000121191693",
-      "created": "2026-04-16T12:43:06.689Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000121119873",
       "title": "GD lead",
       "company": "Gameloft Montreal",
@@ -2185,19 +2172,6 @@
       "created": "2026-04-02T13:22:25.214Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000118363176",
-      "title": "2D Artist: Casual, Stylized",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000118363176",
-      "created": "2026-04-02T09:22:47.528Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-7395c490-40fc-4660-b7f2-ef8f9a097aaf",
