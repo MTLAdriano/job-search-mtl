@@ -1,7 +1,46 @@
 {
-  "updated": "2026-05-18T12:52:53.680799Z",
+  "updated": "2026-05-18T20:54:18.397693Z",
   "count": 241,
   "jobs": [
+    {
+      "id": "muse-21628780",
+      "title": "Salesforce Marketing Cloud Architect",
+      "company": "Sunrun",
+      "location": "Flexible / Remote",
+      "description": "<p>Ever since we started in 2007, Sunrun has been at the forefront of connecting people to the cleanest energy on Earth. It's why we've become the #1 home solar and battery company in America. Today, we're on a mission to change the way the world interacts with energy, and we're building a company and brand that puts power at the center of life. And we're doing it by designing a dynamic culture where employee development, well-being, and safety come first. We're unlike any other solar company. O",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://www.themuse.com/jobs/sunrun/salesforce-marketing-cloud-architect",
+      "created": "2026-05-18T19:54:19Z",
+      "category": "Data and Analytics",
+      "source": "The Muse"
+    },
+    {
+      "id": "sr-744000127014984",
+      "title": "HR Manager",
+      "company": "Gameloft Montreal",
+      "location": "Brisbane, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000127014984",
+      "created": "2026-05-18T14:34:28.387Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000127016008",
+      "title": "Producer",
+      "company": "Gameloft Montreal",
+      "location": "Brisbane, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000127016008",
+      "created": "2026-05-18T14:33:55.176Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000126922619",
       "title": "Music Composer",
@@ -27,19 +66,6 @@
       "created": "2026-05-18T07:24:53.321Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "muse-21628780",
-      "title": "Salesforce Marketing Cloud Architect",
-      "company": "Sunrun",
-      "location": "Flexible / Remote",
-      "description": "<p>Ever since we started in 2007, Sunrun has been at the forefront of connecting people to the cleanest energy on Earth. It's why we've become the #1 home solar and battery company in America. Today, we're on a mission to change the way the world interacts with energy, and we're building a company and brand that puts power at the center of life. And we're doing it by designing a dynamic culture where employee development, well-being, and safety come first. We're unlike any other solar company. O",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://www.themuse.com/jobs/sunrun/salesforce-marketing-cloud-architect",
-      "created": "2026-05-17T19:30:32Z",
-      "category": "Data and Analytics",
-      "source": "The Muse"
     },
     {
       "id": "lv-892fcbd0-fa0e-4f93-bfd2-e69a9e12c50c",
@@ -220,19 +246,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000126489699",
       "created": "2026-05-14T09:47:38.853Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000126472340",
-      "title": "HR Manager",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000126472340",
-      "created": "2026-05-14T07:28:37.146Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -2144,19 +2157,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/206d6d2a-793c-43a3-99e4-b292a2e7470b",
       "created": "2026-04-02T19:42:51.134000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-82e23144-faf3-4cf3-908f-4c9fcad1ccec",
-      "title": "On-Call Stage Manager – Blue Man Group Orlando",
-      "company": "Cirque du Soleil",
-      "location": "Orlando, FL",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/82e23144-faf3-4cf3-908f-4c9fcad1ccec",
-      "created": "2026-04-02T19:28:20.681000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
