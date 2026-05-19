@@ -1,7 +1,33 @@
 {
-  "updated": "2026-05-19T18:28:08.368082Z",
-  "count": 238,
+  "updated": "2026-05-19T23:45:31.001340Z",
+  "count": 239,
   "jobs": [
+    {
+      "id": "sr-744000127283599",
+      "title": "[Dungeons & Dragons PC-Console] Programmeur(-euse) jouabilité sénior - Senior Gameplay Programmer",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000127283599",
+      "created": "2026-05-19T18:29:23.170Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "gh-7944190",
+      "title": "Recruteur.euse Créatif.ve (Remplacement de Congé de Maternité) - Creative Recruiter (Maternity Leave Replacement)",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7944190",
+      "created": "2026-05-19T18:06:59-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
     {
       "id": "sr-744000127219750",
       "title": "DevOps pour infrastructure cloud - DevOps for Cloud Infrastructure",
@@ -2146,19 +2172,6 @@
       "created": "2026-04-01T19:45:17.270000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000117670256",
-      "title": "[Nouvelle IP/New IP - PC/Console] Programmeur(-euse) jouabilité - Gameplay Programmer",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000117670256",
-      "created": "2026-03-30T14:36:38.412Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000116756349",
