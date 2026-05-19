@@ -1,7 +1,33 @@
 {
-  "updated": "2026-05-19T11:43:43.752304Z",
+  "updated": "2026-05-19T18:28:08.368082Z",
   "count": 238,
   "jobs": [
+    {
+      "id": "sr-744000127219750",
+      "title": "DevOps pour infrastructure cloud - DevOps for Cloud Infrastructure",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000127219750",
+      "created": "2026-05-19T14:06:22.071Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000127197854",
+      "title": "Data Scientist",
+      "company": "Gameloft Montreal",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000127197854",
+      "created": "2026-05-19T12:44:42.873Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "muse-21628780",
       "title": "Salesforce Marketing Cloud Architect",
@@ -1888,19 +1914,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "gh-7644439",
-      "title": "Creative Team",
-      "company": "Sid Lee",
-      "location": "New York, New York, United States",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7644439",
-      "created": "2026-04-13T14:00:28-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "gh-7787399",
       "title": "Sr. Producer",
       "company": "Sid Lee",
@@ -1962,19 +1975,6 @@
       "salary_max": null,
       "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7669020",
       "created": "2026-04-13T13:53:00-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-7458027",
-      "title": "Directeur·trice de Groupe, Stratégie - Group Strategy Director (GSD)",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7458027",
-      "created": "2026-04-13T13:49:52-04:00",
       "category": "Agence",
       "source": "Sid Lee"
     },
