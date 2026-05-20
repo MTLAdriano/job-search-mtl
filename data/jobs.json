@@ -1,7 +1,46 @@
 {
-  "updated": "2026-05-20T10:38:31.393784Z",
-  "count": 240,
+  "updated": "2026-05-20T19:56:12.394763Z",
+  "count": 235,
   "jobs": [
+    {
+      "id": "lv-b81703e2-7040-4e9c-871a-5c80792e131c",
+      "title": "Senior Marketing Lead – Touring Production",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/b81703e2-7040-4e9c-871a-5c80792e131c",
+      "created": "2026-05-20T19:47:50.486000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000127486505",
+      "title": "DevOps pour infrastructure cloud - DevOps for Cloud Infrastructure",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000127486505",
+      "created": "2026-05-20T17:02:49.164Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000127461549",
+      "title": "Lead Layout Artist ",
+      "company": "Rodeo FX",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000127461549",
+      "created": "2026-05-20T14:57:35.319Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000127396859",
       "title": "Assistant(e) Comptable Fournisseurs (Alternance -Septembre 2026)",
@@ -40,19 +79,6 @@
       "created": "2026-05-19T18:06:59-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000127219750",
-      "title": "DevOps pour infrastructure cloud - DevOps for Cloud Infrastructure",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000127219750",
-      "created": "2026-05-19T14:06:22.071Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000127197854",
@@ -1602,19 +1628,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000122735229",
-      "title": "Junior Confo Render Artist -  TMNT2",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000122735229",
-      "created": "2026-04-24T17:05:23.374Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "lv-1695e680-7a21-457c-abff-589ba9a275f6",
       "title": "On-Call Wardrobe Technician – 'Auana",
       "company": "Cirque du Soleil",
@@ -2304,19 +2317,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000115513867",
-      "title": "Mid CFX Artist (Cloth) - TMNT 2",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000115513867",
-      "created": "2026-03-18T18:59:04.552Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000115512340",
       "title": "Artiste CFX Senior (Cloth) - TMNT 2 ",
       "company": "Rodeo FX",
@@ -2733,19 +2733,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000111146869",
-      "title": "Junior CFX Artist (Cloth) - TMNT 2",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000111146869",
-      "created": "2026-02-24T16:55:49.644Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "gh-7592798",
       "title": "Freelance Producer - Talent Pipeline",
       "company": "Sid Lee",
@@ -2937,58 +2924,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000097038234",
       "created": "2025-12-04T14:44:34.279Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000093023494",
-      "title": "Artiste Compositing Mid - TMNT 2",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000093023494",
-      "created": "2025-11-11T16:45:43.037Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000093023405",
-      "title": "Mid Compositing Artist - TMNT 2",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000093023405",
-      "created": "2025-11-11T16:45:13.772Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000090415149",
-      "title": "Artiste Compositing Senior - TMNT 2",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000090415149",
-      "created": "2025-10-28T14:44:09.285Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000090415422",
-      "title": "Senior Compositing Artist - TMNT 2",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000090415422",
-      "created": "2025-10-28T14:43:31.044Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
