@@ -1,7 +1,20 @@
 {
-  "updated": "2026-05-20T23:58:33.428980Z",
-  "count": 237,
+  "updated": "2026-05-21T12:27:19.067892Z",
+  "count": 235,
   "jobs": [
+    {
+      "id": "sr-744000127635579",
+      "title": "[Dungeons & Dragons PC-Console] Programmeur(-euse) jouabilité sénior - Senior Gameplay Programmer",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000127635579",
+      "created": "2026-05-21T10:18:16.212Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000127521938",
       "title": "Crowd Golaem/Houdini – Intermédiaire & Senior - Contrat Temporaire",
@@ -107,19 +120,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000127283599",
-      "title": "[Dungeons & Dragons PC-Console] Programmeur(-euse) jouabilité sénior - Senior Gameplay Programmer",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000127283599",
-      "created": "2026-05-19T18:29:23.170Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "gh-7944190",
       "title": "Recruteur.euse Créatif.ve (Remplacement de Congé de Maternité) - Creative Recruiter (Maternity Leave Replacement)",
       "company": "Sid Lee",
@@ -209,19 +209,6 @@
       "created": "2026-05-18T07:24:53.321Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-892fcbd0-fa0e-4f93-bfd2-e69a9e12c50c",
-      "title": "Lighting and Special Effects Technician – MJ One",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "Lighting & Special Effects Technician – ALIZÉ – Resident Shows Division\nLighting, Video Projections and Special Effects\nFull-Time Position\n \nWe are looking for a Lighting & Special Effects Technician to bring support to our Lighting & Special Effects team. In this position, you will be responsible for the safe setup, use and maintenance required for show readiness of Lighting & Special Effects systems and equipment. The Lighting & Special Effects Technician’s tasks include but are not limited to",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/892fcbd0-fa0e-4f93-bfd2-e69a9e12c50c",
-      "created": "2026-05-15T19:05:03.416000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-6ef80240-19af-4a11-ad2a-3f136d3fef62",
@@ -1104,19 +1091,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000124900497",
       "created": "2026-05-06T13:22:28.859Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000124897945",
-      "title": "Customer Care Agent (English and German)",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000124897945",
-      "created": "2026-05-06T13:12:04.960Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
