@@ -1,7 +1,98 @@
 {
-  "updated": "2026-05-27T12:38:13.797044Z",
-  "count": 247,
+  "updated": "2026-05-27T22:22:06.319293Z",
+  "count": 244,
   "jobs": [
+    {
+      "id": "sr-744000128791045",
+      "title": "VFX Production Assistant IO - Expression of interest",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000128791045",
+      "created": "2026-05-27T19:34:22.579Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000128791319",
+      "title": "Assistant.e de production VFX IO - Manifestation d'intérêt",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000128791319",
+      "created": "2026-05-27T19:33:03.831Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000128776925",
+      "title": "Artiste texture Senior - Contrat Temporaire",
+      "company": "Rodeo FX",
+      "location": "Montréal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000128776925",
+      "created": "2026-05-27T18:04:15.941Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000128777262",
+      "title": "Senior Texture Artist - Temporary Contract",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000128777262",
+      "created": "2026-05-27T18:03:29.404Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "gh-7961322",
+      "title": "Bilingual Creative Recruiter (Mat Leave Contract)",
+      "company": "Sid Lee",
+      "location": "Toronto, Ontario, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7961322",
+      "created": "2026-05-27T15:30:35-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "lv-f96bf7fe-c074-4481-9e7c-2d4579ac4782",
+      "title": "Sous-chef.fe - ECHO | Sous-Chef - ECHO",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Sous-chef.fe  - Spectacle Chapiteau - ECHO\nServices alimentaires\nPoste permanent\n \n\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n\n\nNOTRE MISSION\n\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender ",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/f96bf7fe-c074-4481-9e7c-2d4579ac4782",
+      "created": "2026-05-27T14:36:12.650000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-79f526f8-6cd7-4919-a631-6c165799014b",
+      "title": "Stage Manager – Mystère",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n\n________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/79f526f8-6cd7-4919-a631-6c165799014b",
+      "created": "2026-05-27T14:30:19.697000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000128664699",
       "title": "Game Economy Designer",
@@ -172,19 +263,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "sr-744000128248659",
-      "title": "Assistant.e de production VFX IO - Contrat Permanent",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000128248659",
-      "created": "2026-05-25T17:32:09.476Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000128242954",
       "title": "Superviseur.e éclairagiste - PARIS",
       "company": "Rodeo FX",
@@ -274,32 +352,6 @@
       "created": "2026-05-25T15:03:15.411000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000128232769",
-      "title": "VFX Production Assistant IO - Expression of interest",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000128232769",
-      "created": "2026-05-25T14:34:03.270Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000128223319",
-      "title": "Artiste texture Senior - Contrat Temporaire",
-      "company": "Rodeo FX",
-      "location": "Montréal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000128223319",
-      "created": "2026-05-25T13:19:08.317Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "muse-21628780",
@@ -458,45 +510,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000127970719",
-      "title": "Senior Texture Artist - Temporary Contract",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000127970719",
-      "created": "2026-05-22T20:45:36.393Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000127969849",
-      "title": "Responsable de projet VFX - Contrat Temporaire",
-      "company": "Rodeo FX",
-      "location": "Québec City, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000127969849",
-      "created": "2026-05-22T20:36:39.277Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000127969540",
-      "title": "VFX Project Manager - Temporary Contract",
-      "company": "Rodeo FX",
-      "location": "Québec City, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000127969540",
-      "created": "2026-05-22T20:35:07.293Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000127968979",
       "title": "Directeur.trice technique Maya",
       "company": "Rodeo FX",
@@ -547,19 +560,6 @@
       "created": "2026-05-22T17:03:05.332000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000127920124",
-      "title": "Artiste principal.e éclairagiste - Contrat Temp - Montréal",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000127920124",
-      "created": "2026-05-22T14:57:21.217Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "lv-e11a0ca0-f549-4ac8-b3b5-93b30e433a76",
@@ -625,19 +625,6 @@
       "created": "2026-05-21T22:27:56.603000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000127750849",
-      "title": "Lighting Lead - Temp Contract - Montreal",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000127750849",
-      "created": "2026-05-21T20:23:16.028Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000127748479",
@@ -2109,19 +2096,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "lv-7132090a-d906-444c-8fc6-cf715c40b80a",
-      "title": "Assistant Audio and MIT Technician  – Blue Man Group  North American Tour",
-      "company": "Cirque du Soleil",
-      "location": "En tournée | On tour",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n________________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/7132090a-d906-444c-8fc6-cf715c40b80a",
-      "created": "2026-04-23T16:55:51.379000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "sr-744000122253025",
       "title": "Lighting Artist",
       "company": "Gameloft Montreal",
@@ -2289,19 +2263,6 @@
       "created": "2026-04-14T14:44:32-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "lv-08e455c1-d963-44d9-a991-46985b867471",
-      "title": "Assistant Carpentry Technician – Blue Man Group North American Tour",
-      "company": "Cirque du Soleil",
-      "location": "En tournée | On tour",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n________________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/08e455c1-d963-44d9-a991-46985b867471",
-      "created": "2026-04-13T18:14:44.238000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "gh-7787399",
