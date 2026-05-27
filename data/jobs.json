@@ -1,7 +1,20 @@
 {
-  "updated": "2026-05-26T23:51:29.062177Z",
-  "count": 248,
+  "updated": "2026-05-27T12:38:13.797044Z",
+  "count": 247,
   "jobs": [
+    {
+      "id": "sr-744000128664699",
+      "title": "Game Economy Designer",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000128664699",
+      "created": "2026-05-27T08:16:58.165Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-0c6a8f3a-7cf8-44ee-8826-d5509d232871",
       "title": "Executive Assistant and Office Lead",
@@ -77,19 +90,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000128460212",
       "created": "2026-05-26T10:57:04.472Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000128423255",
-      "title": "Game Economy Designer",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000128423255",
-      "created": "2026-05-26T08:39:57.380Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -3056,19 +3056,6 @@
       "created": "2026-01-24T14:39:50.884000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000104514041",
-      "title": "3D Rigging Artist ",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000104514041",
-      "created": "2026-01-20T17:00:41.738Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000099419475",
