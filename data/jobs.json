@@ -1,7 +1,33 @@
 {
-  "updated": "2026-05-28T12:49:56.385358Z",
-  "count": 251,
+  "updated": "2026-05-28T22:20:31.630583Z",
+  "count": 250,
   "jobs": [
+    {
+      "id": "lv-e4232f3c-865b-42c6-8165-2133ca73b989",
+      "title": "Stratège de performance et optimisation CRM | CRM Performance and Optimization Strategist",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Stratège CRM\nMarque et commercialisation\nPoste permanent\n \n\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n\nNOTRE MISSION\n\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos productions à venir",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/e4232f3c-865b-42c6-8165-2133ca73b989",
+      "created": "2026-05-28T21:57:20.241000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000128984229",
+      "title": "Issue Detective",
+      "company": "Gameloft Montreal",
+      "location": "Sofia, bg",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000128984229",
+      "created": "2026-05-28T15:00:50.613Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000128945834",
       "title": "Studio Community Intern",
@@ -66,19 +92,6 @@
       "created": "2026-05-28T03:23:13.177Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000128851889",
-      "title": "Senior Game Designer",
-      "company": "Keywords Studios",
-      "location": "Fitzroy, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000128851889",
-      "created": "2026-05-28T03:08:27.567Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
     },
     {
       "id": "sr-744000128851514",
@@ -209,19 +222,6 @@
       "created": "2026-05-27T08:16:58.165Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-0c6a8f3a-7cf8-44ee-8826-d5509d232871",
-      "title": "Executive Assistant and Office Lead",
-      "company": "Cirque du Soleil",
-      "location": "London",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/0c6a8f3a-7cf8-44ee-8826-d5509d232871",
-      "created": "2026-05-26T18:49:58.337000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000128541802",
@@ -506,19 +506,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000127975049",
       "created": "2026-05-22T21:45:09.406Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000127974959",
-      "title": " Compositeur.trice numérique Senior - Contrat temporaire",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000127974959",
-      "created": "2026-05-22T21:43:48.937Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
