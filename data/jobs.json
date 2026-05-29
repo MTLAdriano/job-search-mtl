@@ -1,7 +1,59 @@
 {
-  "updated": "2026-05-28T22:20:31.630583Z",
-  "count": 250,
+  "updated": "2026-05-29T12:27:13.059337Z",
+  "count": 251,
   "jobs": [
+    {
+      "id": "sr-744000129157966",
+      "title": "CG Supervisor",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000129157966",
+      "created": "2026-05-29T12:09:09.130Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000129148149",
+      "title": "Marketing Concept & Graphic artist",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000129148149",
+      "created": "2026-05-29T11:09:46.397Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000129126339",
+      "title": "User Researcher Assistant – Stage (Septembre 2026 / 6 mois)",
+      "company": "Gameloft Montreal",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000129126339",
+      "created": "2026-05-29T09:05:55.554Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000129071545",
+      "title": "QA Internship",
+      "company": "Gameloft Montreal",
+      "location": "Yogyakarta, id",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000129071545",
+      "created": "2026-05-29T01:31:00.618Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-e4232f3c-865b-42c6-8165-2133ca73b989",
       "title": "Stratège de performance et optimisation CRM | CRM Performance and Optimization Strategist",
@@ -51,19 +103,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000128932319",
       "created": "2026-05-28T11:26:07.675Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000128907979",
-      "title": "QA Internship",
-      "company": "Gameloft Montreal",
-      "location": "Yogyakarta, id",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000128907979",
-      "created": "2026-05-28T09:35:21.792Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1303,19 +1342,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000126073800",
-      "title": "Marketing Concept & Graphic artist",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000126073800",
-      "created": "2026-05-12T12:45:59.143Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000125989249",
       "title": "Senior 3D Character Artist",
       "company": "Gameloft Montreal",
@@ -1676,19 +1702,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000125831564",
       "created": "2026-05-11T12:46:22.531Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000125810684",
-      "title": "Junior Sales Reporting Specialist – Business Intelligence Team",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000125810684",
-      "created": "2026-05-11T11:24:20.335Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
