@@ -1,7 +1,20 @@
 {
-  "updated": "2026-05-29T22:15:19.953280Z",
+  "updated": "2026-05-30T09:04:19.070993Z",
   "count": 256,
   "jobs": [
+    {
+      "id": "sr-744000129281993",
+      "title": "Senior 3D Artist",
+      "company": "Gameloft Montreal",
+      "location": "Yogyakarta, id",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000129281993",
+      "created": "2026-05-30T01:25:47.739Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000129251241",
       "title": "Analyste Financier.ère Junior",
@@ -339,19 +352,6 @@
       "created": "2026-05-26T16:08:02.310Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-5765ab5a-c186-4ead-a590-d2b537f6fd9f",
-      "title": "Coordonnateur.trice - Gestion de la santé et assurances | Coordinator - Health Management and Insurance",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Coordonnateur.trice - Gestion de la santé et assurances\nMode de travail hybride – 4 jours/semaine au bureau\nPoste régulier à temps plein\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \nNOTRE MISSION\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont a",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/5765ab5a-c186-4ead-a590-d2b537f6fd9f",
-      "created": "2026-05-26T15:29:51.080000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-c88bddd8-22fc-4a79-89e1-d93b210e977d",
