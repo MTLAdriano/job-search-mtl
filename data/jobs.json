@@ -1,7 +1,33 @@
 {
-  "updated": "2026-05-30T09:04:19.070993Z",
-  "count": 256,
+  "updated": "2026-05-30T15:55:06.960397Z",
+  "count": 257,
   "jobs": [
+    {
+      "id": "sr-744000129296069",
+      "title": "Senior VFX Artist",
+      "company": "Gameloft Montreal",
+      "location": "Brisbane, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000129296069",
+      "created": "2026-05-30T11:53:31.587Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000129296019",
+      "title": "Lead VFX Artist",
+      "company": "Gameloft Montreal",
+      "location": "Brisbane, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000129296019",
+      "created": "2026-05-30T11:51:30.258Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000129281993",
       "title": "Senior 3D Artist",
@@ -352,6 +378,19 @@
       "created": "2026-05-26T16:08:02.310Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
+    },
+    {
+      "id": "lv-5765ab5a-c186-4ead-a590-d2b537f6fd9f",
+      "title": "Coordonnateur.trice aux opérations - Gestion de la santé et assurances | Operations Coordinator - Health Management and Insurance",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Coordonnateur.trice aux opérations - Gestion de la santé et assurances\nMode de travail hybride – 4 jours/semaine au bureau\nPoste régulier à temps plein\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \nNOTRE MISSION\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la cr",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/5765ab5a-c186-4ead-a590-d2b537f6fd9f",
+      "created": "2026-05-26T15:29:51.080000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-c88bddd8-22fc-4a79-89e1-d93b210e977d",
@@ -2315,32 +2354,6 @@
       "created": "2026-04-17T21:22:37.253000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000121215464",
-      "title": "Senior VFX Artist",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000121215464",
-      "created": "2026-04-16T14:08:22.342Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000121216392",
-      "title": "Lead VFX Artist",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000121216392",
-      "created": "2026-04-16T14:07:20.742Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "gh-7809307",
