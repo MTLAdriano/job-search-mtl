@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-04T15:23:02.059741Z",
-  "count": 264,
+  "updated": "2026-06-04T18:21:51.452976Z",
+  "count": 262,
   "jobs": [
     {
       "id": "lv-7832bbc9-9a1d-4b78-9755-3122a65d1abd",
@@ -1026,32 +1026,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000127975020",
       "created": "2026-05-22T21:48:16.738Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000127975049",
-      "title": "Artiste éclairagiste - Contrat Temporaire",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000127975049",
-      "created": "2026-05-22T21:45:09.406Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000127974049",
-      "title": "Lighting Artist - Temporary Contract",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000127974049",
-      "created": "2026-05-22T21:29:52.246Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
