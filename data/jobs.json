@@ -1,7 +1,98 @@
 {
-  "updated": "2026-06-03T18:09:02.854721Z",
-  "count": 265,
+  "updated": "2026-06-04T10:28:18.413568Z",
+  "count": 266,
   "jobs": [
+    {
+      "id": "sr-744000130176970",
+      "title": "Account Manager",
+      "company": "Gameloft Montreal",
+      "location": "Accra, gh",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000130176970",
+      "created": "2026-06-04T09:18:51.531Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000130175769",
+      "title": "Sales Executive (Programmatic)",
+      "company": "Gameloft Montreal",
+      "location": "New York, us",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000130175769",
+      "created": "2026-06-04T09:12:50.400Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000130174571",
+      "title": "Sales Executive (Programmatic)",
+      "company": "Gameloft Montreal",
+      "location": "Chicago, us",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000130174571",
+      "created": "2026-06-04T09:12:24.018Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000130141480",
+      "title": "Game Designer Lead",
+      "company": "Gameloft Montreal",
+      "location": "Yogyakarta, id",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000130141480",
+      "created": "2026-06-04T04:27:13.125Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000130140019",
+      "title": "Senior Art Director - Vic/SA/Qld",
+      "company": "Keywords Studios",
+      "location": "Box Hill, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000130140019",
+      "created": "2026-06-04T03:53:07.286Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
+    {
+      "id": "gh-7980392",
+      "title": "Designer Graphique - Graphic Designer",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7980392",
+      "created": "2026-06-03T16:45:24-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-7980216",
+      "title": "Account Director",
+      "company": "Sid Lee",
+      "location": "Toronto, Ontario, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7980216",
+      "created": "2026-06-03T15:45:06-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
     {
       "id": "sr-744000130028969",
       "title": "Golaem/Houdini Crowd Artist - Mid & Senior - Temporary contract",
@@ -55,19 +146,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000129940250",
-      "title": "Account Manager",
-      "company": "Gameloft Montreal",
-      "location": "Accra, gh",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000129940250",
-      "created": "2026-06-03T08:32:15.671Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000129931714",
       "title": "2D Artist",
       "company": "Gameloft Montreal",
@@ -90,19 +168,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000129904644",
       "created": "2026-06-03T03:20:29.087Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000129905179",
-      "title": "Senior Art Director - Vic/SA/Qld",
-      "company": "Keywords Studios",
-      "location": "Box Hill, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000129905179",
-      "created": "2026-06-03T03:19:24.224Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
     },
@@ -329,10 +394,10 @@
     },
     {
       "id": "lv-d0661afe-e3f8-463c-8502-0f5b8d38292a",
-      "title": "Automation/Rigging Maintenance Technician – ALIZÉ",
+      "title": "Automation Technician – ALIZÉ",
       "company": "Cirque du Soleil",
       "location": "Berlin",
-      "description": "Automation/Rigging Maintenance Technician – Day Shift\nStage Automation\nTemporary/Full-Time Position\n \nWe are looking for an Automation/Rigging Maintenance Technician whose role will be to support the Automation and Rigging systems to ensure show readiness and safety by performing maintenance on electrical and mechanical equipment above and below the stage, developing a thorough knowledge of all automation, rigging and control systems, maintaining inventory of spare parts and supplies, and provid",
+      "description": "Automation Technician – ALIZÉ – Resident Shows Division\nFull-time position\n \nWe are looking for an Automation Technician whose role will be to support the automation systems to ensure show readiness and safety by performing maintenance on electrical and mechanical equipment above the stage, developing a thorough knowledge of all automation and control systems, maintaining inventory of spare parts and supplies, and providing all other supporting services.  Automation Technicians report to the Hea",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/d0661afe-e3f8-463c-8502-0f5b8d38292a",
@@ -2122,19 +2187,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000124700341",
-      "title": "Programmatic Sales Executive",
-      "company": "Gameloft Montreal",
-      "location": "Chicago, us",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000124700341",
-      "created": "2026-05-05T16:38:32.591Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000124686619",
       "title": "Junior Image Finaling Artist (Comp Tech) - TMNT 2",
       "company": "Rodeo FX",
@@ -2512,19 +2564,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "gh-7809307",
-      "title": "Équipe créative senior (DCA) - Senior/ACD Team",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7809307",
-      "created": "2026-04-16T13:51:20-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "sr-744000121193052",
       "title": "Technical Producer",
       "company": "Gameloft Montreal",
@@ -2534,19 +2573,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000121193052",
       "created": "2026-04-16T12:43:56.786Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000121119873",
-      "title": "GD lead",
-      "company": "Gameloft Montreal",
-      "location": "Yogyakarta, id",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000121119873",
-      "created": "2026-04-16T07:31:04.453Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -2833,19 +2859,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000115751237",
       "created": "2026-03-19T21:29:57.107Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000115626329",
-      "title": "Programmatic Sales Executive",
-      "company": "Gameloft Montreal",
-      "location": "New York, us",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000115626329",
-      "created": "2026-03-19T10:35:44.075Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
