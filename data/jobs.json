@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-04T18:21:51.452976Z",
-  "count": 262,
+  "updated": "2026-06-04T21:43:40.936744Z",
+  "count": 265,
   "jobs": [
+    {
+      "id": "sr-744000130280649",
+      "title": "Mid Crowd Artist - TMNT 2",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000130280649",
+      "created": "2026-06-04T18:58:53.084Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000130280390",
+      "title": "Artiste Compositing Senior - TMNT 2",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000130280390",
+      "created": "2026-06-04T18:57:49.561Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000130280409",
+      "title": "Senior Compositing Artist - TMNT 2",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000130280409",
+      "created": "2026-06-04T18:57:16.090Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "lv-7832bbc9-9a1d-4b78-9755-3122a65d1abd",
       "title": "Directeur.trice - Offre alimentaire et solutions technologiques pour la restauration | Director - Food Offering & FOH Tech Solutions",
