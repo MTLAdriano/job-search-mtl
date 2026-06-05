@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-05T04:05:49.303515Z",
-  "count": 265,
+  "updated": "2026-06-05T11:31:21.078312Z",
+  "count": 266,
   "jobs": [
+    {
+      "id": "sr-744000130414935",
+      "title": "Comptable Fournisseurs (confirmé.e)",
+      "company": "Gameloft Montreal",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000130414935",
+      "created": "2026-06-05T10:14:03.240Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000130413683",
+      "title": "Studio Game Artist Lead",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000130413683",
+      "created": "2026-06-05T10:13:53.424Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000130415219",
+      "title": "Studio Artist Lead",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000130415219",
+      "created": "2026-06-05T10:13:15.073Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000130409158",
+      "title": "Account Manager",
+      "company": "Gameloft Montreal",
+      "location": "Accra, gh",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000130409158",
+      "created": "2026-06-05T09:44:57.471Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000130359230",
+      "title": "Game Designer Lead",
+      "company": "Gameloft Montreal",
+      "location": "Yogyakarta, id",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000130359230",
+      "created": "2026-06-05T04:52:45.397Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000130280649",
       "title": "Mid Crowd Artist - TMNT 2",
@@ -53,19 +118,6 @@
       "created": "2026-06-04T13:47:28.446000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000130192824",
-      "title": "Studio Artist Lead",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000130192824",
-      "created": "2026-06-04T11:04:48.861Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000130193112",
@@ -120,19 +172,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000130176970",
-      "title": "Account Manager",
-      "company": "Gameloft Montreal",
-      "location": "Accra, gh",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000130176970",
-      "created": "2026-06-04T09:18:51.531Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000130175769",
       "title": "Sales Executive (Programmatic)",
       "company": "Gameloft Montreal",
@@ -155,19 +194,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000130174571",
       "created": "2026-06-04T09:12:24.018Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000130141480",
-      "title": "Game Designer Lead",
-      "company": "Gameloft Montreal",
-      "location": "Yogyakarta, id",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000130141480",
-      "created": "2026-06-04T04:27:13.125Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -456,19 +482,6 @@
       "created": "2026-06-02T13:54:17.468000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000129712105",
-      "title": "Studio Game Artist Lead",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000129712105",
-      "created": "2026-06-02T10:05:23.147Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-d6bf63d3-3111-4805-b108-cc4bf28de8e3",
