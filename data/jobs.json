@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-05T17:58:44.950512Z",
-  "count": 265,
+  "updated": "2026-06-05T21:28:05.187022Z",
+  "count": 263,
   "jobs": [
     {
       "id": "sr-744000130414935",
@@ -1368,19 +1368,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000127396859",
-      "title": "Assistant(e) Comptable Fournisseurs (Alternance -Septembre 2026)",
-      "company": "Gameloft Montreal",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000127396859",
-      "created": "2026-05-20T09:54:25.389Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "gh-7944190",
       "title": "Recruteur.euse Créatif.ve (Remplacement de Congé de Maternité) - Creative Recruiter (Maternity Leave Replacement)",
       "company": "Sid Lee",
@@ -1665,19 +1652,6 @@
       "created": "2026-05-13T09:32:32.517Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-ec88bd21-3b2a-4baf-b9af-a1dc53db35f4",
-      "title": "Director of Public Relations – North America",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/ec88bd21-3b2a-4baf-b9af-a1dc53db35f4",
-      "created": "2026-05-12T21:20:32.721000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000126156830",
