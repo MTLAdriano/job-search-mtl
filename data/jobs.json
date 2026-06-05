@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-05T14:57:58.536468Z",
-  "count": 266,
+  "updated": "2026-06-05T17:58:44.950512Z",
+  "count": 265,
   "jobs": [
     {
       "id": "sr-744000130414935",
@@ -1392,19 +1392,6 @@
       "created": "2026-05-19T18:06:59-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000127197854",
-      "title": "Data Scientist",
-      "company": "Gameloft Montreal",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000127197854",
-      "created": "2026-05-19T12:44:42.873Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000127014984",
