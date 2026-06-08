@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-08T18:27:48.388132Z",
-  "count": 262,
+  "updated": "2026-06-08T21:52:16.833944Z",
+  "count": 263,
   "jobs": [
+    {
+      "id": "lv-7b743ddb-bd14-468c-a358-e139eb030427",
+      "title": "Spécialiste de l'intégration des courriels | Email Integration Specialist",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Spécialiste de l'intégration des courriels (Salesforce Marketing Cloud)\nVentes, marketing et communications\nPoste temporaire 18 mois\n\n\nNous avons une place pour celles et ceux qui ont un goût distinct pour assurer le bon déroulement des opérations au profit de nos spectacles et événements, pour penser des produits remarquables, pour mettre leur ingéniosité au service de leur équipe, en plus de contribuer à valoriser leur expertise et développer des pratiques exceptionnelles. Le Groupe Cirque du ",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/7b743ddb-bd14-468c-a358-e139eb030427",
+      "created": "2026-06-08T19:58:21.384000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000130876709",
+      "title": "Senior Animation Artist - Temporary Contract",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000130876709",
+      "created": "2026-06-08T19:51:29.709Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "lv-238e0fcf-13d7-4df2-a6bb-cd5d2002f678",
+      "title": "Dépisteur, Vigie Créative | Scout, Creative Intelligence",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Directeur.trice des communications – Amériques (Tournées et corporatif) \nMode de travail hybride – 4 jours/semaine au bureau\nPoste permanent\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativit",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/238e0fcf-13d7-4df2-a6bb-cd5d2002f678",
+      "created": "2026-06-08T18:30:24.787000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000130834624",
       "title": "Responsable Informatique -  Permanent - Paris",
@@ -688,19 +727,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000129810589",
       "created": "2026-06-02T16:13:05.008Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000129810360",
-      "title": "Animation Artist",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000129810360",
-      "created": "2026-06-02T16:12:13.283Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -2419,19 +2445,6 @@
       "created": "2026-04-27T18:55:30.473Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "gh-7859356",
-      "title": "Équipe Créative Intermédiaire - Intermediate Creative Team",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7859356",
-      "created": "2026-04-27T17:05:20-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "gh-7859299",
