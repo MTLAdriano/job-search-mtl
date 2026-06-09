@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-09T11:19:49.547122Z",
+  "updated": "2026-06-09T15:15:31.132719Z",
   "count": 275,
   "jobs": [
+    {
+      "id": "lv-efa8de0b-014f-45c2-b69e-da8fd593a3d9",
+      "title": "Chef.fe – Rémunération et SIRH | Manager – Compensation and HRIS",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Analyste principal.e systèmes talent (SIRH) \nTalent\nPoste permanent \n\n\nNous avons une place pour celles et ceux qui ont un goût distinct pour assurer le bon déroulement des opérations au profit de nos spectacles et événements, pour penser des produits remarquables, pour mettre leur ingéniosité au service de leur équipe, en plus de contribuer à valoriser leur expertise et développer des pratiques exceptionnelles. Le Groupe Cirque du Soleil mise sur une approche de travail toujours plus créative e",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/efa8de0b-014f-45c2-b69e-da8fd593a3d9",
+      "created": "2026-06-09T15:08:51.712000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000131122089",
+      "title": "Intermediate C++ Developer",
+      "company": "Gameloft Montreal",
+      "location": "Sofia, bg",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000131122089",
+      "created": "2026-06-09T11:42:56.218Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000131111880",
       "title": "アニメーター",
@@ -1888,19 +1914,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000126316991",
-      "title": "Intermediate C++ Developer",
-      "company": "Gameloft Montreal",
-      "location": "Sofia, bg",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000126316991",
-      "created": "2026-05-13T13:41:54.648Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000126265622",
       "title": "Content Designer - Narrative & Systems (Open World)",
       "company": "Gameloft Montreal",
@@ -2354,19 +2367,6 @@
       "created": "2026-05-08T19:39:50.638000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000125320079",
-      "title": "Technical Project Manager",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000125320079",
-      "created": "2026-05-08T11:45:20.024Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-d9520aae-447c-4e7b-b304-6a9db40a9015",
