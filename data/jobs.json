@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-09T03:51:37.925598Z",
+  "updated": "2026-06-09T07:53:19.060543Z",
   "count": 263,
   "jobs": [
+    {
+      "id": "sr-744000131062058",
+      "title": "Junior Game Designer",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000131062058",
+      "created": "2026-06-09T07:22:49.707Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000131061570",
+      "title": "Lighting Artist",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000131061570",
+      "created": "2026-06-09T07:21:25.440Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
+    {
+      "id": "sr-744000131053725",
+      "title": "Senior VFX Artist",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000131053725",
+      "created": "2026-06-09T07:08:04.304Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
+    {
+      "id": "sr-744000131052563",
+      "title": "シニア3Dアーティスト",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000131052563",
+      "created": "2026-06-09T06:57:19.550Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
+    {
+      "id": "sr-744000131052469",
+      "title": "Senior 3D Artist ",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000131052469",
+      "created": "2026-06-09T06:56:27.692Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
     {
       "id": "lv-7b743ddb-bd14-468c-a358-e139eb030427",
       "title": "Spécialiste de l'intégration des courriels | Email Integration Specialist",
@@ -211,19 +276,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "sr-744000130744840",
-      "title": "Senior VFX Artist",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000130744840",
-      "created": "2026-06-08T09:03:12.479Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
       "id": "sr-744000130742800",
       "title": "シニアアニメーター",
       "company": "Keywords Studios",
@@ -246,32 +298,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000130742425",
       "created": "2026-06-08T09:00:42.262Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000130744869",
-      "title": "シニア3Dアーティスト",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000130744869",
-      "created": "2026-06-08T09:00:01.689Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000130744379",
-      "title": "Senior 3D Artist ",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000130744379",
-      "created": "2026-06-08T08:58:45.106Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
     },
@@ -506,19 +532,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000130415219",
       "created": "2026-06-05T10:13:15.073Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000130409158",
-      "title": "Account Manager",
-      "company": "Gameloft Montreal",
-      "location": "Accra, gh",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000130409158",
-      "created": "2026-06-05T09:44:57.471Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -2521,19 +2534,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000122253025",
       "created": "2026-04-22T12:45:14.756Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000122077792",
-      "title": "Senior Data Analyst",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000122077792",
-      "created": "2026-04-21T16:50:03.413Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
