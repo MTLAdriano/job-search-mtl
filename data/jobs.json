@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-10T11:47:02.261998Z",
-  "count": 218,
+  "updated": "2026-06-10T15:43:30.016479Z",
+  "count": 271,
   "jobs": [
+    {
+      "id": "sr-744000131484111",
+      "title": "Artiste FX Intermédiaires et Seniors – Plusieurs postes",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000131484111",
+      "created": "2026-06-10T15:24:04.211Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000131483679",
+      "title": "Mid and Senior FX Artist – Multiple Positions",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000131483679",
+      "created": "2026-06-10T15:19:29.168Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "lv-07fe113e-a2fd-420c-8d0e-17fcc740bc8c",
+      "title": "Technicien.ne d’éclairage sur appel | On-Call Lighting Technician",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Technicien.ne son\nCréations et productions\nPoste sur appel - À MONTRÉAL, QC\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/07fe113e-a2fd-420c-8d0e-17fcc740bc8c",
+      "created": "2026-06-10T13:52:04.174000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000131450504",
+      "title": "Artiste Animateur Senior - Manifestation d'intérêt",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000131450504",
+      "created": "2026-06-10T13:15:01.124Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000131450369",
+      "title": "Senior Animation Artist - Expression of interest",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000131450369",
+      "created": "2026-06-10T13:13:41.519Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000131227390",
       "title": "[Dungeons & Dragons PC-Console] Coordonnateur(-trice) de projet de production – Production Project Coordinator",
@@ -42,6 +107,19 @@
       "source": "Gameloft Montreal"
     },
     {
+      "id": "lv-34b11e8e-d3e2-4d8e-b0ff-8ea58a7b87c0",
+      "title": "Directeur.trice, Acquisition mondiale des Talents et marque employeur | Director, Talent Acquisition & Employer Brand",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Directeur.trice, Acquisition mondiale des Talents et marque employeur\nMode de travail hybride – 4 jours/semaine au bureau\nPoste permanent\n \nLieu de travail: Montreal\nLien hiérarchique: Cheffe de la Direction - Talent\n \nSommaire\nNous sommes à la recherche d’un(e) Directeur(trice), Acquisition mondiales des talents et marque employeur audacieux(se), stratégique et orienté(e) vers les affaires pour piloter l’évolution de notre stratégie mondiale d’attraction des talents.\n \nCe rôle s’adresse à un(e)",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/34b11e8e-d3e2-4d8e-b0ff-8ea58a7b87c0",
+      "created": "2026-06-09T18:00:14.711000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
       "id": "sr-744000131183796",
       "title": "Senior UI/UX Designer (+3 Years Gaming Exp.)",
       "company": "Gameloft Montreal",
@@ -53,6 +131,19 @@
       "created": "2026-06-09T15:38:03.691Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
+    },
+    {
+      "id": "lv-b30aede2-0a50-46d1-bf9a-71d3fca082a5",
+      "title": "Marketing and Communications Manager – Blue Man Group Orlando",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n______________________________\n \n \n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/b30aede2-0a50-46d1-bf9a-71d3fca082a5",
+      "created": "2026-06-09T15:25:39.198000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000131180909",
@@ -79,6 +170,19 @@
       "created": "2026-06-09T15:17:54.931Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
+    },
+    {
+      "id": "lv-efa8de0b-014f-45c2-b69e-da8fd593a3d9",
+      "title": "Chef.fe – Rémunération et SIRH | Manager – Compensation and HRIS",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Analyste principal.e systèmes talent (SIRH) \nTalent\nPoste permanent \n\n\nNous avons une place pour celles et ceux qui ont un goût distinct pour assurer le bon déroulement des opérations au profit de nos spectacles et événements, pour penser des produits remarquables, pour mettre leur ingéniosité au service de leur équipe, en plus de contribuer à valoriser leur expertise et développer des pratiques exceptionnelles. Le Groupe Cirque du Soleil mise sur une approche de travail toujours plus créative e",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/efa8de0b-014f-45c2-b69e-da8fd593a3d9",
+      "created": "2026-06-09T15:08:51.712000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000131122089",
@@ -328,17 +432,30 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "sr-744000130876709",
-      "title": "Senior Animation Artist - Temporary Contract",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
+      "id": "lv-7b743ddb-bd14-468c-a358-e139eb030427",
+      "title": "Spécialiste de l'intégration des courriels | Email Integration Specialist",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Spécialiste de l'intégration des courriels (Salesforce Marketing Cloud)\nVentes, marketing et communications\nPoste temporaire 18 mois\n\n\nNous avons une place pour celles et ceux qui ont un goût distinct pour assurer le bon déroulement des opérations au profit de nos spectacles et événements, pour penser des produits remarquables, pour mettre leur ingéniosité au service de leur équipe, en plus de contribuer à valoriser leur expertise et développer des pratiques exceptionnelles. Le Groupe Cirque du ",
       "salary_min": null,
       "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000130876709",
-      "created": "2026-06-08T19:51:29.709Z",
+      "url": "https://jobs.lever.co/cirquedusoleil/7b743ddb-bd14-468c-a358-e139eb030427",
+      "created": "2026-06-08T19:58:21.384000Z",
       "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-238e0fcf-13d7-4df2-a6bb-cd5d2002f678",
+      "title": "Dépisteur, Vigie Créative | Scout, Creative Intelligence",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Directeur.trice des communications – Amériques (Tournées et corporatif) \nMode de travail hybride – 4 jours/semaine au bureau\nPoste permanent\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativit",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/238e0fcf-13d7-4df2-a6bb-cd5d2002f678",
+      "created": "2026-06-08T18:30:24.787000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000130834624",
@@ -363,32 +480,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000130835130",
       "created": "2026-06-08T15:25:12.525Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000130834229",
-      "title": "Graphiste Junior - Stage/contrat temporaire",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000130834229",
-      "created": "2026-06-08T15:20:27.924Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000130832923",
-      "title": "Junior Graphic Designer - Internship/temporary contract",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000130832923",
-      "created": "2026-06-08T15:19:23.312Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -926,17 +1017,108 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000129810589",
-      "title": "Artistes d’animation - Contrat temporaire",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
+      "id": "lv-2eec5799-f92e-489b-87cc-93daea37bb95",
+      "title": "Coordonnateur.trice, Expérience employé.e | Employee Experience Coordinator",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Coordonnateur, Communications internes et expérience-employé\nPoste permanent \n \nEs-tu prêt à faire le grand saut?\nLe Groupe Cirque du Soleil a vécu toute une série d’acrobaties et de contorsions au cours des derniers mois. Mais nous sommes des ambitieux et des passionné.es de notre travail, et nous savons toujours retomber sur nos pieds, même après des culbutes périlleuses. \n \nNotre cœur bat donc très fort à l’idée de rebâtir notre entreprise et de rêver à son futur grandiose. As-tu la curiosité",
       "salary_min": null,
       "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000129810589",
-      "created": "2026-06-02T16:13:05.008Z",
+      "url": "https://jobs.lever.co/cirquedusoleil/2eec5799-f92e-489b-87cc-93daea37bb95",
+      "created": "2026-06-02T19:04:33.037000Z",
       "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-5d14cccb-9223-4af3-8d81-df9b40f30633",
+      "title": "Analyste principal, Développement des affaires – BMG et VStar | Senior Analyst, Business Development – BMG and VStar",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Analyste principal – Développement des affaires – Blue Man Group et VStar Entertainment\nMode de travail hybride – 4 jours/semaine au bureau\nPoste permanent\n \nÀ propos de Blue Man Group\nBlue Man Group est un phénomène mondial du divertissement, reconnu pour ses productions théâtrales primées, ses personnages iconiques et son exploration créative sans limites. Détenu et exploité par le Groupe de divertissement Cirque du Soleil, Blue Man Group offre des célébrations euphoriques de la connexion huma",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/5d14cccb-9223-4af3-8d81-df9b40f30633",
+      "created": "2026-06-02T17:13:19.291000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-5d7f3fb3-5803-40c6-972a-20e92b2311cb",
+      "title": "Head of Sales & Marketing – Blue Man Group and VStar Entertainment",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/5d7f3fb3-5803-40c6-972a-20e92b2311cb",
+      "created": "2026-06-02T15:20:55.614000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-63293198-33ab-4853-b71b-10b20a6fe106",
+      "title": "Head of Commercial Operations – Blue Man Group and VStar Entertainment",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/63293198-33ab-4853-b71b-10b20a6fe106",
+      "created": "2026-06-02T15:11:10.301000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-6e3ad96b-c305-4b93-8f86-6be77ecb0b3a",
+      "title": "Directeur.trice des communications – Amériques (Tournées et corporatif) | Director of Communications – Americas (Touring & Corporate)",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Directeur.trice des communications – Amériques (Tournées et corporatif) \nMode de travail hybride – 4 jours/semaine au bureau\nPoste permanent\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativit",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/6e3ad96b-c305-4b93-8f86-6be77ecb0b3a",
+      "created": "2026-06-02T14:18:45.256000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-52129a9d-5a5f-41d1-b0e4-342073fca49a",
+      "title": "Executive Creative Producer – Blue Man Group and VStar Entertainment",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/52129a9d-5a5f-41d1-b0e4-342073fca49a",
+      "created": "2026-06-02T13:54:17.468000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-d6bf63d3-3111-4805-b108-cc4bf28de8e3",
+      "title": "Assistant Technical Director – ALIZÉ",
+      "company": "Cirque du Soleil",
+      "location": "Berlin",
+      "description": "Assistant Technical Director – ALIZÉ – Resident Show\nTemporary/Full-Time position\n \nWe are currently looking for an Assistant Technical Director whose role will be to work in conjunction with the Show Technical Director to lead and manage the Show’s Technical Departments. The Assistant Technical Director’s main goal is to maintain safe and consistent show operations for all performances and day-to-day operations of the show, including daily training and staging while supporting the normal tasks ",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/d6bf63d3-3111-4805-b108-cc4bf28de8e3",
+      "created": "2026-06-01T19:59:08.951000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-d0661afe-e3f8-463c-8502-0f5b8d38292a",
+      "title": "Automation Technician – ALIZÉ",
+      "company": "Cirque du Soleil",
+      "location": "Berlin",
+      "description": "Automation Technician – ALIZÉ – Resident Shows Division\nFull-time position\n \nWe are looking for an Automation Technician whose role will be to support the automation systems to ensure show readiness and safety by performing maintenance on electrical and mechanical equipment above the stage, developing a thorough knowledge of all automation and control systems, maintaining inventory of spare parts and supplies, and providing all other supporting services.  Automation Technicians report to the Hea",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/d0661afe-e3f8-463c-8502-0f5b8d38292a",
+      "created": "2026-06-01T19:57:08.437000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000129507827",
@@ -1043,6 +1225,32 @@
       "source": "Rodeo FX"
     },
     {
+      "id": "lv-8e18c58c-1418-4c92-906e-b7a564920c40",
+      "title": "Technicien.ne principal.e, automatisation | Senior Automation Technician",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Technicien.ne principal.e, automatisation\nCréations et productions\nPoste permanent\n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \nNOTRE MISSION\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender ",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/8e18c58c-1418-4c92-906e-b7a564920c40",
+      "created": "2026-05-29T12:50:59.778000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-7aaa288c-ae5e-4a84-adcb-b8ac9b9b49ca",
+      "title": "Technicien.ne son sur appel | On-Call Sound Technician",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Technicien.ne son\nCréations et productions\nPoste sur appel\n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos productions à veni",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/7aaa288c-ae5e-4a84-adcb-b8ac9b9b49ca",
+      "created": "2026-05-29T12:43:50.896000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
       "id": "sr-744000129165260",
       "title": "Superviseur.e d'images de synthèse",
       "company": "Rodeo FX",
@@ -1093,6 +1301,19 @@
       "created": "2026-05-29T01:31:00.618Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
+    },
+    {
+      "id": "lv-e4232f3c-865b-42c6-8165-2133ca73b989",
+      "title": "Stratège de performance et optimisation CRM | CRM Performance and Optimization Strategist",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Stratège de performance et optimisation CRM\nMode de travail hybride – 4 jours/semaine au bureau\nPoste permanent\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectac",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/e4232f3c-865b-42c6-8165-2133ca73b989",
+      "created": "2026-05-28T21:57:20.241000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000128932319",
@@ -1147,6 +1368,32 @@
       "source": "Sid Lee"
     },
     {
+      "id": "lv-f96bf7fe-c074-4481-9e7c-2d4579ac4782",
+      "title": "Sous-chef.fe - ECHO | Sous-Chef - ECHO",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Sous-chef.fe - Spectacle Chapiteau - ECHO\nServices alimentaires\nPoste permanent\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcend",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/f96bf7fe-c074-4481-9e7c-2d4579ac4782",
+      "created": "2026-05-27T14:36:12.650000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-79f526f8-6cd7-4919-a631-6c165799014b",
+      "title": "Stage Manager – Mystere",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/79f526f8-6cd7-4919-a631-6c165799014b",
+      "created": "2026-05-27T14:30:19.697000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
       "id": "sr-744000128664699",
       "title": "Game Economy Designer",
       "company": "Gameloft Montreal",
@@ -1171,6 +1418,32 @@
       "created": "2026-05-26T16:08:02.310Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
+    },
+    {
+      "id": "lv-5765ab5a-c186-4ead-a590-d2b537f6fd9f",
+      "title": "Coordonnateur.trice aux opérations - Gestion de la santé et assurances | Operations Coordinator - Health Management and Insurance",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Coordonnateur.trice aux opérations - Gestion de la santé et assurances\nMode de travail hybride – 4 jours/semaine au bureau\nPoste régulier à temps plein\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \nNOTRE MISSION\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la cr",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/5765ab5a-c186-4ead-a590-d2b537f6fd9f",
+      "created": "2026-05-26T15:29:51.080000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-c88bddd8-22fc-4a79-89e1-d93b210e977d",
+      "title": "Adjoint.e exécutif.ve | Executive assistant",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Adjoint.e exécutif.ve \nMode de travail hybride – 4 jours/semaine au bureau\nPoste temporaire 12 mois/temps plein\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectac",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/c88bddd8-22fc-4a79-89e1-d93b210e977d",
+      "created": "2026-05-26T14:23:49.136000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000128460212",
@@ -1342,6 +1615,19 @@
       "source": "Rodeo FX"
     },
     {
+      "id": "lv-8d709c4f-9dd2-419e-8a71-3cd5c3938b47",
+      "title": "Wardrobe Technician – ALIZÉ",
+      "company": "Cirque du Soleil",
+      "location": "Berlin",
+      "description": "Wardrobe Technician – ALIZÉ – Resident Shows\nCostumes and Props\nFull-Time position\n \nWe are looking for a Wardrobe Technician whose role, as a part of the Wardrobe team, will be to ensure costume elements are well maintained and the smooth running of shows.  Under the leadership of the HOD of Wardrobe, all team members are expected to support the show and their co-workers in a positive and professional manner. All duties are to be performed in accordance with department and property policies, pr",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/8d709c4f-9dd2-419e-8a71-3cd5c3938b47",
+      "created": "2026-05-25T15:03:15.411000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
       "id": "sr-744000127975020",
       "title": "Artiste senior et intermédiaire en modélisation 3D - Plusieurs Contrats",
       "company": "Rodeo FX",
@@ -1394,6 +1680,58 @@
       "source": "Rodeo FX"
     },
     {
+      "id": "lv-44896a49-61fc-4e37-bd9b-56ca60611fd5",
+      "title": "Analyste principal.e, Optimisation du taux de conversion (CRO) | Senior Analyst, Conversion Rate Optimization (CRO)",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Analyste principal.e, Optimisation du taux de conversion (CRO)\nMode de travail hybride – 4 jours/semaine au bureau\nPoste à temps plein\n \n** Ce poste est offert en télétravail pour les candidat·e·s situés à l’extérieur de la grande région de Montréal et Las Vegas.\nLes candidat·e·s basés à Montréal ou Las Vegas devront travailler en présentiel, conformément aux pratiques locales. **\n \nNous avons une place pour les personnes ayant un goût prononcé pour assurer le bon déroulement de nos spectacles e",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/44896a49-61fc-4e37-bd9b-56ca60611fd5",
+      "created": "2026-05-22T17:09:05.076000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-584ddbca-b448-46a9-9c3e-c9a7f98cfcf7",
+      "title": "Analyste principal.e, Analytique marketing et revenus | Senior Analyst, Marketing and Revenue Analytics",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Analyste principal.e, Analytique marketing et revenus\nMode de travail hybride – 4 jours/semaine au bureau\nPoste à temps plein\n \n** Ce poste est offert en télétravail pour les candidat·e·s situés à l’extérieur de la grande région de Montréal et Las Vegas.\nLes candidat·e·s basés à Montréal ou Las Vegas devront travailler en présentiel, conformément aux pratiques locales. **\n \nNous avons une place pour les personnes ayant un goût prononcé pour assurer le bon déroulement de nos spectacles et événeme",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/584ddbca-b448-46a9-9c3e-c9a7f98cfcf7",
+      "created": "2026-05-22T17:03:05.332000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-e11a0ca0-f549-4ac8-b3b5-93b30e433a76",
+      "title": "Chef.fe de département, gréeur – LUDO | Head of Department, Rigging – LUDO",
+      "company": "Cirque du Soleil",
+      "location": "Nuevo Vallarta",
+      "description": "Chef.fe de département, machiniste de scène et accessoires \n\nMachiniste de scène et accessoires \n\nPostes permanent\n\n \n\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n\n \n\nNOTRE MISSION\n\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spect",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/e11a0ca0-f549-4ac8-b3b5-93b30e433a76",
+      "created": "2026-05-22T14:25:58.879000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-9b380b4f-5789-47db-89df-5b26e45076ce",
+      "title": "Préposé Maintenance Bâtiment | Building Maintenance Attendant",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Préposé Maintenance Bâtiment\nPoste permanent à temps plein\n \n \nNous avons une place pour celles et ceux qui ont un goût distinct pour assurer le bon déroulement des opérations au profit de nos spectacles et événements, pour penser des produits remarquables, pour mettre leur ingéniosité au service de leur équipe, en plus de contribuer à valoriser leur expertise et développer des pratiques exceptionnelles. Le Groupe Cirque du Soleil mise sur une approche de travail toujours plus créative et collab",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/9b380b4f-5789-47db-89df-5b26e45076ce",
+      "created": "2026-05-22T13:10:06.636000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
       "id": "sr-744000127793779",
       "title": "Senior Quality Assurance Analyst - Video Games",
       "company": "Keywords Studios",
@@ -1405,6 +1743,45 @@
       "created": "2026-05-22T01:57:05.528Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
+    },
+    {
+      "id": "lv-688aa541-11d2-45a9-bcce-3e0b56f7a23d",
+      "title": "On-Call Wardrobe Technician - Mad Apple",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/688aa541-11d2-45a9-bcce-3e0b56f7a23d",
+      "created": "2026-05-21T22:52:39.307000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-bccf0fee-c550-40ad-9f94-383792975c60",
+      "title": "Senior Analyst, Conversion Rate Optimization (CRO)",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/bccf0fee-c550-40ad-9f94-383792975c60",
+      "created": "2026-05-21T19:54:09.105000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-9fabb494-9de8-465d-8166-1f6b666bcb37",
+      "title": "Senior Analyst, Marketing and Revenue Analytics",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/9fabb494-9de8-465d-8166-1f6b666bcb37",
+      "created": "2026-05-21T19:50:29.466000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000127745882",
@@ -1431,6 +1808,19 @@
       "created": "2026-05-21T19:33:46.810Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
+    },
+    {
+      "id": "lv-b81703e2-7040-4e9c-871a-5c80792e131c",
+      "title": "Responsable marketing principal.e – Production en tournée | Senior Marketing Lead – Touring Production",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Responsable marketing principal.e – Production en tournée\nMode de travail hybride – 4 jours/semaine au bureau\nPoste temporaire/temps plein (6 mois)\nNous sommes nés d'une troupe éclectique d'artistes. Venez vivre l'expérience d'être vous-même chaque jour pour créer l'extraordinaire.\nNOTRE MISSION\nDepuis 1984, le Cirque du Soleil Entertainment Group mise sur un travail toujours plus créatif et magique afin de repousser constamment les limites de l'imagination et de surprendre les spectateurs ! L'i",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/b81703e2-7040-4e9c-871a-5c80792e131c",
+      "created": "2026-05-20T19:47:50.486000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000127486505",
@@ -1509,6 +1899,32 @@
       "created": "2026-05-18T07:31:25.517Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
+    },
+    {
+      "id": "lv-6ef80240-19af-4a11-ad2a-3f136d3fef62",
+      "title": "Stage Manager – Blue Man Group Orlando",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/6ef80240-19af-4a11-ad2a-3f136d3fef62",
+      "created": "2026-05-15T18:19:44.211000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-b8c7b6fe-7b2e-4a59-9277-879e50756d70",
+      "title": "On-Call Wardrobe Technician – Blue Man Group Orlando",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/b8c7b6fe-7b2e-4a59-9277-879e50756d70",
+      "created": "2026-05-15T18:15:19.119000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000126539670",
@@ -1704,6 +2120,19 @@
       "created": "2026-05-12T03:20:55.475Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
+    },
+    {
+      "id": "lv-76cbe3c9-abca-4bdc-b57c-6763979c293b",
+      "title": "Postes temporaires – ECHO | Temporary Staffing Positions – ECHO",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Postes temporaires\nSpectacle : ECHO\nServices de soutien aux spectacles\nLieu: Montréal, QC\nDate de début: 15 mai 2026          \nDate de fin: 15 août 2026\n \n \nDepuis 1984, le groupe de divertissement du Cirque du Soleil se consacre à la création d'expériences novatrices et magiques pour le public. Nous nous efforçons de repousser constamment les limites de l'imagination et de surprendre nos spectateurs à chaque spectacle.\n \n \nAujourd'hui, nous avons le plaisir d'offrir une occasion passionnante à ",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/76cbe3c9-abca-4bdc-b57c-6763979c293b",
+      "created": "2026-05-11T19:29:33.604000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000125913021",
@@ -1966,6 +2395,71 @@
       "source": "Gameloft Montreal"
     },
     {
+      "id": "lv-1e74a454-2645-4c28-b9e2-95cd2df170e3",
+      "title": "Chef Éclairage – JOYÀ | Head of Lighting – JOYÀ",
+      "company": "Cirque du Soleil",
+      "location": "Riviera Maya",
+      "description": "Chef Éclairage – JOYÀ\nÉclairage de scène\nPoste permanent \n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nNotre partenaire Grupo Vidanta, l'un des principaux développeurs et exploitants de centres de villégiature de luxe, de propriétés et d'infrastructures touristiques de classe mondiale au Mexique et en Amérique latine, offre actuellement des opportunités de carrière pour JOYÀ, le premier specta",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/1e74a454-2645-4c28-b9e2-95cd2df170e3",
+      "created": "2026-05-08T20:21:29.367000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-9f48928b-289a-4e21-9cd1-ca253b065e85",
+      "title": "Vendor Relationship Coordinator",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/9f48928b-289a-4e21-9cd1-ca253b065e85",
+      "created": "2026-05-08T20:04:32.923000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-d9c38b9c-1e6f-4544-89e2-972caeabdc20",
+      "title": "Creative Strategist",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "As the position is located in the United States, the job description is available in English only.***\nAs this position in based in the United States, the job description is available in English only. \n__________________________________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/d9c38b9c-1e6f-4544-89e2-972caeabdc20",
+      "created": "2026-05-08T19:39:50.638000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-d9520aae-447c-4e7b-b304-6a9db40a9015",
+      "title": "Dessinateur.trice en génie civil | Civil Engineering Draftsperson",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Dessinateur.trice en génie civil\nMode de travail hybride – présence au bureau 4 jours par semaine \nPoste permanent/temps plein\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/d9520aae-447c-4e7b-b304-6a9db40a9015",
+      "created": "2026-05-07T19:54:48.047000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-29fd432f-3ce7-43ef-b513-f904afac01c9",
+      "title": "Box Office Staff – Blue Man Group Orlando",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/29fd432f-3ce7-43ef-b513-f904afac01c9",
+      "created": "2026-05-07T18:11:08.972000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
       "id": "gh-7904571",
       "title": "Producteur.trice Principal.e - Lead Producer",
       "company": "Sid Lee",
@@ -2057,6 +2551,45 @@
       "source": "Gameloft Montreal"
     },
     {
+      "id": "lv-dccc55aa-43c1-4cf4-8ba7-1ed56492c087",
+      "title": "Head of Department, Automation – Mystère",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "*** Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais. ***\n*** As this position in based in the United States, the job description is available in English only. ***\n \n______________________________________________________________\n \n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/dccc55aa-43c1-4cf4-8ba7-1ed56492c087",
+      "created": "2026-05-03T00:03:13.979000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-ac8312d9-0825-49a2-a97d-3df582e9c115",
+      "title": "On-Call Projections Technician - Drawn to Life",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n____________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/ac8312d9-0825-49a2-a97d-3df582e9c115",
+      "created": "2026-05-01T20:11:33.081000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-6ffe1246-96b8-43fb-8acb-509959ac3cca",
+      "title": "Responsable de la sécurité des événements - Productions en tournée | Event Safety Manager - Touring Productions",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Responsable de la sécurité des événements  - Productions en tournéeSoutien opérationnelPoste à temps plein \n* Ce poste implique des déplacements internationaux à temps plein sur plusieurs marchés et constitue une opportunité exceptionnelle pour le candidat idéal.*\nÀ propos de l'opportunité\nLes productions en tournée du Cirque du Soleil parcourent le monde, offrant chaque année des spectacles grandioses à des publics dans des dizaines de pays. Le responsable de la sécurité des événements est l'au",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/6ffe1246-96b8-43fb-8acb-509959ac3cca",
+      "created": "2026-04-30T19:04:30.487000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
       "id": "gh-7870814",
       "title": "Architecte intermédiaire / sénior",
       "company": "Sid Lee",
@@ -2083,17 +2616,17 @@
       "source": "Sid Lee"
     },
     {
-      "id": "gh-7809416",
-      "title": "Coordonnateur·trice de production - Production Coordinator",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
+      "id": "lv-70f6f385-dda7-4058-92d2-202c1f356491",
+      "title": "Chef.fe de département, son vidéo et communications – LUDO | Head of Department, Sound Video and Communications – LUDO",
+      "company": "Cirque du Soleil",
+      "location": "Nuevo Vallarta",
+      "description": "Chef.fe de département, son vidéo et communications – LUDO\n\nSonorisation\n\nPostes permanent\n\n \n\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n\n \n\nNOTRE MISSION\n\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de",
       "salary_min": null,
       "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7809416",
-      "created": "2026-04-29T13:37:10-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
+      "url": "https://jobs.lever.co/cirquedusoleil/70f6f385-dda7-4058-92d2-202c1f356491",
+      "created": "2026-04-29T19:30:28.994000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000123672769",
@@ -2161,6 +2694,32 @@
       "source": "Sid Lee"
     },
     {
+      "id": "lv-5cb664b3-a0ee-4936-b974-c769960c2fe5",
+      "title": "Stratège - Marketing intégré | Integrated Marketing Strategist",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Stratège - Marketing intégré\nVentes, marketing et communication\nPoste permanent/Temps plein\n \n** Ce poste est offert en télétravail pour les candidat·e·s situés à l’extérieur de la grande région de Montréal et Las Vegas.\nLes candidat·e·s basés à Montréal ou Las Vegas devront travailler en présentiel, conformément aux pratiques locales. **\n \nNous recherchons des personnes passionné(e)s par le bon déroulement de nos spectacles et événements, la conception de produits exceptionnels, la mise à profi",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/5cb664b3-a0ee-4936-b974-c769960c2fe5",
+      "created": "2026-04-24T20:37:59.780000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-1695e680-7a21-457c-abff-589ba9a275f6",
+      "title": "On-Call Wardrobe Technician – 'Auana",
+      "company": "Cirque du Soleil",
+      "location": "Honolulu, HI",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n\n______________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/1695e680-7a21-457c-abff-589ba9a275f6",
+      "created": "2026-04-23T18:03:13.568000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
       "id": "sr-744000122253025",
       "title": "Lighting Artist",
       "company": "Gameloft Montreal",
@@ -2172,6 +2731,45 @@
       "created": "2026-04-22T12:45:14.756Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
+    },
+    {
+      "id": "lv-fb2be896-32f3-428a-ab75-3178745ec9a3",
+      "title": "Assistant Chef Électricien - ECHO | Assistant Head Electrician - ECHO",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Assistant Chef Électricien – Spectacle itinérant sous Grand Chapiteau\n\nSite et Infrastructures\nPoste à temps plein\n Veuillez noter que ce poste implique de partir en tournée internationale à temps plein et de travailler à l'étranger. \nNous recherchons un Assistant Chef Électricien, techniquement compétent et doté d'un profil très opérationnel, pour soutenir les opérations électriques et CVC (chauffage, ventilation et climatisation) d'un spectacle itinérant sous Grand Chapiteau. Placé sous la sup",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/fb2be896-32f3-428a-ab75-3178745ec9a3",
+      "created": "2026-04-20T15:52:15.295000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-a5a782ba-ac9b-4ad0-af14-14c657897e77",
+      "title": "On-Call Automation Technician - KÀ",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/a5a782ba-ac9b-4ad0-af14-14c657897e77",
+      "created": "2026-04-17T21:24:06.414000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-fa0f6212-a2df-4dde-85ea-54d87538458f",
+      "title": "Automation Technician - KÀ",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/fa0f6212-a2df-4dde-85ea-54d87538458f",
+      "created": "2026-04-17T21:22:37.253000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000121193052",
@@ -2226,19 +2824,6 @@
       "source": "Sid Lee"
     },
     {
-      "id": "gh-7787399",
-      "title": "Sr. Producer",
-      "company": "Sid Lee",
-      "location": "Toronto, Ontario, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7787399",
-      "created": "2026-04-13T13:58:42-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "gh-7669126",
       "title": "Creative Team",
       "company": "Sid Lee",
@@ -2263,6 +2848,32 @@
       "created": "2026-04-13T13:53:00-04:00",
       "category": "Agence",
       "source": "Sid Lee"
+    },
+    {
+      "id": "lv-348c66fe-251d-4f22-b22a-11fbbcfd822a",
+      "title": "Analyste principal - Sécurité Opérationnelle | Senior Analyst - Security Operations",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Analyste principal - Sécurité Opérationnelle\nTechnologie de l'information\nPoste permanent \n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \nNOTRE MISSION\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de tr",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/348c66fe-251d-4f22-b22a-11fbbcfd822a",
+      "created": "2026-04-11T01:03:25.461000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-79771341-875d-4799-b664-9f27afb80ca8",
+      "title": "On-Call Rigging Technician – KÀ",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n___________________________________________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/79771341-875d-4799-b664-9f27afb80ca8",
+      "created": "2026-04-10T21:18:15.785000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "gh-7767190",
@@ -2330,6 +2941,19 @@
       "source": "Gameloft Montreal"
     },
     {
+      "id": "lv-7395c490-40fc-4660-b7f2-ef8f9a097aaf",
+      "title": "Automation Technician – O",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/7395c490-40fc-4660-b7f2-ef8f9a097aaf",
+      "created": "2026-04-01T19:45:17.270000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
       "id": "sr-744000116612089",
       "title": "Candidature Spontanée - Spontaneous Application",
       "company": "Gameloft Montreal",
@@ -2395,6 +3019,19 @@
       "source": "Gameloft Montreal"
     },
     {
+      "id": "lv-15c74e42-e0c6-4d69-ad9a-a5ae68ba1eda",
+      "title": "Lighting/Projections/Video/LED/Audio Maintenance Technician – 'Auana",
+      "company": "Cirque du Soleil",
+      "location": "Honolulu, HI",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n______________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/15c74e42-e0c6-4d69-ad9a-a5ae68ba1eda",
+      "created": "2026-03-18T19:45:03.766000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
       "id": "sr-744000115512340",
       "title": "Artiste CFX Senior (Cloth) - TMNT 2 ",
       "company": "Rodeo FX",
@@ -2421,30 +3058,30 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000114699604",
-      "title": "Artiste FX Intermédiaires et Seniors – Plusieurs postes",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
+      "id": "lv-0b33d4e7-627a-4537-920b-d3a98536c52c",
+      "title": "On-Call Musical Instrument Technician – Blue Man Group Orlando",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n________________________________________\n",
       "salary_min": null,
       "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000114699604",
-      "created": "2026-03-13T15:53:30.084Z",
+      "url": "https://jobs.lever.co/cirquedusoleil/0b33d4e7-627a-4537-920b-d3a98536c52c",
+      "created": "2026-03-13T19:08:12.208000Z",
       "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
+      "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000114699167",
-      "title": "Mid and Senior FX Artist – Multiple Positions",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
+      "id": "lv-807ef350-7e89-4c7e-b525-cb9edeb9d214",
+      "title": "Front of House Staff - Blue Man Group Orlando",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.*** \n \n________________________________\n",
       "salary_min": null,
       "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000114699167",
-      "created": "2026-03-13T15:46:28.854Z",
+      "url": "https://jobs.lever.co/cirquedusoleil/807ef350-7e89-4c7e-b525-cb9edeb9d214",
+      "created": "2026-03-11T19:33:26.357000Z",
       "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
+      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000113990318",
@@ -2707,17 +3344,17 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "gh-7592798",
-      "title": "Freelance Producer - Talent Pipeline",
-      "company": "Sid Lee",
-      "location": "Toronto, Ontario, Canada",
-      "description": "",
+      "id": "lv-0c8ff7d6-a311-45e0-909f-0c8b197829a5",
+      "title": "On-Call Lighting Technician - KÀ",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n________________________________________________________________________________\n",
       "salary_min": null,
       "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7592798",
-      "created": "2026-02-11T14:48:34-05:00",
-      "category": "Agence",
-      "source": "Sid Lee"
+      "url": "https://jobs.lever.co/cirquedusoleil/0c8ff7d6-a311-45e0-909f-0c8b197829a5",
+      "created": "2026-02-25T16:36:07.130000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "gh-7036383",
@@ -2746,17 +3383,43 @@
       "source": "Sid Lee"
     },
     {
-      "id": "sr-744000105770205",
-      "title": "Full Stack Developer",
-      "company": "Gameloft Montreal",
-      "location": "Yogyakarta, id",
-      "description": "",
+      "id": "lv-70c69d89-8249-4265-bc8c-1a361b15bce9",
+      "title": "Thérapeute en médecine de la performance - JOYÀ | Performance Medicine Therapist - JOYÀ",
+      "company": "Cirque du Soleil",
+      "location": "Riviera Maya",
+      "description": "Thérapeute en médecine de la performance - JOYÀ\nService de performance humaine\nPoste permanent \n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nNotre partenaire Grupo Vidanta, l'un des principaux développeurs et exploitants de centres de villégiature de luxe, de propriétés et d'infrastructures touristiques de classe mondiale au Mexique et en Amérique latine, offre actuellement des opportunités de",
       "salary_min": null,
       "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000105770205",
-      "created": "2026-01-27T04:08:12.918Z",
+      "url": "https://jobs.lever.co/cirquedusoleil/70c69d89-8249-4265-bc8c-1a361b15bce9",
+      "created": "2026-02-04T15:59:21.674000Z",
       "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-6ae5d23a-0e1b-475b-b3c4-9dfda1734c81",
+      "title": "On-Call Props Technician – Blue Man Group Orlando",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/6ae5d23a-0e1b-475b-b3c4-9dfda1734c81",
+      "created": "2026-01-28T14:41:14.670000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-d4d749ea-8810-47e4-af2d-2a6770982025",
+      "title": "On-Call Carpentry Technician – Blue Man Group Orlando",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/d4d749ea-8810-47e4-af2d-2a6770982025",
+      "created": "2026-01-24T14:39:50.884000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000089112171",
@@ -2785,6 +3448,19 @@
       "source": "Rodeo FX"
     },
     {
+      "id": "lv-75140f18-2aab-4144-9a9a-bfb157fffadf",
+      "title": "On-Call Automation Technician - O",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/75140f18-2aab-4144-9a9a-bfb157fffadf",
+      "created": "2025-10-17T14:52:02.092000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
       "id": "sr-744000083898496",
       "title": "Superviseur.e de composition d’images - Manifestation d'intérêt",
       "company": "Rodeo FX",
@@ -2809,6 +3485,19 @@
       "created": "2025-09-25T14:11:31.093Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
+    },
+    {
+      "id": "lv-a3d9a077-d22d-440b-bab0-f55966fa29cf",
+      "title": "Ticket Agent - Resident Shows",
+      "company": "Cirque du Soleil",
+      "location": "Honolulu, HI",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n\n___________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/a3d9a077-d22d-440b-bab0-f55966fa29cf",
+      "created": "2025-06-10T15:04:51.320000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000060046388",
