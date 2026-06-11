@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-11T18:49:04.582108Z",
-  "count": 275,
+  "updated": "2026-06-11T22:04:04.391739Z",
+  "count": 276,
   "jobs": [
+    {
+      "id": "lv-3575faa4-8b5f-4bd1-958f-9374e08d6425",
+      "title": "Artistic Director – ‘Auana",
+      "company": "Cirque du Soleil",
+      "location": "Honolulu, HI",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n______________________________________________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/3575faa4-8b5f-4bd1-958f-9374e08d6425",
+      "created": "2026-06-11T20:40:19.647000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000131709803",
       "title": "Lead 2D et animation - 2D and Motion Lead",
