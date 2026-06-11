@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-11T12:12:45.743324Z",
-  "count": 272,
+  "updated": "2026-06-11T18:49:04.582108Z",
+  "count": 275,
   "jobs": [
+    {
+      "id": "sr-744000131709803",
+      "title": "Lead 2D et animation - 2D and Motion Lead",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000131709803",
+      "created": "2026-06-11T15:40:13.841Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000131711079",
+      "title": "Lead Vidéo - Video Lead",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000131711079",
+      "created": "2026-06-11T15:39:15.431Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "gh-8001167",
+      "title": "Technologue en architecture Intermédiaire / Sénior ",
+      "company": "Sid Lee",
+      "location": "Montréal, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8001167",
+      "created": "2026-06-11T13:35:38-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "sr-744000131663204",
+      "title": "Comptable Fournisseurs (confirmé.e)",
+      "company": "Gameloft Montreal",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000131663204",
+      "created": "2026-06-11T12:57:25.539Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000131631000",
       "title": "Game Designer Intern",
@@ -859,19 +911,6 @@
       "created": "2026-06-08T00:08:21.009Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000130414935",
-      "title": "Comptable Fournisseurs (confirmé.e)",
-      "company": "Gameloft Montreal",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000130414935",
-      "created": "2026-06-05T10:14:03.240Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000130413683",
