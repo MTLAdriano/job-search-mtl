@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-10T22:05:41.006942Z",
+  "updated": "2026-06-11T04:16:51.305698Z",
   "count": 271,
   "jobs": [
+    {
+      "id": "sr-744000131552489",
+      "title": "ゲームサーバープログラマー",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000131552489",
+      "created": "2026-06-11T00:54:16.889Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
     {
       "id": "sr-744000131484111",
       "title": "Artiste FX Intermédiaires et Seniors – Plusieurs postes",
@@ -1494,19 +1507,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000128296609",
       "created": "2026-05-26T01:40:28.878Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000128293026",
-      "title": "ゲームサーバープログラマー",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000128293026",
-      "created": "2026-05-26T01:39:35.393Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
     },
