@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-11T04:16:51.305698Z",
-  "count": 271,
+  "updated": "2026-06-11T12:12:45.743324Z",
+  "count": 272,
   "jobs": [
+    {
+      "id": "sr-744000131631000",
+      "title": "Game Designer Intern",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000131631000",
+      "created": "2026-06-11T09:49:45.652Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000131621914",
+      "title": "Product Marketing Manager",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000131621914",
+      "created": "2026-06-11T09:05:36.912Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000131586869",
+      "title": "IT & Hardware Intern (6 months)",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000131586869",
+      "created": "2026-06-11T04:36:50.211Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000131552489",
       "title": "ゲームサーバープログラマー",
@@ -1288,19 +1327,6 @@
       "created": "2026-05-29T12:27:20.119Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000129148149",
-      "title": "Marketing Concept & Graphic artist",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000129148149",
-      "created": "2026-05-29T11:09:46.397Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000129071545",
@@ -2770,19 +2796,6 @@
       "created": "2026-04-17T21:22:37.253000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000121193052",
-      "title": "Technical Producer",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000121193052",
-      "created": "2026-04-16T12:43:56.786Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000121008838",
