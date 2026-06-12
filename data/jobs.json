@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-11T22:04:04.391739Z",
+  "updated": "2026-06-12T04:18:28.546743Z",
   "count": 276,
   "jobs": [
+    {
+      "id": "sr-744000131808649",
+      "title": "2D Artist",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000131808649",
+      "created": "2026-06-12T03:18:57.874Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-3575faa4-8b5f-4bd1-958f-9374e08d6425",
       "title": "Artistic Director – ‘Auana",
@@ -987,19 +1000,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000130193112",
       "created": "2026-06-04T11:04:16.148Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000130193249",
-      "title": "2D Artist",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000130193249",
-      "created": "2026-06-04T11:03:50.383Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
