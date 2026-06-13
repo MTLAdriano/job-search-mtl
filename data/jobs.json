@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-12T21:50:16.134636Z",
-  "count": 278,
+  "updated": "2026-06-13T04:07:24.328874Z",
+  "count": 280,
   "jobs": [
+    {
+      "id": "lv-19c859fa-7b20-465a-8ca4-20a6f8586107",
+      "title": "Senior Analyst, Business Development – BMG and VStar Entertainment",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "Analyste principal – Développement des affaires – Blue Man Group et VStar Entertainment\nMode de travail hybride – 4 jours/semaine au bureau\nPoste permanent\n \nÀ propos de Blue Man Group\nBlue Man Group est un phénomène mondial du divertissement, reconnu pour ses productions théâtrales primées, ses personnages iconiques et son exploration créative sans limites. Détenu et exploité par le Groupe de divertissement Cirque du Soleil, Blue Man Group offre des célébrations euphoriques de la connexion huma",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/19c859fa-7b20-465a-8ca4-20a6f8586107",
+      "created": "2026-06-12T22:35:59.739000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "lv-9b7d9a9e-d25b-4656-83bf-b57bacb89044",
       "title": "Régisseur - Spectacles de Tournée - Luzia | Stage Manager - Touring Shows - Luzia",
@@ -40,6 +53,19 @@
       "created": "2026-06-12T20:28:49.550Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
+    },
+    {
+      "id": "muse-21843239",
+      "title": "Data Analyst, In-Store",
+      "company": "DoorDash",
+      "location": "Flexible / Remote",
+      "description": "<p><b><strong>About the Team</strong></b><br><br>The SevenRooms Data &amp; Analytics team is the foundational data hub powering go-to-market, product, finance, and operational decisions across the In-Store business. We design and maintain the pipelines, models, and infrastructure that connect SevenRooms' systems with the broader DoorDash data ecosystem - and we're investing aggressively in making our datasets ready for both human and AI consumption. Within the team, our product-focused analytics",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://www.themuse.com/jobs/doordash/data-analyst-instore",
+      "created": "2026-06-12T19:30:35Z",
+      "category": "Data and Analytics",
+      "source": "The Muse"
     },
     {
       "id": "sr-744000131808649",
