@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-15T04:47:51.252577Z",
-  "count": 278,
+  "updated": "2026-06-15T14:26:19.644803Z",
+  "count": 274,
   "jobs": [
     {
       "id": "lv-19c859fa-7b20-465a-8ca4-20a6f8586107",
@@ -2694,19 +2694,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "gh-7870814",
-      "title": "Architecte intermédiaire / sénior",
-      "company": "Sid Lee",
-      "location": "Montréal, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7870814",
-      "created": "2026-04-30T15:50:51-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "gh-7871717",
       "title": "Infographiste - Production Designer",
       "company": "Sid Lee",
@@ -2744,19 +2731,6 @@
       "created": "2026-04-29T11:42:52.381Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "gh-7800331",
-      "title": "Architecte, Chargé·e de projet sénior",
-      "company": "Sid Lee",
-      "location": "Montréal, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7800331",
-      "created": "2026-04-28T09:15:04-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "gh-7859299",
@@ -2965,19 +2939,6 @@
       "created": "2026-04-10T21:18:15.785000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "gh-7767190",
-      "title": "Technologue sénior en architecture",
-      "company": "Sid Lee",
-      "location": "Montréal, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7767190",
-      "created": "2026-04-10T11:04:05-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "sr-744000119655953",
@@ -3446,19 +3407,6 @@
       "created": "2026-02-25T16:36:07.130000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "gh-7036383",
-      "title": "Technologue intermédiaire en architecture",
-      "company": "Sid Lee",
-      "location": "Montréal, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7036383",
-      "created": "2026-02-11T14:48:34-05:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "gh-3712247",
