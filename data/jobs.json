@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-15T14:26:19.644803Z",
-  "count": 274,
+  "updated": "2026-06-15T19:50:28.396362Z",
+  "count": 272,
   "jobs": [
+    {
+      "id": "lv-e7c7c628-a209-4ac0-bac1-dd1e02584102",
+      "title": "Gréeur - KURIOS | Rigger - KURIOS",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Gréeur - Kurios\nGréeur acrobatique\nPoste permanent\n \n\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n\nNOTRE MISSION\n\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos productions à venir à tra",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/e7c7c628-a209-4ac0-bac1-dd1e02584102",
+      "created": "2026-06-15T19:48:46.166000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000132243568",
+      "title": "[Nouvelle IP/New IP - PC/Console] Lead Testeur(-euse) QA Intégré - Lead QA Embedded Tester",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000132243568",
+      "created": "2026-06-15T16:15:28.849Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-19c859fa-7b20-465a-8ca4-20a6f8586107",
       "title": "Senior Analyst, Business Development – BMG and VStar Entertainment",
@@ -631,7 +657,7 @@
       "title": "Spécialiste de l'intégration des courriels | Email Integration Specialist",
       "company": "Cirque du Soleil",
       "location": "Montréal, QC",
-      "description": "Spécialiste de l'intégration des courriels (Salesforce Marketing Cloud)\nVentes, marketing et communications\nPoste temporaire 18 mois\n\n\nNous avons une place pour celles et ceux qui ont un goût distinct pour assurer le bon déroulement des opérations au profit de nos spectacles et événements, pour penser des produits remarquables, pour mettre leur ingéniosité au service de leur équipe, en plus de contribuer à valoriser leur expertise et développer des pratiques exceptionnelles. Le Groupe Cirque du ",
+      "description": "Spécialiste de l'intégration des courriels\nMode de travail hybride – 4 jours/semaine au bureau\nPoste permanent\n \nNous avons une place pour celles et ceux qui ont un goût distinct pour assurer le bon déroulement des opérations au profit de nos spectacles et événements, pour penser des produits remarquables, pour mettre leur ingéniosité au service de leur équipe, en plus de contribuer à valoriser leur expertise et développer des pratiques exceptionnelles. Le Groupe Cirque du Soleil mise sur une ap",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/7b743ddb-bd14-468c-a358-e139eb030427",
@@ -729,32 +755,6 @@
       "created": "2026-06-08T13:22:17.266Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000130801770",
-      "title": "Artiste Compositing Mid - TMNT 2",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000130801770",
-      "created": "2026-06-08T13:19:40.481Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000130801630",
-      "title": "Mid Compositing Artist - TMNT 2",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000130801630",
-      "created": "2026-06-08T13:19:05.749Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000130768559",
@@ -2629,19 +2629,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000124658759",
-      "title": "[Nouvelle IP/New IP - PC/Console] Artiste technique - Technical Artist",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000124658759",
-      "created": "2026-05-05T14:00:11.888Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000124624749",
       "title": "3D Props/Environment Artist (Disney Dreamlight Valley)",
       "company": "Gameloft Montreal",
@@ -3108,19 +3095,6 @@
       "created": "2026-03-18T18:57:10.499Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "lv-0b33d4e7-627a-4537-920b-d3a98536c52c",
-      "title": "On-Call Musical Instrument Technician – Blue Man Group Orlando",
-      "company": "Cirque du Soleil",
-      "location": "Orlando, FL",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/0b33d4e7-627a-4537-920b-d3a98536c52c",
-      "created": "2026-03-13T19:08:12.208000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-807ef350-7e89-4c7e-b525-cb9edeb9d214",
