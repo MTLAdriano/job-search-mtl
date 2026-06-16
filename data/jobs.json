@@ -1,19 +1,32 @@
 {
-  "updated": "2026-06-16T12:57:04.418383Z",
-  "count": 276,
+  "updated": "2026-06-16T19:40:03.437400Z",
+  "count": 274,
   "jobs": [
     {
-      "id": "sr-744000132410455",
+      "id": "sr-744000132459249",
       "title": "Creative Manager",
       "company": "Gameloft Montreal",
       "location": "Barcelona, es",
       "description": "",
       "salary_min": null,
       "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000132410455",
-      "created": "2026-06-16T12:50:49.874Z",
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000132459249",
+      "created": "2026-06-16T15:54:58.852Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
+    },
+    {
+      "id": "lv-8ca889d5-79c8-4a6b-8d93-ee71044345b2",
+      "title": "Gréeur - ALEGRIA | Rigger - ALEGRIA",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Technicien en gréage – ALEGRIAGréeur acrobatique\nPoste à temps plein*Veuillez noter que ce poste implique de participer à des tournées internationales à temps plein et de travailler à l’étranger.*\n \nNous recherchons un technicien en gréage pour rejoindre l’un des spectacles en tournée du Cirque du Soleil. Sous la responsabilité du directeur technique et sous la supervision du chef du département Gréement, ce poste consiste à assurer le fonctionnement, l’entretien et l’inspection de tous les syst",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/8ca889d5-79c8-4a6b-8d93-ee71044345b2",
+      "created": "2026-06-16T15:31:00.517000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000132404349",
@@ -85,7 +98,7 @@
       "title": "Chef Éclairage - OVO | Head of Lighting - OVO",
       "company": "Cirque du Soleil",
       "location": "*En tournée | On tour",
-      "description": "Chef de département, Éclairage – OVO\nPoste à temps plein\n* Veuillez noter que ce poste implique de partir en tournée internationale à temps plein et de travailler à l'étranger. *\n \n \nNous sommes à la recherche d'un Chef de département (HOD) Éclairage, dynamique et expérimenté, pour diriger les opérations d'éclairage et de vidéo de l'un des spectacles en tournée du Cirque du Soleil. Relevant du Directeur technique et travaillant en étroite collaboration avec le Directeur artistique ainsi qu'avec ",
+      "description": "Chef de département, Éclairage – OVO\nPoste à temps plein\n* Veuillez noter que ce poste implique de partir en tournée internationale à temps plein et de travailler à l'étranger. *\n \nNous sommes à la recherche d'un Chef de département (HOD) Éclairage, dynamique et expérimenté, pour diriger les opérations d'éclairage et de vidéo de l'un des spectacles en tournée du Cirque du Soleil. Relevant du Directeur technique et travaillant en étroite collaboration avec le Directeur artistique ainsi qu'avec le",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/ecfd4e8f-0191-4f33-ac8e-15d801590ae9",
@@ -1498,19 +1511,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000129071545",
-      "title": "QA Internship",
-      "company": "Gameloft Montreal",
-      "location": "Yogyakarta, id",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000129071545",
-      "created": "2026-05-29T01:31:00.618Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "lv-e4232f3c-865b-42c6-8165-2133ca73b989",
       "title": "Stratège de performance et optimisation CRM | CRM Performance and Optimization Strategist",
       "company": "Cirque du Soleil",
@@ -1741,32 +1741,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000128242809",
       "created": "2026-05-25T16:11:06.273Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000128241350",
-      "title": "Artiste Animation - Contrat temporaire",
-      "company": "Rodeo FX",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000128241350",
-      "created": "2026-05-25T15:58:23.809Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000128241679",
-      "title": "Animation Artist - Temporary contract",
-      "company": "Rodeo FX",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000128241679",
-      "created": "2026-05-25T15:57:10.518Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
