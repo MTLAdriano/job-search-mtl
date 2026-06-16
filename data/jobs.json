@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-16T04:45:19.207998Z",
-  "count": 275,
+  "updated": "2026-06-16T12:57:04.418383Z",
+  "count": 276,
   "jobs": [
+    {
+      "id": "sr-744000132410455",
+      "title": "Creative Manager",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000132410455",
+      "created": "2026-06-16T12:50:49.874Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000132404349",
+      "title": "IT & Hardware Intern (6 months)",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000132404349",
+      "created": "2026-06-16T12:22:04.393Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000132392139",
+      "title": "Senior UI Designer",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000132392139",
+      "created": "2026-06-16T11:19:08.195Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000132378370",
+      "title": "Account Manager",
+      "company": "Gameloft Montreal",
+      "location": "Accra, gh",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000132378370",
+      "created": "2026-06-16T09:55:51.239Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000132349649",
+      "title": "Data Analyst Intern (6months)",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000132349649",
+      "created": "2026-06-16T07:42:11.045Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-02fb3f81-9c89-4542-bcfc-ed89cc05cb23",
       "title": "Lead Video Technician – BMG Orlando",
@@ -224,32 +289,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000131621914",
-      "title": "Product Marketing Manager",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000131621914",
-      "created": "2026-06-11T09:05:36.912Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000131586869",
-      "title": "IT & Hardware Intern (6 months)",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000131586869",
-      "created": "2026-06-11T04:36:50.211Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000131552489",
       "title": "ゲームサーバープログラマー",
       "company": "Keywords Studios",
@@ -378,19 +417,6 @@
       "created": "2026-06-09T18:00:14.711000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000131183796",
-      "title": "Senior UI/UX Designer (+3 Years Gaming Exp.)",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000131183796",
-      "created": "2026-06-09T15:38:03.691Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-b30aede2-0a50-46d1-bf9a-71d3fca082a5",
@@ -1626,19 +1652,6 @@
       "created": "2026-05-26T14:23:49.136000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000128460212",
-      "title": "Customer Care Agent (English and French)",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000128460212",
-      "created": "2026-05-26T10:57:04.472Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000128334705",
