@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-16T19:40:03.437400Z",
-  "count": 274,
+  "updated": "2026-06-16T22:15:14.218720Z",
+  "count": 273,
   "jobs": [
     {
       "id": "sr-744000132459249",
@@ -51,19 +51,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000132392139",
       "created": "2026-06-16T11:19:08.195Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000132378370",
-      "title": "Account Manager",
-      "company": "Gameloft Montreal",
-      "location": "Accra, gh",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000132378370",
-      "created": "2026-06-16T09:55:51.239Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
