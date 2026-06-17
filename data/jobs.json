@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-17T18:23:45.890546Z",
-  "count": 271,
+  "updated": "2026-06-17T22:03:16.990582Z",
+  "count": 270,
   "jobs": [
+    {
+      "id": "sr-744000132725050",
+      "title": "Lead 2D Artiste - Lead 2D Artist ",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000132725050",
+      "created": "2026-06-17T20:52:02.586Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-ca8e1858-6530-4584-9afa-13f69466e675",
       "title": "Chef.fe – Approvisionnement corporatif | Head of Corporate Procurement",
@@ -235,19 +248,6 @@
       "created": "2026-06-11T20:40:19.647000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000131709803",
-      "title": "Lead 2D et animation - 2D and Motion Lead",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000131709803",
-      "created": "2026-06-11T15:40:13.841Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000131711079",
@@ -3485,19 +3485,6 @@
       "created": "2025-09-25T14:11:31.093Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "lv-a3d9a077-d22d-440b-bab0-f55966fa29cf",
-      "title": "Ticket Agent - Resident Shows",
-      "company": "Cirque du Soleil",
-      "location": "Honolulu, HI",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n\n___________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/a3d9a077-d22d-440b-bab0-f55966fa29cf",
-      "created": "2025-06-10T15:04:51.320000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000060046388",
