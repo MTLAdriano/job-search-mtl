@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-17T04:25:21.893179Z",
+  "updated": "2026-06-17T12:19:26.372449Z",
   "count": 273,
   "jobs": [
+    {
+      "id": "sr-744000132555000",
+      "title": "Data Analyst Intern (6months)",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000132555000",
+      "created": "2026-06-17T04:30:20.003Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000132459249",
       "title": "Creative Manager",
@@ -51,19 +64,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000132392139",
       "created": "2026-06-16T11:19:08.195Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000132349649",
-      "title": "Data Analyst Intern (6months)",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000132349649",
-      "created": "2026-06-16T07:42:11.045Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
