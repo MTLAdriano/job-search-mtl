@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-17T12:19:26.372449Z",
-  "count": 273,
+  "updated": "2026-06-17T18:23:45.890546Z",
+  "count": 271,
   "jobs": [
+    {
+      "id": "lv-ca8e1858-6530-4584-9afa-13f69466e675",
+      "title": "Chef.fe – Approvisionnement corporatif | Head of Corporate Procurement",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Chef.fe – Approvisionnement, Soutien aux tournées\nPoste permanent \n\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \nNOTRE MISSION\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos productions à",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/ca8e1858-6530-4584-9afa-13f69466e675",
+      "created": "2026-06-17T17:25:05.383000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000132555000",
       "title": "Data Analyst Intern (6months)",
@@ -98,7 +111,7 @@
       "title": "Patronniste | Patronist",
       "company": "Cirque du Soleil",
       "location": "Montréal, QC",
-      "description": "Patronniste \nCostumes et accessoires\nContrat 12 mois avec possibilité de prolongation  \n\n\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n\n \nNOTRE MISSION\n\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de trans",
+      "description": "Patronniste \nCostumes et accessoires\nPoste temporaire/temps plein\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos product",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/7d1cb84b-df76-4d4a-8b18-c821d5dcd38a",
@@ -1940,19 +1953,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000127744362",
-      "title": "Service Delivery Coordinator",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000127744362",
-      "created": "2026-05-21T19:33:46.810Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000127486505",
       "title": "DevOps pour infrastructure cloud - DevOps for Cloud Infrastructure",
       "company": "Gameloft Montreal",
@@ -2094,19 +2094,6 @@
       "created": "2026-05-13T16:16:04.264Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000126333608",
-      "title": "Coordonnateur.trice de la prestation de services TI",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000126333608",
-      "created": "2026-05-13T14:36:05.068Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000126265622",
@@ -2534,19 +2521,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/1e74a454-2645-4c28-b9e2-95cd2df170e3",
       "created": "2026-05-08T20:21:29.367000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-9f48928b-289a-4e21-9cd1-ca253b065e85",
-      "title": "Vendor Relationship Coordinator",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/9f48928b-289a-4e21-9cd1-ca253b065e85",
-      "created": "2026-05-08T20:04:32.923000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
