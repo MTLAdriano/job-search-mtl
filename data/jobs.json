@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-18T04:18:36.993922Z",
-  "count": 270,
+  "updated": "2026-06-18T11:52:47.427729Z",
+  "count": 271,
   "jobs": [
+    {
+      "id": "sr-744000132817487",
+      "title": "Business Development Manager",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000132817487",
+      "created": "2026-06-18T09:27:45.129Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000132798779",
+      "title": "Product Marketing Manager",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000132798779",
+      "created": "2026-06-18T07:50:11.093Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000132785022",
+      "title": "3D Graphic Artist Intern",
+      "company": "Gameloft Montreal",
+      "location": "Yogyakarta, id",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000132785022",
+      "created": "2026-06-18T06:48:07.022Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000132783901",
+      "title": "Communication Intern",
+      "company": "Gameloft Montreal",
+      "location": "Yogyakarta, id",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000132783901",
+      "created": "2026-06-18T06:38:46.797Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000132725050",
       "title": "Lead 2D Artiste - Lead 2D Artist ",
@@ -781,32 +833,6 @@
       "created": "2026-06-08T15:25:12.525Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000130806359",
-      "title": "Junior Game Designer ",
-      "company": "Gameloft Montreal",
-      "location": "Sofia, bg",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000130806359",
-      "created": "2026-06-08T13:36:52.667Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000130803157",
-      "title": "Issue Detective",
-      "company": "Gameloft Montreal",
-      "location": "Sofia, bg",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000130803157",
-      "created": "2026-06-08T13:30:39.886Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000130804033",
@@ -2092,19 +2118,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000126361199",
       "created": "2026-05-13T16:16:04.264Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000126265622",
-      "title": "Content Designer - Narrative & Systems (Open World)",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000126265622",
-      "created": "2026-05-13T09:32:32.517Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
