@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-18T15:33:21.656135Z",
-  "count": 273,
+  "updated": "2026-06-18T18:27:46.530386Z",
+  "count": 274,
   "jobs": [
+    {
+      "id": "lv-57c6661e-7122-4838-a79a-fe277aed778c",
+      "title": "Préposé.e à la résidence des artistes | Artists Residence Attendant",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Préposé.e à la résidence des artistes \nPoste à temps partiel - soirs et fins de semaine\n\nNous avons une place pour celles et ceux qui ont un goût distinct pour assurer le bon déroulement des opérations au profit de nos spectacles et événements, pour penser des produits remarquables, pour mettre leur ingéniosité au service de leur équipe, en plus de contribuer à valoriser leur expertise et développer des pratiques exceptionnelles. Le Groupe Cirque du Soleil mise sur une approche de travail toujou",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/57c6661e-7122-4838-a79a-fe277aed778c",
+      "created": "2026-06-18T17:56:24.079000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000132919689",
+      "title": "Lead 2D Artiste - Lead 2D Artist ",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000132919689",
+      "created": "2026-06-18T17:25:02.693Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000132898983",
       "title": "Data Scientist",
@@ -27,6 +53,19 @@
       "created": "2026-06-18T15:02:54.798Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
+    },
+    {
+      "id": "gh-7961322",
+      "title": "Creative Recruiter (Mat Leave Contract)",
+      "company": "Sid Lee",
+      "location": "Toronto, Ontario, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7961322",
+      "created": "2026-06-18T14:12:50-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
     },
     {
       "id": "sr-744000132817487",
@@ -77,19 +116,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000132783901",
       "created": "2026-06-18T06:38:46.797Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000132725050",
-      "title": "Lead 2D Artiste - Lead 2D Artist ",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000132725050",
-      "created": "2026-06-17T20:52:02.586Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1613,19 +1639,6 @@
       "created": "2026-05-28T03:01:10.433Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "gh-7961322",
-      "title": "Bilingual Creative Recruiter (Mat Leave Contract)",
-      "company": "Sid Lee",
-      "location": "Toronto, Ontario, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7961322",
-      "created": "2026-05-27T15:30:35-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "lv-f96bf7fe-c074-4481-9e7c-2d4579ac4782",
