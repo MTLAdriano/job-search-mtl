@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-18T18:27:46.530386Z",
+  "updated": "2026-06-18T22:13:54.354521Z",
   "count": 274,
   "jobs": [
+    {
+      "id": "lv-8303feda-2d11-4c51-a4b4-981b5f0abdbf",
+      "title": "Creative Strategist",
+      "company": "Cirque du Soleil",
+      "location": "New York City, NY",
+      "description": "As the position is located in the United States, the job description is available in English only.\n__________________________________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/8303feda-2d11-4c51-a4b4-981b5f0abdbf",
+      "created": "2026-06-18T20:12:44.830000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "lv-57c6661e-7122-4838-a79a-fe277aed778c",
       "title": "Préposé.e à la résidence des artistes | Artists Residence Attendant",
@@ -27,6 +40,19 @@
       "created": "2026-06-18T17:25:02.693Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
+    },
+    {
+      "id": "gh-6610686",
+      "title": "Architecte, Chargé.e de projets",
+      "company": "Sid Lee",
+      "location": "Montréal, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=6610686",
+      "created": "2026-06-18T15:52:07-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
     },
     {
       "id": "sr-744000132898983",
@@ -313,19 +339,6 @@
       "created": "2026-06-12T20:28:49.550Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "muse-21843239",
-      "title": "Data Analyst, In-Store",
-      "company": "DoorDash",
-      "location": "Flexible / Remote",
-      "description": "<p><b><strong>About the Team</strong></b><br><br>The SevenRooms Data &amp; Analytics team is the foundational data hub powering go-to-market, product, finance, and operational decisions across the In-Store business. We design and maintain the pipelines, models, and infrastructure that connect SevenRooms' systems with the broader DoorDash data ecosystem - and we're investing aggressively in making our datasets ready for both human and AI consumption. Within the team, our product-focused analytics",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://www.themuse.com/jobs/doordash/data-analyst-instore",
-      "created": "2026-06-12T19:30:35Z",
-      "category": "Data and Analytics",
-      "source": "The Muse"
     },
     {
       "id": "sr-744000131808649",
@@ -852,7 +865,7 @@
       "title": "Dépisteur, Vigie Créative | Scout, Creative Intelligence",
       "company": "Cirque du Soleil",
       "location": "Montréal, QC",
-      "description": "Directeur.trice des communications – Amériques (Tournées et corporatif) \nMode de travail hybride – 4 jours/semaine au bureau\nPoste permanent\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativit",
+      "description": "Dépisteur, Vigie Créative\nMode de travail hybride – 4 jours/semaine au bureau\nPoste permanent\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueron",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/238e0fcf-13d7-4df2-a6bb-cd5d2002f678",
@@ -3444,19 +3457,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/70c69d89-8249-4265-bc8c-1a361b15bce9",
       "created": "2026-02-04T15:59:21.674000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-6ae5d23a-0e1b-475b-b3c4-9dfda1734c81",
-      "title": "On-Call Props Technician – Blue Man Group Orlando",
-      "company": "Cirque du Soleil",
-      "location": "Orlando, FL",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/6ae5d23a-0e1b-475b-b3c4-9dfda1734c81",
-      "created": "2026-01-28T14:41:14.670000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
