@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-18T11:52:47.427729Z",
-  "count": 271,
+  "updated": "2026-06-18T15:33:21.656135Z",
+  "count": 273,
   "jobs": [
+    {
+      "id": "sr-744000132898983",
+      "title": "Data Scientist",
+      "company": "Gameloft Montreal",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000132898983",
+      "created": "2026-06-18T15:25:03.956Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000132892830",
+      "title": "Game Community Intern ",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000132892830",
+      "created": "2026-06-18T15:02:54.798Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000132817487",
       "title": "Business Development Manager",
