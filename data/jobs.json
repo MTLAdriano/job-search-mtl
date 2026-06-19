@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-19T04:46:23.478463Z",
-  "count": 275,
+  "updated": "2026-06-19T12:10:03.743780Z",
+  "count": 276,
   "jobs": [
+    {
+      "id": "sr-744000133054424",
+      "title": "Creative Manager",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000133054424",
+      "created": "2026-06-19T12:09:08.527Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000133009609",
+      "title": "STUDIO COMMUNITY INTERN ",
+      "company": "Gameloft Montreal",
+      "location": "Yogyakarta, id",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000133009609",
+      "created": "2026-06-19T07:58:02.516Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000133005431",
+      "title": "Senior 3D Artist",
+      "company": "Gameloft Montreal",
+      "location": "Yogyakarta, id",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000133005431",
+      "created": "2026-06-19T07:31:57.547Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000133005329",
+      "title": "  Sound Designer Intern",
+      "company": "Gameloft Montreal",
+      "location": "Yogyakarta, id",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000133005329",
+      "created": "2026-06-19T07:27:42.569Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000133002677",
+      "title": "QA Internship",
+      "company": "Gameloft Montreal",
+      "location": "Yogyakarta, id",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000133002677",
+      "created": "2026-06-19T07:11:41.179Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000132987151",
       "title": "Administrative Assistant",
@@ -207,19 +272,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000132555000",
       "created": "2026-06-17T04:30:20.003Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000132459249",
-      "title": "Creative Manager",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000132459249",
-      "created": "2026-06-16T15:54:58.852Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1264,19 +1316,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000130193119",
-      "title": "UI Artist",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000130193119",
-      "created": "2026-06-04T11:03:22.222Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000130192442",
       "title": "Studio Community Intern",
       "company": "Gameloft Montreal",
@@ -1520,19 +1559,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000129482920",
       "created": "2026-06-01T12:56:44.136Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000129281993",
-      "title": "Senior 3D Artist",
-      "company": "Gameloft Montreal",
-      "location": "Yogyakarta, id",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000129281993",
-      "created": "2026-05-30T01:25:47.739Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -3028,19 +3054,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000119328453",
       "created": "2026-04-08T10:11:47.174Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000119326427",
-      "title": "3D Props Artist Disney Dreamlight Valley",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000119326427",
-      "created": "2026-04-08T09:59:57.077Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
