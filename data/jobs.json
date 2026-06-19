@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-18T22:13:54.354521Z",
-  "count": 274,
+  "updated": "2026-06-19T04:46:23.478463Z",
+  "count": 275,
   "jobs": [
+    {
+      "id": "sr-744000132987151",
+      "title": "Administrative Assistant",
+      "company": "Keywords Studios",
+      "location": "Brisbane, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000132987151",
+      "created": "2026-06-19T04:00:05.004Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
+    {
+      "id": "sr-744000132986799",
+      "title": "Sound Designer Intern",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000132986799",
+      "created": "2026-06-19T03:52:43.429Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000132986120",
+      "title": "Administrative Assistant",
+      "company": "Keywords Studios",
+      "location": "Adelaide, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000132986120",
+      "created": "2026-06-19T03:43:42.081Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
     {
       "id": "lv-8303feda-2d11-4c51-a4b4-981b5f0abdbf",
       "title": "Creative Strategist",
@@ -2536,32 +2575,6 @@
       "created": "2026-05-11T15:34:34.703Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000125836599",
-      "title": "Senior Lighting Artist",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000125836599",
-      "created": "2026-05-11T12:57:47.111Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000125831564",
-      "title": "Senior Cinematic Artist",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000125831564",
-      "created": "2026-05-11T12:46:22.531Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000125809085",
