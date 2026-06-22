@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-22T13:37:36.905074Z",
-  "count": 272,
+  "updated": "2026-06-22T19:33:02.184656Z",
+  "count": 268,
   "jobs": [
+    {
+      "id": "sr-744000133404671",
+      "title": "Game 2D Artist",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000133404671",
+      "created": "2026-06-22T15:28:42.795Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000133334279",
       "title": "Creative Manager",
@@ -25,19 +38,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000133294409",
       "created": "2026-06-22T08:58:19.965Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000133251990",
-      "title": "Game 2D Artist",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000133251990",
-      "created": "2026-06-22T02:43:20.517Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -137,7 +137,7 @@
       "title": "Creative Strategist",
       "company": "Cirque du Soleil",
       "location": "New York City, NY",
-      "description": "As the position is located in the United States, the job description is available in English only.\n__________________________________________________________________\n",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n______________________________________________________________________________\n",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/8303feda-2d11-4c51-a4b4-981b5f0abdbf",
@@ -183,19 +183,6 @@
       "created": "2026-06-18T15:52:07-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000132898983",
-      "title": "Data Scientist",
-      "company": "Gameloft Montreal",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000132898983",
-      "created": "2026-06-18T15:25:03.956Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000132892830",
@@ -378,32 +365,6 @@
       "created": "2026-06-15T20:53:54.952000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-e7c7c628-a209-4ac0-bac1-dd1e02584102",
-      "title": "Gréeur - KURIOS | Rigger - KURIOS",
-      "company": "Cirque du Soleil",
-      "location": "*En tournée | On tour",
-      "description": "Technicien en gréage – KURIOSGréeur acrobatique\nPoste à temps plein*Veuillez noter que ce poste implique de participer à des tournées internationales à temps plein et de travailler à l’étranger.*\n \nNous recherchons un technicien en gréage pour rejoindre l’un des spectacles en tournée du Cirque du Soleil. Sous la responsabilité du directeur technique et sous la supervision du chef du département Gréement, ce poste consiste à assurer le fonctionnement, l’entretien et l’inspection de tous les systè",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/e7c7c628-a209-4ac0-bac1-dd1e02584102",
-      "created": "2026-06-15T19:48:46.166000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000132243568",
-      "title": "[Nouvelle IP/New IP - PC/Console] Lead Testeur(-euse) QA Intégré - Lead QA Embedded Tester",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000132243568",
-      "created": "2026-06-15T16:15:28.849Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-19c859fa-7b20-465a-8ca4-20a6f8586107",
@@ -2939,19 +2900,6 @@
       "created": "2026-04-13T13:53:00-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "lv-348c66fe-251d-4f22-b22a-11fbbcfd822a",
-      "title": "Analyste principal - Sécurité Opérationnelle | Senior Analyst - Security Operations",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Analyste principal - Sécurité Opérationnelle\nTechnologie de l'information\nPoste permanent \n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \nNOTRE MISSION\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de tr",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/348c66fe-251d-4f22-b22a-11fbbcfd822a",
-      "created": "2026-04-11T01:03:25.461000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-79771341-875d-4799-b664-9f27afb80ca8",
