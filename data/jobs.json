@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-22T04:47:48.987127Z",
-  "count": 274,
+  "updated": "2026-06-22T13:37:36.905074Z",
+  "count": 272,
   "jobs": [
+    {
+      "id": "sr-744000133334279",
+      "title": "Creative Manager",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000133334279",
+      "created": "2026-06-22T10:56:09.806Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000133294409",
+      "title": "3D Character Artist (Middle/Senior)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000133294409",
+      "created": "2026-06-22T08:58:19.965Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000133251990",
       "title": "Game 2D Artist",
@@ -27,19 +53,6 @@
       "created": "2026-06-22T00:36:35.414Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000133054424",
-      "title": "Creative Manager",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000133054424",
-      "created": "2026-06-19T12:09:08.527Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000133009609",
@@ -77,19 +90,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000133005329",
       "created": "2026-06-19T07:27:42.569Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000133002677",
-      "title": "QA Internship",
-      "company": "Gameloft Montreal",
-      "location": "Yogyakarta, id",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000133002677",
-      "created": "2026-06-19T07:11:41.179Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -2239,19 +2239,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000125989249",
-      "title": "Senior 3D Character Artist",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000125989249",
-      "created": "2026-05-12T03:26:58.025Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000125989159",
       "title": "Senior 3D Environment Artist",
       "company": "Gameloft Montreal",
@@ -2326,19 +2313,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000125988639",
       "created": "2026-05-12T03:20:58.508Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000125988609",
-      "title": "AI Engineer Intern (Game Development)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000125988609",
-      "created": "2026-05-12T03:20:55.475Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
