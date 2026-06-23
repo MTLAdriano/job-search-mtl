@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-23T11:20:44.408660Z",
-  "count": 265,
+  "updated": "2026-06-23T14:55:52.041449Z",
+  "count": 263,
   "jobs": [
+    {
+      "id": "sr-744000133604110",
+      "title": "Creative Manager",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000133604110",
+      "created": "2026-06-23T13:25:42.748Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000133561629",
       "title": "Senior Product Manager",
@@ -965,19 +978,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "sr-744000130800326",
-      "title": "Game Mathematics Intern",
-      "company": "Gameloft Montreal",
-      "location": "Sofia, bg",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000130800326",
-      "created": "2026-06-08T13:22:17.266Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000130745699",
       "title": "シニアエフェクト(VFX)アーティスト ",
       "company": "Keywords Studios",
@@ -1429,19 +1429,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/52129a9d-5a5f-41d1-b0e4-342073fca49a",
       "created": "2026-06-02T13:54:17.468000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-d6bf63d3-3111-4805-b108-cc4bf28de8e3",
-      "title": "Assistant Technical Director – ALIZÉ",
-      "company": "Cirque du Soleil",
-      "location": "Berlin",
-      "description": "Assistant Technical Director – ALIZÉ – Resident Show\nTemporary/Full-Time position\n \nWe are currently looking for an Assistant Technical Director whose role will be to work in conjunction with the Show Technical Director to lead and manage the Show’s Technical Departments. The Assistant Technical Director’s main goal is to maintain safe and consistent show operations for all performances and day-to-day operations of the show, including daily training and staging while supporting the normal tasks ",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/d6bf63d3-3111-4805-b108-cc4bf28de8e3",
-      "created": "2026-06-01T19:59:08.951000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
@@ -2846,19 +2833,6 @@
       "salary_max": null,
       "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7669126",
       "created": "2026-04-13T13:57:48-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-7669020",
-      "title": "Technologue Créatif·ve - Creative Technologist",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7669020",
-      "created": "2026-04-13T13:53:00-04:00",
       "category": "Agence",
       "source": "Sid Lee"
     },
