@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-23T14:55:52.041449Z",
-  "count": 263,
+  "updated": "2026-06-23T18:00:22.529076Z",
+  "count": 265,
   "jobs": [
     {
       "id": "sr-744000133604110",
@@ -14,6 +14,45 @@
       "created": "2026-06-23T13:25:42.748Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
+    },
+    {
+      "id": "gh-8023709",
+      "title": "Développeur.euse Full stack - Adobe Experience Manager (AEM) - Temporaire ",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8023709",
+      "created": "2026-06-23T11:21:45-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8023683",
+      "title": "Développeur.euse Front-End Junior - Temporaire ",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8023683",
+      "created": "2026-06-23T11:15:12-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8023669",
+      "title": "Scrum Master",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8023669",
+      "created": "2026-06-23T11:14:58-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
     },
     {
       "id": "sr-744000133561629",
@@ -2716,19 +2755,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/5cb664b3-a0ee-4936-b974-c769960c2fe5",
       "created": "2026-04-24T20:37:59.780000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-1695e680-7a21-457c-abff-589ba9a275f6",
-      "title": "On-Call Wardrobe Technician – 'Auana",
-      "company": "Cirque du Soleil",
-      "location": "Honolulu, HI",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n\n______________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/1695e680-7a21-457c-abff-589ba9a275f6",
-      "created": "2026-04-23T18:03:13.568000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
