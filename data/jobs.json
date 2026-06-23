@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-23T18:00:22.529076Z",
-  "count": 265,
+  "updated": "2026-06-23T21:44:18.680733Z",
+  "count": 260,
   "jobs": [
     {
       "id": "sr-744000133604110",
@@ -329,10 +329,10 @@
     },
     {
       "id": "lv-ca8e1858-6530-4584-9afa-13f69466e675",
-      "title": "Chef.fe – Approvisionnement corporatif | Head of Corporate Procurement",
+      "title": "Chef.fe – Approvisionnement corporatif | Manager – Corporate Procurement",
       "company": "Cirque du Soleil",
       "location": "Montréal, QC",
-      "description": "Chef.fe – Approvisionnement, Soutien aux tournées\nPoste permanent \n\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \nNOTRE MISSION\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos productions à",
+      "description": "Chef.fe – Approvisionnement corporatif \nMode de travail hybride – 4 jours/semaine au bureau\nPoste permanent \n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles e",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/ca8e1858-6530-4584-9afa-13f69466e675",
@@ -1680,19 +1680,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "lv-79f526f8-6cd7-4919-a631-6c165799014b",
-      "title": "Stage Manager – Mystere",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/79f526f8-6cd7-4919-a631-6c165799014b",
-      "created": "2026-05-27T14:30:19.697000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "sr-744000128664699",
       "title": "Game Economy Designer",
       "company": "Gameloft Montreal",
@@ -1897,32 +1884,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000127973749",
       "created": "2026-05-22T21:24:22.956Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000127968979",
-      "title": "Directeur.trice technique Maya",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000127968979",
-      "created": "2026-05-22T20:31:12.873Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000127968839",
-      "title": "Maya TD",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000127968839",
-      "created": "2026-05-22T20:29:52.536Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -2510,32 +2471,6 @@
       "created": "2026-05-11T15:34:34.703Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "lv-1e74a454-2645-4c28-b9e2-95cd2df170e3",
-      "title": "Chef Éclairage – JOYÀ | Head of Lighting – JOYÀ",
-      "company": "Cirque du Soleil",
-      "location": "Riviera Maya",
-      "description": "Chef Éclairage – JOYÀ\nÉclairage de scène\nPoste permanent \n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nNotre partenaire Grupo Vidanta, l'un des principaux développeurs et exploitants de centres de villégiature de luxe, de propriétés et d'infrastructures touristiques de classe mondiale au Mexique et en Amérique latine, offre actuellement des opportunités de carrière pour JOYÀ, le premier specta",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/1e74a454-2645-4c28-b9e2-95cd2df170e3",
-      "created": "2026-05-08T20:21:29.367000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-d9c38b9c-1e6f-4544-89e2-972caeabdc20",
-      "title": "Creative Strategist",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "As the position is located in the United States, the job description is available in English only.***\nAs this position in based in the United States, the job description is available in English only. \n__________________________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/d9c38b9c-1e6f-4544-89e2-972caeabdc20",
-      "created": "2026-05-08T19:39:50.638000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-d9520aae-447c-4e7b-b304-6a9db40a9015",
