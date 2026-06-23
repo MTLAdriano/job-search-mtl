@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-23T07:52:38.785838Z",
-  "count": 267,
+  "updated": "2026-06-23T11:20:44.408660Z",
+  "count": 265,
   "jobs": [
+    {
+      "id": "sr-744000133561629",
+      "title": "Senior Product Manager",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000133561629",
+      "created": "2026-06-23T10:40:31.592Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000133522535",
       "title": "Marketing Video & Motion Artist",
@@ -51,19 +64,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000133404671",
       "created": "2026-06-22T15:28:42.795Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000133334279",
-      "title": "Creative Manager",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000133334279",
-      "created": "2026-06-22T10:56:09.806Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -974,19 +974,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000130800326",
       "created": "2026-06-08T13:22:17.266Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000130768559",
-      "title": "Senior Product Manager",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000130768559",
-      "created": "2026-06-08T10:41:37.257Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -2497,19 +2484,6 @@
       "created": "2026-05-11T15:34:34.703Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000125809085",
-      "title": "Global Talent & Learning (L&D) Operations Specialist",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000125809085",
-      "created": "2026-05-11T11:13:27.199Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-1e74a454-2645-4c28-b9e2-95cd2df170e3",
