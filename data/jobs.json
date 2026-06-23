@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-23T03:52:54.434794Z",
+  "updated": "2026-06-23T07:52:38.785838Z",
   "count": 267,
   "jobs": [
+    {
+      "id": "sr-744000133522535",
+      "title": "Marketing Video & Motion Artist",
+      "company": "Gameloft Montreal",
+      "location": "Brisbane, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000133522535",
+      "created": "2026-06-23T07:29:20.034Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000133502219",
+      "title": "Administrative Assistant",
+      "company": "Keywords Studios",
+      "location": "Brisbane, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000133502219",
+      "created": "2026-06-23T03:53:46.045Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
+    {
+      "id": "sr-744000133502169",
+      "title": "Administrative Assistant",
+      "company": "Keywords Studios",
+      "location": "Adelaide, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000133502169",
+      "created": "2026-06-23T03:53:29.772Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
     {
       "id": "sr-744000133404671",
       "title": "Game 2D Artist",
@@ -94,19 +133,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000132987151",
-      "title": "Administrative Assistant",
-      "company": "Keywords Studios",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000132987151",
-      "created": "2026-06-19T04:00:05.004Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
       "id": "sr-744000132986799",
       "title": "Sound Designer Intern",
       "company": "Gameloft Montreal",
@@ -118,19 +144,6 @@
       "created": "2026-06-19T03:52:43.429Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000132986120",
-      "title": "Administrative Assistant",
-      "company": "Keywords Studios",
-      "location": "Adelaide, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000132986120",
-      "created": "2026-06-19T03:43:42.081Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
     },
     {
       "id": "lv-8303feda-2d11-4c51-a4b4-981b5f0abdbf",
@@ -1613,19 +1626,6 @@
       "created": "2026-05-28T21:57:20.241000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000128932319",
-      "title": "Marketing Video & Motion Artist",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000128932319",
-      "created": "2026-05-28T11:26:07.675Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000128889764",
