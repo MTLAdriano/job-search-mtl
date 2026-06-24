@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-24T17:58:34.911637Z",
-  "count": 259,
+  "updated": "2026-06-24T21:25:31.373745Z",
+  "count": 261,
   "jobs": [
+    {
+      "id": "lv-ba9623fa-02f0-4f72-b400-213166b86e0b",
+      "title": "Audio Technician – Mad Apple",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/ba9623fa-02f0-4f72-b400-213166b86e0b",
+      "created": "2026-06-24T20:11:29.149000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000133916539",
       "title": "Ad Developer – Mobile Gaming ",
@@ -1481,6 +1494,19 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/52129a9d-5a5f-41d1-b0e4-342073fca49a",
       "created": "2026-06-02T13:54:17.468000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-233a1094-fc56-44bf-bc78-23bc57ea5aa1",
+      "title": "On-Call Wardrobe Technician - \"O\"",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/233a1094-fc56-44bf-bc78-23bc57ea5aa1",
+      "created": "2026-06-01T19:58:12.295000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
