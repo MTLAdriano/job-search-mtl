@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-23T21:44:18.680733Z",
+  "updated": "2026-06-24T03:54:09.245972Z",
   "count": 260,
   "jobs": [
+    {
+      "id": "sr-744000133742079",
+      "title": "Art Producer",
+      "company": "Keywords Studios",
+      "location": "Box Hill, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000133742079",
+      "created": "2026-06-24T01:41:15.066Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
     {
       "id": "sr-744000133604110",
       "title": "Creative Manager",
@@ -2497,19 +2510,6 @@
       "created": "2026-05-07T11:52:25-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000124910636",
-      "title": "Stagiaire en Communication - Communication Intern",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000124910636",
-      "created": "2026-05-06T13:54:03.747Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000124897899",
