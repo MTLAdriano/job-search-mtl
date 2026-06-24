@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-24T07:44:13.355590Z",
-  "count": 260,
+  "updated": "2026-06-24T10:53:42.284599Z",
+  "count": 259,
   "jobs": [
+    {
+      "id": "sr-744000133916539",
+      "title": "Ad Developer – Mobile Gaming ",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000133916539",
+      "created": "2026-06-24T10:50:10.444Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000133893049",
+      "title": "Comptable Fournisseurs (confirmé.e)",
+      "company": "Gameloft Montreal",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000133893049",
+      "created": "2026-06-24T08:43:41.870Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000133742079",
       "title": "Art Producer",
@@ -14,19 +40,6 @@
       "created": "2026-06-24T01:41:15.066Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000133604110",
-      "title": "Creative Manager",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000133604110",
-      "created": "2026-06-23T13:25:42.748Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "gh-8023709",
@@ -534,19 +547,6 @@
       "created": "2026-06-11T13:35:38-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000131663204",
-      "title": "Comptable Fournisseurs (confirmé.e)",
-      "company": "Gameloft Montreal",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000131663204",
-      "created": "2026-06-11T12:57:25.539Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000131631000",
@@ -2510,19 +2510,6 @@
       "created": "2026-05-07T11:52:25-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000124897899",
-      "title": "Ad Developer – Mobile Gaming ",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000124897899",
-      "created": "2026-05-06T13:08:51.227Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000124686619",
