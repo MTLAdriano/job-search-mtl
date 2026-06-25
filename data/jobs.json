@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-25T10:45:59.173385Z",
-  "count": 260,
+  "updated": "2026-06-25T14:40:27.734244Z",
+  "count": 262,
   "jobs": [
+    {
+      "id": "sr-744000134258144",
+      "title": "Account Manager",
+      "company": "Gameloft Montreal",
+      "location": "Accra, gh",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000134258144",
+      "created": "2026-06-25T12:54:12.745Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000134237189",
+      "title": "Division Principal Programmer",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000134237189",
+      "created": "2026-06-25T11:09:08.356Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000134210139",
       "title": "Senior Level Game Designer - Premium PC/Console Projects",
