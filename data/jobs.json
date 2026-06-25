@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-25T07:49:37.185958Z",
-  "count": 261,
+  "updated": "2026-06-25T10:45:59.173385Z",
+  "count": 260,
   "jobs": [
+    {
+      "id": "sr-744000134210139",
+      "title": "Senior Level Game Designer - Premium PC/Console Projects",
+      "company": "Gameloft Montreal",
+      "location": "Brisbane, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000134210139",
+      "created": "2026-06-25T08:57:07.747Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-ba9623fa-02f0-4f72-b400-213166b86e0b",
       "title": "Audio Technician – Mad Apple",
@@ -1338,32 +1351,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000130192442",
       "created": "2026-06-04T11:02:30.824Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000130175769",
-      "title": "Sales Executive (Programmatic)",
-      "company": "Gameloft Montreal",
-      "location": "New York, us",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000130175769",
-      "created": "2026-06-04T09:12:50.400Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000130174571",
-      "title": "Sales Executive (Programmatic)",
-      "company": "Gameloft Montreal",
-      "location": "Chicago, us",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000130174571",
-      "created": "2026-06-04T09:12:24.018Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
