@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-26T17:51:18.538638Z",
-  "count": 264,
+  "updated": "2026-06-26T21:22:12.705063Z",
+  "count": 263,
   "jobs": [
+    {
+      "id": "sr-744000134542186",
+      "title": "Artiste Rigging Senior - PROJET CONFIDENTIEL - Candidature Spontanée",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000134542186",
+      "created": "2026-06-26T19:35:50.996Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000134542399",
+      "title": "Artiste Rigging Mid - PROJET CONFIDENTIEL - Candidature Spontanée",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000134542399",
+      "created": "2026-06-26T19:34:52.665Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "lv-d478340f-97ae-4661-8625-dfacf0bb616d",
       "title": "Merchandise Coordinator – Consumer Products",
@@ -55,19 +81,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000134495891",
-      "title": "Artiste Rigging Senior - PROJET CONFIDENTIEL - Candidature Spontanée",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000134495891",
-      "created": "2026-06-26T14:54:45.718Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000134497309",
       "title": "Senior Rigging Artist - UNDISCLOSED PROJECT - Expression of Interest",
       "company": "Rodeo FX",
@@ -90,19 +103,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000134494071",
       "created": "2026-06-26T14:52:19.015Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000134495434",
-      "title": "Artiste Rigging Mid - PROJET CONFIDENTIEL - Candidature Spontanée",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000134495434",
-      "created": "2026-06-26T14:51:30.306Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -1769,19 +1769,6 @@
       "created": "2026-06-02T20:18:14.897Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-2eec5799-f92e-489b-87cc-93daea37bb95",
-      "title": "Coordonnateur.trice, Expérience employé.e | Employee Experience Coordinator",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Coordonnateur.trice, Expérience employé.e\nMode de travail hybride – 4 jours/semaine au bureau\nPoste temporaire - 6 mois\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/2eec5799-f92e-489b-87cc-93daea37bb95",
-      "created": "2026-06-02T19:04:33.037000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-5d14cccb-9223-4af3-8d81-df9b40f30633",
