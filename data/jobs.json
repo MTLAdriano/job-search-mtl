@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-25T21:46:50.813221Z",
+  "updated": "2026-06-26T04:02:04.850039Z",
   "count": 266,
   "jobs": [
+    {
+      "id": "sr-744000134388699",
+      "title": "IT Intern (6 months)",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000134388699",
+      "created": "2026-06-26T02:54:48.389Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000134335609",
       "title": "Technicien.ne soutient informatique",
@@ -521,19 +534,6 @@
       "created": "2026-06-16T15:31:00.517000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000132404349",
-      "title": "IT & Hardware Intern (6 months)",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000132404349",
-      "created": "2026-06-16T12:22:04.393Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000132392139",
