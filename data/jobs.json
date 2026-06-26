@@ -1,7 +1,98 @@
 {
-  "updated": "2026-06-26T10:54:40.200761Z",
-  "count": 264,
+  "updated": "2026-06-26T14:32:04.666845Z",
+  "count": 260,
   "jobs": [
+    {
+      "id": "sr-744000134491245",
+      "title": "Artiste Junior Surfacing Personnages - PROJET CONFIDENTIEL - Candidature Spontanée",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000134491245",
+      "created": "2026-06-26T14:30:56.165Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000134491169",
+      "title": "Junior Character Surfacing Artist - UNDISCLOSED PROJECT - Expression of Interest",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000134491169",
+      "created": "2026-06-26T14:27:52.512Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000134490589",
+      "title": "Junior Groom Artist (Blender) - UNDISCLOSED PROJECT - Expression of Interest",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000134490589",
+      "created": "2026-06-26T14:25:20.411Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000134488764",
+      "title": "Artiste Groom Junior (Blender) - PROJET CONFIDENTIEL - Candidature Spontanée",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000134488764",
+      "created": "2026-06-26T14:22:28.072Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000134486226",
+      "title": "Senior Groom Artist (Blender) - UNDISCLOSED PROJECT - Expression of Interest",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000134486226",
+      "created": "2026-06-26T14:19:17.157Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000134488494",
+      "title": "Artiste Groom Senior (Blender) - PROJET CONFIDENTIEL - Candidature Spontanée",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000134488494",
+      "created": "2026-06-26T14:16:01.209Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000134465249",
+      "title": "Developer Experience (DX) Principal",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000134465249",
+      "created": "2026-06-26T12:45:52.861Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000134394050",
       "title": "2D Concept Artist",
@@ -1433,19 +1524,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000130280649",
-      "title": "Mid Crowd Artist - TMNT 2",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000130280649",
-      "created": "2026-06-04T18:58:53.084Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000130192442",
       "title": "Studio Community Intern",
       "company": "Gameloft Montreal",
@@ -2226,19 +2304,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000126489699",
-      "title": "PHP Developer",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000126489699",
-      "created": "2026-05-14T09:47:38.853Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000126361199",
       "title": "[Dungeons & Dragons PC-Console] Lead Chef de Produit  Marketing -  Lead Product Marketing Manager ",
       "company": "Gameloft Montreal",
@@ -2250,32 +2315,6 @@
       "created": "2026-05-13T16:16:04.264Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000126156830",
-      "title": "Artiste d'effets de créatures Intermédiaire (Blender) - PROJET CONFIDENTIEL - Candidature Spontanée",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000126156830",
-      "created": "2026-05-12T19:20:38.309Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000126155397",
-      "title": "Mid CFX Artist (Blender) - UNDISCLOSED PROJECT - Expression of Interest",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000126155397",
-      "created": "2026-05-12T19:03:25.252Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000125989159",
@@ -2395,32 +2434,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000125896249",
-      "title": "Artiste Junior Surfacing Personnages -PROJET CONFIDENTIEL -Candidature Spontanée",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000125896249",
-      "created": "2026-05-11T16:35:08.090Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000125892489",
-      "title": "Junior Character Surfacing Artist - UNDISCLOSED PROJECT - Expression of Interest",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000125892489",
-      "created": "2026-05-11T16:17:52.039Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000125891769",
       "title": "Artiste Rigging Junior - PROJET CONFIDENTIEL - Candidature Spontanée",
       "company": "Rodeo FX",
@@ -2512,58 +2525,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000125883473",
-      "title": "Senior Groom Artist (Blender) - UNDISCLOSED PROJECT - Expression of Interest",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000125883473",
-      "created": "2026-05-11T15:44:21.537Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000125882503",
-      "title": "Artiste Groom Senior (Blender) - PROJET CONFIDENTIEL - Candidature Spontanée",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000125882503",
-      "created": "2026-05-11T15:43:30.095Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000125883747",
-      "title": "Junior Groom Artist (Blender) - UNDISCLOSED PROJECT - Expression of Interest",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000125883747",
-      "created": "2026-05-11T15:41:26.964Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000125881665",
-      "title": "Artiste Groom Junior (Blender) - PROJET CONFIDENTIEL - Candidature Spontanée",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000125881665",
-      "created": "2026-05-11T15:39:33.107Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000125882235",
       "title": "Mid Groom Artist (Blender) - UNDISCLOSED PROJECT - Expression of Interest",
       "company": "Rodeo FX",
@@ -2614,19 +2575,6 @@
       "created": "2026-05-07T11:52:25-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000124686029",
-      "title": "Senior Previs - FLO Artist - TMNT 2",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000124686029",
-      "created": "2026-05-05T15:40:02.479Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000124624749",
