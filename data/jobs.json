@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-26T04:02:04.850039Z",
-  "count": 266,
+  "updated": "2026-06-26T10:54:40.200761Z",
+  "count": 264,
   "jobs": [
+    {
+      "id": "sr-744000134394050",
+      "title": "2D Concept Artist",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000134394050",
+      "created": "2026-06-26T04:34:09.255Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000134388699",
       "title": "IT Intern (6 months)",
@@ -79,19 +92,6 @@
       "created": "2026-06-25T18:15:33.491Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000134258144",
-      "title": "Account Manager",
-      "company": "Gameloft Montreal",
-      "location": "Accra, gh",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000134258144",
-      "created": "2026-06-25T12:54:12.745Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000134237189",
@@ -1875,19 +1875,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "sr-744000128296989",
-      "title": "プロジェクトマネージャー ",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000128296989",
-      "created": "2026-05-26T01:41:00.559Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
       "id": "sr-744000128296609",
       "title": "ソフトウェアエンジニア",
       "company": "Keywords Studios",
@@ -3236,19 +3223,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000112674694",
       "created": "2026-03-04T13:20:32.260Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000111989525",
-      "title": "Project Manager",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000111989525",
-      "created": "2026-02-28T10:39:58.588Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
     },
