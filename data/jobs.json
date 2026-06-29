@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29T12:37:45.432742Z",
-  "count": 264,
+  "updated": "2026-06-29T18:10:31.633265Z",
+  "count": 262,
   "jobs": [
     {
       "id": "sr-744000134773460",
@@ -2681,19 +2681,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "gh-7871717",
-      "title": "Infographiste - Production Designer",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7871717",
-      "created": "2026-04-30T13:43:57-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "lv-70f6f385-dda7-4058-92d2-202c1f356491",
       "title": "Chef.fe de département, son vidéo et communications – LUDO | Head of Department, Sound Video and Communications – LUDO",
       "company": "Cirque du Soleil",
@@ -2989,19 +2976,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000115751281",
       "created": "2026-03-19T21:31:05.849Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000115751237",
-      "title": "[Disney Dreamlight Valley] Animateur(trice) technique senior - Senior Technical Animator",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000115751237",
-      "created": "2026-03-19T21:29:57.107Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
