@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-29T04:15:55.218310Z",
-  "count": 261,
+  "updated": "2026-06-29T12:37:45.432742Z",
+  "count": 264,
   "jobs": [
+    {
+      "id": "sr-744000134773460",
+      "title": "Music Curator",
+      "company": "Gameloft Montreal",
+      "location": "Yogyakarta, id",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000134773460",
+      "created": "2026-06-29T12:11:19.579Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000134769909",
+      "title": "Principal Game Engineer",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000134769909",
+      "created": "2026-06-29T11:49:47.503Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000134750749",
+      "title": "Studio Artist Lead",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000134750749",
+      "created": "2026-06-29T10:11:40.752Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000134746479",
+      "title": "C++ Software Engineer",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000134746479",
+      "created": "2026-06-29T09:54:33.533Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000134721939",
+      "title": "Principal Game Programmer",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000134721939",
+      "created": "2026-06-29T08:10:26.115Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000134691039",
       "title": "2D Concept Artist",
@@ -53,19 +118,6 @@
       "created": "2026-06-26T17:19:15.487000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000134523059",
-      "title": "Division Principal Programmer",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000134523059",
-      "created": "2026-06-26T16:56:26.357Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000134497535",
@@ -1676,19 +1728,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000130413683",
       "created": "2026-06-05T10:13:53.424Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000130415219",
-      "title": "Studio Artist Lead",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000130415219",
-      "created": "2026-06-05T10:13:15.073Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
