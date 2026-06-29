@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-28T21:05:21.411594Z",
-  "count": 262,
+  "updated": "2026-06-29T04:15:55.218310Z",
+  "count": 261,
   "jobs": [
+    {
+      "id": "sr-744000134691039",
+      "title": "2D Concept Artist",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000134691039",
+      "created": "2026-06-29T03:54:49.180Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000134542186",
       "title": "Artiste Rigging Senior - PROJET CONFIDENTIEL - Candidature Spontanée",
@@ -285,19 +298,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000134465249",
       "created": "2026-06-26T12:45:52.861Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000134394050",
-      "title": "2D Concept Artist",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000134394050",
-      "created": "2026-06-26T04:34:09.255Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -2534,19 +2534,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000125988679",
       "created": "2026-05-12T03:21:00.250Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000125988639",
-      "title": "Senior Game Data Analyst",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000125988639",
-      "created": "2026-05-12T03:20:58.508Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
