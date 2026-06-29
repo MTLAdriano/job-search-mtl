@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-29T18:10:31.633265Z",
-  "count": 262,
+  "updated": "2026-06-29T21:37:46.367525Z",
+  "count": 264,
   "jobs": [
+    {
+      "id": "sr-744000134871979",
+      "title": "[Disney Dreamlight Valley] Chef(fe) de Produit - Product Manager",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000134871979",
+      "created": "2026-06-29T19:56:24.295Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "lv-e5a767cc-7ea2-4a54-9cee-406566633f5c",
+      "title": "Lead Audio Technician - KA",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_________________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/e5a767cc-7ea2-4a54-9cee-406566633f5c",
+      "created": "2026-06-29T19:49:58.642000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000134859800",
+      "title": "VFX Supervisor - On-Site, Toronto",
+      "company": "Rodeo FX",
+      "location": "Toronto, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000134859800",
+      "created": "2026-06-29T18:50:39.838Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000134773460",
       "title": "Music Curator",
@@ -2729,19 +2768,6 @@
       "salary_max": null,
       "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7858881",
       "created": "2026-04-27T16:35:13-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-7858828",
-      "title": "Directeur.trice Artistique - Art Director",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7858828",
-      "created": "2026-04-27T14:38:13-04:00",
       "category": "Agence",
       "source": "Sid Lee"
     },
