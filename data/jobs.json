@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-30T14:26:05.059772Z",
+  "updated": "2026-06-30T17:59:08.074708Z",
   "count": 263,
   "jobs": [
+    {
+      "id": "sr-744000135059640",
+      "title": "Technicien.ne soutient informatique",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000135059640",
+      "created": "2026-06-30T15:35:17.475Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000135060139",
+      "title": "Service Desk Technician ",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000135060139",
+      "created": "2026-06-30T15:34:31.621Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000135040419",
+      "title": "Développeur(se) d'automatisation et d'infrastructure - Infrastructure & Automation Developer",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000135040419",
+      "created": "2026-06-30T14:32:37.845Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000135013249",
       "title": "Product Marketing Manager",
@@ -469,32 +508,6 @@
       "created": "2026-06-26T02:54:48.389Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000134335609",
-      "title": "Technicien.ne soutient informatique",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000134335609",
-      "created": "2026-06-25T19:53:24.229Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000134332579",
-      "title": "Service Desk Technician ",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000134332579",
-      "created": "2026-06-25T19:26:01.881Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000134325479",
@@ -2614,19 +2627,6 @@
       "created": "2026-05-11T19:29:33.604000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000125888580",
-      "title": "Développeur(se) d'automatisation et d'infrastructure - Infrastructure & Automation Developer",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000125888580",
-      "created": "2026-05-11T16:00:49.858Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-d9520aae-447c-4e7b-b304-6a9db40a9015",
