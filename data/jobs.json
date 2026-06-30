@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-30T11:16:44.636266Z",
-  "count": 262,
+  "updated": "2026-06-30T14:26:05.059772Z",
+  "count": 263,
   "jobs": [
+    {
+      "id": "sr-744000135013249",
+      "title": "Product Marketing Manager",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000135013249",
+      "created": "2026-06-30T13:11:45.812Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000134999114",
+      "title": "Graphic Designer (Middle/Senior)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000134999114",
+      "created": "2026-06-30T12:16:51.636Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000134981690",
       "title": "Localization Design Lead",
@@ -2159,19 +2185,6 @@
       "created": "2026-05-26T16:08:02.310Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-5765ab5a-c186-4ead-a590-d2b537f6fd9f",
-      "title": "Coordonnateur.trice aux opérations - Gestion de la santé et assurances | Operations Coordinator - Health Management and Insurance",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Coordonnateur.trice aux opérations - Gestion de la santé et assurances\nMode de travail hybride – 4 jours/semaine au bureau\nPoste régulier à temps plein\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \nNOTRE MISSION\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la cr",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/5765ab5a-c186-4ead-a590-d2b537f6fd9f",
-      "created": "2026-05-26T15:29:51.080000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-c88bddd8-22fc-4a79-89e1-d93b210e977d",
