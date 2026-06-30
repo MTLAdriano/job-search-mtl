@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-30T07:58:44.909849Z",
-  "count": 260,
+  "updated": "2026-06-30T11:16:44.636266Z",
+  "count": 262,
   "jobs": [
+    {
+      "id": "sr-744000134981690",
+      "title": "Localization Design Lead",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000134981690",
+      "created": "2026-06-30T10:31:07.282Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000134974532",
+      "title": "Junior Game Designer",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000134974532",
+      "created": "2026-06-30T10:01:28.545Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000134975239",
+      "title": "Senior AI Engineer (for Game Development)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000134975239",
+      "created": "2026-06-30T09:51:41.834Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000134920429",
       "title": "Music Curator",
@@ -1392,19 +1431,6 @@
       "created": "2026-06-09T08:17:22.665Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000131062058",
-      "title": "Junior Game Designer",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000131062058",
-      "created": "2026-06-09T07:22:49.707Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000131061570",
