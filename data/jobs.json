@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-01T11:26:59.206091Z",
-  "count": 259,
+  "updated": "2026-07-01T14:43:23.791384Z",
+  "count": 260,
   "jobs": [
+    {
+      "id": "sr-744000135244065",
+      "title": "Customer Care Agent (English and French)",
+      "company": "Gameloft Montreal",
+      "location": "Lviv, ua",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000135244065",
+      "created": "2026-07-01T11:48:09.372Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000135192879",
       "title": "Principal Game Engineer (Unreal Engine)",
