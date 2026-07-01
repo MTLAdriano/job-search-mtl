@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-30T21:40:20.025632Z",
-  "count": 262,
+  "updated": "2026-07-01T04:12:21.150179Z",
+  "count": 261,
   "jobs": [
     {
       "id": "sr-744000135111479",
@@ -324,19 +324,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000134769909",
       "created": "2026-06-29T11:49:47.503Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000134750749",
-      "title": "Studio Artist Lead",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000134750749",
-      "created": "2026-06-29T10:11:40.752Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
