@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-01T14:43:23.791384Z",
-  "count": 260,
+  "updated": "2026-07-01T18:00:14.612610Z",
+  "count": 262,
   "jobs": [
+    {
+      "id": "lv-8c3ec8a5-51ea-43db-9f8c-05ca1e2c9661",
+      "title": "Marketing Manager – Las Vegas Resident Shows",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n____________________________________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/8c3ec8a5-51ea-43db-9f8c-05ca1e2c9661",
+      "created": "2026-07-01T17:31:22.012000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000135292654",
+      "title": "3D Character Artist [Disney Dreamlight Valley]",
+      "company": "Gameloft Montreal",
+      "location": "Lviv, ua",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000135292654",
+      "created": "2026-07-01T15:04:14.405Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000135244065",
       "title": "Customer Care Agent (English and French)",
