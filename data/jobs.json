@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-02T07:35:32.650501Z",
+  "updated": "2026-07-02T10:44:01.522742Z",
   "count": 260,
   "jobs": [
+    {
+      "id": "sr-744000135459999",
+      "title": "Senior UI Designer",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000135459999",
+      "created": "2026-07-02T09:49:38.104Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000135459669",
+      "title": "Lighting Artist",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000135459669",
+      "created": "2026-07-02T09:48:27.932Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000135459094",
+      "title": "C++ Software Engineer",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000135459094",
+      "created": "2026-07-02T09:48:06.221Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000135457591",
+      "title": "Senior Product Manager",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000135457591",
+      "created": "2026-07-02T09:47:45.760Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000135458094",
+      "title": "Game Community Intern ",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000135458094",
+      "created": "2026-07-02T09:47:18.894Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-cc99dff9-0519-4564-a567-7956fbb4c486",
       "title": "On-Call Carpentry Technician – Michael Jackson ONE",
@@ -391,19 +456,6 @@
       "created": "2026-06-29T18:50:39.838Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000134746479",
-      "title": "C++ Software Engineer",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000134746479",
-      "created": "2026-06-29T09:54:33.533Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000134691039",
@@ -809,19 +861,6 @@
       "source": "Sid Lee"
     },
     {
-      "id": "sr-744000133561629",
-      "title": "Senior Product Manager",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000133561629",
-      "created": "2026-06-23T10:40:31.592Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000133522535",
       "title": "Marketing Video & Motion Artist",
       "company": "Gameloft Montreal",
@@ -1004,19 +1043,6 @@
       "source": "Sid Lee"
     },
     {
-      "id": "sr-744000132892830",
-      "title": "Game Community Intern ",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000132892830",
-      "created": "2026-06-18T15:02:54.798Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "gh-7961322",
       "title": "Creative Recruiter (Mat Leave Contract)",
       "company": "Sid Lee",
@@ -1119,19 +1145,6 @@
       "created": "2026-06-16T15:31:00.517000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000132392139",
-      "title": "Senior UI Designer",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000132392139",
-      "created": "2026-06-16T11:19:08.195Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-02fb3f81-9c89-4542-bcfc-ed89cc05cb23",
@@ -2731,19 +2744,6 @@
       "created": "2026-04-24T20:37:59.780000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000122253025",
-      "title": "Lighting Artist",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000122253025",
-      "created": "2026-04-22T12:45:14.756Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-fb2be896-32f3-428a-ab75-3178745ec9a3",
