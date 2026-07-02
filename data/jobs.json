@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-01T21:40:06.399407Z",
+  "updated": "2026-07-02T03:53:07.732351Z",
   "count": 261,
   "jobs": [
+    {
+      "id": "lv-cc99dff9-0519-4564-a567-7956fbb4c486",
+      "title": "On-Call Carpentry Technician – Michael Jackson ONE",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n____________________________________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/cc99dff9-0519-4564-a567-7956fbb4c486",
+      "created": "2026-07-02T01:46:28.505000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "lv-8c3ec8a5-51ea-43db-9f8c-05ca1e2c9661",
       "title": "Marketing Manager – Las Vegas Resident Shows",
@@ -716,19 +729,6 @@
       "created": "2026-06-25T08:57:07.747Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-ba9623fa-02f0-4f72-b400-213166b86e0b",
-      "title": "Audio Technician – Mad Apple",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/ba9623fa-02f0-4f72-b400-213166b86e0b",
-      "created": "2026-06-24T20:11:29.149000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000133916539",
