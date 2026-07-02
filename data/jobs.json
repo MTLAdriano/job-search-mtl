@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-02T03:53:07.732351Z",
-  "count": 261,
+  "updated": "2026-07-02T07:35:32.650501Z",
+  "count": 260,
   "jobs": [
     {
       "id": "lv-cc99dff9-0519-4564-a567-7956fbb4c486",
@@ -2586,19 +2586,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000125989159",
       "created": "2026-05-12T03:26:12.859Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000125988679",
-      "title": "Game Designer (Middle/Senior)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000125988679",
-      "created": "2026-05-12T03:21:00.250Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
