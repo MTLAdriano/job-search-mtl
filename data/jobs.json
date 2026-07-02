@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-02T17:51:52.751505Z",
-  "count": 260,
+  "updated": "2026-07-02T21:11:56.094066Z",
+  "count": 262,
   "jobs": [
+    {
+      "id": "sr-744000135594550",
+      "title": "[Disney Dreamlight Valley] Artiste 3D accessoires senior - 3D Artist props senior",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000135594550",
+      "created": "2026-07-02T21:01:38.794Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "lv-63cc826b-8524-4159-9667-7f8b4e9ac57a",
+      "title": "Commis – Comptes payables | Clerk – Account Payables",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Commis – Comptes payables\nMode de travail hybride – 4 jours/semaine au bureau\nPoste à temps plein\n \n \nNous avons une place pour celles et ceux qui ont un goût distinct pour assurer le bon déroulement des opérations au profit de nos spectacles et événements, pour penser des produits remarquables, pour mettre leur ingéniosité au service de leur équipe, en plus de contribuer à valoriser leur expertise et développer des pratiques exceptionnelles. Le Groupe Cirque du Soleil mise sur une approche de t",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/63cc826b-8524-4159-9667-7f8b4e9ac57a",
+      "created": "2026-07-02T20:23:17.415000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "gh-8028401",
+      "title": "Cordonnateur.trice aux opérations TI - IT Operations Coordinator",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8028401",
+      "created": "2026-07-02T14:25:52-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
     {
       "id": "sr-744000135513514",
       "title": "AI Architect",
@@ -768,19 +807,6 @@
       "created": "2026-06-25T18:15:33.491Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "gh-8028401",
-      "title": "Cordonnateur.trice aux opérations TI - IT Operations Coordinator",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8028401",
-      "created": "2026-06-25T10:58:53-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "sr-744000134210139",
