@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-03T03:34:50.970446Z",
-  "count": 261,
+  "updated": "2026-07-03T07:23:41.692340Z",
+  "count": 264,
   "jobs": [
+    {
+      "id": "sr-744000135653869",
+      "title": "Video Artist Intern",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000135653869",
+      "created": "2026-07-03T07:02:49.614Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000135652190",
+      "title": "Texture Artist",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000135652190",
+      "created": "2026-07-03T06:55:40.194Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000135648309",
+      "title": "Unity Programmer",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000135648309",
+      "created": "2026-07-03T06:17:21.251Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
+    {
+      "id": "sr-744000135644359",
+      "title": "Senior AI Engineer (for Game Development)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000135644359",
+      "created": "2026-07-03T05:49:30.345Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000135594550",
       "title": "[Disney Dreamlight Valley] Artiste 3D accessoires senior - 3D Artist props senior",
@@ -922,19 +974,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000133502219",
       "created": "2026-06-23T03:53:46.045Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000133502169",
-      "title": "Administrative Assistant",
-      "company": "Keywords Studios",
-      "location": "Adelaide, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000133502169",
-      "created": "2026-06-23T03:53:29.772Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
     },
