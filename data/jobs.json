@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-03T07:23:41.692340Z",
+  "updated": "2026-07-03T10:39:20.178556Z",
   "count": 264,
   "jobs": [
+    {
+      "id": "sr-744000135690239",
+      "title": "Data Analyst Intern",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000135690239",
+      "created": "2026-07-03T09:57:39.606Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000135681359",
+      "title": "Senior Texture Artist",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000135681359",
+      "created": "2026-07-03T09:19:42.185Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000135653869",
       "title": "Video Artist Intern",
@@ -12,19 +38,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000135653869",
       "created": "2026-07-03T07:02:49.614Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000135652190",
-      "title": "Texture Artist",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000135652190",
-      "created": "2026-07-03T06:55:40.194Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -40,19 +53,6 @@
       "created": "2026-07-03T06:17:21.251Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000135644359",
-      "title": "Senior AI Engineer (for Game Development)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000135644359",
-      "created": "2026-07-03T05:49:30.345Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000135594550",
