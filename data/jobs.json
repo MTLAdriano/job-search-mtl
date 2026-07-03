@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-03T10:39:20.178556Z",
+  "updated": "2026-07-03T14:13:18.359841Z",
   "count": 264,
   "jobs": [
+    {
+      "id": "sr-744000135733624",
+      "title": "Junior Financial Analyst",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000135733624",
+      "created": "2026-07-03T13:32:30.519Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000135735169",
+      "title": "Analyste Financier.ère Junior",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000135735169",
+      "created": "2026-07-03T13:28:34.798Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000135690239",
       "title": "Data Analyst Intern",
@@ -2146,32 +2172,6 @@
       "created": "2026-06-01T12:56:44.136Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000129251241",
-      "title": "Analyste Financier.ère Junior",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000129251241",
-      "created": "2026-05-29T20:16:22.961Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000129251933",
-      "title": "Junior Financial Analyst",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000129251933",
-      "created": "2026-05-29T20:10:25.474Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "lv-8e18c58c-1418-4c92-906e-b7a564920c40",
