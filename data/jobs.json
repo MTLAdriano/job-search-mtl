@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-05T07:29:58.314670Z",
-  "count": 272,
+  "updated": "2026-07-05T10:18:03.341861Z",
+  "count": 271,
   "jobs": [
     {
       "id": "lv-445e8a5c-4e6f-4f57-badb-6b74add491a2",
@@ -1327,19 +1327,6 @@
       "created": "2026-06-17T17:25:05.383000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000132555000",
-      "title": "Data Analyst Intern (6months)",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000132555000",
-      "created": "2026-06-17T04:30:20.003Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-8ca889d5-79c8-4a6b-8d93-ee71044345b2",
