@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-05T21:05:02.164854Z",
+  "updated": "2026-07-06T03:53:14.544135Z",
   "count": 271,
   "jobs": [
+    {
+      "id": "sr-744000135903729",
+      "title": "IT Support",
+      "company": "Keywords Studios",
+      "location": "Box Hill, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000135903729",
+      "created": "2026-07-06T02:29:25.245Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
     {
       "id": "lv-445e8a5c-4e6f-4f57-badb-6b74add491a2",
       "title": "Coordonnateur.trice - Services de tournée, RH et immigration - ECHO | Tour Services Coordinator, HR and immigration - ECHO",
@@ -571,19 +584,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000135191860",
       "created": "2026-07-01T07:31:14.038Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000135189200",
-      "title": "Junior Backend Developer (Node.js/TypeScript)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000135189200",
-      "created": "2026-07-01T07:17:19.295Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
