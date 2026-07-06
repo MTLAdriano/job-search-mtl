@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-06T08:24:22.060601Z",
+  "updated": "2026-07-06T15:39:49.627173Z",
   "count": 271,
   "jobs": [
+    {
+      "id": "sr-744000136046959",
+      "title": "Designer Graphique Senior (Marketing) Contrat Temporaire - Senior Graphic Designer (Marketing) – Temporary Contract",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000136046959",
+      "created": "2026-07-06T15:32:55.977Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000136015079",
+      "title": "Commis.e aux installations",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000136015079",
+      "created": "2026-07-06T13:37:31.990Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000136013110",
+      "title": "Facilities Clerk",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000136013110",
+      "created": "2026-07-06T13:36:17.353Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000136004369",
+      "title": "Product Owner AI",
+      "company": "Gameloft Montreal",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000136004369",
+      "created": "2026-07-06T13:00:29.248Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000135979760",
+      "title": "Senior Product Manager",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000135979760",
+      "created": "2026-07-06T11:18:25.497Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000135903729",
       "title": "IT Support",
@@ -116,32 +181,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000135771507",
       "created": "2026-07-03T17:57:33.530Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000135759159",
-      "title": "Artiste Junior Surfacing Personnages - PROJET CONFIDENTIEL - Candidature Spontanée",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000135759159",
-      "created": "2026-07-03T15:26:32.251Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000135759099",
-      "title": "Junior Character Surfacing Artist - UNDISCLOSED PROJECT - Expression of Interest",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000135759099",
-      "created": "2026-07-03T15:26:14.796Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -471,19 +510,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000135473239",
-      "title": "Senior Product Manager",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000135473239",
-      "created": "2026-07-02T10:59:09.743Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000135459999",
       "title": "Senior UI Designer",
       "company": "Gameloft Montreal",
@@ -584,19 +610,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000135191860",
       "created": "2026-07-01T07:31:14.038Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000135111479",
-      "title": "Designer Graphique Senior (Marketing) Contrat Temporaire - Senior Graphic Designer (Marketing) – Temporary Contract",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000135111479",
-      "created": "2026-06-30T21:30:06.167Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -2874,19 +2887,6 @@
       "created": "2026-04-27T16:35:13-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "lv-5cb664b3-a0ee-4936-b974-c769960c2fe5",
-      "title": "Stratège - Marketing intégré | Integrated Marketing Strategist",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Stratège - Marketing intégré\nVentes, marketing et communication\nPoste permanent/Temps plein\n \n** Ce poste est offert en télétravail pour les candidat·e·s situés à l’extérieur de la grande région de Montréal et Las Vegas.\nLes candidat·e·s basés à Montréal ou Las Vegas devront travailler en présentiel, conformément aux pratiques locales. **\n \nNous recherchons des personnes passionné(e)s par le bon déroulement de nos spectacles et événements, la conception de produits exceptionnels, la mise à profi",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/5cb664b3-a0ee-4936-b974-c769960c2fe5",
-      "created": "2026-04-24T20:37:59.780000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-fb2be896-32f3-428a-ab75-3178745ec9a3",
