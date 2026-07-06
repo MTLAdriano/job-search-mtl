@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-06T15:39:49.627173Z",
+  "updated": "2026-07-06T18:12:49.130974Z",
   "count": 271,
   "jobs": [
+    {
+      "id": "sr-744000136059764",
+      "title": "Product Owner AI",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000136059764",
+      "created": "2026-07-06T16:35:02.149Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000136059610",
+      "title": "Product Owner AI",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000136059610",
+      "created": "2026-07-06T16:31:54.004Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000136046959",
       "title": "Designer Graphique Senior (Marketing) Contrat Temporaire - Senior Graphic Designer (Marketing) – Temporary Contract",
@@ -848,19 +874,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000134542399",
-      "title": "Artiste Rigging Mid - PROJET CONFIDENTIEL - Candidature Spontanée",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000134542399",
-      "created": "2026-06-26T19:34:52.665Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "lv-d478340f-97ae-4661-8625-dfacf0bb616d",
       "title": "Merchandise Coordinator – Consumer Products",
       "company": "Cirque du Soleil",
@@ -909,19 +922,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000134496210",
       "created": "2026-06-26T14:50:52.265Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000134495807",
-      "title": "Mid Rigging Artist - UNDISCLOSED PROJECT - Expression of Interest",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000134495807",
-      "created": "2026-06-26T14:49:46.084Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
