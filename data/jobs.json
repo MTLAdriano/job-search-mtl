@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-06T18:12:49.130974Z",
+  "updated": "2026-07-06T21:39:27.722739Z",
   "count": 271,
   "jobs": [
+    {
+      "id": "sr-744000136091279",
+      "title": "Business Development Coordinator - Advertising department",
+      "company": "Rodeo FX",
+      "location": "Toronto, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000136091279",
+      "created": "2026-07-06T19:57:21.990Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000136079952",
+      "title": "Post-Production Producer - Advertising Department - Expression of interest",
+      "company": "Rodeo FX",
+      "location": "Toronto, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000136079952",
+      "created": "2026-07-06T18:42:29.551Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "lv-d81f1893-477d-4024-89d9-c552db19a3f7",
+      "title": "Stage Manager – Mad Apple",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n ____________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/d81f1893-477d-4024-89d9-c552db19a3f7",
+      "created": "2026-07-06T18:32:20.270000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000136059764",
       "title": "Product Owner AI",
@@ -861,19 +900,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000134542186",
-      "title": "Artiste Rigging Senior - PROJET CONFIDENTIEL - Candidature Spontanée",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000134542186",
-      "created": "2026-06-26T19:35:50.996Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "lv-d478340f-97ae-4661-8625-dfacf0bb616d",
       "title": "Merchandise Coordinator – Consumer Products",
       "company": "Cirque du Soleil",
@@ -885,19 +911,6 @@
       "created": "2026-06-26T17:19:15.487000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000134497309",
-      "title": "Senior Rigging Artist - UNDISCLOSED PROJECT - Expression of Interest",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000134497309",
-      "created": "2026-06-26T14:53:23.201Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000134494071",
@@ -2640,19 +2653,6 @@
       "created": "2026-05-21T19:50:29.466000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000127745882",
-      "title": "Post-Production Producer - Advertising Department - Permanent role",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000127745882",
-      "created": "2026-05-21T19:46:08.526Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000127486505",
