@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-07T14:43:00.266446Z",
-  "count": 273,
+  "updated": "2026-07-07T18:02:52.682037Z",
+  "count": 274,
   "jobs": [
     {
       "id": "sr-744000136189120",
@@ -3004,6 +3004,19 @@
       "created": "2026-04-13T13:57:48-04:00",
       "category": "Agence",
       "source": "Sid Lee"
+    },
+    {
+      "id": "lv-348c66fe-251d-4f22-b22a-11fbbcfd822a",
+      "title": "Analyste principal - Sécurité Opérationnelle | Senior Analyst - Security Operations",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Analyste principal - Sécurité Opérationnelle\nTechnologie de l'information\nPoste permanent \n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \nNOTRE MISSION\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de tr",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/348c66fe-251d-4f22-b22a-11fbbcfd822a",
+      "created": "2026-04-11T01:03:25.461000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-79771341-875d-4799-b664-9f27afb80ca8",
