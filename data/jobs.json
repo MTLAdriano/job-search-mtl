@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-07T07:42:17.231192Z",
-  "count": 272,
+  "updated": "2026-07-07T11:10:50.049292Z",
+  "count": 273,
   "jobs": [
+    {
+      "id": "sr-744000136189120",
+      "title": "Product Owner AI",
+      "company": "Gameloft Montreal",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000136189120",
+      "created": "2026-07-07T10:02:46.735Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000136170530",
+      "title": "Lead Cinematic Artist",
+      "company": "Keywords Studios",
+      "location": "Box Hill, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000136170530",
+      "created": "2026-07-07T08:42:42.553Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
     {
       "id": "lv-9c342c29-a0ba-4bd1-a643-34b50bd69202",
       "title": "Communications Manager – Resident Shows",
@@ -118,19 +144,6 @@
       "created": "2026-07-06T13:36:17.353Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000136004369",
-      "title": "Product Owner AI",
-      "company": "Gameloft Montreal",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000136004369",
-      "created": "2026-07-06T13:00:29.248Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000135979760",
