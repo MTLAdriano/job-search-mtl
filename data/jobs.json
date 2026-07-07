@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-06T21:39:27.722739Z",
-  "count": 271,
+  "updated": "2026-07-07T03:42:36.927998Z",
+  "count": 272,
   "jobs": [
+    {
+      "id": "lv-9c342c29-a0ba-4bd1-a643-34b50bd69202",
+      "title": "Communications Manager – Resident Shows",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.*** \n \n_______________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/9c342c29-a0ba-4bd1-a643-34b50bd69202",
+      "created": "2026-07-07T00:54:33.138000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000136091279",
       "title": "Business Development Coordinator - Advertising department",
