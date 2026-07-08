@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-08T06:30:37.245243Z",
-  "count": 271,
+  "updated": "2026-07-08T10:21:35.921311Z",
+  "count": 273,
   "jobs": [
+    {
+      "id": "sr-744000136412239",
+      "title": "Product Owner AI",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000136412239",
+      "created": "2026-07-08T08:42:07.960Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000136406723",
+      "title": "Responsable de produit intelligence artificielle",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000136406723",
+      "created": "2026-07-08T08:41:41.322Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000136375799",
       "title": "AI Engineer (for Game Development)",
