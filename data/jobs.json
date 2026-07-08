@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-08T17:40:15.768323Z",
-  "count": 274,
+  "updated": "2026-07-08T21:10:45.311941Z",
+  "count": 276,
   "jobs": [
+    {
+      "id": "sr-744000136554667",
+      "title": "Directeur·trice des ressources humaines",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000136554667",
+      "created": "2026-07-08T19:50:47.116Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000136556945",
+      "title": "HR Director",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000136556945",
+      "created": "2026-07-08T19:49:54.887Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000136538659",
       "title": "Artiste de développement visuel Senior - Contrat Temporaire",
