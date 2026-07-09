@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-09T03:36:12.613529Z",
+  "updated": "2026-07-09T07:39:21.658922Z",
   "count": 275,
   "jobs": [
+    {
+      "id": "sr-744000136734759",
+      "title": "Senior Level Designer",
+      "company": "Gameloft Montreal",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000136734759",
+      "created": "2026-07-09T07:22:49.094Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000136733114",
+      "title": "Game Economy & Progression Designer",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000136733114",
+      "created": "2026-07-09T07:21:03.484Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000136554667",
       "title": "Directeur·trice des ressources humaines",
@@ -2187,19 +2213,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "sr-744000130192442",
-      "title": "Studio Community Intern",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000130192442",
-      "created": "2026-06-04T11:02:30.824Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "gh-7980392",
       "title": "Designer Graphique - Graphic Designer",
       "company": "Sid Lee",
@@ -2445,19 +2458,6 @@
       "created": "2026-05-28T03:01:10.433Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000128664699",
-      "title": "Game Economy Designer",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000128664699",
-      "created": "2026-05-27T08:16:58.165Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000128541802",
