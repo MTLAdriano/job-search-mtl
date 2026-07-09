@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-09T10:57:29.133879Z",
-  "count": 274,
+  "updated": "2026-07-09T15:16:42.115053Z",
+  "count": 270,
   "jobs": [
+    {
+      "id": "sr-744000136814279",
+      "title": "Senior UI Designer",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000136814279",
+      "created": "2026-07-09T12:55:10.146Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000136782589",
       "title": "Data Scientist",
@@ -575,32 +588,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000135733624",
-      "title": "Junior Financial Analyst",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000135733624",
-      "created": "2026-07-03T13:32:30.519Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000135735169",
-      "title": "Analyste Financier.ère Junior",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000135735169",
-      "created": "2026-07-03T13:28:34.798Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000135690239",
       "title": "Data Analyst Intern",
       "company": "Gameloft Montreal",
@@ -740,19 +727,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000135472190",
       "created": "2026-07-02T11:00:11.546Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000135459999",
-      "title": "Senior UI Designer",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000135459999",
-      "created": "2026-07-02T09:49:38.104Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1494,19 +1468,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/ecfd4e8f-0191-4f33-ac8e-15d801590ae9",
       "created": "2026-06-15T20:57:39.107000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-7d1cb84b-df76-4d4a-8b18-c821d5dcd38a",
-      "title": "Patronniste | Patronist",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Patronniste \nCostumes et accessoires\nPoste temporaire/temps plein\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos product",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/7d1cb84b-df76-4d4a-8b18-c821d5dcd38a",
-      "created": "2026-06-15T20:53:54.952000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
@@ -2731,19 +2692,6 @@
       "created": "2026-05-20T17:02:49.164Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000127461549",
-      "title": "Lead Layout Artist ",
-      "company": "Rodeo FX",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000127461549",
-      "created": "2026-05-20T14:57:35.319Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "gh-7944190",
