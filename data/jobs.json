@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-09T07:39:21.658922Z",
-  "count": 275,
+  "updated": "2026-07-09T10:57:29.133879Z",
+  "count": 274,
   "jobs": [
+    {
+      "id": "sr-744000136782589",
+      "title": "Data Scientist",
+      "company": "Gameloft Montreal",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000136782589",
+      "created": "2026-07-09T10:32:13.084Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000136778258",
+      "title": "Devops & Release Engineer",
+      "company": "Gameloft Montreal",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000136778258",
+      "created": "2026-07-09T10:11:41.126Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000136753850",
+      "title": "Senior Technical Artist",
+      "company": "Gameloft Montreal",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000136753850",
+      "created": "2026-07-09T08:34:48.679Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000136747775",
+      "title": "Embedded QA",
+      "company": "Gameloft Montreal",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000136747775",
+      "created": "2026-07-09T08:17:29.524Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000136734759",
       "title": "Senior Level Designer",
@@ -211,19 +263,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000136189120",
-      "title": "Product Owner AI",
-      "company": "Gameloft Montreal",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000136189120",
-      "created": "2026-07-07T10:02:46.735Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000136170530",
       "title": "Lead Cinematic Artist",
       "company": "Keywords Studios",
@@ -287,32 +326,6 @@
       "created": "2026-07-06T18:32:20.270000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000136059764",
-      "title": "Product Owner AI",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000136059764",
-      "created": "2026-07-06T16:35:02.149Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000136059610",
-      "title": "Product Owner AI",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000136059610",
-      "created": "2026-07-06T16:31:54.004Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000136046959",
@@ -1002,19 +1015,6 @@
       "created": "2026-06-29T19:49:58.642000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000134691039",
-      "title": "2D Concept Artist",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000134691039",
-      "created": "2026-06-29T03:54:49.180Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-d478340f-97ae-4661-8625-dfacf0bb616d",
@@ -3082,19 +3082,6 @@
       "created": "2026-04-09T16:21:55.678Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000119328453",
-      "title": "Senior Build Manager",
-      "company": "Gameloft Montreal",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000119328453",
-      "created": "2026-04-08T10:11:47.174Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-7395c490-40fc-4660-b7f2-ef8f9a097aaf",
