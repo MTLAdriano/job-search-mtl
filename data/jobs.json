@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-09T15:16:42.115053Z",
+  "updated": "2026-07-09T17:58:40.943411Z",
   "count": 270,
   "jobs": [
+    {
+      "id": "sr-744000136856106",
+      "title": "Senior Product Manager",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000136856106",
+      "created": "2026-07-09T15:47:58.769Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000136814279",
       "title": "Senior UI Designer",
@@ -378,19 +391,6 @@
       "created": "2026-07-06T13:36:17.353Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000135979760",
-      "title": "Senior Product Manager",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000135979760",
-      "created": "2026-07-06T11:18:25.497Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000135903729",
