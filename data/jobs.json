@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-10T07:38:41.776316Z",
+  "updated": "2026-07-10T10:57:51.060861Z",
   "count": 268,
   "jobs": [
+    {
+      "id": "sr-744000137068967",
+      "title": "Senior Product Manager",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000137068967",
+      "created": "2026-07-10T08:21:58.206Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000136883567",
       "title": "Service Desk Technician ",
@@ -14,19 +27,6 @@
       "created": "2026-07-09T18:56:40.193Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000136856106",
-      "title": "Senior Product Manager",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000136856106",
-      "created": "2026-07-09T15:47:58.769Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000136814279",
