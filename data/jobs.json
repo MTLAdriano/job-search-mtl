@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-13T11:15:23.230153Z",
-  "count": 265,
+  "updated": "2026-07-13T14:41:29.315376Z",
+  "count": 264,
   "jobs": [
+    {
+      "id": "sr-744000137473791",
+      "title": "Senior UI Designer",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000137473791",
+      "created": "2026-07-13T14:27:06.726Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000137466499",
+      "title": "Release Engineer ",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000137466499",
+      "created": "2026-07-13T13:52:52.805Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000137408140",
       "title": "Backend Developer Intern",
@@ -183,19 +209,6 @@
       "created": "2026-07-09T18:56:40.193Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000136814279",
-      "title": "Senior UI Designer",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000136814279",
-      "created": "2026-07-09T12:55:10.146Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000136778258",
@@ -729,19 +742,6 @@
       "created": "2026-07-03T06:17:21.251Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000135594550",
-      "title": "[Disney Dreamlight Valley] Artiste 3D accessoires senior - 3D Artist props senior",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000135594550",
-      "created": "2026-07-02T21:01:38.794Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-63cc826b-8524-4159-9667-7f8b4e9ac57a",
@@ -1481,19 +1481,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/19c859fa-7b20-465a-8ca4-20a6f8586107",
       "created": "2026-06-12T22:35:59.739000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-9b7d9a9e-d25b-4656-83bf-b57bacb89044",
-      "title": "Régisseur - Luzia | Stage Manager - Luzia",
-      "company": "Cirque du Soleil",
-      "location": "*En tournée | On tour",
-      "description": "Régisseur  - LUZIA\nPoste à temps plein\n* Veuillez noter que ce poste implique de voyager à l'étranger à temps plein et de travailler dans des pays étrangers. *\n \nNous recherchons un régisseur compétent et motivé pour rejoindre l'équipe de régie de l'un des spectacles en tournée du Cirque du Soleil. Sous la responsabilité du directeur artistique et sous la supervision du régisseur général (GSM), ce poste consiste à soutenir les opérations artistiques quotidiennes du spectacle, en garantissant les",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/9b7d9a9e-d25b-4656-83bf-b57bacb89044",
-      "created": "2026-06-12T20:40:54.429000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
