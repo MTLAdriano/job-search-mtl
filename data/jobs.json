@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-13T17:57:02.996556Z",
-  "count": 266,
+  "updated": "2026-07-13T20:58:55.061398Z",
+  "count": 267,
   "jobs": [
+    {
+      "id": "sr-744000137531870",
+      "title": "Business Development Coordinator - Advertising department",
+      "company": "Rodeo FX",
+      "location": "Toronto, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137531870",
+      "created": "2026-07-13T19:57:31.035Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000137508669",
       "title": "Chargé.e planification des ressources - Contrat Temporaire",
@@ -560,19 +573,6 @@
       "created": "2026-07-07T00:54:33.138000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000136091279",
-      "title": "Business Development Coordinator - Advertising department",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000136091279",
-      "created": "2026-07-06T19:57:21.990Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000136079952",
@@ -2380,6 +2380,19 @@
       "created": "2026-05-28T03:01:10.433Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
+    },
+    {
+      "id": "lv-0c6a8f3a-7cf8-44ee-8826-d5509d232871",
+      "title": "Executive Assistant and Office Lead",
+      "company": "Cirque du Soleil",
+      "location": "London",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/0c6a8f3a-7cf8-44ee-8826-d5509d232871",
+      "created": "2026-05-26T18:49:58.337000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000128541802",
