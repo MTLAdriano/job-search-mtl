@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-12T20:54:06.715357Z",
-  "count": 272,
+  "updated": "2026-07-13T03:20:22.859920Z",
+  "count": 271,
   "jobs": [
     {
       "id": "lv-9061cf4f-8165-4c44-982a-a6a4b023fb49",
@@ -1327,19 +1327,6 @@
       "created": "2026-06-22T00:36:35.414Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000133009609",
-      "title": "STUDIO COMMUNITY INTERN ",
-      "company": "Gameloft Montreal",
-      "location": "Yogyakarta, id",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000133009609",
-      "created": "2026-06-19T07:58:02.516Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000133005431",
