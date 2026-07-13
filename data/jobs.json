@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-13T03:20:22.859920Z",
-  "count": 271,
+  "updated": "2026-07-13T06:56:54.347835Z",
+  "count": 266,
   "jobs": [
     {
       "id": "lv-9061cf4f-8165-4c44-982a-a6a4b023fb49",
@@ -1277,32 +1277,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000133502219",
-      "title": "Administrative Assistant",
-      "company": "Keywords Studios",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000133502219",
-      "created": "2026-06-23T03:53:46.045Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000133404671",
-      "title": "Game 2D Artist",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000133404671",
-      "created": "2026-06-22T15:28:42.795Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000133294409",
       "title": "3D Character Artist (Middle/Senior)",
       "company": "Gameloft Montreal",
@@ -1314,19 +1288,6 @@
       "created": "2026-06-22T08:58:19.965Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000133236499",
-      "title": "Quality Assurance Manager - AAA Games",
-      "company": "Keywords Studios",
-      "location": "Box Hill, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000133236499",
-      "created": "2026-06-22T00:36:35.414Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
     },
     {
       "id": "sr-744000133005431",
@@ -2044,19 +2005,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "sr-744000130718364",
-      "title": "Animator Vic/SA/Qld",
-      "company": "Keywords Studios",
-      "location": "Box Hill, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000130718364",
-      "created": "2026-06-08T07:17:20.798Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
       "id": "sr-744000130716151",
       "title": "Lead Lighting Artist Vic/SA/Qld",
       "company": "Keywords Studios",
@@ -2183,19 +2131,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000130679031",
       "created": "2026-06-08T00:09:59.897Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000130679374",
-      "title": "Senior Animator - Vic/SA/Qld",
-      "company": "Keywords Studios",
-      "location": "Box Hill, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000130679374",
-      "created": "2026-06-08T00:09:11.368Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
     },
