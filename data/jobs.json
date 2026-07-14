@@ -1,30 +1,43 @@
 {
-  "updated": "2026-07-14T17:17:25.878107Z",
-  "count": 260,
+  "updated": "2026-07-14T21:02:37.897866Z",
+  "count": 258,
   "jobs": [
     {
-      "id": "sr-744000137692549",
-      "title": "Artiste FX - Senior - Multiple positions",
+      "id": "sr-744000137751399",
+      "title": "Senior FX Artist - Permanent Role",
       "company": "Rodeo FX",
       "location": "Montreal, ca",
       "description": "",
       "salary_min": null,
       "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137692549",
-      "created": "2026-07-14T15:14:31.735Z",
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137751399",
+      "created": "2026-07-14T21:02:04.578Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000137691765",
-      "title": "FX Artist - Senior - Multiple Positions",
+      "id": "sr-744000137748934",
+      "title": "Artiste FX - Senior et intermédiaire - Multiple positions",
       "company": "Rodeo FX",
       "location": "Montreal, ca",
       "description": "",
       "salary_min": null,
       "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137691765",
-      "created": "2026-07-14T15:14:09.953Z",
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137748934",
+      "created": "2026-07-14T21:01:23.935Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000137751040",
+      "title": "FX Artist - Mid and Senior - Multiple Positions",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137751040",
+      "created": "2026-07-14T21:00:26.803Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -729,19 +742,6 @@
       "created": "2026-07-06T02:29:25.245Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "lv-a7034408-634e-424c-bea1-bd058d9f8178",
-      "title": "Gestionnaire de projet – Plomberie | Project Manager – Plumbing",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Gestionnaire de projet Plomberie\nSite et infrastructure\nPoste temporaire (12 mois) \n \n \n \nNous avons une place pour celles et ceux qui ont un goût distinct pour assurer le bon déroulement des opérations au profit de nos spectacles et événements, pour penser des produits remarquables, pour mettre leur ingéniosité au service de leur équipe, en plus de contribuer à valoriser leur expertise et développer des pratiques exceptionnelles. Le Groupe Cirque du Soleil mise sur une approche de travail toujo",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/a7034408-634e-424c-bea1-bd058d9f8178",
-      "created": "2026-07-03T20:22:14.349000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-e005c255-0603-4374-a031-376681721004",
@@ -2564,19 +2564,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "lv-688aa541-11d2-45a9-bcce-3e0b56f7a23d",
-      "title": "On-Call Wardrobe Technician - Mad Apple",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/688aa541-11d2-45a9-bcce-3e0b56f7a23d",
-      "created": "2026-05-21T22:52:39.307000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-bccf0fee-c550-40ad-9f94-383792975c60",
       "title": "Senior Analyst, Conversion Rate Optimization (CRO)",
       "company": "Cirque du Soleil",
@@ -2991,19 +2978,6 @@
       "created": "2026-03-19T21:31:05.849Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-15c74e42-e0c6-4d69-ad9a-a5ae68ba1eda",
-      "title": "Lighting/Projections/Video/LED/Audio Maintenance Technician – 'Auana",
-      "company": "Cirque du Soleil",
-      "location": "Honolulu, HI",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n______________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/15c74e42-e0c6-4d69-ad9a-a5ae68ba1eda",
-      "created": "2026-03-18T19:45:03.766000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-807ef350-7e89-4c7e-b525-cb9edeb9d214",
