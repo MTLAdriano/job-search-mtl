@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-13T20:58:55.061398Z",
-  "count": 267,
+  "updated": "2026-07-14T02:44:39.265857Z",
+  "count": 262,
   "jobs": [
+    {
+      "id": "sr-744000137580899",
+      "title": "IT Support",
+      "company": "Keywords Studios",
+      "location": "Adelaide, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000137580899",
+      "created": "2026-07-14T02:41:16.304Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
     {
       "id": "sr-744000137531870",
       "title": "Business Development Coordinator - Advertising department",
@@ -1199,19 +1212,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000134388699",
-      "title": "IT Intern (6 months)",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000134388699",
-      "created": "2026-06-26T02:54:48.389Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000134321581",
       "title": "Artiste FX Seniors – Poste permanent ",
       "company": "Rodeo FX",
@@ -1533,19 +1533,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/19c859fa-7b20-465a-8ca4-20a6f8586107",
       "created": "2026-06-12T22:35:59.739000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-3575faa4-8b5f-4bd1-958f-9374e08d6425",
-      "title": "Artistic Director – ‘Auana",
-      "company": "Cirque du Soleil",
-      "location": "Honolulu, HI",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n______________________________________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/3575faa4-8b5f-4bd1-958f-9374e08d6425",
-      "created": "2026-06-11T20:40:19.647000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
@@ -2499,32 +2486,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000128239589",
-      "title": "Compositing Supervisor",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000128239589",
-      "created": "2026-05-25T15:39:36.581Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000128239539",
-      "title": "Superviseur.e de composition d’images",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000128239539",
-      "created": "2026-05-25T15:38:27.452Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "lv-8d709c4f-9dd2-419e-8a71-3cd5c3938b47",
       "title": "Wardrobe Technician – ALIZÉ",
       "company": "Cirque du Soleil",
@@ -3420,32 +3381,6 @@
       "created": "2025-10-17T14:52:02.092000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000083898496",
-      "title": "Superviseur.e de composition d’images - Manifestation d'intérêt",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000083898496",
-      "created": "2025-09-25T14:12:31.929Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000083899996",
-      "title": "Compositing Supervisor - Expression of interest",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000083899996",
-      "created": "2025-09-25T14:11:31.093Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000060046388",
