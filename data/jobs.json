@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-14T21:02:37.897866Z",
-  "count": 258,
+  "updated": "2026-07-15T02:43:09.027020Z",
+  "count": 259,
   "jobs": [
+    {
+      "id": "sr-744000137767999",
+      "title": "Data Analyst Intern (6months)",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000137767999",
+      "created": "2026-07-15T00:10:44.805Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000137751529",
+      "title": "Artiste FX Seniors - Poste permanent ",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137751529",
+      "created": "2026-07-14T21:02:42.197Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000137751399",
       "title": "Senior FX Artist - Permanent Role",
@@ -2222,19 +2248,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/6e3ad96b-c305-4b93-8f86-6be77ecb0b3a",
       "created": "2026-06-02T14:18:45.256000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-52129a9d-5a5f-41d1-b0e4-342073fca49a",
-      "title": "Executive Creative Producer – Blue Man Group and VStar Entertainment",
-      "company": "Cirque du Soleil",
-      "location": "Orlando, FL",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/52129a9d-5a5f-41d1-b0e4-342073fca49a",
-      "created": "2026-06-02T13:54:17.468000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
