@@ -1,17 +1,17 @@
 {
-  "updated": "2026-07-15T02:43:09.027020Z",
-  "count": 259,
+  "updated": "2026-07-15T06:18:02.725216Z",
+  "count": 258,
   "jobs": [
     {
-      "id": "sr-744000137767999",
-      "title": "Data Analyst Intern (6months)",
+      "id": "sr-744000137801299",
+      "title": "IT Manager",
       "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
+      "location": "Brisbane, au",
       "description": "",
       "salary_min": null,
       "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000137767999",
-      "created": "2026-07-15T00:10:44.805Z",
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000137801299",
+      "created": "2026-07-15T05:23:06.351Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -168,19 +168,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000137634949",
       "created": "2026-07-14T10:24:59.051Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000137584249",
-      "title": "IT Manager",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000137584249",
-      "created": "2026-07-14T03:42:46.629Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
