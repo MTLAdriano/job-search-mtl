@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-15T06:18:02.725216Z",
-  "count": 258,
+  "updated": "2026-07-15T10:05:42.131123Z",
+  "count": 257,
   "jobs": [
+    {
+      "id": "sr-744000137845989",
+      "title": "Assistant(e) Comptable Clients (Alternance -Septembre 2026)",
+      "company": "Gameloft Montreal",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000137845989",
+      "created": "2026-07-15T09:28:05.869Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000137841519",
+      "title": "2D Graphic Designer",
+      "company": "Gameloft Montreal",
+      "location": "Sofia, bg",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000137841519",
+      "created": "2026-07-15T09:11:16.466Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000137819719",
+      "title": "Software Engineer",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000137819719",
+      "created": "2026-07-15T07:36:09.096Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
+    {
+      "id": "sr-744000137818464",
+      "title": "Video Game Engine Programmer",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000137818464",
+      "created": "2026-07-15T07:28:03.499Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
+    {
+      "id": "sr-744000137812909",
+      "title": "Unity Programmer",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000137812909",
+      "created": "2026-07-15T06:55:17.885Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
     {
       "id": "sr-744000137801299",
       "title": "IT Manager",
@@ -627,32 +692,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000136412239",
-      "title": "Product Owner AI",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000136412239",
-      "created": "2026-07-08T08:42:07.960Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000136406723",
-      "title": "Responsable de produit intelligence artificielle",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000136406723",
-      "created": "2026-07-08T08:41:41.322Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000136375799",
       "title": "AI Engineer (for Game Development)",
       "company": "Gameloft Montreal",
@@ -885,19 +924,6 @@
       "created": "2026-07-03T07:02:49.614Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000135648309",
-      "title": "Unity Programmer",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000135648309",
-      "created": "2026-07-03T06:17:21.251Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
     },
     {
       "id": "lv-63cc826b-8524-4159-9667-7f8b4e9ac57a",
@@ -2551,19 +2577,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000127793779",
-      "title": "Senior Quality Assurance Analyst - Video Games",
-      "company": "Keywords Studios",
-      "location": "Box Hill, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000127793779",
-      "created": "2026-05-22T01:57:05.528Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
       "id": "lv-bccf0fee-c550-40ad-9f94-383792975c60",
       "title": "Senior Analyst, Conversion Rate Optimization (CRO)",
       "company": "Cirque du Soleil",
@@ -3054,32 +3067,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000112837317",
       "created": "2026-03-05T05:18:40.761Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000112837197",
-      "title": "Video Game Engine Programmer",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000112837197",
-      "created": "2026-03-05T05:17:24.393Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000112836858",
-      "title": "Software Engineer",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000112836858",
-      "created": "2026-03-05T05:15:04.737Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
     },
