@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-15T10:05:42.131123Z",
-  "count": 257,
+  "updated": "2026-07-15T13:49:01.047394Z",
+  "count": 259,
   "jobs": [
+    {
+      "id": "sr-744000137899577",
+      "title": "Director of Marketing & Communications",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137899577",
+      "created": "2026-07-15T13:45:12.649Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000137902489",
+      "title": "Directeur.trice marketing et communications",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137902489",
+      "created": "2026-07-15T13:44:40.967Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000137895670",
+      "title": "Senior Lookdev Artist - Temporary Contract",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137895670",
+      "created": "2026-07-15T13:21:04.594Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000137890035",
+      "title": "Artiste éclairagiste - Contrat Temporaire",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137890035",
+      "created": "2026-07-15T13:05:34.743Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000137890789",
+      "title": "Lighting Artist - Temporary Contract",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137890789",
+      "created": "2026-07-15T12:57:34.759Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000137845989",
       "title": "Assistant(e) Comptable Clients (Alternance -Septembre 2026)",
@@ -367,32 +432,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000137493152",
-      "title": "Director of Marketing & Communications",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137493152",
-      "created": "2026-07-13T15:39:50.965Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000137492860",
-      "title": "Directeur.trice marketing et communications",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137492860",
-      "created": "2026-07-13T15:39:00.154Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000137473791",
       "title": "Senior UI Designer",
       "company": "Gameloft Montreal",
@@ -636,19 +675,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000136538659",
       "created": "2026-07-08T17:37:55.119Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000136538419",
-      "title": "Senior Lookdev Artist - Temporary Contract",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000136538419",
-      "created": "2026-07-08T17:37:02.885Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
