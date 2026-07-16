@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-16T06:21:47.802539Z",
-  "count": 265,
+  "updated": "2026-07-16T10:12:00.737114Z",
+  "count": 262,
   "jobs": [
+    {
+      "id": "sr-744000138064129",
+      "title": "Senior Product Manager",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000138064129",
+      "created": "2026-07-16T09:04:32.099Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000138025849",
       "title": "Senior Level Designer",
@@ -1121,19 +1134,6 @@
       "source": "Sid Lee"
     },
     {
-      "id": "sr-744000137068967",
-      "title": "Senior Product Manager",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000137068967",
-      "created": "2026-07-10T08:21:58.206Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000136883567",
       "title": "Service Desk Technician ",
       "company": "Rodeo FX",
@@ -1715,19 +1715,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000134999114",
       "created": "2026-06-30T12:16:51.636Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000134920429",
-      "title": "Music Curator",
-      "company": "Gameloft Montreal",
-      "location": "Yogyakarta, id",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000134920429",
-      "created": "2026-06-30T02:04:32.188Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -2434,19 +2421,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "sr-744000130679549",
-      "title": "Senior Art Director - Vic/SA/Qld",
-      "company": "Keywords Studios",
-      "location": "Box Hill, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000130679549",
-      "created": "2026-06-08T00:10:45.553Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
       "id": "sr-744000130679031",
       "title": "Senior 3D Artist - Vic/SA/Qld",
       "company": "Keywords Studios",
@@ -2898,19 +2872,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000127016008",
       "created": "2026-05-18T14:33:55.176Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000126922619",
-      "title": "Music Composer",
-      "company": "Gameloft Montreal",
-      "location": "Yogyakarta, id",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000126922619",
-      "created": "2026-05-18T07:31:25.517Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
