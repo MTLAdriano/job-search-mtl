@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16T17:21:00.096838Z",
-  "count": 261,
+  "updated": "2026-07-16T21:03:45.688032Z",
+  "count": 259,
   "jobs": [
     {
       "id": "sr-744000138064129",
@@ -1134,19 +1134,6 @@
       "source": "Sid Lee"
     },
     {
-      "id": "sr-744000136883567",
-      "title": "Service Desk Technician ",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000136883567",
-      "created": "2026-07-09T18:56:40.193Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000136778258",
       "title": "Devops & Release Engineer",
       "company": "Gameloft Montreal",
@@ -1210,19 +1197,6 @@
       "created": "2026-07-09T07:21:03.484Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000136512509",
-      "title": "Technicien.ne soutient informatique",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000136512509",
-      "created": "2026-07-08T15:49:34.792Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000136465860",
