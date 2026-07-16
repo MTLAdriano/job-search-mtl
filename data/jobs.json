@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16T10:12:00.737114Z",
-  "count": 262,
+  "updated": "2026-07-16T14:00:12.119030Z",
+  "count": 261,
   "jobs": [
     {
       "id": "sr-744000138064129",
@@ -2939,19 +2939,6 @@
       "created": "2026-05-07T11:52:25-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000124624749",
-      "title": "3D Props/Environment Artist (Disney Dreamlight Valley)",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000124624749",
-      "created": "2026-05-05T11:41:11.322Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-ac8312d9-0825-49a2-a97d-3df582e9c115",
