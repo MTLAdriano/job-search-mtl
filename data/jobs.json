@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-17T13:45:02.871205Z",
-  "count": 256,
+  "updated": "2026-07-17T17:15:25.059274Z",
+  "count": 252,
   "jobs": [
     {
       "id": "sr-744000138295106",
@@ -2187,19 +2187,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "lv-efa8de0b-014f-45c2-b69e-da8fd593a3d9",
-      "title": "Chef.fe – Rémunération et SIRH | Manager – Compensation and HRIS",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Chef.fe – Rémunération et SIRH \nMode de travail hybride – 4 jours/semaine au bureau\nPoste permanent\n \n \nNous avons une place pour celles et ceux qui ont un goût distinct pour assurer le bon déroulement des opérations au profit de nos spectacles et événements, pour penser des produits remarquables, pour mettre leur ingéniosité au service de leur équipe, en plus de contribuer à valoriser leur expertise et développer des pratiques exceptionnelles. Le Groupe Cirque du Soleil mise sur une approche de",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/efa8de0b-014f-45c2-b69e-da8fd593a3d9",
-      "created": "2026-06-09T15:08:51.712000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "sr-744000131122089",
       "title": "Intermediate C++ Developer",
       "company": "Gameloft Montreal",
@@ -2941,19 +2928,6 @@
       "source": "Sid Lee"
     },
     {
-      "id": "lv-a5a782ba-ac9b-4ad0-af14-14c657897e77",
-      "title": "On-Call Automation Technician - KÀ",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/a5a782ba-ac9b-4ad0-af14-14c657897e77",
-      "created": "2026-04-17T21:24:06.414000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-fa0f6212-a2df-4dde-85ea-54d87538458f",
       "title": "Automation Technician - KÀ",
       "company": "Cirque du Soleil",
@@ -3119,19 +3093,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000115751358",
       "created": "2026-03-19T21:33:03.323Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000115751281",
-      "title": "[Dungeons & Dragons PC-Console] Artiste d'éclairage de niveaux - Lighter level artist",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000115751281",
-      "created": "2026-03-19T21:31:05.849Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -3314,19 +3275,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/d4d749ea-8810-47e4-af2d-2a6770982025",
       "created": "2026-01-24T14:39:50.884000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-75140f18-2aab-4144-9a9a-bfb157fffadf",
-      "title": "On-Call Automation Technician - O",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/75140f18-2aab-4144-9a9a-bfb157fffadf",
-      "created": "2025-10-17T14:52:02.092000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     }
