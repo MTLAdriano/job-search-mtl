@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-17T06:19:38.371622Z",
-  "count": 258,
+  "updated": "2026-07-17T10:01:00.446729Z",
+  "count": 255,
   "jobs": [
+    {
+      "id": "sr-744000138286962",
+      "title": "Game Community Intern - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000138286962",
+      "created": "2026-07-17T09:21:34.910Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000138284916",
+      "title": "Video Artist Intern - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000138284916",
+      "created": "2026-07-17T09:20:56.553Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000138286829",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000138286829",
+      "created": "2026-07-17T09:19:20.367Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000138286629",
+      "title": "C++ Software Engineer - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000138286629",
+      "created": "2026-07-17T09:18:45.290Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000138286359",
+      "title": "3D Character Artist - Disney Speedstorm (Temporary)",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000138286359",
+      "created": "2026-07-17T09:18:02.653Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-a26e511a-2d69-417f-b0bc-b2fc1d0098ff",
       "title": "Head Therapist – ‘Auana",
@@ -14,19 +79,6 @@
       "created": "2026-07-16T23:37:26.373000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000138064129",
-      "title": "Senior Product Manager",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000138064129",
-      "created": "2026-07-16T09:04:32.099Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000138025849",
@@ -653,19 +705,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000137845989",
-      "title": "Assistant(e) Comptable Clients (Alternance -Septembre 2026)",
-      "company": "Gameloft Montreal",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000137845989",
-      "created": "2026-07-15T09:28:05.869Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000137841519",
       "title": "2D Graphic Designer",
       "company": "Gameloft Montreal",
@@ -820,19 +859,6 @@
       "created": "2026-07-14T15:09:55.230Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000137676474",
-      "title": "3D Character Artist (Temporary)",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000137676474",
-      "created": "2026-07-14T14:06:12.049Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000137672429",
@@ -1459,19 +1485,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000135653869",
-      "title": "Video Artist Intern",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000135653869",
-      "created": "2026-07-03T07:02:49.614Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "lv-63cc826b-8524-4159-9667-7f8b4e9ac57a",
       "title": "Commis – Comptes payables | Clerk – Account Payables",
       "company": "Cirque du Soleil",
@@ -1520,32 +1533,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000135476949",
       "created": "2026-07-02T11:26:14.379Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000135473294",
-      "title": "C++ Software Engineer",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000135473294",
-      "created": "2026-07-02T11:01:14.915Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000135472190",
-      "title": "Game Community Intern ",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000135472190",
-      "created": "2026-07-02T11:00:11.546Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -2421,19 +2408,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "sr-744000130019018",
-      "title": "Communication Specialist",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000130019018",
-      "created": "2026-06-03T14:26:03.474Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000129904644",
       "title": "Senior Technical Artist - Vic/SA/Qld",
       "company": "Keywords Studios",
@@ -2536,19 +2510,6 @@
       "created": "2026-06-01T19:57:08.437000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000129482920",
-      "title": "User Researcher Assistant – Stage (Septembre 2026 / 6 mois)",
-      "company": "Gameloft Montreal",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000129482920",
-      "created": "2026-06-01T12:56:44.136Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-8e18c58c-1418-4c92-906e-b7a564920c40",
