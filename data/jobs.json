@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-17T10:01:00.446729Z",
-  "count": 255,
+  "updated": "2026-07-17T13:45:02.871205Z",
+  "count": 256,
   "jobs": [
+    {
+      "id": "sr-744000138295106",
+      "title": "Video Artist",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000138295106",
+      "created": "2026-07-17T10:19:24.664Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000138286962",
       "title": "Game Community Intern - Asphalt Legends",
