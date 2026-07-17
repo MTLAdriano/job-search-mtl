@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-16T21:03:45.688032Z",
-  "count": 259,
+  "updated": "2026-07-17T02:52:14.372467Z",
+  "count": 258,
   "jobs": [
+    {
+      "id": "lv-a26e511a-2d69-417f-b0bc-b2fc1d0098ff",
+      "title": "Head Therapist – ‘Auana",
+      "company": "Cirque du Soleil",
+      "location": "Honolulu, HI",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/a26e511a-2d69-417f-b0bc-b2fc1d0098ff",
+      "created": "2026-07-16T23:37:26.373000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000138064129",
       "title": "Senior Product Manager",
@@ -1940,19 +1953,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "lv-57c6661e-7122-4838-a79a-fe277aed778c",
-      "title": "Préposé.e à la résidence des artistes | Artists Residence Attendant",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Préposé.e à la résidence des artistes \nServices immobiliers\nPoste à temps partiel - soirs et fins de semaine\n \nNous avons une place pour celles et ceux qui ont un goût distinct pour assurer le bon déroulement des opérations au profit de nos spectacles et événements, pour penser des produits remarquables, pour mettre leur ingéniosité au service de leur équipe, en plus de contribuer à valoriser leur expertise et développer des pratiques exceptionnelles. Le Groupe Cirque du Soleil mise sur une appr",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/57c6661e-7122-4838-a79a-fe277aed778c",
-      "created": "2026-06-18T17:56:24.079000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "gh-6610686",
       "title": "Architecte, Chargé.e de projets",
       "company": "Sid Lee",
@@ -2885,19 +2885,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/76cbe3c9-abca-4bdc-b57c-6763979c293b",
       "created": "2026-05-11T19:29:33.604000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-d9520aae-447c-4e7b-b304-6a9db40a9015",
-      "title": "Dessinateur.trice en génie civil | Civil Engineering Draftsperson",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Dessinateur.trice en génie civil\nMode de travail hybride – présence au bureau 4 jours par semaine \nPoste permanent/temps plein\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/d9520aae-447c-4e7b-b304-6a9db40a9015",
-      "created": "2026-05-07T19:54:48.047000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
