@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-18T20:53:29.362793Z",
-  "count": 251,
+  "updated": "2026-07-19T03:14:01.669919Z",
+  "count": 255,
   "jobs": [
+    {
+      "id": "lv-6f611edc-31c5-4cf1-8939-dd0287c388ea",
+      "title": "Head of Lighting and Video – Blue Man Group Orlando",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.*** \n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/6f611edc-31c5-4cf1-8939-dd0287c388ea",
+      "created": "2026-07-19T00:10:15.265000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-ee0b9ec9-f446-4eeb-8675-45255363d18a",
+      "title": "On-Call Audio Technician – Resident Shows",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/ee0b9ec9-f446-4eeb-8675-45255363d18a",
+      "created": "2026-07-18T23:15:33.695000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-a7b71555-1065-46c5-9152-47a1ad0ea0e5",
+      "title": "Technicien.ne – Comptabilité | Technician– Accounting",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Technicien.ne – Comptabilité\nFinance et comptabilité\nPoste temporaire / Temps partiel\n \n \nLa vie au Cirque, c’est partager notre passion et créer de l’émerveillement avec des collègues de talent, et ce, à vitesse grand V. L’audace et la curiosité font partie de notre ADN et, nous l’espérons, du tien aussi. Ensemble, nous travaillons fort, jonglons avec des priorités et changeons parfois de trajectoire tout en ayant beaucoup de plaisir. Surtout, nous osons nous réinventer et relever de nouveaux d",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/a7b71555-1065-46c5-9152-47a1ad0ea0e5",
+      "created": "2026-07-18T23:08:59.633000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-3c1f175d-9898-4bec-a1b6-383631338879",
+      "title": "Technicien.ne – Paie | Technician – Payroll",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Technicien.ne – Paie\nFinance et comptabilité\nPoste temporaire – Mode de travail hybride – 4 jours/semaine au bureau  \n \n \n \nLa vie au Cirque, c’est partager notre passion et créer de l’émerveillement avec des collègues de talent, et ce, à vitesse grand V. L’audace et la curiosité font partie de notre ADN et, nous l’espérons, du tien aussi. Ensemble, nous travaillons fort, jonglons avec des priorités et changeons parfois de trajectoire tout en ayant beaucoup de plaisir. Surtout, nous osons nous r",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/3c1f175d-9898-4bec-a1b6-383631338879",
+      "created": "2026-07-18T22:42:08.508000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-9e49b488-3ac2-44c6-a934-f5d3f4db1303",
+      "title": "On-Call Front of House Staff – Blue Man Group Orlando",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/9e49b488-3ac2-44c6-a934-f5d3f4db1303",
+      "created": "2026-07-18T22:04:02.983000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000138295106",
       "title": "Video Artist",
@@ -3082,19 +3147,6 @@
       "created": "2026-03-19T21:33:03.323Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-807ef350-7e89-4c7e-b525-cb9edeb9d214",
-      "title": "Front of House Staff - Blue Man Group Orlando",
-      "company": "Cirque du Soleil",
-      "location": "Orlando, FL",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.*** \n \n________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/807ef350-7e89-4c7e-b525-cb9edeb9d214",
-      "created": "2026-03-11T19:33:26.357000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000113045937",
