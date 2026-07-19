@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-19T13:23:24.700605Z",
-  "count": 255,
+  "updated": "2026-07-19T17:00:44.393119Z",
+  "count": 254,
   "jobs": [
     {
       "id": "lv-6f611edc-31c5-4cf1-8939-dd0287c388ea",
@@ -2666,19 +2666,6 @@
       "created": "2026-05-26T18:49:58.337000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000128541802",
-      "title": "Gestionnaire senior des projets créatifs - Senior Creative Project Manager",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000128541802",
-      "created": "2026-05-26T16:08:02.310Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-c88bddd8-22fc-4a79-89e1-d93b210e977d",
