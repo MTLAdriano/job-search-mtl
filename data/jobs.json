@@ -1,19 +1,32 @@
 {
-  "updated": "2026-07-20T14:12:31.070594Z",
-  "count": 252,
+  "updated": "2026-07-20T18:07:03.349105Z",
+  "count": 250,
   "jobs": [
     {
-      "id": "sr-744000138655299",
-      "title": "Junior System Administrator ",
+      "id": "sr-744000138655841",
+      "title": "System Administrator ",
       "company": "Gameloft Montreal",
       "location": "Lviv, ua",
       "description": "",
       "salary_min": null,
       "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000138655299",
-      "created": "2026-07-20T14:08:40.421Z",
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000138655841",
+      "created": "2026-07-20T14:15:55.453Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
+    },
+    {
+      "id": "gh-8074408",
+      "title": "Account Director ",
+      "company": "Sid Lee",
+      "location": "New York, New York, United States",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8074408",
+      "created": "2026-07-20T10:20:50-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
     },
     {
       "id": "lv-6f611edc-31c5-4cf1-8939-dd0287c388ea",
@@ -1303,32 +1316,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000136465860",
-      "title": "Spécialiste, imagerie et couleur - junior",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000136465860",
-      "created": "2026-07-08T13:13:12.786Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000136464330",
-      "title": "Junior Imaging & Color Specialist",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000136464330",
-      "created": "2026-07-08T13:12:10.061Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000136375799",
       "title": "AI Engineer (for Game Development)",
       "company": "Gameloft Montreal",
@@ -2521,19 +2508,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/6e3ad96b-c305-4b93-8f86-6be77ecb0b3a",
       "created": "2026-06-02T14:18:45.256000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-233a1094-fc56-44bf-bc78-23bc57ea5aa1",
-      "title": "On-Call Wardrobe Technician - \"O\"",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/233a1094-fc56-44bf-bc78-23bc57ea5aa1",
-      "created": "2026-06-01T19:58:12.295000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
