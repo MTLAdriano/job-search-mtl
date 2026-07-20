@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-20T03:28:29.142750Z",
-  "count": 254,
+  "updated": "2026-07-20T06:50:04.356119Z",
+  "count": 253,
   "jobs": [
     {
       "id": "lv-6f611edc-31c5-4cf1-8939-dd0287c388ea",
@@ -961,19 +961,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000137641409",
       "created": "2026-07-14T11:05:51.055Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000137634949",
-      "title": "Office Coordinator",
-      "company": "Gameloft Montreal",
-      "location": "Yogyakarta, id",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000137634949",
-      "created": "2026-07-14T10:24:59.051Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
