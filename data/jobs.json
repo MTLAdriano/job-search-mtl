@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-20T10:55:25.663214Z",
+  "updated": "2026-07-20T14:12:31.070594Z",
   "count": 252,
   "jobs": [
+    {
+      "id": "sr-744000138655299",
+      "title": "Junior System Administrator ",
+      "company": "Gameloft Montreal",
+      "location": "Lviv, ua",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000138655299",
+      "created": "2026-07-20T14:08:40.421Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-6f611edc-31c5-4cf1-8939-dd0287c388ea",
       "title": "Head of Lighting and Video – Blue Man Group Orlando",
@@ -987,19 +1000,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000137531870",
       "created": "2026-07-13T19:57:31.035Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000137508669",
-      "title": "Chargé.e planification des ressources - Contrat Temporaire",
-      "company": "Rodeo FX",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137508669",
-      "created": "2026-07-13T17:00:55.252Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
