@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-20T06:50:04.356119Z",
-  "count": 253,
+  "updated": "2026-07-20T10:55:25.663214Z",
+  "count": 252,
   "jobs": [
     {
       "id": "lv-6f611edc-31c5-4cf1-8939-dd0287c388ea",
@@ -2614,19 +2614,6 @@
       "created": "2026-05-28T21:57:20.241000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000128889764",
-      "title": "3D Character Artist [Disney Dreamlight Valley]",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000128889764",
-      "created": "2026-05-28T08:38:51.087Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000128851514",
