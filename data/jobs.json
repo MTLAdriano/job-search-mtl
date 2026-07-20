@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-20T18:07:03.349105Z",
-  "count": 250,
+  "updated": "2026-07-20T21:14:23.896183Z",
+  "count": 251,
   "jobs": [
+    {
+      "id": "lv-db626822-9703-497c-a0b4-4982ac6cede2",
+      "title": "Chef.fe Automatisation – KURIOS | Head of Automation – KURIOS",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Chef de service, Automation – Spectacle en tournée\nAutomatisation de Scène\nPoste à temps plein\n \n* Veuillez noter que ce poste implique de voyager à l'international à temps plein et de travailler à l'étranger. *\n \n \nNous recherchons un chef de service (HOD) expérimenté et motivé, spécialisé en automation, pour diriger et gérer les opérations d'automatisation de l'un des spectacles en tournée du Cirque du Soleil. Sous la responsabilité du directeur technique et en étroite collaboration avec le di",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/db626822-9703-497c-a0b4-4982ac6cede2",
+      "created": "2026-07-20T19:51:06.014000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000138655841",
       "title": "System Administrator ",
