@@ -1,17 +1,69 @@
 {
-  "updated": "2026-07-21T13:59:11.609983Z",
-  "count": 234,
+  "updated": "2026-07-21T17:24:05.472123Z",
+  "count": 236,
   "jobs": [
     {
-      "id": "sr-744000138792029",
+      "id": "lv-182c6859-e7e3-42fd-9168-b2f8ec1a64c6",
+      "title": "Régisseur – Cirque du Soleil LUDÕ | Stage Manager – Cirque du Soleil LUDÕ",
+      "company": "Cirque du Soleil",
+      "location": "Nuevo Nayarit",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/182c6859-e7e3-42fd-9168-b2f8ec1a64c6",
+      "created": "2026-07-21T16:41:17.379000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000138917584",
+      "title": "FX Artist - Mid and Senior - Multiple Positions",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000138917584",
+      "created": "2026-07-21T16:29:38.973Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000138917649",
+      "title": "SENIOR FX Artist - Temporary contract",
+      "company": "Rodeo FX",
+      "location": "Toronto, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000138917649",
+      "created": "2026-07-21T16:28:45.203Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "lv-85c971b2-45b0-40ec-a283-1ca719e0cd93",
+      "title": "Conseiller.ère – Traffic et Acquisition de talents | Advisor - Talent Acquisition Operations & Recruitment",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Conseiller.ère – Traffic et Acquisition de talentsTalent\nPoste permanentMode de travail hybride – 4 jours/semaine au bureau\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire.\n \n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles e",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/85c971b2-45b0-40ec-a283-1ca719e0cd93",
+      "created": "2026-07-21T15:41:57.586000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000138898789",
       "title": "Senior Product Manager - Asphalt Legends",
       "company": "Gameloft Montreal",
       "location": "Barcelona, es",
       "description": "",
       "salary_min": null,
       "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000138792029",
-      "created": "2026-07-21T06:53:51.370Z",
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000138898789",
+      "created": "2026-07-21T15:05:45.551Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -783,19 +835,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000137751040",
-      "title": "FX Artist - Mid and Senior - Multiple Positions",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137751040",
-      "created": "2026-07-14T21:00:26.803Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000137692209",
       "title": "Producteur.trice VFX - Sénior - Permanent",
       "company": "Rodeo FX",
@@ -1327,19 +1366,6 @@
       "created": "2026-07-03T19:56:30.014000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000135771507",
-      "title": "SENIOR FX Artist - Temporary contract",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000135771507",
-      "created": "2026-07-03T17:57:33.530Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000135758281",
