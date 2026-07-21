@@ -1,13 +1,39 @@
 {
-  "updated": "2026-07-21T17:24:05.472123Z",
-  "count": 236,
+  "updated": "2026-07-21T21:13:11.306398Z",
+  "count": 238,
   "jobs": [
+    {
+      "id": "sr-744000138925942",
+      "title": "Artiste en modélisation 3D - Expression d'intérêt",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000138925942",
+      "created": "2026-07-21T17:27:47.836Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000138923915",
+      "title": "Modeling Artist - Expression of interest",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000138923915",
+      "created": "2026-07-21T17:26:24.461Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "lv-182c6859-e7e3-42fd-9168-b2f8ec1a64c6",
       "title": "Régisseur – Cirque du Soleil LUDÕ | Stage Manager – Cirque du Soleil LUDÕ",
       "company": "Cirque du Soleil",
       "location": "Nuevo Nayarit",
-      "description": "",
+      "description": "Régisseur - Cirque du Soleil LUDÕSoutien Artistique\nPoste à temps plein  \nLieu de travail : Vallarta-Nuevo Nayarit, Mexique  \n \n \n*** VEUILLEZ NOTER QUE CE POSTE SERA SITUÉ À VALLARTA-NUEVO NAYARIT, AU MEXIQUE. *** \n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos productions à ve",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/182c6859-e7e3-42fd-9168-b2f8ec1a64c6",
@@ -155,6 +181,19 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/3c1f175d-9898-4bec-a1b6-383631338879",
       "created": "2026-07-18T22:42:08.508000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-a0d81a29-f937-424e-8505-2e5086873910",
+      "title": "Product Development Lead – Consumer Products",
+      "company": "Cirque du Soleil",
+      "location": "London",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/a0d81a29-f937-424e-8505-2e5086873910",
+      "created": "2026-07-18T22:35:23.427000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
@@ -3041,19 +3080,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/70c69d89-8249-4265-bc8c-1a361b15bce9",
       "created": "2026-02-04T15:59:21.674000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-97a68461-52bf-4db0-9bca-77a1ce483b7d",
-      "title": "Directeur.trice Artistique | Art Director",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Directeur.trice Artistique \nCréation et production\nPoste à temps plein\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos pr",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/97a68461-52bf-4db0-9bca-77a1ce483b7d",
-      "created": "2026-01-27T21:48:34.716000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
