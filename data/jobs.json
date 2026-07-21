@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-21T06:31:18.656986Z",
-  "count": 250,
+  "updated": "2026-07-21T10:27:17.979223Z",
+  "count": 234,
   "jobs": [
+    {
+      "id": "sr-744000138792029",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000138792029",
+      "created": "2026-07-21T06:53:51.370Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-db626822-9703-497c-a0b4-4982ac6cede2",
       "title": "Chef.fe Automatisation – KURIOS | Head of Automation – KURIOS",
@@ -146,19 +159,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000138286829",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000138286829",
-      "created": "2026-07-17T09:19:20.367Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000138286629",
       "title": "C++ Software Engineer - Asphalt Legends",
       "company": "Gameloft Montreal",
@@ -211,58 +211,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000138023100",
-      "title": "シニア背景アーティスト",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138023100",
-      "created": "2026-07-16T04:07:40.533Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000138023599",
-      "title": "Senior Environment Artist",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138023599",
-      "created": "2026-07-16T04:07:20.072Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000138023041",
-      "title": "シニア3Dアーティスト",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138023041",
-      "created": "2026-07-16T04:06:44.706Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000138023499",
-      "title": "Senior 3D Artist ",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138023499",
-      "created": "2026-07-16T04:06:20.031Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
       "id": "sr-744000138023389",
       "title": "シニアエフェクトアーティスト (VFX)",
       "company": "Keywords Studios",
@@ -311,32 +259,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138023199",
       "created": "2026-07-16T04:04:09.700Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000138022960",
-      "title": "3Dアーティスト",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138022960",
-      "created": "2026-07-16T04:03:32.654Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000138022880",
-      "title": "3D Artist",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138022880",
-      "created": "2026-07-16T04:03:12.348Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
     },
@@ -393,32 +315,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "sr-744000138022699",
-      "title": "シニアキャラクターアーティスト",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138022699",
-      "created": "2026-07-16T04:00:30.670Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000138022649",
-      "title": "Senior Character Artist ",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138022649",
-      "created": "2026-07-16T04:00:09.467Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
       "id": "sr-744000138022509",
       "title": "Lighting Artist",
       "company": "Keywords Studios",
@@ -467,32 +363,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138022109",
       "created": "2026-07-16T03:47:33.107Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000138022029",
-      "title": "背景アーティスト",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138022029",
-      "created": "2026-07-16T03:46:54.382Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000138021939",
-      "title": "Environment Artist",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138021939",
-      "created": "2026-07-16T03:46:18.937Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
     },
@@ -1927,19 +1797,6 @@
       "source": "Sid Lee"
     },
     {
-      "id": "sr-744000133522535",
-      "title": "Marketing Video & Motion Artist",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000133522535",
-      "created": "2026-06-23T07:29:20.034Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000133294409",
       "title": "3D Character Artist (Middle/Senior)",
       "company": "Gameloft Montreal",
@@ -2369,32 +2226,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "sr-744000130680139",
-      "title": "Environment Artist Vic/SA/Qld",
-      "company": "Keywords Studios",
-      "location": "Box Hill, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000130680139",
-      "created": "2026-06-08T00:36:30.365Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000130680009",
-      "title": "Senior Environment Artist Vic/SA/Qld",
-      "company": "Keywords Studios",
-      "location": "Box Hill, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000130680009",
-      "created": "2026-06-08T00:31:21.496Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
       "id": "sr-744000130679789",
       "title": "UI Artist Vic/SA/Qld",
       "company": "Keywords Studios",
@@ -2430,32 +2261,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000130679589",
       "created": "2026-06-08T00:11:39.332Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000130679031",
-      "title": "Senior 3D Artist - Vic/SA/Qld",
-      "company": "Keywords Studios",
-      "location": "Box Hill, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000130679031",
-      "created": "2026-06-08T00:09:59.897Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000130679409",
-      "title": "3D Artist - Vic/SA/Qld",
-      "company": "Keywords Studios",
-      "location": "Box Hill, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000130679409",
-      "created": "2026-06-08T00:08:21.009Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
     },
@@ -2783,19 +2588,6 @@
       "created": "2026-05-19T18:06:59-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000127016008",
-      "title": "Producer",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000127016008",
-      "created": "2026-05-18T14:33:55.176Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-b8c7b6fe-7b2e-4a59-9277-879e50756d70",
