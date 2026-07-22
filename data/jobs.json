@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-22T14:02:44.655322Z",
-  "count": 238,
+  "updated": "2026-07-22T17:23:35.618440Z",
+  "count": 237,
   "jobs": [
+    {
+      "id": "sr-744000139115351",
+      "title": "Business Development Coordinator - Advertising department",
+      "company": "Rodeo FX",
+      "location": "Toronto, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000139115351",
+      "created": "2026-07-22T16:03:18.437Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000139114291",
+      "title": "Facilities Clerk",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000139114291",
+      "created": "2026-07-22T16:00:22.304Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "lv-c4713b25-3e68-4e05-b454-7ee0093b0a87",
+      "title": "Head of Department, Lighting and Special Effects – ALIZÉ",
+      "company": "Cirque du Soleil",
+      "location": "Berlin",
+      "description": "Head of Department, Lighting and Special Effects – ALIZÉ \nTechnical Management\nFull-Time Position\n \n \nWe are looking for a Head of Department (“HOD”), to lead the Lighting and Special Effects team! The Lighting and Special Effects HOD works in collaboration with the Show Technical Director and the Technical Services Lighting Manager. This position will oversee the crew when installing, maintaining, and operating theater power systems, the lighting and dimming network system, lighting consoles, a",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/c4713b25-3e68-4e05-b454-7ee0093b0a87",
+      "created": "2026-07-22T14:50:34.966000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000139077890",
       "title": "FX Artist - Mid and Senior - Multiple Positions",
@@ -202,7 +241,7 @@
       "title": "Technicien.ne – Comptabilité | Technician– Accounting",
       "company": "Cirque du Soleil",
       "location": "Montréal, QC",
-      "description": "Technicien.ne – Comptabilité\nFinance et comptabilité\nPoste temporaire / Temps partiel\n \n \nLa vie au Cirque, c’est partager notre passion et créer de l’émerveillement avec des collègues de talent, et ce, à vitesse grand V. L’audace et la curiosité font partie de notre ADN et, nous l’espérons, du tien aussi. Ensemble, nous travaillons fort, jonglons avec des priorités et changeons parfois de trajectoire tout en ayant beaucoup de plaisir. Surtout, nous osons nous réinventer et relever de nouveaux d",
+      "description": "Technicien.ne – Comptabilité\nFinance et comptabilité\nPermanent/Temps Plein\n \n \nLa vie au Cirque, c’est partager notre passion et créer de l’émerveillement avec des collègues de talent, et ce, à vitesse grand V. L’audace et la curiosité font partie de notre ADN et, nous l’espérons, du tien aussi. Ensemble, nous travaillons fort, jonglons avec des priorités et changeons parfois de trajectoire tout en ayant beaucoup de plaisir. Surtout, nous osons nous réinventer et relever de nouveaux défis.\n \nEn ",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/a7b71555-1065-46c5-9152-47a1ad0ea0e5",
@@ -991,19 +1030,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "sr-744000137531870",
-      "title": "Business Development Coordinator - Advertising department",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137531870",
-      "created": "2026-07-13T19:57:31.035Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000137508369",
       "title": "Directeur·trice des ressources humaines",
       "company": "Rodeo FX",
@@ -1013,19 +1039,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000137508369",
       "created": "2026-07-13T16:58:13.892Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000137508249",
-      "title": "Facilities Clerk",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137508249",
-      "created": "2026-07-13T16:56:50.506Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -1379,19 +1392,6 @@
       "created": "2026-07-06T18:42:29.551Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "lv-d81f1893-477d-4024-89d9-c552db19a3f7",
-      "title": "Stage Manager – Mad Apple",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n ____________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/d81f1893-477d-4024-89d9-c552db19a3f7",
-      "created": "2026-07-06T18:32:20.270000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000135903729",
@@ -2692,19 +2692,6 @@
       "created": "2026-05-11T19:29:33.604000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "gh-7904571",
-      "title": "Producteur.trice Principal.e - Lead Producer",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7904571",
-      "created": "2026-05-07T11:52:25-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "lv-ac8312d9-0825-49a2-a97d-3df582e9c115",
