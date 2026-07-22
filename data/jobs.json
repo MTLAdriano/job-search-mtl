@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-21T21:13:11.306398Z",
-  "count": 238,
+  "updated": "2026-07-22T02:52:46.647329Z",
+  "count": 240,
   "jobs": [
+    {
+      "id": "lv-c90056e0-d896-4fc4-88fe-6f182228f876",
+      "title": "Sales Manager – Drawn to Life",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/c90056e0-d896-4fc4-88fe-6f182228f876",
+      "created": "2026-07-21T22:44:07.121000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-150bf979-9c56-47bf-a1d5-710c2b42a998",
+      "title": "Product Development Lead – Consumer Products",
+      "company": "Cirque du Soleil",
+      "location": "London",
+      "description": "***Le poste étant situé aux UK, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the UK, the job description is available in English only.***\n \n_______________________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/150bf979-9c56-47bf-a1d5-710c2b42a998",
+      "created": "2026-07-21T22:29:32.095000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-74920ba6-e6e0-4eaa-938e-af6d3b332469",
+      "title": "Gestionnaire numérique – Amérique du Nord | Digital Manager – North America",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/74920ba6-e6e0-4eaa-938e-af6d3b332469",
+      "created": "2026-07-21T22:20:13.443000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000138925942",
       "title": "Artiste en modélisation 3D - Expression d'intérêt",
@@ -181,19 +220,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/3c1f175d-9898-4bec-a1b6-383631338879",
       "created": "2026-07-18T22:42:08.508000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-a0d81a29-f937-424e-8505-2e5086873910",
-      "title": "Product Development Lead – Consumer Products",
-      "company": "Cirque du Soleil",
-      "location": "London",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/a0d81a29-f937-424e-8505-2e5086873910",
-      "created": "2026-07-18T22:35:23.427000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
