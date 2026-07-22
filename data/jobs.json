@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-22T10:28:05.572395Z",
-  "count": 240,
+  "updated": "2026-07-22T14:02:44.655322Z",
+  "count": 238,
   "jobs": [
+    {
+      "id": "sr-744000139077890",
+      "title": "FX Artist - Mid and Senior - Multiple Positions",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000139077890",
+      "created": "2026-07-22T13:19:39.883Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "lv-c90056e0-d896-4fc4-88fe-6f182228f876",
       "title": "Sales Manager – Drawn to Life",
@@ -79,19 +92,6 @@
       "created": "2026-07-21T16:41:17.379000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000138917584",
-      "title": "FX Artist - Mid and Senior - Multiple Positions",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000138917584",
-      "created": "2026-07-21T16:29:38.973Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000138917649",
@@ -1780,32 +1780,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000134496210",
       "created": "2026-06-26T14:50:52.265Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000134494029",
-      "title": "Artiste Mid Surfacing Personnages - PROJET CONFIDENTIEL - Candidature Spontanée",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000134494029",
-      "created": "2026-06-26T14:42:10.913Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000134492085",
-      "title": "Mid Character Surfacing Artist - UNDISCLOSED PROJECT - Expression of Interest",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000134492085",
-      "created": "2026-06-26T14:38:54.148Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
