@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-23T06:32:44.742417Z",
+  "updated": "2026-07-23T10:25:42.883319Z",
   "count": 235,
   "jobs": [
+    {
+      "id": "sr-744000139226605",
+      "title": "IT Manager",
+      "company": "Gameloft Montreal",
+      "location": "Brisbane, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000139226605",
+      "created": "2026-07-23T08:27:17.777Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000139115351",
       "title": "Business Development Coordinator - Advertising department",
@@ -885,19 +898,6 @@
       "created": "2026-07-15T06:55:17.885Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000137801299",
-      "title": "IT Manager",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000137801299",
-      "created": "2026-07-15T05:23:06.351Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000137751529",
