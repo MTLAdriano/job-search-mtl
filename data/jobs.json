@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-23T10:25:42.883319Z",
+  "updated": "2026-07-23T14:08:02.949694Z",
   "count": 235,
   "jobs": [
+    {
+      "id": "sr-744000139289835",
+      "title": "Commis.e aux installations",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000139289835",
+      "created": "2026-07-23T13:49:57.889Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000139287875",
+      "title": "Facilities Clerk",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000139287875",
+      "created": "2026-07-23T13:42:00.346Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000139264646",
+      "title": "Product Owner AI",
+      "company": "Gameloft Montreal",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000139264646",
+      "created": "2026-07-23T11:53:15.060Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000139226605",
       "title": "IT Manager",
@@ -25,19 +64,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000139115351",
       "created": "2026-07-22T16:03:18.437Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000139114291",
-      "title": "Facilities Clerk",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000139114291",
-      "created": "2026-07-22T16:00:22.304Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -1052,19 +1078,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000137508239",
       "created": "2026-07-13T16:56:47.641Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000137508029",
-      "title": "Commis.e aux installations",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137508029",
-      "created": "2026-07-13T16:54:41.798Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -2469,19 +2482,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/0c6a8f3a-7cf8-44ee-8826-d5509d232871",
       "created": "2026-05-26T18:49:58.337000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-c88bddd8-22fc-4a79-89e1-d93b210e977d",
-      "title": "Adjoint.e exécutif.ve | Executive assistant",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Adjoint.e exécutif.ve \nMode de travail hybride – 4 jours/semaine au bureau\nPoste temporaire 12 mois/temps plein\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectac",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/c88bddd8-22fc-4a79-89e1-d93b210e977d",
-      "created": "2026-05-26T14:23:49.136000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
