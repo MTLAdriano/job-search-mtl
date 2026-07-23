@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-23T14:08:02.949694Z",
-  "count": 235,
+  "updated": "2026-07-23T17:25:03.973140Z",
+  "count": 233,
   "jobs": [
+    {
+      "id": "lv-bac8938e-ca1b-4689-a78d-00476707e7a3",
+      "title": "Coordonnateur.trice de comptes – Équipe d'activation des partenariats | Account Coordinator – Partnership Activation Team",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/bac8938e-ca1b-4689-a78d-00476707e7a3",
+      "created": "2026-07-23T17:07:10.339000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000139289835",
       "title": "Commis.e aux installations",
@@ -98,7 +111,7 @@
       "title": "Sales Manager – Drawn to Life",
       "company": "Cirque du Soleil",
       "location": "Orlando, FL",
-      "description": "",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.*** \n \n_________________________________________________________________\n",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/c90056e0-d896-4fc4-88fe-6f182228f876",
@@ -124,7 +137,7 @@
       "title": "Gestionnaire numérique – Amérique du Nord | Digital Manager – North America",
       "company": "Cirque du Soleil",
       "location": "Montréal, QC",
-      "description": "",
+      "description": "Gestionnaire numérique\nMarque et commercialisation\nPoste temps plein\n \nLieu : Amérique du Nord\nRelève du : Directeur du marketing\n \n \nSommaire du poste\nLe ou la Gestionnaire marketing numérique joue un rôle clé dans l'atteinte des objectifs d'affaires de l'équipe Marketing de Cirque du Soleil en pilotant la stratégie et l'exécution des initiatives de marketing numérique pour plusieurs marchés et productions.\n \nLa personne titulaire du poste est responsable d'optimiser la performance numérique to",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/74920ba6-e6e0-4eaa-938e-af6d3b332469",
@@ -1654,32 +1667,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000135085959",
-      "title": "Responsable Informatique -  Permanent - Paris",
-      "company": "Rodeo FX",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000135085959",
-      "created": "2026-06-30T18:16:36.080Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000135084780",
-      "title": "IT Manager - Permanent - Paris",
-      "company": "Rodeo FX",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000135084780",
-      "created": "2026-06-30T18:16:13.275Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "gh-8039319",
       "title": "Copywriter",
       "company": "Sid Lee",
@@ -2471,19 +2458,6 @@
       "created": "2026-05-28T03:01:10.433Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "lv-0c6a8f3a-7cf8-44ee-8826-d5509d232871",
-      "title": "Executive Assistant and Office Lead",
-      "company": "Cirque du Soleil",
-      "location": "London",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/0c6a8f3a-7cf8-44ee-8826-d5509d232871",
-      "created": "2026-05-26T18:49:58.337000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000128334705",
