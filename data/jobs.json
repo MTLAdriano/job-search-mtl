@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-23T21:07:22.287121Z",
+  "updated": "2026-07-24T02:53:30.932973Z",
   "count": 234,
   "jobs": [
+    {
+      "id": "lv-6900aac4-9233-4589-82a1-1e6a1679692c",
+      "title": "Business Analyst",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n__________________________________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/6900aac4-9233-4589-82a1-1e6a1679692c",
+      "created": "2026-07-24T00:21:19.980000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "lv-eada03a0-9572-495f-b73a-7f4722d1a859",
       "title": "Sales Manager – 'Auana",
@@ -142,19 +155,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/150bf979-9c56-47bf-a1d5-710c2b42a998",
       "created": "2026-07-21T22:29:32.095000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-74920ba6-e6e0-4eaa-938e-af6d3b332469",
-      "title": "Gestionnaire numérique – Amérique du Nord | Digital Manager – North America",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Gestionnaire numérique\nMarque et commercialisation\nPoste temps plein\n \nLieu : Amérique du Nord\nRelève du : Directeur du marketing\n \n \nSommaire du poste\nLe ou la Gestionnaire marketing numérique joue un rôle clé dans l'atteinte des objectifs d'affaires de l'équipe Marketing de Cirque du Soleil en pilotant la stratégie et l'exécution des initiatives de marketing numérique pour plusieurs marchés et productions.\n \nLa personne titulaire du poste est responsable d'optimiser la performance numérique to",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/74920ba6-e6e0-4eaa-938e-af6d3b332469",
-      "created": "2026-07-21T22:20:13.443000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
