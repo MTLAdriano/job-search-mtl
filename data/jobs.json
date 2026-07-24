@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-24T13:50:42.598417Z",
-  "count": 234,
+  "updated": "2026-07-24T17:40:04.973279Z",
+  "count": 235,
   "jobs": [
+    {
+      "id": "sr-744000139661659",
+      "title": "Data Scientist",
+      "company": "Gameloft Montreal",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000139661659",
+      "created": "2026-07-24T17:19:13.313Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000139547269",
       "title": "Senior Product Manager - Asphalt Legends",
