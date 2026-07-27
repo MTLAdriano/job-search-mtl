@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-27T11:27:26.295225Z",
-  "count": 234,
+  "updated": "2026-07-27T14:42:20.336936Z",
+  "count": 236,
   "jobs": [
+    {
+      "id": "lv-d5db1abd-4510-401e-bc7d-cc5ee930c200",
+      "title": "Assistant.e chef.fe accessoiriste – ECHO | Assistant Head of Props – ECHO",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Assistant.e chef.fe accessoiriste – Spectacle en tournée\nMachiniste de Scène et accessoires\nPoste à temps plein\n \n* Veuillez noter que ce poste implique de participer à des tournées internationales à temps plein et de travailler à l’étranger. *\n \n \nNous recherchons un chef de département adjoint (« AHOD ») en accessoires pour soutenir les activités de l’équipe de menuiserie et d’accessoires dans le cadre de l’un des spectacles en tournée du Cirque du Soleil. Relevant du directeur technique et tr",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/d5db1abd-4510-401e-bc7d-cc5ee930c200",
+      "created": "2026-07-27T14:41:11.702000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-b8c600d7-e209-4c02-b3ef-def7deaf60cf",
+      "title": "Technicien en éclairage – ECHO | Lighting Technician – ECHO",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Technicien en éclairage – Spectacle en tournéeÉclairage de scènePoste à temps plein \n \n*Veuillez noter que ce poste implique de participer à des tournées internationales à temps plein et de travailler à l’étranger.*\n \nNous recherchons un technicien en éclairage pour rejoindre l’une des tournées du Cirque du Soleil. Relevant du directeur technique et travaillant sous la supervision du chef du département Visuels, le titulaire de ce poste est responsable de l’installation, de l’exploitation et de ",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/b8c600d7-e209-4c02-b3ef-def7deaf60cf",
+      "created": "2026-07-27T14:38:52.420000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000139547269",
       "title": "Senior Product Manager - Asphalt Legends",
