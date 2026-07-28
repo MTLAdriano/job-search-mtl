@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-28T02:45:19.319216Z",
-  "count": 246,
+  "updated": "2026-07-28T06:29:05.719384Z",
+  "count": 248,
   "jobs": [
+    {
+      "id": "sr-744000140152519",
+      "title": "エンジニアリングマネジャー",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000140152519",
+      "created": "2026-07-28T06:00:27.131Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
+    {
+      "id": "sr-744000140152409",
+      "title": "Engineering Manager",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000140152409",
+      "created": "2026-07-28T05:59:22.128Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
     {
       "id": "sr-744000140109939",
       "title": "DevOps Software Engineer",
