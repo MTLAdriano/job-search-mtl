@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-28T14:14:03.821173Z",
-  "count": 248,
+  "updated": "2026-07-28T17:37:20.778695Z",
+  "count": 245,
   "jobs": [
+    {
+      "id": "lv-05da52d4-81bb-4216-a5f9-f4fc0e928573",
+      "title": "Sous-chef – LUZIA | Sous Chef – LUZIA",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/05da52d4-81bb-4216-a5f9-f4fc0e928573",
+      "created": "2026-07-28T14:41:15.022000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "gh-8023709",
+      "title": "Développeur.euse Full stack - Adobe Experience Manager (AEM) ",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8023709",
+      "created": "2026-07-28T10:37:06-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
     {
       "id": "sr-744000140152519",
       "title": "エンジニアリングマネジャー",
@@ -352,32 +378,6 @@
       "created": "2026-07-21T22:29:32.095000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000138925942",
-      "title": "Artiste en modélisation 3D - Expression d'intérêt",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000138925942",
-      "created": "2026-07-21T17:27:47.836Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000138923915",
-      "title": "Modeling Artist - Expression of interest",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000138923915",
-      "created": "2026-07-21T17:26:24.461Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "lv-182c6859-e7e3-42fd-9168-b2f8ec1a64c6",
@@ -1992,19 +1992,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "gh-8023709",
-      "title": "Développeur.euse Full stack - Adobe Experience Manager (AEM) - Temporaire ",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8023709",
-      "created": "2026-06-23T11:21:45-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "gh-8023683",
       "title": "Développeur.euse Front-End Junior - Temporaire ",
       "company": "Sid Lee",
@@ -2172,19 +2159,6 @@
       "created": "2026-06-18T06:38:46.797Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-ca8e1858-6530-4584-9afa-13f69466e675",
-      "title": "Chef.fe – Approvisionnement corporatif | Manager – Corporate Procurement",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Chef.fe – Approvisionnement corporatif \nChaînes d'approvisionnement et achats\nPoste permanent - Mode de travail hybride – 4 jours/semaine au bureau\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créa",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/ca8e1858-6530-4584-9afa-13f69466e675",
-      "created": "2026-06-17T17:25:05.383000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-02fb3f81-9c89-4542-bcfc-ed89cc05cb23",
@@ -2913,19 +2887,6 @@
       "created": "2026-04-17T21:22:37.253000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000121008838",
-      "title": "[Disney Dreamlight Valley] Producteur(trice) - Producer",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000121008838",
-      "created": "2026-04-15T15:47:40.299Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000120971937",
