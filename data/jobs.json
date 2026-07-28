@@ -1,13 +1,26 @@
 {
-  "updated": "2026-07-28T17:37:20.778695Z",
+  "updated": "2026-07-28T21:11:09.840106Z",
   "count": 245,
   "jobs": [
+    {
+      "id": "lv-29998bb3-9482-400a-9f98-824335525723",
+      "title": "Sales Manager - Blue Man Group & VStar Entertainment",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/29998bb3-9482-400a-9f98-824335525723",
+      "created": "2026-07-28T19:47:32.378000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "lv-05da52d4-81bb-4216-a5f9-f4fc0e928573",
       "title": "Sous-chef – LUZIA | Sous Chef – LUZIA",
       "company": "Cirque du Soleil",
       "location": "*En tournée | On tour",
-      "description": "",
+      "description": "Sous-chef – Spectacles en tournée\nServices alimentaires\nPoste à temps plein\n \n \n* Veuillez noter que ce poste implique de voyager à l'international à temps plein et de travailler à l'étranger. *\n \n \nNous recherchons un sous-chef compétent et polyvalent pour soutenir les opérations culinaires d’un spectacle en tournée. Sous la direction du chef de cuisine, le sous-chef agit à titre de bras droit de la cuisine du spectacle en tournée, en apportant son soutien aux opérations culinaires, à la réalis",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/05da52d4-81bb-4216-a5f9-f4fc0e928573",
@@ -2978,19 +2991,6 @@
       "created": "2026-04-09T16:21:55.678Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "lv-7395c490-40fc-4660-b7f2-ef8f9a097aaf",
-      "title": "Automation Technician – O",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/7395c490-40fc-4660-b7f2-ef8f9a097aaf",
-      "created": "2026-04-01T19:45:17.270000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000116612089",
