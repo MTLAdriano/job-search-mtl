@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-29T02:51:59.402337Z",
-  "count": 246,
+  "updated": "2026-07-29T06:33:48.214662Z",
+  "count": 247,
   "jobs": [
+    {
+      "id": "sr-744000140378549",
+      "title": "2D Graphic Artist Intern",
+      "company": "Gameloft Montreal",
+      "location": "Yogyakarta, id",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000140378549",
+      "created": "2026-07-29T04:13:58.907Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-39c0fc92-e5ae-4f2a-a5f6-798ee59ea5ae",
       "title": "Head of Department, Wardrobe – Mad Apple",
