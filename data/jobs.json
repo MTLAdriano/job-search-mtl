@@ -1,13 +1,39 @@
 {
-  "updated": "2026-07-28T21:11:09.840106Z",
-  "count": 245,
+  "updated": "2026-07-29T02:51:59.402337Z",
+  "count": 246,
   "jobs": [
+    {
+      "id": "lv-39c0fc92-e5ae-4f2a-a5f6-798ee59ea5ae",
+      "title": "Head of Department, Wardrobe – Mad Apple",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n___________________________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/39c0fc92-e5ae-4f2a-a5f6-798ee59ea5ae",
+      "created": "2026-07-29T00:17:07.425000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-32f080f9-0f90-42cc-ac9b-f3b1a5ed0859",
+      "title": "Conseiller.ère Principal.e Communications Internes et Expérience Employé.e | Senior Advisor Internal Communications and Employee Experience",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Conseiller.ère Principal.e Communications Internes et Expérience Employé.e\nTalent\nPoste permanent\n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs ! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos productions à venir à travers le monde entier.\n \nAujourd’hui, nous avons une place pour celles et ceux ",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/32f080f9-0f90-42cc-ac9b-f3b1a5ed0859",
+      "created": "2026-07-28T21:21:46.978000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "lv-29998bb3-9482-400a-9f98-824335525723",
       "title": "Sales Manager - Blue Man Group & VStar Entertainment",
       "company": "Cirque du Soleil",
       "location": "Las Vegas, NV",
-      "description": "",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________\n",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/29998bb3-9482-400a-9f98-824335525723",
@@ -215,7 +241,7 @@
       "title": "Technicien en éclairage – ECHO | Lighting Technician – ECHO",
       "company": "Cirque du Soleil",
       "location": "*En tournée | On tour",
-      "description": "Technicien en éclairage – Spectacle en tournéeÉclairage de scènePoste à temps plein \n \n*Veuillez noter que ce poste implique de participer à des tournées internationales à temps plein et de travailler à l’étranger.*\n \nNous recherchons un technicien en éclairage pour rejoindre l’une des tournées du Cirque du Soleil. Relevant du directeur technique et travaillant sous la supervision du chef du département Visuels, le titulaire de ce poste est responsable de l’installation, de l’exploitation et de ",
+      "description": "Technicien en éclairage – Spectacle en tournéeÉclairage de ScènePoste à temps plein \n \n*Veuillez noter que ce poste implique de participer à des tournées internationales à temps plein et de travailler à l’étranger.*\n \n \nNous recherchons un technicien en éclairage pour rejoindre l’une des tournées du Cirque du Soleil. Relevant du directeur technique et travaillant sous la supervision du chef du département Visuels, le titulaire de ce poste est responsable de l’installation, de l’exploitation et d",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/b8c600d7-e209-4c02-b3ef-def7deaf60cf",
@@ -2367,19 +2393,6 @@
       "created": "2026-06-09T07:08:04.304Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "lv-238e0fcf-13d7-4df2-a6bb-cd5d2002f678",
-      "title": "Recherchiste - Vigie créative | Creative Intelligence Researcher",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Recherchiste en veille créative\nMode de travail hybride – 4 jours/semaine au bureau\nPoste permanent\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et conti",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/238e0fcf-13d7-4df2-a6bb-cd5d2002f678",
-      "created": "2026-06-08T18:30:24.787000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000130804033",
