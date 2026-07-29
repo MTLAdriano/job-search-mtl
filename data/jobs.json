@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-29T14:17:07.486588Z",
-  "count": 246,
+  "updated": "2026-07-29T17:17:57.122297Z",
+  "count": 248,
   "jobs": [
+    {
+      "id": "lv-3302c7b4-d188-4a89-8112-f11ec8eb64ff",
+      "title": "Digital and Social Manager",
+      "company": "Cirque du Soleil",
+      "location": "London",
+      "description": "***Le poste étant basé en Angleterre, la description de poste est disponible uniquement en anglais.***\n***As this position in based in England, the job description is available in English only.***\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/3302c7b4-d188-4a89-8112-f11ec8eb64ff",
+      "created": "2026-07-29T15:56:23.338000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-ad5acad2-9cdc-4843-a162-ef410bc2f423",
+      "title": "Technicien.ne comptable - Opérations de spectacles de tournée | Accounting Technician - Touring Show Operations",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Technicien.ne comptable - Opérations de spectacles de tournée \nFinance et comptabilité\nPoste permanent \n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION \n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et ",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/ad5acad2-9cdc-4843-a162-ef410bc2f423",
+      "created": "2026-07-29T14:37:38.003000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000140472994",
       "title": "Responsable du marketing cinématique - Lead Marketing Cinematic ",
