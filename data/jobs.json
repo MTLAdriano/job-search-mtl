@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-29T06:33:48.214662Z",
+  "updated": "2026-07-29T10:41:51.642055Z",
   "count": 247,
   "jobs": [
+    {
+      "id": "sr-744000140392455",
+      "title": "Senior Level Designer",
+      "company": "Gameloft Montreal",
+      "location": "Brisbane, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000140392455",
+      "created": "2026-07-29T07:08:31.959Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000140393889",
+      "title": "DevOps Software Engineer",
+      "company": "Gameloft Montreal",
+      "location": "Brisbane, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000140393889",
+      "created": "2026-07-29T07:07:15.348Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000140393689",
+      "title": "IT Manager",
+      "company": "Gameloft Montreal",
+      "location": "Brisbane, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000140393689",
+      "created": "2026-07-29T07:06:03.831Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000140378549",
       "title": "2D Graphic Artist Intern",
@@ -105,19 +144,6 @@
       "created": "2026-07-28T05:59:22.128Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000140109939",
-      "title": "DevOps Software Engineer",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000140109939",
-      "created": "2026-07-28T00:02:38.914Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-aa0d9b5f-2a5e-4379-b753-19de2e4a6fc7",
@@ -350,19 +376,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000139264646",
       "created": "2026-07-23T11:53:15.060Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000139226605",
-      "title": "IT Manager",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000139226605",
-      "created": "2026-07-23T08:27:17.777Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -651,19 +664,6 @@
       "created": "2026-07-16T23:37:26.373000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000138025849",
-      "title": "Senior Level Designer",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000138025849",
-      "created": "2026-07-16T05:13:08.819Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000138023389",
