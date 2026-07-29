@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-29T10:41:51.642055Z",
-  "count": 247,
+  "updated": "2026-07-29T14:17:07.486588Z",
+  "count": 246,
   "jobs": [
+    {
+      "id": "sr-744000140472994",
+      "title": "Responsable du marketing cinématique - Lead Marketing Cinematic ",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000140472994",
+      "created": "2026-07-29T14:02:10.286Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000140472110",
+      "title": "Artiste FX Seniors - Poste permanent ",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000140472110",
+      "created": "2026-07-29T13:50:22.544Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000140472989",
+      "title": "Senior FX Artist - Permanent Role",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000140472989",
+      "created": "2026-07-29T13:49:11.423Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000140472439",
+      "title": "Artiste FX - Senior et intermédiaire - Multiple positions",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000140472439",
+      "created": "2026-07-29T13:47:47.646Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000140471819",
+      "title": "FX Artist - Mid and Senior - Multiple Positions",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000140471819",
+      "created": "2026-07-29T13:45:34.778Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "gh-8094131",
+      "title": "Gestionnaire de projet numérique - Digital Project Manager",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8094131",
+      "created": "2026-07-29T09:42:03-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
     {
       "id": "sr-744000140392455",
       "title": "Senior Level Designer",
@@ -404,19 +482,6 @@
       "created": "2026-07-22T14:50:34.966000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000139077890",
-      "title": "FX Artist - Mid and Senior - Multiple Positions",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000139077890",
-      "created": "2026-07-22T13:19:39.883Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "lv-c90056e0-d896-4fc4-88fe-6f182228f876",
@@ -1186,45 +1251,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "sr-744000137751529",
-      "title": "Artiste FX Seniors - Poste permanent ",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137751529",
-      "created": "2026-07-14T21:02:42.197Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000137751399",
-      "title": "Senior FX Artist - Permanent Role",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137751399",
-      "created": "2026-07-14T21:02:04.578Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000137748934",
-      "title": "Artiste FX - Senior et intermédiaire - Multiple positions",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137748934",
-      "created": "2026-07-14T21:01:23.935Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000137692209",
       "title": "Producteur.trice VFX - Sénior - Permanent",
       "company": "Rodeo FX",
@@ -1314,32 +1340,6 @@
       "created": "2026-07-14T02:41:16.304Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000137508369",
-      "title": "Directeur·trice des ressources humaines",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137508369",
-      "created": "2026-07-13T16:58:13.892Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000137508239",
-      "title": "HR Director",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137508239",
-      "created": "2026-07-13T16:56:47.641Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000137498809",
@@ -1483,19 +1483,6 @@
       "created": "2026-07-10T16:51:10-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000137140920",
-      "title": "Lead Vidéo - Video Lead",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000137140920",
-      "created": "2026-07-10T13:48:56.182Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000137140159",
