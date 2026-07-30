@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-30T02:37:08.933672Z",
+  "updated": "2026-07-30T06:31:07.791150Z",
   "count": 262,
   "jobs": [
+    {
+      "id": "sr-744000140597079",
+      "title": "Senior Engineer - Console and PC Games",
+      "company": "Keywords Studios",
+      "location": "Box Hill, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000140597079",
+      "created": "2026-07-30T04:43:29.198Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
+    {
+      "id": "sr-744000140593179",
+      "title": "Art Producer",
+      "company": "Keywords Studios",
+      "location": "Box Hill, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000140593179",
+      "created": "2026-07-30T03:18:26.872Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
     {
       "id": "lv-e7c69483-2ca1-4df2-b33b-cf244db1cc1b",
       "title": "Production Stage Manager – Blue Man Group North American Tour",
@@ -2226,19 +2252,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000133742079",
-      "title": "Art Producer",
-      "company": "Keywords Studios",
-      "location": "Box Hill, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000133742079",
-      "created": "2026-06-24T01:41:15.066Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
       "id": "gh-8023683",
       "title": "Développeur.euse Front-End Junior - Temporaire ",
       "company": "Sid Lee",
@@ -2599,19 +2612,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000131053725",
       "created": "2026-06-09T07:08:04.304Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000130804033",
-      "title": "Senior Programmer - Console and PC Games",
-      "company": "Keywords Studios",
-      "location": "Box Hill, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000130804033",
-      "created": "2026-06-08T13:30:24.754Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
     },
