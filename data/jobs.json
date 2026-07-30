@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-30T14:08:55.378928Z",
-  "count": 261,
+  "updated": "2026-07-30T17:38:05.091183Z",
+  "count": 260,
   "jobs": [
+    {
+      "id": "sr-744000140722334",
+      "title": "[Dungeons & Dragons PC-Console] Chef d'équipe concepteur de quêtes  - Lead quest designer",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000140722334",
+      "created": "2026-07-30T15:31:44.622Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000140597079",
       "title": "Senior Engineer - Console and PC Games",
@@ -586,19 +599,6 @@
       "created": "2026-07-27T20:22:18.520000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000140066469",
-      "title": "[Dungeons & Dragons PC-Console] Chef d'équipe concepteur de quêtes  - Lead quest designer",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000140066469",
-      "created": "2026-07-27T17:59:41.639Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-d5db1abd-4510-401e-bc7d-cc5ee930c200",
@@ -3056,19 +3056,6 @@
       "created": "2026-04-29T19:30:28.994000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000123672769",
-      "title": "3D Level Artist (Disney Dreamlight Valley)",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000123672769",
-      "created": "2026-04-29T11:42:52.381Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "gh-7859299",
