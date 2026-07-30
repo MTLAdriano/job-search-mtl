@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-30T06:31:07.791150Z",
-  "count": 262,
+  "updated": "2026-07-30T10:27:35.975864Z",
+  "count": 261,
   "jobs": [
     {
       "id": "sr-744000140597079",
@@ -2079,19 +2079,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000135292654",
       "created": "2026-07-01T15:04:14.405Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000135244065",
-      "title": "Customer Care Agent (English and French)",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000135244065",
-      "created": "2026-07-01T11:48:09.372Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
