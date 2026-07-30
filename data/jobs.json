@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-30T17:38:05.091183Z",
-  "count": 260,
+  "updated": "2026-07-30T21:13:43.580206Z",
+  "count": 266,
   "jobs": [
+    {
+      "id": "sr-744000140773439",
+      "title": "Artiste Pigiste d'effets (FX)",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000140773439",
+      "created": "2026-07-30T20:37:05.330Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000140771944",
+      "title": "Freelance FX Artist",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000140771944",
+      "created": "2026-07-30T20:32:48.091Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000140769299",
+      "title": "Pigiste artiste Animateur.trice Senior",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000140769299",
+      "created": "2026-07-30T20:07:20.842Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000140768350",
+      "title": "Animation Artist Freelance",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000140768350",
+      "created": "2026-07-30T20:06:34.899Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000140722334",
       "title": "[Dungeons & Dragons PC-Console] Chef d'équipe concepteur de quêtes  - Lead quest designer",
@@ -14,6 +66,45 @@
       "created": "2026-07-30T15:31:44.622Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
+    },
+    {
+      "id": "gh-8097044",
+      "title": "Account Supervisor",
+      "company": "Sid Lee",
+      "location": "Toronto, Ontario, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8097044",
+      "created": "2026-07-30T14:23:26-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8056106",
+      "title": "Account Director (Mat Leave Contract)",
+      "company": "Sid Lee",
+      "location": "Toronto, Ontario, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8056106",
+      "created": "2026-07-30T14:21:52-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8097059",
+      "title": "Conseiller·ère – Account Executive",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8097059",
+      "created": "2026-07-30T14:11:01-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
     },
     {
       "id": "sr-744000140597079",
@@ -1704,19 +1795,6 @@
       "created": "2026-07-10T17:34:38.410000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "gh-8056106",
-      "title": "Account Director (Mat Leave Contract)",
-      "company": "Sid Lee",
-      "location": "Toronto, Ontario, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8056106",
-      "created": "2026-07-10T16:51:10-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "sr-744000137140159",
