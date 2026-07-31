@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-31T14:14:13.301863Z",
-  "count": 264,
+  "updated": "2026-07-31T17:41:29.779546Z",
+  "count": 250,
   "jobs": [
     {
       "id": "sr-744000140864639",
@@ -820,32 +820,6 @@
       "created": "2026-07-23T17:07:10.339000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000139289835",
-      "title": "Commis.e aux installations",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000139289835",
-      "created": "2026-07-23T13:49:57.889Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000139287875",
-      "title": "Facilities Clerk",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000139287875",
-      "created": "2026-07-23T13:42:00.346Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000139264646",
@@ -1992,19 +1966,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "lv-e005c255-0603-4374-a031-376681721004",
-      "title": "Gestionnaire de projets – Équipements d’expérience client | Project Manager – Guest Experience Equipment",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Gestionnaire de projets – Équipements d’expérience client\nSite et Infrastructure\nPoste Temporaire (12 mois)\n \n \n \nNous avons une place pour celles et ceux qui ont un goût distinct pour assurer le bon déroulement des opérations au profit de nos spectacles et événements, pour penser des produits remarquables, pour mettre leur ingéniosité au service de leur équipe, en plus de contribuer à valoriser leur expertise et développer des pratiques exceptionnelles. Le Groupe Cirque du Soleil mise sur une a",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/e005c255-0603-4374-a031-376681721004",
-      "created": "2026-07-03T20:07:55.804000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-53248779-a9b2-4deb-91ca-76464cccba2d",
       "title": "Gestionnaire de projets – Gradins et structures modulaires | Project Manager – Seating & Modular Structures",
       "company": "Cirque du Soleil",
@@ -2016,58 +1977,6 @@
       "created": "2026-07-03T19:56:30.014000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000135758281",
-      "title": "VFX Supervisor - On-Site, Toronto",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000135758281",
-      "created": "2026-07-03T15:23:32.291Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000135758499",
-      "title": "VFX Supervisor",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000135758499",
-      "created": "2026-07-03T15:23:14.687Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000135757669",
-      "title": "Finance Director – Mikros Animation",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000135757669",
-      "created": "2026-07-03T15:18:06.724Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000135757619",
-      "title": "Directeur.trice des finances – Mikros Animation",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000135757619",
-      "created": "2026-07-03T15:17:51.970Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000135681359",
@@ -2276,32 +2185,6 @@
       "created": "2026-06-26T17:19:15.487000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000134494071",
-      "title": "Directeur.trice des finances",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000134494071",
-      "created": "2026-06-26T14:52:19.015Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000134496210",
-      "title": "Finance Director",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000134496210",
-      "created": "2026-06-26T14:50:52.265Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000133893049",
@@ -2954,32 +2837,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "lv-44896a49-61fc-4e37-bd9b-56ca60611fd5",
-      "title": "Analyste principal.e, Optimisation du taux de conversion (CRO) | Senior Analyst, Conversion Rate Optimization (CRO)",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Analyste principal.e, Optimisation du taux de conversion (CRO)\nMode de travail hybride – 4 jours/semaine au bureau\nPoste à temps plein\n \n** Ce poste est offert en télétravail pour les candidat·e·s situés à l’extérieur de la grande région de Montréal et Las Vegas.\nLes candidat·e·s basés à Montréal ou Las Vegas devront travailler en présentiel, conformément aux pratiques locales. **\n \nNous avons une place pour les personnes ayant un goût prononcé pour assurer le bon déroulement de nos spectacles e",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/44896a49-61fc-4e37-bd9b-56ca60611fd5",
-      "created": "2026-05-22T17:09:05.076000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-584ddbca-b448-46a9-9c3e-c9a7f98cfcf7",
-      "title": "Analyste principal.e, Analytique marketing et revenus | Senior Analyst, Marketing and Revenue Analytics",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Analyste principal.e, Analytique marketing et revenus\nMode de travail hybride – 4 jours/semaine au bureau\nPoste à temps plein\n \n** Ce poste est offert en télétravail pour les candidat·e·s situés à l’extérieur de la grande région de Montréal et Las Vegas.\nLes candidat·e·s basés à Montréal ou Las Vegas devront travailler en présentiel, conformément aux pratiques locales. **\n \nNous avons une place pour les personnes ayant un goût prononcé pour assurer le bon déroulement de nos spectacles et événeme",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/584ddbca-b448-46a9-9c3e-c9a7f98cfcf7",
-      "created": "2026-05-22T17:03:05.332000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-e11a0ca0-f549-4ac8-b3b5-93b30e433a76",
       "title": "Chef.fe de département, gréeur – LUDO | Head of Department, Rigging – LUDO",
       "company": "Cirque du Soleil",
@@ -2989,32 +2846,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/e11a0ca0-f549-4ac8-b3b5-93b30e433a76",
       "created": "2026-05-22T14:25:58.879000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-bccf0fee-c550-40ad-9f94-383792975c60",
-      "title": "Senior Analyst, Conversion Rate Optimization (CRO)",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/bccf0fee-c550-40ad-9f94-383792975c60",
-      "created": "2026-05-21T19:54:09.105000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-9fabb494-9de8-465d-8166-1f6b666bcb37",
-      "title": "Senior Analyst, Marketing and Revenue Analytics",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/9fabb494-9de8-465d-8166-1f6b666bcb37",
-      "created": "2026-05-21T19:50:29.466000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
@@ -3407,19 +3238,6 @@
       "created": "2026-02-11T14:48:34-05:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "lv-70c69d89-8249-4265-bc8c-1a361b15bce9",
-      "title": "Thérapeute en médecine de la performance - JOYÀ | Performance Medicine Therapist - JOYÀ",
-      "company": "Cirque du Soleil",
-      "location": "Riviera Maya",
-      "description": "Thérapeute en médecine de la performance - JOYÀ\nService de performance humaine\nPoste permanent \n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nNotre partenaire Grupo Vidanta, l'un des principaux développeurs et exploitants de centres de villégiature de luxe, de propriétés et d'infrastructures touristiques de classe mondiale au Mexique et en Amérique latine, offre actuellement des opportunités de",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/70c69d89-8249-4265-bc8c-1a361b15bce9",
-      "created": "2026-02-04T15:59:21.674000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-d4d749ea-8810-47e4-af2d-2a6770982025",
