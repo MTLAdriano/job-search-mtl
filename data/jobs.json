@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-31T06:46:48.365854Z",
-  "count": 263,
+  "updated": "2026-07-31T10:42:18.478706Z",
+  "count": 264,
   "jobs": [
+    {
+      "id": "sr-744000140864639",
+      "title": "Privacy Project Coordinator",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000140864639",
+      "created": "2026-07-31T09:31:31.442Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000140860009",
+      "title": "Developer Experience (DX) Lead",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000140860009",
+      "created": "2026-07-31T09:13:19.325Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000140855769",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000140855769",
+      "created": "2026-07-31T08:51:18.848Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000140817679",
       "title": "Senior Game Data Analyst",
@@ -742,19 +781,6 @@
       "created": "2026-07-27T14:38:52.420000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000139547269",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000139547269",
-      "created": "2026-07-24T08:58:45.791Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-6900aac4-9233-4589-82a1-1e6a1679692c",
@@ -2276,19 +2302,6 @@
       "created": "2026-06-26T14:50:52.265Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000134465249",
-      "title": "Developer Experience (DX) Principal",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000134465249",
-      "created": "2026-06-26T12:45:52.861Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000133893049",
