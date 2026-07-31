@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-31T03:18:07.810864Z",
-  "count": 264,
+  "updated": "2026-07-31T06:46:48.365854Z",
+  "count": 263,
   "jobs": [
+    {
+      "id": "sr-744000140817679",
+      "title": "Senior Game Data Analyst",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000140817679",
+      "created": "2026-07-31T03:20:22.583Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000140790829",
       "title": "Communications Intern",
@@ -1732,19 +1745,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000137408140",
-      "title": "Backend Developer Intern",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000137408140",
-      "created": "2026-07-13T09:30:47.099Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "lv-9061cf4f-8165-4c44-982a-a6a4b023fb49",
       "title": "Temporary Lead Wardrobe Technician – 'Auana",
       "company": "Cirque du Soleil",
@@ -2042,19 +2042,6 @@
       "created": "2026-07-03T15:17:51.970Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000135690239",
-      "title": "Data Analyst Intern",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000135690239",
-      "created": "2026-07-03T09:57:39.606Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000135681359",
