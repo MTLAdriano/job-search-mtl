@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-02T17:02:47.970241Z",
+  "updated": "2026-08-02T20:58:48.676374Z",
   "count": 250,
   "jobs": [
+    {
+      "id": "sr-744000141131689",
+      "title": "Principal Game Engineer (Unreal Engine)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000141131689",
+      "created": "2026-08-02T17:17:57.162Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000141131600",
+      "title": "Principal Game Programmer (Unreal Engine)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000141131600",
+      "created": "2026-08-02T17:17:14.927Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000140864639",
       "title": "Privacy Project Coordinator",
@@ -2079,32 +2105,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000135292654",
       "created": "2026-07-01T15:04:14.405Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000135192879",
-      "title": "Principal Game Engineer (Unreal Engine)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000135192879",
-      "created": "2026-07-01T07:34:26.563Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000135191860",
-      "title": "Principal Game Programmer (Unreal Engine)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000135191860",
-      "created": "2026-07-01T07:31:14.038Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
