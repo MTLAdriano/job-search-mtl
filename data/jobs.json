@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-03T14:45:40.714462Z",
+  "updated": "2026-08-03T17:53:18.068255Z",
   "count": 247,
   "jobs": [
+    {
+      "id": "lv-c9436a42-d9bc-4705-ae18-32372a07391e",
+      "title": "Lighting Technician – KÀ",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n________________________________________________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/c9436a42-d9bc-4705-ae18-32372a07391e",
+      "created": "2026-08-03T16:41:51.678000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000141196144",
       "title": "Senior Product Manager - Asphalt Legends",
@@ -1938,19 +1951,6 @@
       "created": "2026-07-07T08:42:42.553Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "lv-9c342c29-a0ba-4bd1-a643-34b50bd69202",
-      "title": "Communications Manager – Resident Shows",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.*** \n \n_______________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/9c342c29-a0ba-4bd1-a643-34b50bd69202",
-      "created": "2026-07-07T00:54:33.138000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000136079952",
