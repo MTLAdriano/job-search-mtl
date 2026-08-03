@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-03T03:18:45.724807Z",
-  "count": 250,
+  "updated": "2026-08-03T07:31:06.966500Z",
+  "count": 249,
   "jobs": [
     {
       "id": "sr-744000141131689",
@@ -1624,19 +1624,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000137818464",
       "created": "2026-07-15T07:28:03.499Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000137812909",
-      "title": "Unity Programmer",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000137812909",
-      "created": "2026-07-15T06:55:17.885Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
     },
