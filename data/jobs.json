@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-03T07:31:06.966500Z",
-  "count": 249,
+  "updated": "2026-08-03T11:28:07.270772Z",
+  "count": 247,
   "jobs": [
+    {
+      "id": "sr-744000141196144",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000141196144",
+      "created": "2026-08-03T08:01:58.977Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000141131689",
       "title": "Principal Game Engineer (Unreal Engine)",
@@ -51,19 +64,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000140860009",
       "created": "2026-07-31T09:13:19.325Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000140855769",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000140855769",
-      "created": "2026-07-31T08:51:18.848Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1992,19 +1992,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000135681359",
-      "title": "Senior Texture Artist",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000135681359",
-      "created": "2026-07-03T09:19:42.185Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "lv-63cc826b-8524-4159-9667-7f8b4e9ac57a",
       "title": "Commis – Comptes payables | Clerk – Account Payables",
       "company": "Cirque du Soleil",
@@ -2172,19 +2159,6 @@
       "created": "2026-06-26T17:19:15.487000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000133893049",
-      "title": "Comptable Fournisseurs (confirmé.e)",
-      "company": "Gameloft Montreal",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000133893049",
-      "created": "2026-06-24T08:43:41.870Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "gh-8023683",
