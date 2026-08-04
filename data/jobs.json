@@ -1,7 +1,72 @@
 {
-  "updated": "2026-08-03T21:06:30.531491Z",
+  "updated": "2026-08-04T02:47:41.455124Z",
   "count": 249,
   "jobs": [
+    {
+      "id": "lv-1b910f06-990b-4b8d-a1b3-8c2a39634dda",
+      "title": "Stage Manager – \"O\"",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/1b910f06-990b-4b8d-a1b3-8c2a39634dda",
+      "created": "2026-08-04T01:29:17.163000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-088d0dfc-7d76-483c-828e-7bc02610b00c",
+      "title": "Head Coach – Michael Jackson ONE",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.*** \n \n_______________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/088d0dfc-7d76-483c-828e-7bc02610b00c",
+      "created": "2026-08-04T01:24:30.256000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000141346499",
+      "title": "Senior Animation Artist - Temporary Contract - Multiple Roles",
+      "company": "Rodeo FX",
+      "location": "Toronto, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000141346499",
+      "created": "2026-08-03T21:10:42.215Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000141345731",
+      "title": "Artistes Sénior en animation - Contrats temporaires - Plusieurs postes",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000141345731",
+      "created": "2026-08-03T21:08:48.603Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000141346189",
+      "title": "Senior Animation Artist - Temporary Contract - Multiple Roles",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000141346189",
+      "created": "2026-08-03T21:08:12.543Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000141344670",
       "title": "Freelance FX Artist",
@@ -625,19 +690,6 @@
       "created": "2026-07-29T04:13:58.907Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-39c0fc92-e5ae-4f2a-a5f6-798ee59ea5ae",
-      "title": "Head of Department, Wardrobe – Mad Apple",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n___________________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/39c0fc92-e5ae-4f2a-a5f6-798ee59ea5ae",
-      "created": "2026-07-29T00:17:07.425000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-32f080f9-0f90-42cc-ac9b-f3b1a5ed0859",
@@ -1693,32 +1745,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000137689341",
-      "title": "Artistes Sénior en animation - Contrats temporaires - Plusieurs postes",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137689341",
-      "created": "2026-07-14T15:11:22.832Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000137689901",
-      "title": "Senior Animation Artist - Temporary Contract - Multiple Roles",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137689901",
-      "created": "2026-07-14T15:09:55.230Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000137672429",
       "title": "Designer Graphique Senior (Marketing) Contrat Temporaire - Senior Graphic Designer (Marketing) – Temporary Contract",
       "company": "Gameloft Montreal",
@@ -1756,19 +1782,6 @@
       "created": "2026-07-14T02:41:16.304Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000137498809",
-      "title": "Senior Animation Artist - Temporary Contract - Multiple Roles",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137498809",
-      "created": "2026-07-13T16:02:03.995Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000137473791",
@@ -2172,19 +2185,6 @@
       "created": "2026-06-29T19:56:24.295Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-d478340f-97ae-4661-8625-dfacf0bb616d",
-      "title": "Merchandise Coordinator – Consumer Products",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/d478340f-97ae-4661-8625-dfacf0bb616d",
-      "created": "2026-06-26T17:19:15.487000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "gh-8023683",
