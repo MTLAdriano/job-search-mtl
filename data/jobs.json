@@ -1,7 +1,46 @@
 {
-  "updated": "2026-08-04T02:47:41.455124Z",
-  "count": 249,
+  "updated": "2026-08-04T06:30:09.513098Z",
+  "count": 250,
   "jobs": [
+    {
+      "id": "sr-744000141407529",
+      "title": "Principal Game Engineer (Unreal Engine)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000141407529",
+      "created": "2026-08-04T04:46:46.177Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000141407024",
+      "title": "Principal Game Programmer (Unreal Engine)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000141407024",
+      "created": "2026-08-04T04:44:57.800Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000141404049",
+      "title": "Junior Communications Specialist",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000141404049",
+      "created": "2026-08-04T03:40:33.826Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-1b910f06-990b-4b8d-a1b3-8c2a39634dda",
       "title": "Stage Manager – \"O\"",
@@ -155,32 +194,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000141196144",
       "created": "2026-08-03T08:01:58.977Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000141131689",
-      "title": "Principal Game Engineer (Unreal Engine)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000141131689",
-      "created": "2026-08-02T17:17:57.162Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000141131600",
-      "title": "Principal Game Programmer (Unreal Engine)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000141131600",
-      "created": "2026-08-02T17:17:14.927Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
