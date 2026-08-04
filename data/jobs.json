@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-04T10:42:12.066399Z",
-  "count": 248,
+  "updated": "2026-08-04T14:22:23.709962Z",
+  "count": 246,
   "jobs": [
     {
       "id": "sr-744000141458424",
@@ -2718,32 +2718,6 @@
       "created": "2026-05-29T12:43:50.896000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000129165260",
-      "title": "Superviseur.e d'images de synthèse",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000129165260",
-      "created": "2026-05-29T12:36:23.833Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000129164229",
-      "title": "CG Supervisor",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000129164229",
-      "created": "2026-05-29T12:27:20.119Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "lv-e4232f3c-865b-42c6-8165-2133ca73b989",
