@@ -1,7 +1,46 @@
 {
-  "updated": "2026-08-04T06:30:09.513098Z",
-  "count": 250,
+  "updated": "2026-08-04T10:42:12.066399Z",
+  "count": 248,
   "jobs": [
+    {
+      "id": "sr-744000141458424",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000141458424",
+      "created": "2026-08-04T10:19:06.207Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000141442025",
+      "title": "Localization Design Lead (2D and Video Assets)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000141442025",
+      "created": "2026-08-04T08:53:30.725Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000141438799",
+      "title": "3D Character Artist [Disney Dreamlight Valley]",
+      "company": "Gameloft Montreal",
+      "location": "Lviv, ua",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000141438799",
+      "created": "2026-08-04T08:37:57.317Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000141407529",
       "title": "Principal Game Engineer (Unreal Engine)",
@@ -183,19 +222,6 @@
       "created": "2026-08-03T16:41:51.678000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000141196144",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000141196144",
-      "created": "2026-08-03T08:01:58.977Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000140864639",
@@ -1054,19 +1080,6 @@
       "created": "2026-07-21T15:41:57.586000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000138655841",
-      "title": "System Administrator ",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000138655841",
-      "created": "2026-07-20T14:15:55.453Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "gh-8074408",
@@ -2083,19 +2096,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000135476949",
-      "title": "Localization Design Lead (2D and Video Assets)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000135476949",
-      "created": "2026-07-02T11:26:14.379Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "lv-cc99dff9-0519-4564-a567-7956fbb4c486",
       "title": "On-Call Carpentry Technician – Michael Jackson ONE",
       "company": "Cirque du Soleil",
@@ -2120,19 +2120,6 @@
       "created": "2026-07-01T17:31:22.012000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000135292654",
-      "title": "3D Character Artist [Disney Dreamlight Valley]",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000135292654",
-      "created": "2026-07-01T15:04:14.405Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000135099009",
@@ -2770,19 +2757,6 @@
       "created": "2026-05-28T21:57:20.241000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000128851514",
-      "title": "Account Manager",
-      "company": "Keywords Studios",
-      "location": "Seoul, kr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000128851514",
-      "created": "2026-05-28T03:01:10.433Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
     },
     {
       "id": "sr-744000128334705",
