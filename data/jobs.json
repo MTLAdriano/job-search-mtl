@@ -1,7 +1,85 @@
 {
-  "updated": "2026-08-05T17:42:07.620671Z",
-  "count": 243,
+  "updated": "2026-08-05T21:13:48.928852Z",
+  "count": 248,
   "jobs": [
+    {
+      "id": "lv-b0bdc4ac-bc43-4e73-81ce-3197ff439151",
+      "title": "General Stage Manager - \"O\"",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/b0bdc4ac-bc43-4e73-81ce-3197ff439151",
+      "created": "2026-08-05T21:03:33.945000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-e34dee35-9192-4e84-8286-11bdd31b3467",
+      "title": "General Stage Manager - 'Auana",
+      "company": "Cirque du Soleil",
+      "location": "Honolulu, HI",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/e34dee35-9192-4e84-8286-11bdd31b3467",
+      "created": "2026-08-05T19:33:43.898000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-b96ff0ba-2021-49c8-8a05-0149bab8e234",
+      "title": "Coordonnateur.trice Trésorerie | Treasury Coordinator",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Coordonnateur.trice Trésorerie\nFinance et comptabilité\nPoste temps plein/permanent\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transc",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/b96ff0ba-2021-49c8-8a05-0149bab8e234",
+      "created": "2026-08-05T19:21:44.996000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-d1a932ad-67c8-4d87-8fe9-42c358d2bc65",
+      "title": "On-Call Wardrobe Technician - O",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/d1a932ad-67c8-4d87-8fe9-42c358d2bc65",
+      "created": "2026-08-05T19:11:51.028000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000141778239",
+      "title": "Compositing - Flame Artist",
+      "company": "Rodeo FX",
+      "location": "Los Angeles, us",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000141778239",
+      "created": "2026-08-05T18:29:09.715Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000141778159",
+      "title": "Post-Production Producer - Expression of interest",
+      "company": "Rodeo FX",
+      "location": "Los Angeles, us",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000141778159",
+      "created": "2026-08-05T18:27:47.772Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000141732844",
       "title": "Senior UI Designer",
@@ -2146,19 +2224,6 @@
       "created": "2026-06-30T19:46:25.142Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "gh-8039319",
-      "title": "Copywriter",
-      "company": "Sid Lee",
-      "location": "Toronto, Ontario, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8039319",
-      "created": "2026-06-30T15:23:31-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "sr-744000135040419",
