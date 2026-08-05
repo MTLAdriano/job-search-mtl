@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-04T21:14:26.101779Z",
-  "count": 246,
+  "updated": "2026-08-05T02:45:19.784378Z",
+  "count": 245,
   "jobs": [
     {
       "id": "sr-744000141577590",
@@ -2248,19 +2248,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000133294409",
       "created": "2026-06-22T08:58:19.965Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000133005431",
-      "title": "Senior 3D Artist",
-      "company": "Gameloft Montreal",
-      "location": "Yogyakarta, id",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000133005431",
-      "created": "2026-06-19T07:31:57.547Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
