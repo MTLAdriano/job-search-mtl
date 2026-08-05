@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-05T14:15:28.716761Z",
-  "count": 244,
+  "updated": "2026-08-05T17:42:07.620671Z",
+  "count": 243,
   "jobs": [
+    {
+      "id": "sr-744000141732844",
+      "title": "Senior UI Designer",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000141732844",
+      "created": "2026-08-05T14:20:54.172Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000141723815",
       "title": "Senior Product Manager - Asphalt Legends",
@@ -1043,19 +1056,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000139115351",
-      "title": "Business Development Coordinator - Advertising department",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000139115351",
-      "created": "2026-07-22T16:03:18.437Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "lv-c4713b25-3e68-4e05-b454-7ee0093b0a87",
       "title": "Head of Department, Lighting and Special Effects – ALIZÉ",
       "company": "Cirque du Soleil",
@@ -1834,19 +1834,6 @@
       "created": "2026-07-14T02:41:16.304Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000137473791",
-      "title": "Senior UI Designer",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000137473791",
-      "created": "2026-07-13T14:27:06.726Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000137466499",
