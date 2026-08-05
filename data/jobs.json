@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-05T10:38:29.881208Z",
-  "count": 245,
+  "updated": "2026-08-05T14:15:28.716761Z",
+  "count": 244,
   "jobs": [
+    {
+      "id": "sr-744000141723815",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000141723815",
+      "created": "2026-08-05T13:45:31.054Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000141668229",
       "title": "Division Principal Game Engineer (Unreal Engine)",
@@ -92,19 +105,6 @@
       "created": "2026-08-04T13:51:49-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000141458424",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000141458424",
-      "created": "2026-08-04T10:19:06.207Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000141442025",
@@ -2497,19 +2497,6 @@
       "created": "2026-06-09T15:25:39.198000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000131122089",
-      "title": "Intermediate C++ Developer",
-      "company": "Gameloft Montreal",
-      "location": "Sofia, bg",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000131122089",
-      "created": "2026-06-09T11:42:56.218Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000131113519",
