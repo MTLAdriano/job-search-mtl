@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-07T16:56:17.494411Z",
-  "count": 246,
+  "updated": "2026-08-07T20:43:54.810788Z",
+  "count": 250,
   "jobs": [
+    {
+      "id": "lv-073e700a-41fc-4fd3-ae25-37c6dff93e82",
+      "title": "Carpentry Technician (Theatrical) - Drawn to Life",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/073e700a-41fc-4fd3-ae25-37c6dff93e82",
+      "created": "2026-08-07T20:18:07.653000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-6115cc48-2d71-4e52-904c-8ffbee3f8060",
+      "title": "Production Manager - Blue Man Group",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/6115cc48-2d71-4e52-904c-8ffbee3f8060",
+      "created": "2026-08-07T18:38:04.984000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000142181169",
       "title": "Senior Lookdev Artist - Multiple Positions",
@@ -20,7 +46,7 @@
       "title": "Adjoint exécutif | Executive Assistant",
       "company": "Cirque du Soleil",
       "location": "Montréal, QC",
-      "description": "",
+      "description": "Coordonnateur.trice – Bureau de la Présidente\nSoutien administratif\nPoste à temps plein  \n \n \nSommaire du poste \n \nRelevant directement de la Présidente, le/la Coordonnateur.trice assure un soutien clé à la gestion et à la coordination des activités du bureau de la Présidente et contribue au bon fonctionnement du comité de gestion. Il/elle assure notamment la gestion des priorités, des rencontres, des déplacements, des communications et des suivis, tout en facilitant les interactions avec les éq",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/cc2f0b88-7631-4a0e-a272-cd6cc7f4acd0",
@@ -92,6 +118,32 @@
       "created": "2026-08-07T13:57:22.009000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
+    },
+    {
+      "id": "gh-8114495",
+      "title": "Conseiller·ère, Talent et acquisition de talents",
+      "company": "Sid Lee",
+      "location": "Montréal, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8114495",
+      "created": "2026-08-07T13:32:40-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8114479",
+      "title": "Directeur·rice de marque - Director, Brand",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8114479",
+      "created": "2026-08-07T13:25:25-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
     },
     {
       "id": "sr-744000142110280",
