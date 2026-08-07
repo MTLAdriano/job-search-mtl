@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-06T14:24:14.763804Z",
-  "count": 246,
+  "updated": "2026-08-07T00:53:14.147527Z",
+  "count": 241,
   "jobs": [
+    {
+      "id": "gh-8109705",
+      "title": "Account Executive",
+      "company": "Sid Lee",
+      "location": "Toronto, Ontario, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8109705",
+      "created": "2026-08-06T11:44:18-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
     {
       "id": "lv-b0bdc4ac-bc43-4e73-81ce-3197ff439151",
       "title": "General Stage Manager - \"O\"",
@@ -276,17 +289,17 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000141344670",
-      "title": "Freelance FX Artist",
-      "company": "Rodeo FX",
-      "location": "Télétravail / Remote, xx",
-      "description": "",
+      "id": "lv-701a5ecb-5f74-4232-93b2-32f35b55d1a4",
+      "title": "Technicien Swing – LUZIA | Swing Technician – LUZIA",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Technicien Swing – Spectacle en tournée\nMechiniste de scène et accessoires\nPoste à temps plein\n \n *Veuillez noter que ce poste implique de participer à des tournées internationales à temps plein et de travailler à l’étranger. *\n \nNous recherchons un technicien Swing pour rejoindre l’un des spectacles en tournée du Cirque du Soleil. Sous la responsabilité du directeur technique et sous la supervision du chef du département Menuiserie et Accessoires, ce poste polyvalent assure une couverture et un",
       "salary_min": null,
       "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000141344670",
-      "created": "2026-08-03T21:01:46.737Z",
+      "url": "https://jobs.lever.co/cirquedusoleil/701a5ecb-5f74-4232-93b2-32f35b55d1a4",
+      "created": "2026-08-03T19:47:11.659000Z",
       "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
+      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-3083df89-1ce4-4f9c-9b64-77deef5b9547",
@@ -404,19 +417,6 @@
       "created": "2026-07-31T00:12:03.054Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000140773439",
-      "title": "Artiste Pigiste d'effets (FX)",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000140773439",
-      "created": "2026-07-30T20:37:05.330Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000140769299",
@@ -1039,19 +1039,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/e9e5ef56-81d2-4ac8-9c61-7445d441b28e",
       "created": "2026-07-27T20:22:18.520000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-d5db1abd-4510-401e-bc7d-cc5ee930c200",
-      "title": "Assistant.e chef.fe accessoiriste – ECHO | Assistant Head of Props – ECHO",
-      "company": "Cirque du Soleil",
-      "location": "*En tournée | On tour",
-      "description": "Assistant.e chef.fe accessoiriste – Spectacle en tournée\nMachiniste de Scène et accessoires\nPoste à temps plein\n \n* Veuillez noter que ce poste implique de participer à des tournées internationales à temps plein et de travailler à l’étranger. *\n \n \nNous recherchons un chef de département adjoint (« AHOD ») en accessoires pour soutenir les activités de l’équipe de menuiserie et d’accessoires dans le cadre de l’un des spectacles en tournée du Cirque du Soleil. Relevant du directeur technique et tr",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/d5db1abd-4510-401e-bc7d-cc5ee930c200",
-      "created": "2026-07-27T14:41:11.702000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
@@ -1784,32 +1771,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000137890035",
-      "title": "Artiste éclairagiste - Contrat Temporaire",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137890035",
-      "created": "2026-07-15T13:05:34.743Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000137890789",
-      "title": "Lighting Artist - Temporary Contract",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137890789",
-      "created": "2026-07-15T12:57:34.759Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000137841519",
       "title": "2D Graphic Designer",
       "company": "Gameloft Montreal",
@@ -2252,19 +2213,6 @@
       "source": "Sid Lee"
     },
     {
-      "id": "gh-8023669",
-      "title": "Scrum Master",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8023669",
-      "created": "2026-06-23T11:14:58-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "sr-744000133294409",
       "title": "3D Character Artist (Middle/Senior)",
       "company": "Gameloft Montreal",
@@ -2378,19 +2326,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/02fb3f81-9c89-4542-bcfc-ed89cc05cb23",
       "created": "2026-06-15T21:04:22.265000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-ecfd4e8f-0191-4f33-ac8e-15d801590ae9",
-      "title": "Chef Éclairage – OVO | Head of Lighting – OVO",
-      "company": "Cirque du Soleil",
-      "location": "*En tournée | On tour",
-      "description": "Chef de département, Éclairage – OVO\nÉclairage de Scène \nPoste à temps plein\n \n \n* Veuillez noter que ce poste implique de partir en tournée internationale à temps plein et de travailler à l'étranger. *\n \nNous sommes à la recherche d'un Chef de département (HOD) Éclairage, dynamique et expérimenté, pour diriger les opérations d'éclairage et de vidéo de l'un des spectacles en tournée du Cirque du Soleil. Relevant du Directeur technique et travaillant en étroite collaboration avec le Directeur art",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/ecfd4e8f-0191-4f33-ac8e-15d801590ae9",
-      "created": "2026-06-15T20:57:39.107000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
