@@ -1,7 +1,98 @@
 {
-  "updated": "2026-08-07T13:10:03.780281Z",
-  "count": 241,
+  "updated": "2026-08-07T16:56:17.494411Z",
+  "count": 246,
   "jobs": [
+    {
+      "id": "sr-744000142181169",
+      "title": "Senior Lookdev Artist - Multiple Positions",
+      "company": "Rodeo FX",
+      "location": "Toronto, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000142181169",
+      "created": "2026-08-07T16:32:22.295Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "lv-cc2f0b88-7631-4a0e-a272-cd6cc7f4acd0",
+      "title": "Adjoint exécutif | Executive Assistant",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/cc2f0b88-7631-4a0e-a272-cd6cc7f4acd0",
+      "created": "2026-08-07T15:58:55.590000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000142158390",
+      "title": "Nuke Compositor / Motion Designer - Advertising",
+      "company": "Rodeo FX",
+      "location": "Los Angeles, us",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000142158390",
+      "created": "2026-08-07T14:54:11.050Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000142158774",
+      "title": "Post-Production Coordinator - Expression of interest",
+      "company": "Rodeo FX",
+      "location": "Los Angeles, us",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000142158774",
+      "created": "2026-08-07T14:47:44.507Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "lv-10eb959b-ae8d-48c3-af33-0c1c519b065b",
+      "title": "Technicien - Fiscalité des particuliers | Technician – Individual Taxation",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Technicien - Fiscalité des particuliers\nFinance et comptabilité\nPoste permanent \n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcen",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/10eb959b-ae8d-48c3-af33-0c1c519b065b",
+      "created": "2026-08-07T14:21:19.380000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000142147200",
+      "title": "Post-Production Producer - Expression of interest",
+      "company": "Rodeo FX",
+      "location": "Los Angeles, us",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000142147200",
+      "created": "2026-08-07T14:10:31.427Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "lv-1932dc60-4275-4b14-bf80-1c94a8676cb7",
+      "title": "Chef, information financière | Head of Financial Information",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Chef, information financière \nFinance et comptabilité\nPoste permanent\n \n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs ! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos productions à venir à travers le monde entier.\n \nAlors n’attends plus et rejoins l’aventure Circassienne ! Tu y rencontreras des ambitieux.ses et d",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/1932dc60-4275-4b14-bf80-1c94a8676cb7",
+      "created": "2026-08-07T13:57:22.009000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000142110280",
       "title": "Senior Product Manager - Asphalt Legends",
@@ -14,6 +105,32 @@
       "created": "2026-08-07T11:42:57.909Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
+    },
+    {
+      "id": "gh-8105760",
+      "title": "Gestionnaire de bureau",
+      "company": "Sid Lee",
+      "location": "Montréal, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8105760",
+      "created": "2026-08-07T11:15:27-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8114218",
+      "title": "Designer de marque - Brand Designer",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8114218",
+      "created": "2026-08-07T11:14:12-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
     },
     {
       "id": "gh-8109705",
@@ -66,32 +183,6 @@
       "created": "2026-08-05T19:11:51.028000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000141778239",
-      "title": "Compositing - Flame Artist",
-      "company": "Rodeo FX",
-      "location": "Los Angeles, us",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000141778239",
-      "created": "2026-08-05T18:29:09.715Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000141778159",
-      "title": "Post-Production Producer - Expression of interest",
-      "company": "Rodeo FX",
-      "location": "Los Angeles, us",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000141778159",
-      "created": "2026-08-05T18:27:47.772Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000141732844",
@@ -183,19 +274,6 @@
       "created": "2026-08-04T18:13:50.870Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "gh-8105760",
-      "title": "Gestionnaire de bureau",
-      "company": "Sid Lee",
-      "location": "Montréal, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8105760",
-      "created": "2026-08-04T13:51:49-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "sr-744000141442025",
@@ -1637,19 +1715,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000137943229",
       "created": "2026-07-15T16:26:50.487Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000137938894",
-      "title": "Senior Lookdev Artist - Multiple Positions",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137938894",
-      "created": "2026-07-15T16:13:47.696Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
