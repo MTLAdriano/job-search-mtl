@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-10T16:55:55.435702Z",
+  "updated": "2026-08-10T20:45:28.689677Z",
   "count": 246,
   "jobs": [
+    {
+      "id": "sr-744000142731079",
+      "title": "Post-Production Producer - Advertising Department",
+      "company": "Rodeo FX",
+      "location": "Toronto, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000142731079",
+      "created": "2026-08-10T20:29:51.320Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000142666211",
       "title": "Customer Care Agent (English and Spanish)",
@@ -2172,19 +2185,6 @@
       "created": "2026-07-07T08:42:42.553Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000136079952",
-      "title": "Post-Production Producer - Advertising Department - Expression of interest",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000136079952",
-      "created": "2026-07-06T18:42:29.551Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000135903729",
