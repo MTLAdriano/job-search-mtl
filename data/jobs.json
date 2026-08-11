@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-11T05:11:56.313299Z",
-  "count": 247,
+  "updated": "2026-08-11T09:00:35.102264Z",
+  "count": 245,
   "jobs": [
+    {
+      "id": "sr-744000142811064",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000142811064",
+      "created": "2026-08-11T08:13:05.414Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-2a6f531b-1a69-4d71-9835-bb744d79d148",
       "title": "Marketing and Communications Manager – Blue Man Group & VStar Entertainment",
@@ -222,19 +235,6 @@
       "created": "2026-08-07T13:25:25-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000142110280",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000142110280",
-      "created": "2026-08-07T11:42:57.909Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "gh-8105760",
@@ -2354,32 +2354,6 @@
       "created": "2026-06-23T11:15:12-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000133294409",
-      "title": "3D Character Artist (Middle/Senior)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000133294409",
-      "created": "2026-06-22T08:58:19.965Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000133005329",
-      "title": "  Sound Designer Intern",
-      "company": "Gameloft Montreal",
-      "location": "Yogyakarta, id",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000133005329",
-      "created": "2026-06-19T07:27:42.569Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000132986799",
