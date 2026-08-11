@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-11T16:59:16.830683Z",
-  "count": 247,
+  "updated": "2026-08-11T20:49:40.760516Z",
+  "count": 245,
   "jobs": [
+    {
+      "id": "lv-745b10de-042d-49e4-869e-c0a512b23e9c",
+      "title": "General Stage Manager - 'Auana",
+      "company": "Cirque du Soleil",
+      "location": "Honolulu, HI",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_______________________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/745b10de-042d-49e4-869e-c0a512b23e9c",
+      "created": "2026-08-11T20:43:26.374000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-90421f3c-7d6a-46aa-8ca6-eff38747822a",
+      "title": "Social Media Manager – Blue Man Group & VStar Entertainment",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.*** \n \n_______________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/90421f3c-7d6a-46aa-8ca6-eff38747822a",
+      "created": "2026-08-11T18:55:29.351000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-f8ef784c-d1ca-4ea5-a334-3191833c7b39",
+      "title": "Company Manager (Touring) – VStar Entertainment Group",
+      "company": "Cirque du Soleil",
+      "location": "En tournée | On tour",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n______________________________________________________________\n \n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/f8ef784c-d1ca-4ea5-a334-3191833c7b39",
+      "created": "2026-08-11T18:37:15.837000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-272fce0d-c9df-4974-8dd5-64aba76c3ffe",
+      "title": "Automation Technician – Blue Man Group Orlando",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\nAs this position in based in the United States, the job description is available in English only.\n______________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/272fce0d-c9df-4974-8dd5-64aba76c3ffe",
+      "created": "2026-08-11T17:44:31.228000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000142903460",
       "title": "Junior Communications Specialist",
@@ -40,6 +92,19 @@
       "created": "2026-08-11T13:24:42.170Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
+    },
+    {
+      "id": "gh-8094131",
+      "title": "Gestionnaire de projet numérique - Digital Project Manager (Temporaire 12 mois - Temporary 12 months)",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8094131",
+      "created": "2026-08-11T13:15:44-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
     },
     {
       "id": "sr-744000142811064",
@@ -185,32 +250,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000142158390",
-      "title": "Nuke Compositor / Motion Designer - Advertising",
-      "company": "Rodeo FX",
-      "location": "Los Angeles, us",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000142158390",
-      "created": "2026-08-07T14:54:11.050Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000142158774",
-      "title": "Post-Production Coordinator - Expression of interest",
-      "company": "Rodeo FX",
-      "location": "Los Angeles, us",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000142158774",
-      "created": "2026-08-07T14:47:44.507Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "lv-10eb959b-ae8d-48c3-af33-0c1c519b065b",
       "title": "Technicien - Fiscalité des particuliers | Technician – Individual Taxation",
       "company": "Cirque du Soleil",
@@ -222,19 +261,6 @@
       "created": "2026-08-07T14:21:19.380000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000142147200",
-      "title": "Post-Production Producer - Expression of interest",
-      "company": "Rodeo FX",
-      "location": "Los Angeles, us",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000142147200",
-      "created": "2026-08-07T14:10:31.427Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "lv-1932dc60-4275-4b14-bf80-1c94a8676cb7",
@@ -1015,19 +1041,6 @@
       "created": "2026-07-29T13:49:11.423Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "gh-8094131",
-      "title": "Gestionnaire de projet numérique - Digital Project Manager",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8094131",
-      "created": "2026-07-29T09:42:03-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "sr-744000140392455",
@@ -1897,45 +1910,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000137935481",
       "created": "2026-07-15T15:54:36.809Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000137925179",
-      "title": "Senior Texture Artist - Multiple Positions",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137925179",
-      "created": "2026-07-15T15:08:17.707Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000137924729",
-      "title": "Artiste texture Senior - Plusieurs postes",
-      "company": "Rodeo FX",
-      "location": "Montréal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137924729",
-      "created": "2026-07-15T15:06:37.132Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000137924259",
-      "title": "Senior Texture Artist - Multiple Positions",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137924259",
-      "created": "2026-07-15T15:04:28.224Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
