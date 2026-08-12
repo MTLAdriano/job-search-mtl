@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-11T20:49:40.760516Z",
+  "updated": "2026-08-12T02:09:37.804876Z",
   "count": 245,
   "jobs": [
+    {
+      "id": "sr-744000142975579",
+      "title": "[Dungeons & Dragons PC-Console] Concepteur Narratif Senior - Senior Narrative Designer",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000142975579",
+      "created": "2026-08-11T20:52:41.399Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-745b10de-042d-49e4-869e-c0a512b23e9c",
       "title": "General Stage Manager - 'Auana",
@@ -2341,19 +2354,6 @@
       "created": "2026-06-29T19:56:24.295Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "gh-8023683",
-      "title": "Développeur.euse Front-End Junior - Temporaire ",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8023683",
-      "created": "2026-06-23T11:15:12-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "sr-744000132986799",
