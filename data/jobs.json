@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12T02:09:37.804876Z",
-  "count": 245,
+  "updated": "2026-08-12T05:39:28.017348Z",
+  "count": 244,
   "jobs": [
     {
       "id": "sr-744000142975579",
@@ -2352,19 +2352,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000134871979",
       "created": "2026-06-29T19:56:24.295Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000132986799",
-      "title": "Sound Designer Intern",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000132986799",
-      "created": "2026-06-19T03:52:43.429Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
