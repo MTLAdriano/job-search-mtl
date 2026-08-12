@@ -1,7 +1,46 @@
 {
-  "updated": "2026-08-12T13:15:44.750425Z",
+  "updated": "2026-08-12T16:58:49.267402Z",
   "count": 244,
   "jobs": [
+    {
+      "id": "sr-744000143128290",
+      "title": "Artiste de maquette",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000143128290",
+      "created": "2026-08-12T15:18:13.608Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000143132349",
+      "title": "Layout Artist",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000143132349",
+      "created": "2026-08-12T15:16:01.350Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "lv-b0c612a2-3ad8-4e5b-8c24-51b4280f134f",
+      "title": "Assistant Chef, Automatisation - OVO | Assistant Head of Automation - OVO",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Assistant chef de département, Automatisation – Spectacle en tournée\nAutomatisation de Scène\nTemps Plein\n \n \n* Veuillez noter que ce poste implique de participer à des tournées internationales à temps plein et de travailler à l’étranger. *\n \n \nNous recherchons un assistant chef de département (« AHOD ») en automatisation pour soutenir les opérations d’automatisation de l’un des spectacles en tournée du Cirque du Soleil. Rattaché(e) au chef de production et travaillant sous la supervision du chef",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/b0c612a2-3ad8-4e5b-8c24-51b4280f134f",
+      "created": "2026-08-12T14:52:30.456000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000142975579",
       "title": "[Dungeons & Dragons PC-Console] Concepteur Narratif Senior - Senior Narrative Designer",
@@ -2096,19 +2135,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "lv-798f9be0-56b6-41d8-858f-9d4054cbad5d",
-      "title": "Acheteur.euse – Approvisionnement | Buyer – Procurement",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Acheteur.euse – Approvisionnement\nChaînes d'approvisionnement et achats\nPoste permanent – Mode de travail hybride – 4 jours/semaine au bureau  \n \n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire.\n \n \nNOTRE MISSION\nDepuis 1984, le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l'imaginaire et de surprendre les spectateurs. L'innovation et la créa",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/798f9be0-56b6-41d8-858f-9d4054cbad5d",
-      "created": "2026-07-10T17:34:38.410000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "sr-744000137140159",
       "title": "Lead 2D Artiste - Lead 2D Artist ",
       "company": "Gameloft Montreal",
@@ -2965,32 +2991,6 @@
       "created": "2026-04-10T21:18:15.785000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000119655953",
-      "title": "Compositing Artist - Expression of interest",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000119655953",
-      "created": "2026-04-09T16:22:29.413Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000119659452",
-      "title": "Compositeur.trice numérique - Manifestation d'intérêt",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000119659452",
-      "created": "2026-04-09T16:21:55.678Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000116612089",
