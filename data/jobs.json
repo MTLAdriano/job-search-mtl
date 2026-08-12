@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-12T16:58:49.267402Z",
+  "updated": "2026-08-12T20:49:38.104281Z",
   "count": 244,
   "jobs": [
+    {
+      "id": "sr-744000143161197",
+      "title": "Artiste éclairagiste - Contrat Temporaire",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000143161197",
+      "created": "2026-08-12T18:23:54.550Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000143159860",
+      "title": "Lighting Artist - Temporary Contract",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000143159860",
+      "created": "2026-08-12T18:22:20.547Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000143128290",
       "title": "Artiste de maquette",
@@ -562,19 +588,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "lv-088d0dfc-7d76-483c-828e-7bc02610b00c",
-      "title": "Head Coach – Michael Jackson ONE",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.*** \n \n_______________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/088d0dfc-7d76-483c-828e-7bc02610b00c",
-      "created": "2026-08-04T01:24:30.256000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "sr-744000141346499",
       "title": "Senior Animation Artist - Temporary Contract - Multiple Roles",
       "company": "Rodeo FX",
@@ -586,19 +599,6 @@
       "created": "2026-08-03T21:10:42.215Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "lv-701a5ecb-5f74-4232-93b2-32f35b55d1a4",
-      "title": "Technicien Swing – LUZIA | Swing Technician – LUZIA",
-      "company": "Cirque du Soleil",
-      "location": "*En tournée | On tour",
-      "description": "Technicien Swing – Spectacle en tournée\nMechiniste de scène et accessoires\nPoste à temps plein\n \n *Veuillez noter que ce poste implique de participer à des tournées internationales à temps plein et de travailler à l’étranger. *\n \nNous recherchons un technicien Swing pour rejoindre l’un des spectacles en tournée du Cirque du Soleil. Sous la responsabilité du directeur technique et sous la supervision du chef du département Menuiserie et Accessoires, ce poste polyvalent assure une couverture et un",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/701a5ecb-5f74-4232-93b2-32f35b55d1a4",
-      "created": "2026-08-03T19:47:11.659000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-3083df89-1ce4-4f9c-9b64-77deef5b9547",
