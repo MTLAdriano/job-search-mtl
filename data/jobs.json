@@ -1,7 +1,46 @@
 {
-  "updated": "2026-08-13T02:11:34.863223Z",
-  "count": 244,
+  "updated": "2026-08-13T05:42:00.278338Z",
+  "count": 246,
   "jobs": [
+    {
+      "id": "sr-744000143228339",
+      "title": "Game Product Manager (Monetization Manager)",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000143228339",
+      "created": "2026-08-13T04:55:54.595Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000143228039",
+      "title": "Product Manager",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000143228039",
+      "created": "2026-08-13T04:53:35.900Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000143222240",
+      "title": "Junior Communications Specialist",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000143222240",
+      "created": "2026-08-13T02:58:26.793Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000143161197",
       "title": "Artiste éclairagiste - Contrat Temporaire",
@@ -131,19 +170,6 @@
       "created": "2026-08-11T17:44:31.228000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000142903460",
-      "title": "Junior Communications Specialist",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000142903460",
-      "created": "2026-08-11T15:09:41.490Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-6ae879f0-7f43-4626-8b58-d2a7d9793a33",
