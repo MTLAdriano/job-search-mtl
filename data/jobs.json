@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-13T13:17:40.243639Z",
-  "count": 244,
+  "updated": "2026-08-13T16:58:18.014971Z",
+  "count": 241,
   "jobs": [
+    {
+      "id": "sr-744000143341029",
+      "title": "Post-Production Producer - Advertising Department",
+      "company": "Rodeo FX",
+      "location": "Toronto, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000143341029",
+      "created": "2026-08-13T15:03:10.234Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000143330619",
+      "title": "Business Development Coordinator - Advertising department",
+      "company": "Rodeo FX",
+      "location": "Toronto, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000143330619",
+      "created": "2026-08-13T14:21:32.842Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000143228339",
       "title": "Game Product Manager (Monetization Manager)",
@@ -235,19 +261,6 @@
       "created": "2026-08-10T23:04:12.032000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000142731079",
-      "title": "Post-Production Producer - Advertising Department",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000142731079",
-      "created": "2026-08-10T20:29:51.320Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000142666211",
@@ -1329,19 +1342,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "lv-6900aac4-9233-4589-82a1-1e6a1679692c",
-      "title": "Business Analyst",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n__________________________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/6900aac4-9233-4589-82a1-1e6a1679692c",
-      "created": "2026-07-24T00:21:19.980000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-eada03a0-9572-495f-b73a-7f4722d1a859",
       "title": "Sales Manager – 'Auana",
       "company": "Cirque du Soleil",
@@ -2070,19 +2070,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000137580899",
-      "title": "IT Support",
-      "company": "Keywords Studios",
-      "location": "Adelaide, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000137580899",
-      "created": "2026-07-14T02:41:16.304Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
       "id": "sr-744000137466499",
       "title": "Release Engineer ",
       "company": "Gameloft Montreal",
@@ -2237,19 +2224,6 @@
       "created": "2026-07-08T03:45:28.690Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-96601b4a-b3b5-4eb0-a0b2-0c4bceaa2665",
-      "title": "On-Call Audio Technician – Blue Man Group Orlando",
-      "company": "Cirque du Soleil",
-      "location": "Orlando, FL",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/96601b4a-b3b5-4eb0-a0b2-0c4bceaa2665",
-      "created": "2026-07-07T19:57:26.196000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000136170530",
@@ -2759,6 +2733,19 @@
       "source": "Cirque du Soleil"
     },
     {
+      "id": "lv-e4232f3c-865b-42c6-8165-2133ca73b989",
+      "title": "Stratège de performance et optimisation CRM | CRM Performance and Optimization Strategist",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Stratège de performance et optimisation CRM\nMode de travail hybride – 4 jours/semaine au bureau\nPoste permanent\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectac",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/e4232f3c-865b-42c6-8165-2133ca73b989",
+      "created": "2026-05-28T21:57:20.241000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
       "id": "sr-744000128334705",
       "title": "People and Culture Lead - Maternity Leave Contract 12M",
       "company": "Keywords Studios",
@@ -2861,19 +2848,6 @@
       "created": "2026-05-19T18:06:59-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "lv-b8c7b6fe-7b2e-4a59-9277-879e50756d70",
-      "title": "On-Call Wardrobe Technician – Blue Man Group Orlando",
-      "company": "Cirque du Soleil",
-      "location": "Orlando, FL",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/b8c7b6fe-7b2e-4a59-9277-879e50756d70",
-      "created": "2026-05-15T18:15:19.119000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000126539670",
@@ -3160,19 +3134,6 @@
       "created": "2026-02-11T14:48:34-05:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "lv-d4d749ea-8810-47e4-af2d-2a6770982025",
-      "title": "On-Call Carpentry Technician – Blue Man Group Orlando",
-      "company": "Cirque du Soleil",
-      "location": "Orlando, FL",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/d4d749ea-8810-47e4-af2d-2a6770982025",
-      "created": "2026-01-24T14:39:50.884000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     }
   ]
 }
