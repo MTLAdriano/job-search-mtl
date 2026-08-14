@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T09:10:21.194653Z",
-  "count": 253,
+  "updated": "2026-08-14T13:12:31.372181Z",
+  "count": 252,
   "jobs": [
     {
       "id": "sr-744000143430429",
@@ -1702,19 +1702,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000138295106",
       "created": "2026-07-17T10:19:24.664Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000138286962",
-      "title": "Game Community Intern - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000138286962",
-      "created": "2026-07-17T09:21:34.910Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
