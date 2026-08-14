@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-14T13:12:31.372181Z",
-  "count": 252,
+  "updated": "2026-08-14T16:56:34.435763Z",
+  "count": 253,
   "jobs": [
+    {
+      "id": "sr-744000143547729",
+      "title": "Artiste de maquette",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000143547729",
+      "created": "2026-08-14T15:32:17.129Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000143542171",
+      "title": "Layout Artist",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000143542171",
+      "created": "2026-08-14T15:31:44.660Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000143430429",
       "title": "Office Assistant",
@@ -2614,19 +2640,6 @@
       "created": "2026-06-10T13:52:04.174000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000131227390",
-      "title": "[Dungeons & Dragons PC-Console] Coordonnateur(-trice) de projet de production – Production Project Coordinator",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000131227390",
-      "created": "2026-06-09T20:40:57.196Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000131224045",
