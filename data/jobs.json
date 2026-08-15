@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T20:33:36.631796Z",
+  "updated": "2026-08-15T01:22:53.551920Z",
   "count": 256,
   "jobs": [
     {
@@ -350,19 +350,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/745b10de-042d-49e4-869e-c0a512b23e9c",
       "created": "2026-08-11T20:43:26.374000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-90421f3c-7d6a-46aa-8ca6-eff38747822a",
-      "title": "Social Media Manager – Blue Man Group & VStar Entertainment",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.*** \n \n_______________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/90421f3c-7d6a-46aa-8ca6-eff38747822a",
-      "created": "2026-08-11T18:55:29.351000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
@@ -2716,6 +2703,19 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/34b11e8e-d3e2-4d8e-b0ff-8ea58a7b87c0",
       "created": "2026-06-09T18:00:14.711000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-b30aede2-0a50-46d1-bf9a-71d3fca082a5",
+      "title": "Marketing and Communications Manager – Blue Man Group Orlando",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n______________________________\n \n \n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/b30aede2-0a50-46d1-bf9a-71d3fca082a5",
+      "created": "2026-06-09T15:25:39.198000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
