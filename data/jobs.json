@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-17T16:30:45.615465Z",
-  "count": 253,
+  "updated": "2026-08-17T20:29:50.537788Z",
+  "count": 252,
   "jobs": [
+    {
+      "id": "sr-744000143897484",
+      "title": "SENIOR FX Artist - Temporary contract",
+      "company": "Rodeo FX",
+      "location": "Toronto, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000143897484",
+      "created": "2026-08-17T18:06:43.526Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000143897839",
+      "title": "FX Artist - Mid and Senior - Multiple Positions",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000143897839",
+      "created": "2026-08-17T18:05:13.402Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000143746229",
       "title": "Office Assistant",
@@ -19,7 +45,7 @@
       "id": "lv-47e03d4e-c58f-472a-b4bf-ba28d7b5ed95",
       "title": "Vice-président(e), Marketing – Spectacles internationaux et Amériques | Vice President Marketing – International & Americas Shows",
       "company": "Cirque du Soleil",
-      "location": "London",
+      "location": "Las Vegas, NV",
       "description": "Vice-président(e), Marketing – Spectacles internationaux et Amériques (tournées et résidences)\nVentes, Marketing et Communications\nTemps Plein\n \n \nLieu : Montréal (siège social), Londres (pôle international) ou Las Vegas (pôle Amériques)\nRelève de : Chef de la direction marketing (CMO)\nPortée : Marketing des spectacles et génération de la demande dans tous les marchés internationaux (Europe, Royaume-Uni, Moyen-Orient, Afrique, Asie-Pacifique et Océanie) ainsi que dans les Amériques, pour les pro",
       "salary_min": null,
       "salary_max": null,
@@ -149,7 +175,7 @@
       "id": "lv-d42c0335-f9a3-4412-b1b3-8f129d333f19",
       "title": "Gestionnaire de compte – Équipe d'activation des partenariats | Account Manager – Partnership Activation Team",
       "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
+      "location": "Las Vegas, NV",
       "description": "Gestionnaire de compte – Équipe d'activation des partenariats \nDéveloppement des affaires et stratégies\nPoste temporaire\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de no",
       "salary_min": null,
       "salary_max": null,
@@ -835,19 +861,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000141332007",
-      "title": "FX Artist - Mid and Senior - Multiple Positions",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000141332007",
-      "created": "2026-08-03T19:08:14.206Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "lv-cf05bc48-d373-4343-8535-f7ca383a1fdc",
       "title": "Agent TI – Centre d’Assistance TI | IT Agent - IT Assistance Center",
       "company": "Cirque du Soleil",
@@ -1239,7 +1252,7 @@
     },
     {
       "id": "lv-3302c7b4-d188-4a89-8112-f11ec8eb64ff",
-      "title": "Digital and Social Manager",
+      "title": "Digital and Paid Social Manager",
       "company": "Cirque du Soleil",
       "location": "London",
       "description": "***Le poste étant basé en Angleterre, la description de poste est disponible uniquement en anglais.***\n***As this position in based in England, the job description is available in English only.***\n",
@@ -1485,19 +1498,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "lv-2fc4ba8a-7555-466c-9f97-d0c184370731",
-      "title": "​​Head Wardrobe (Touring)​ – VStar Entertainment Group",
-      "company": "Cirque du Soleil",
-      "location": "En tournée | On tour",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n___________________________________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/2fc4ba8a-7555-466c-9f97-d0c184370731",
-      "created": "2026-07-27T20:57:37.022000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-5bf85833-85f0-4666-a0e0-3e1b069c4ce1",
       "title": "​​Head Audio (Touring)​ – VStar Entertainment Group",
       "company": "Cirque du Soleil",
@@ -1626,19 +1626,6 @@
       "created": "2026-07-21T16:41:17.379000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000138917649",
-      "title": "SENIOR FX Artist - Temporary contract",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000138917649",
-      "created": "2026-07-21T16:28:45.203Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "lv-85c971b2-45b0-40ec-a283-1ca719e0cd93",
