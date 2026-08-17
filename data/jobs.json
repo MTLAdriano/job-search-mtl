@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-17T04:45:14.216966Z",
+  "updated": "2026-08-17T08:46:30.784868Z",
   "count": 256,
   "jobs": [
+    {
+      "id": "sr-744000143746229",
+      "title": "Office Assistant",
+      "company": "Gameloft Montreal",
+      "location": "Brisbane, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000143746229",
+      "created": "2026-08-17T06:01:27.045Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-47e03d4e-c58f-472a-b4bf-ba28d7b5ed95",
       "title": "Vice-président(e), Marketing – Spectacles internationaux et Amériques | Vice President Marketing – International & Americas Shows",
@@ -66,19 +79,6 @@
       "created": "2026-08-14T15:31:44.660Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000143430429",
-      "title": "Office Assistant",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000143430429",
-      "created": "2026-08-14T01:43:38.459Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000143427569",
