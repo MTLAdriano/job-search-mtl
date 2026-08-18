@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-17T20:29:50.537788Z",
+  "updated": "2026-08-18T01:21:54.675920Z",
   "count": 252,
   "jobs": [
+    {
+      "id": "sr-744000143933332",
+      "title": "Senior Lookdev Artist - Multiple Positions",
+      "company": "Rodeo FX",
+      "location": "Toronto, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000143933332",
+      "created": "2026-08-17T22:07:00.492Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000143897484",
       "title": "SENIOR FX Artist - Temporary contract",
@@ -534,19 +547,6 @@
       "created": "2026-08-07T18:38:04.984000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000142181169",
-      "title": "Senior Lookdev Artist - Multiple Positions",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000142181169",
-      "created": "2026-08-07T16:32:22.295Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "lv-cc2f0b88-7631-4a0e-a272-cd6cc7f4acd0",
