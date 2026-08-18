@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-18T12:51:43.538123Z",
-  "count": 251,
+  "updated": "2026-08-18T16:34:37.642929Z",
+  "count": 250,
   "jobs": [
+    {
+      "id": "sr-744000144123709",
+      "title": "Senior Lookdev Artist - Multiple Positions",
+      "company": "Rodeo FX",
+      "location": "Toronto, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000144123709",
+      "created": "2026-08-18T16:15:01.888Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000144036359",
       "title": "Game Designer Intern",
@@ -92,19 +105,6 @@
       "created": "2026-08-18T05:05:43.377Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000143933332",
-      "title": "Senior Lookdev Artist - Multiple Positions",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000143933332",
-      "created": "2026-08-17T22:07:00.492Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000143897484",
@@ -2482,19 +2482,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000134999114",
       "created": "2026-06-30T12:16:51.636Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000134871979",
-      "title": "[Disney Dreamlight Valley] Chef(fe) de Produit - Product Manager",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000134871979",
-      "created": "2026-06-29T19:56:24.295Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
