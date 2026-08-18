@@ -1,17 +1,56 @@
 {
-  "updated": "2026-08-18T04:37:48.046961Z",
-  "count": 252,
+  "updated": "2026-08-18T08:40:04.532369Z",
+  "count": 251,
   "jobs": [
     {
-      "id": "sr-744000143973534",
+      "id": "sr-744000143998716",
+      "title": "Product Manager",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000143998716",
+      "created": "2026-08-18T07:37:03.528Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000143999511",
       "title": "Platform Operations Manager",
       "company": "Gameloft Montreal",
       "location": "Hanoi, vn",
       "description": "",
       "salary_min": null,
       "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000143973534",
-      "created": "2026-08-18T03:13:12.915Z",
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000143999511",
+      "created": "2026-08-18T07:32:10.378Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000143985439",
+      "title": "Division Principal Game Programmer (Unreal Engine, AI)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000143985439",
+      "created": "2026-08-18T06:03:38.484Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000143980779",
+      "title": "Localization Design Lead (2D and Video Assets)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000143980779",
+      "created": "2026-08-18T05:05:43.377Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -298,19 +337,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000143228339",
       "created": "2026-08-13T04:55:54.595Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000143228039",
-      "title": "Product Manager",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000143228039",
-      "created": "2026-08-13T04:53:35.900Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -705,19 +731,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000141668229",
-      "title": "Division Principal Game Engineer (Unreal Engine)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000141668229",
-      "created": "2026-08-05T08:53:30.542Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000141577590",
       "title": "Stagiaire en Ressources Humaines - Human Resources Intern",
       "company": "Gameloft Montreal",
@@ -781,32 +794,6 @@
       "created": "2026-08-04T18:13:50.870Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000141442025",
-      "title": "Localization Design Lead (2D and Video Assets)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000141442025",
-      "created": "2026-08-04T08:53:30.725Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000141407024",
-      "title": "Principal Game Programmer (Unreal Engine)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000141407024",
-      "created": "2026-08-04T04:44:57.800Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-1b910f06-990b-4b8d-a1b3-8c2a39634dda",
