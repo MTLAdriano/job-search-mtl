@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T16:34:37.642929Z",
-  "count": 250,
+  "updated": "2026-08-18T20:27:10.255348Z",
+  "count": 249,
   "jobs": [
     {
       "id": "sr-744000144123709",
@@ -2833,19 +2833,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/6e3ad96b-c305-4b93-8f86-6be77ecb0b3a",
       "created": "2026-06-02T14:18:45.256000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-d0661afe-e3f8-463c-8502-0f5b8d38292a",
-      "title": "Automation Technician – ALIZÉ",
-      "company": "Cirque du Soleil",
-      "location": "Berlin",
-      "description": "Automation Technician – ALIZÉ – Resident Shows Division\nFull-time position\n \nWe are looking for an Automation Technician whose role will be to support the automation systems to ensure show readiness and safety by performing maintenance on electrical and mechanical equipment above the stage, developing a thorough knowledge of all automation and control systems, maintaining inventory of spare parts and supplies, and providing all other supporting services.  Automation Technicians report to the Hea",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/d0661afe-e3f8-463c-8502-0f5b8d38292a",
-      "created": "2026-06-01T19:57:08.437000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
