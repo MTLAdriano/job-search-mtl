@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-19T16:34:15.347834Z",
-  "count": 249,
+  "updated": "2026-08-19T20:31:06.106865Z",
+  "count": 252,
   "jobs": [
+    {
+      "id": "lv-7c951fbd-b5b6-4a42-8bf9-f4bd5a42cb57",
+      "title": "Commis – Comptes payables | Clerk – Account Payables",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Commis – Comptes payables\nFinance et comptabilité\nPoste à temps plein - Mode de travail hybride – 4 jours/semaine au bureau\n \n \nNous avons une place pour celles et ceux qui ont un goût distinct pour assurer le bon déroulement des opérations au profit de nos spectacles et événements, pour penser des produits remarquables, pour mettre leur ingéniosité au service de leur équipe, en plus de contribuer à valoriser leur expertise et développer des pratiques exceptionnelles. Le Groupe Cirque du Soleil ",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/7c951fbd-b5b6-4a42-8bf9-f4bd5a42cb57",
+      "created": "2026-08-19T20:19:10.529000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-c46e1683-cf60-4be3-a650-225ec530682e",
+      "title": "Technicien.ne textile | Textile Technician",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Technicien.ne textile\nCostumes et accessoires\nPoste temporaire 12 mois\n\n\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n\nNOTRE MISSION\n\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos produc",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/c46e1683-cf60-4be3-a650-225ec530682e",
+      "created": "2026-08-19T19:46:04.445000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-edd21505-6080-430a-b240-70361cb09c61",
+      "title": "Chef Machiniste de Scène & Accessoire – Spectacle en tournée | Head of Stage Carpentry & Props – Touring Show",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Chef Machiniste de Scène & Accessoire – Spectacle en tournée\nMechiniste de Scène & Accessoire\nPoste à temps plein\n \n \n* Veuillez noter que ce poste implique de participer à des tournées internationales à temps plein et de travailler à l’étranger. * \n \n \nNous sommes à la recherche d’un(e) Chef de département (HOD), Menuiserie de scène et Accessoires, hautement motivé(e), pour diriger l’équipe Menuiserie & Accessoires de notre spectacle en tournée. Relevant du Directeur technique et travaillant en",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/edd21505-6080-430a-b240-70361cb09c61",
+      "created": "2026-08-19T17:28:59.813000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-ed66a080-a7bb-4f5c-b3b1-ee00febaca76",
+      "title": "Assistant Chef, Automatisation - ECHO | Assistant Head of Automation - ECHO",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Assistant chef de département, Automatisation – Spectacle en tournée\nAutomatisation de Scène\nTemps Plein \n \n \n* Veuillez noter que ce poste implique de participer à des tournées internationales à temps plein et de travailler à l’étranger. * \n \n \n \nNous recherchons un assistant chef de département (« AHOD ») en automatisation pour soutenir les opérations d’automatisation de l’un des spectacles en tournée du Cirque du Soleil. Rattaché(e) au directeur technique et travaillant sous la supervision du",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/ed66a080-a7bb-4f5c-b3b1-ee00febaca76",
+      "created": "2026-08-19T17:24:27.125000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "gh-8139618",
       "title": "ACD, Content",
@@ -623,19 +675,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/073e700a-41fc-4fd3-ae25-37c6dff93e82",
       "created": "2026-08-07T20:18:07.653000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-6115cc48-2d71-4e52-904c-8ffbee3f8060",
-      "title": "Production Manager - Blue Man Group",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/6115cc48-2d71-4e52-904c-8ffbee3f8060",
-      "created": "2026-08-07T18:38:04.984000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
