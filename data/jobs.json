@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-19T12:52:29.340950Z",
+  "updated": "2026-08-19T16:34:15.347834Z",
   "count": 249,
   "jobs": [
+    {
+      "id": "gh-8139618",
+      "title": "ACD, Content",
+      "company": "Sid Lee",
+      "location": "Toronto, Ontario, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8139618",
+      "created": "2026-08-19T11:25:15-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
     {
       "id": "sr-744000144248270",
       "title": "Senior Product Manager - Asphalt Legends",
@@ -2586,19 +2599,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/02fb3f81-9c89-4542-bcfc-ed89cc05cb23",
       "created": "2026-06-15T21:04:22.265000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-19c859fa-7b20-465a-8ca4-20a6f8586107",
-      "title": "Senior Analyst, Business Development – BMG and VStar Entertainment",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "Analyste principal – Développement des affaires – Blue Man Group et VStar Entertainment\nMode de travail hybride – 4 jours/semaine au bureau\nPoste permanent\n \nÀ propos de Blue Man Group\nBlue Man Group est un phénomène mondial du divertissement, reconnu pour ses productions théâtrales primées, ses personnages iconiques et son exploration créative sans limites. Détenu et exploité par le Groupe de divertissement Cirque du Soleil, Blue Man Group offre des célébrations euphoriques de la connexion huma",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/19c859fa-7b20-465a-8ca4-20a6f8586107",
-      "created": "2026-06-12T22:35:59.739000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
