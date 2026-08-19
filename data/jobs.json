@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T20:27:10.255348Z",
-  "count": 249,
+  "updated": "2026-08-19T01:23:45.916710Z",
+  "count": 247,
   "jobs": [
     {
       "id": "sr-744000144123709",
@@ -2980,19 +2980,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "gh-7859299",
-      "title": "Équipe Créative Junior - Jr. Creative Team",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7859299",
-      "created": "2026-04-27T16:50:43-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "gh-7858881",
       "title": "Directeur.trice Artistique Senior - Senior Art Director",
       "company": "Sid Lee",
@@ -3017,19 +3004,6 @@
       "created": "2026-04-15T13:45:47.370Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "gh-7467690",
-      "title": "Directeur.trice artistique, contenu - Art Director, Content",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7467690",
-      "created": "2026-04-14T14:44:32-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "gh-7669126",
