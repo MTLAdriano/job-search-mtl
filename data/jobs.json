@@ -1,7 +1,46 @@
 {
-  "updated": "2026-08-19T01:23:45.916710Z",
-  "count": 247,
+  "updated": "2026-08-19T04:39:30.425774Z",
+  "count": 248,
   "jobs": [
+    {
+      "id": "sr-744000144227279",
+      "title": "Game Designer Intern",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000144227279",
+      "created": "2026-08-19T03:53:39.759Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "lv-783b41e5-3d26-4c36-bb8a-52b7e78ce537",
+      "title": "Digital Marketing Manager – Resident Shows",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_______________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/783b41e5-3d26-4c36-bb8a-52b7e78ce537",
+      "created": "2026-08-19T03:24:51Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000144209908",
+      "title": "Quality Assurance Analyst",
+      "company": "Keywords Studios",
+      "location": "Fortitude Valley, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000144209908",
+      "created": "2026-08-19T01:37:43.280Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
     {
       "id": "sr-744000144123709",
       "title": "Senior Lookdev Artist - Multiple Positions",
@@ -14,19 +53,6 @@
       "created": "2026-08-18T16:15:01.888Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000144036359",
-      "title": "Game Designer Intern",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000144036359",
-      "created": "2026-08-18T10:33:22.229Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000144033189",
@@ -1598,19 +1624,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/c90056e0-d896-4fc4-88fe-6f182228f876",
       "created": "2026-07-21T22:44:07.121000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-150bf979-9c56-47bf-a1d5-710c2b42a998",
-      "title": "Product Development Lead – Consumer Products",
-      "company": "Cirque du Soleil",
-      "location": "London",
-      "description": "***Le poste étant situé aux UK, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the UK, the job description is available in English only.***\n \n_______________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/150bf979-9c56-47bf-a1d5-710c2b42a998",
-      "created": "2026-07-21T22:29:32.095000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
