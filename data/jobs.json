@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-19T04:39:30.425774Z",
-  "count": 248,
+  "updated": "2026-08-19T08:40:16.514503Z",
+  "count": 249,
   "jobs": [
+    {
+      "id": "sr-744000144248270",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000144248270",
+      "created": "2026-08-19T07:55:04.837Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000144233955",
+      "title": "Software Engineer",
+      "company": "Keywords Studios",
+      "location": "Fitzroy, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000144233955",
+      "created": "2026-08-19T06:19:40.041Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
     {
       "id": "sr-744000144227279",
       "title": "Game Designer Intern",
@@ -90,19 +116,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000144032689",
       "created": "2026-08-18T10:11:53.432Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000144027275",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000144027275",
-      "created": "2026-08-18T09:42:40.209Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
