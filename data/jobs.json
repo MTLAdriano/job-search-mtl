@@ -1,7 +1,46 @@
 {
-  "updated": "2026-08-20T12:54:32.682429Z",
-  "count": 251,
+  "updated": "2026-08-20T16:38:00.692162Z",
+  "count": 250,
   "jobs": [
+    {
+      "id": "lv-17ed5d10-3217-41f3-8d02-ba275ea225ef",
+      "title": "Responsable du développement de produits – Produits de consommation | Product Development Lead – Consumer Products",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Responsable du développement de produits – Produits de consommation\nExpérience client\nPoste à temps plein\n \n \nSous la responsabilité de la directrice, Produits de consommation, le titulaire du poste accompagne l'ensemble du cycle de développement des produits, notamment l'élaboration des concepts, la coordination avec les fournisseurs, la gestion des échantillons, la direction artistique ainsi que le suivi des coûts et des échéanciers.\n \nLe titulaire du poste dirige le processus de développement",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/17ed5d10-3217-41f3-8d02-ba275ea225ef",
+      "created": "2026-08-20T16:23:21.322000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-119cbf9e-552c-4451-9df1-b1cfe9609f05",
+      "title": "Calling Stage Manager – VStar Entertainment Group",
+      "company": "Cirque du Soleil",
+      "location": "En tournée | On tour",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/119cbf9e-552c-4451-9df1-b1cfe9609f05",
+      "created": "2026-08-20T13:55:32.403000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000144563459",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000144563459",
+      "created": "2026-08-20T13:53:45.782Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000144523591",
       "title": "Release Engineer ",
@@ -64,19 +103,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000144515339",
       "created": "2026-08-20T10:25:35.241Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000144494236",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000144494236",
-      "created": "2026-08-20T09:11:19.667Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1706,19 +1732,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "lv-85c971b2-45b0-40ec-a283-1ca719e0cd93",
-      "title": "Conseiller.ère – Traffic et Acquisition de talents | Advisor - Talent Acquisition Operations & Recruitment",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Conseiller.ère – Traffic et Acquisition de talentsTalent\nPoste permanentMode de travail hybride – 4 jours/semaine au bureau\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire.\n \n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles e",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/85c971b2-45b0-40ec-a283-1ca719e0cd93",
-      "created": "2026-07-21T15:41:57.586000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "gh-8074408",
       "title": "Account Director ",
       "company": "Sid Lee",
@@ -2850,19 +2863,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "sr-744000129848177",
-      "title": "Key Account Manager",
-      "company": "Gameloft Montreal",
-      "location": "Mexico City, mx",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000129848177",
-      "created": "2026-06-02T20:18:14.897Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "lv-5d7f3fb3-5803-40c6-972a-20e92b2311cb",
       "title": "Head of Sales & Marketing – Blue Man Group and VStar Entertainment",
       "company": "Cirque du Soleil",
@@ -3080,19 +3080,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/348c66fe-251d-4f22-b22a-11fbbcfd822a",
       "created": "2026-04-11T01:03:25.461000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-79771341-875d-4799-b664-9f27afb80ca8",
-      "title": "On-Call Rigging Technician – KÀ",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n___________________________________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/79771341-875d-4799-b664-9f27afb80ca8",
-      "created": "2026-04-10T21:18:15.785000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
