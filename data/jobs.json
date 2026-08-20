@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-20T16:38:00.692162Z",
-  "count": 250,
+  "updated": "2026-08-20T20:31:04.383368Z",
+  "count": 246,
   "jobs": [
+    {
+      "id": "sr-744000144606399",
+      "title": "Nuke Compositor / Motion Designer - Advertising",
+      "company": "Rodeo FX",
+      "location": "Los Angeles, us",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000144606399",
+      "created": "2026-08-20T17:23:04.910Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "lv-17ed5d10-3217-41f3-8d02-ba275ea225ef",
       "title": "Responsable du développement de produits – Produits de consommation | Product Development Lead – Consumer Products",
@@ -14,6 +27,58 @@
       "created": "2026-08-20T16:23:21.322000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
+    },
+    {
+      "id": "gh-6610686",
+      "title": "Architecte, Chargé.e de projets",
+      "company": "Sid Lee",
+      "location": "Montréal, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=6610686",
+      "created": "2026-08-20T16:02:37-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8105760",
+      "title": "Gestionnaire de bureau",
+      "company": "Sid Lee",
+      "location": "Montréal, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8105760",
+      "created": "2026-08-20T16:01:38-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8001167",
+      "title": "Technologue en architecture Intermédiaire / Sénior ",
+      "company": "Sid Lee",
+      "location": "Montréal, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8001167",
+      "created": "2026-08-20T15:54:53-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8114495",
+      "title": "Conseiller·ère, Talent et acquisition de talents",
+      "company": "Sid Lee",
+      "location": "Montréal, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8114495",
+      "created": "2026-08-20T15:51:37-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
     },
     {
       "id": "lv-119cbf9e-552c-4451-9df1-b1cfe9609f05",
@@ -393,19 +458,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000143396499",
-      "title": "Nuke Compositor / Motion Designer - Advertising",
-      "company": "Rodeo FX",
-      "location": "Los Angeles, us",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000143396499",
-      "created": "2026-08-13T21:31:11.692Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000143396449",
       "title": "Post-Production Coordinator - Expression of interest",
       "company": "Rodeo FX",
@@ -480,19 +532,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/23eed2c6-d3fb-4683-a05d-4fd30d6b8ffe",
       "created": "2026-08-13T17:50:44.469000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-3023cac1-d071-44c9-bbfd-a32b3f7ebaf4",
-      "title": "Talent Acquisition Partner | Talent Acquisition Partner",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_______________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/3023cac1-d071-44c9-bbfd-a32b3f7ebaf4",
-      "created": "2026-08-13T17:23:26.231000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
@@ -783,19 +822,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "gh-8114495",
-      "title": "Conseiller·ère, Talent et acquisition de talents",
-      "company": "Sid Lee",
-      "location": "Montréal, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8114495",
-      "created": "2026-08-07T13:32:40-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "gh-8114479",
       "title": "Directeur·rice de marque - Director, Brand",
       "company": "Sid Lee",
@@ -805,19 +831,6 @@
       "salary_max": null,
       "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8114479",
       "created": "2026-08-07T13:25:25-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-8105760",
-      "title": "Gestionnaire de bureau",
-      "company": "Sid Lee",
-      "location": "Montréal, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8105760",
-      "created": "2026-08-07T11:15:27-04:00",
       "category": "Agence",
       "source": "Sid Lee"
     },
@@ -870,19 +883,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/b96ff0ba-2021-49c8-8a05-0149bab8e234",
       "created": "2026-08-05T19:21:44.996000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-d1a932ad-67c8-4d87-8fe9-42c358d2bc65",
-      "title": "On-Call Wardrobe Technician - O",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/d1a932ad-67c8-4d87-8fe9-42c358d2bc65",
-      "created": "2026-08-05T19:11:51.028000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
@@ -1026,19 +1026,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/cf05bc48-d373-4343-8535-f7ca383a1fdc",
       "created": "2026-08-03T19:05:09.103000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-c9436a42-d9bc-4705-ae18-32372a07391e",
-      "title": "Lighting Technician – KÀ",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n________________________________________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/c9436a42-d9bc-4705-ae18-32372a07391e",
-      "created": "2026-08-03T16:41:51.678000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
@@ -2577,19 +2564,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "gh-6610686",
-      "title": "Architecte, Chargé.e de projets",
-      "company": "Sid Lee",
-      "location": "Montréal, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=6610686",
-      "created": "2026-06-18T15:52:07-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "gh-7961322",
       "title": "Creative Recruiter (Mat Leave Contract)",
       "company": "Sid Lee",
@@ -2640,19 +2614,6 @@
       "created": "2026-06-15T21:04:22.265000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "gh-8001167",
-      "title": "Technologue en architecture Intermédiaire / Sénior ",
-      "company": "Sid Lee",
-      "location": "Montréal, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8001167",
-      "created": "2026-06-11T13:35:38-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "lv-07fe113e-a2fd-420c-8d0e-17fcc740bc8c",
@@ -3043,19 +3004,6 @@
       "created": "2026-04-27T16:35:13-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000120971937",
-      "title": "[Dungeons & Dragons PC-Console] Responsable des effets visuels - Lead VFX ",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000120971937",
-      "created": "2026-04-15T13:45:47.370Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "gh-7669126",
