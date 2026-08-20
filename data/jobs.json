@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T20:31:06.106865Z",
-  "count": 252,
+  "updated": "2026-08-20T01:22:35.890958Z",
+  "count": 251,
   "jobs": [
     {
       "id": "lv-7c951fbd-b5b6-4a42-8bf9-f4bd5a42cb57",
@@ -1676,19 +1676,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/c4713b25-3e68-4e05-b454-7ee0093b0a87",
       "created": "2026-07-22T14:50:34.966000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-c90056e0-d896-4fc4-88fe-6f182228f876",
-      "title": "Sales Manager – Drawn to Life",
-      "company": "Cirque du Soleil",
-      "location": "Orlando, FL",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.*** \n \n_________________________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/c90056e0-d896-4fc4-88fe-6f182228f876",
-      "created": "2026-07-21T22:44:07.121000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
