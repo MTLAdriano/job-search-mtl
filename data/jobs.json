@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-20T04:39:49.295031Z",
+  "updated": "2026-08-20T08:41:22.826615Z",
   "count": 251,
   "jobs": [
+    {
+      "id": "sr-744000144475349",
+      "title": "Product Manager (Monetization Manager)",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000144475349",
+      "created": "2026-08-20T07:30:47.458Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-7c951fbd-b5b6-4a42-8bf9-f4bd5a42cb57",
       "title": "Commis – Comptes payables | Clerk – Account Payables",
@@ -168,19 +181,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000144033075",
       "created": "2026-08-18T10:13:14.908Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000144032689",
-      "title": "Product Manager",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000144032689",
-      "created": "2026-08-18T10:11:53.432Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
