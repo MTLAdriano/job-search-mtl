@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-21T08:43:43.247771Z",
+  "updated": "2026-08-21T12:53:08.740090Z",
   "count": 242,
   "jobs": [
+    {
+      "id": "sr-744000144738274",
+      "title": "Game Designer Intern",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000144738274",
+      "created": "2026-08-21T10:55:33.960Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000144738369",
+      "title": "Product Manager (Monetization Manager)",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000144738369",
+      "created": "2026-08-21T10:53:00.366Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000144606399",
       "title": "Nuke Compositor / Motion Designer - Advertising",
@@ -172,19 +198,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000144475349",
-      "title": "Product Manager (Monetization Manager)",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000144475349",
-      "created": "2026-08-20T07:30:47.458Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "lv-7c951fbd-b5b6-4a42-8bf9-f4bd5a42cb57",
       "title": "Commis – Comptes payables | Clerk – Account Payables",
       "company": "Cirque du Soleil",
@@ -261,19 +274,6 @@
       "created": "2026-08-19T06:19:40.041Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000144227279",
-      "title": "Game Designer Intern",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000144227279",
-      "created": "2026-08-19T03:53:39.759Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-783b41e5-3d26-4c36-bb8a-52b7e78ce537",
