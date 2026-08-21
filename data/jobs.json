@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T04:40:35.541453Z",
-  "count": 243,
+  "updated": "2026-08-21T08:43:43.247771Z",
+  "count": 242,
   "jobs": [
     {
       "id": "sr-744000144606399",
@@ -2547,19 +2547,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000132817487",
       "created": "2026-06-18T09:27:45.129Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000132785022",
-      "title": "3D Graphic Artist Intern",
-      "company": "Gameloft Montreal",
-      "location": "Yogyakarta, id",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000132785022",
-      "created": "2026-06-18T06:48:07.022Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
