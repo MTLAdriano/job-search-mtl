@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T04:49:01.622785Z",
-  "count": 239,
+  "updated": "2026-08-24T08:51:25.054413Z",
+  "count": 236,
   "jobs": [
     {
       "id": "muse-22092217",
@@ -1039,19 +1039,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000140860009",
       "created": "2026-07-31T09:13:19.325Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000140817679",
-      "title": "Senior Game Data Analyst",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000140817679",
-      "created": "2026-07-31T03:20:22.583Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -2460,19 +2447,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000134999114",
-      "title": "Graphic Designer (Middle/Senior)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000134999114",
-      "created": "2026-06-30T12:16:51.636Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "lv-8303feda-2d11-4c51-a4b4-981b5f0abdbf",
       "title": "Creative Strategist",
       "company": "Cirque du Soleil",
@@ -2783,19 +2757,6 @@
       "created": "2026-05-28T21:57:20.241000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000128334705",
-      "title": "People and Culture Lead - Maternity Leave Contract 12M",
-      "company": "Keywords Studios",
-      "location": "Box Hill, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000128334705",
-      "created": "2026-05-26T02:41:25.114Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
     },
     {
       "id": "sr-744000128242954",
