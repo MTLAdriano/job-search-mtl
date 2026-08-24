@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-23T20:26:35.714558Z",
-  "count": 239,
+  "updated": "2026-08-24T01:27:09.381746Z",
+  "count": 240,
   "jobs": [
+    {
+      "id": "muse-22092217",
+      "title": "Senior Business Data Analyst - Ad Operations - Arity",
+      "company": "Allstate",
+      "location": "Flexible / Remote",
+      "description": "<p>At Allstate, great things happen when our people work together to protect families and their belongings from life's uncertainties. And for more than 90 years, our innovative drive has kept us a step ahead of our customers' evolving needs. From advocating for seat belts, air bags and graduated driving laws, to being an industry leader in pricing sophistication, telematics, and, more recently, device and identity protection.<br><br><b>Job Description</b><br>Arity is a part of the Allstate Corpo",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://www.themuse.com/jobs/allstate/senior-business-data-analyst-ad-operations-arity-d96a73",
+      "created": "2026-08-23T21:27:14Z",
+      "category": "Data and Analytics",
+      "source": "The Muse"
+    },
     {
       "id": "sr-744000144738274",
       "title": "Game Designer Intern",
