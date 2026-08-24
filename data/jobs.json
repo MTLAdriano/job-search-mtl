@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-24T08:51:25.054413Z",
-  "count": 236,
+  "updated": "2026-08-24T12:55:42.139670Z",
+  "count": 235,
   "jobs": [
+    {
+      "id": "sr-744000145265465",
+      "title": "Release Engineer ",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000145265465",
+      "created": "2026-08-24T12:22:21.712Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000145241425",
+      "title": "Technical Designer – Japan & Global Game Development",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000145241425",
+      "created": "2026-08-24T10:17:39.498Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
     {
       "id": "muse-22092217",
       "title": "Senior Business Data Analyst - Ad Operations - Arity",
@@ -142,19 +168,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000144563459",
       "created": "2026-08-20T13:53:45.782Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000144523591",
-      "title": "Release Engineer ",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000144523591",
-      "created": "2026-08-20T11:20:38.415Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1496,32 +1509,6 @@
       "created": "2026-07-28T10:37:06-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000140152519",
-      "title": "エンジニアリングマネジャー",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000140152519",
-      "created": "2026-07-28T06:00:27.131Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000140152409",
-      "title": "Engineering Manager",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000140152409",
-      "created": "2026-07-28T05:59:22.128Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
     },
     {
       "id": "lv-aa0d9b5f-2a5e-4379-b753-19de2e4a6fc7",
