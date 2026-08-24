@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T01:27:09.381746Z",
-  "count": 240,
+  "updated": "2026-08-24T04:49:01.622785Z",
+  "count": 239,
   "jobs": [
     {
       "id": "muse-22092217",
@@ -2391,19 +2391,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000136170530",
       "created": "2026-07-07T08:42:42.553Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000135903729",
-      "title": "IT Support",
-      "company": "Keywords Studios",
-      "location": "Box Hill, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000135903729",
-      "created": "2026-07-06T02:29:25.245Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
     },
