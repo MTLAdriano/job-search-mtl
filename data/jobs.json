@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T08:46:01.061311Z",
-  "count": 230,
+  "updated": "2026-08-25T12:52:14.989067Z",
+  "count": 229,
   "jobs": [
     {
       "id": "sr-744000145447089",
@@ -2287,19 +2287,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000136733114",
       "created": "2026-07-09T07:21:03.484Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000136375799",
-      "title": "AI Engineer (for Game Development)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000136375799",
-      "created": "2026-07-08T03:45:28.690Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
