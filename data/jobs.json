@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-25T12:52:14.989067Z",
+  "updated": "2026-08-25T16:39:49.466523Z",
   "count": 229,
   "jobs": [
+    {
+      "id": "sr-744000145526134",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000145526134",
+      "created": "2026-08-25T14:15:44.588Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000145447089",
       "title": "HRBP Specialist",
@@ -183,19 +196,6 @@
       "created": "2026-08-20T13:55:32.403000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000144563459",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000144563459",
-      "created": "2026-08-20T13:53:45.782Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000144523419",
