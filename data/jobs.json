@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-25T04:41:30.029182Z",
+  "updated": "2026-08-25T08:46:01.061311Z",
   "count": 230,
   "jobs": [
+    {
+      "id": "sr-744000145447089",
+      "title": "HRBP Specialist",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000145447089",
+      "created": "2026-08-25T08:08:29.801Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000145415469",
       "title": "Localization Design Lead (2D and Video Assets)",
@@ -1002,19 +1015,6 @@
       "created": "2026-08-03T19:08:48.961Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000140864639",
-      "title": "Privacy Project Coordinator",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000140864639",
-      "created": "2026-07-31T09:31:31.442Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000140860009",
