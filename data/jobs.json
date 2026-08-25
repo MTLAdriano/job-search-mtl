@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-25T16:39:49.466523Z",
-  "count": 229,
+  "updated": "2026-08-25T20:31:52.815596Z",
+  "count": 225,
   "jobs": [
+    {
+      "id": "sr-744000145587250",
+      "title": "Artiste de développement visuel Senior - Plusieurs postes",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000145587250",
+      "created": "2026-08-25T18:55:05.020Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000145587059",
+      "title": "Senior Lookdev Artist - Multiple Positions",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000145587059",
+      "created": "2026-08-25T18:54:36.016Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000145576510",
+      "title": "Artiste Animateur Senior - Manifestation d'intérêt",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000145576510",
+      "created": "2026-08-25T17:44:46.869Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000145575430",
+      "title": "Senior Animation Artist - Expression of interest",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000145575430",
+      "created": "2026-08-25T17:44:22.211Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000145526134",
       "title": "Senior Product Manager - Asphalt Legends",
@@ -796,19 +848,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000142661283",
-      "title": "Animation Artist",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000142661283",
-      "created": "2026-08-10T14:25:54.650Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "lv-073e700a-41fc-4fd3-ae25-37c6dff93e82",
       "title": "Carpentry Technician (Theatrical) - Drawn to Life",
       "company": "Cirque du Soleil",
@@ -939,71 +978,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000141558709",
-      "title": "Artistes en animation - Contrats temporaires - Plusieurs postes",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000141558709",
-      "created": "2026-08-04T18:17:15.902Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000141557627",
-      "title": "Animation Artist - Temporary Contract - Multiple Roles",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000141557627",
-      "created": "2026-08-04T18:16:21.278Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000141558529",
-      "title": "Artiste de développement visuel Senior - Plusieurs postes",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000141558529",
-      "created": "2026-08-04T18:14:15.306Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000141558429",
-      "title": "Senior Lookdev Artist - Multiple Positions",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000141558429",
-      "created": "2026-08-04T18:13:50.870Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000141346499",
-      "title": "Senior Animation Artist - Temporary Contract - Multiple Roles",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000141346499",
-      "created": "2026-08-03T21:10:42.215Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000141332739",
       "title": "Artiste FX - Senior et intermédiaire - Multiple positions",
       "company": "Rodeo FX",
@@ -1028,32 +1002,6 @@
       "created": "2026-07-31T09:13:19.325Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000140769299",
-      "title": "Pigiste artiste Animateur.trice Senior",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000140769299",
-      "created": "2026-07-30T20:07:20.842Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000140768350",
-      "title": "Animation Artist Freelance",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000140768350",
-      "created": "2026-07-30T20:06:34.899Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000140722334",
