@@ -1,17 +1,17 @@
 {
-  "updated": "2026-08-26T08:47:47.015262Z",
-  "count": 226,
+  "updated": "2026-08-26T12:57:25.495924Z",
+  "count": 225,
   "jobs": [
     {
-      "id": "sr-744000145680711",
+      "id": "sr-744000145696430",
       "title": "Senior Product Manager - Asphalt Legends",
       "company": "Gameloft Montreal",
       "location": "Barcelona, es",
       "description": "",
       "salary_min": null,
       "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000145680711",
-      "created": "2026-08-26T08:32:24.793Z",
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000145696430",
+      "created": "2026-08-26T09:36:46.244Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1689,19 +1689,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000138284916",
       "created": "2026-07-17T09:20:56.553Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000138286629",
-      "title": "C++ Software Engineer - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000138286629",
-      "created": "2026-07-17T09:18:45.290Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
