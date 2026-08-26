@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-26T04:42:17.193465Z",
+  "updated": "2026-08-26T08:47:47.015262Z",
   "count": 226,
   "jobs": [
+    {
+      "id": "sr-744000145680711",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000145680711",
+      "created": "2026-08-26T08:32:24.793Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000145604539",
       "title": "Artiste en animation graphique (Marketing) Contrat Temporaire - Motion Designer (Marketing) Temporary Contract",
@@ -66,19 +79,6 @@
       "created": "2026-08-25T17:44:22.211Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000145526134",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000145526134",
-      "created": "2026-08-25T14:15:44.588Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000145447089",
