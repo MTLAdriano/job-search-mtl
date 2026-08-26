@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-25T20:31:52.815596Z",
-  "count": 225,
+  "updated": "2026-08-26T01:27:04.572681Z",
+  "count": 226,
   "jobs": [
+    {
+      "id": "sr-744000145604539",
+      "title": "Artiste en animation graphique (Marketing) Contrat Temporaire - Motion Designer (Marketing) Temporary Contract",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000145604539",
+      "created": "2026-08-25T21:22:43.158Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000145587250",
       "title": "Artiste de développement visuel Senior - Plusieurs postes",
