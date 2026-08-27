@@ -1,7 +1,72 @@
 {
-  "updated": "2026-08-27T08:17:23.729210Z",
-  "count": 221,
+  "updated": "2026-08-27T21:59:03.460492Z",
+  "count": 220,
   "jobs": [
+    {
+      "id": "sr-744000146034752",
+      "title": "Coordinateur(trice) des opérations audio - Audio Operations Coordinator",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000146034752",
+      "created": "2026-08-27T16:59:20.749Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000146026789",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000146026789",
+      "created": "2026-08-27T16:10:22.912Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "gh-3712247",
+      "title": "Unsolicited Application Architecture - Candidature spontanée en architecture",
+      "company": "Sid Lee",
+      "location": "Montréal, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=3712247",
+      "created": "2026-08-27T14:37:12-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "sr-744000145969460",
+      "title": "Senior UI Designer",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000145969460",
+      "created": "2026-08-27T12:20:53.964Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "gh-8161379",
+      "title": "Adjoint.e exécutif.ve - Executive Assistant",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8161379",
+      "created": "2026-08-27T08:06:43-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
     {
       "id": "sr-744000145789760",
       "title": "Lead Game Designer (PC/Console/Mobile) ",
@@ -12,19 +77,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000145789760",
       "created": "2026-08-26T16:25:02.012Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000145696430",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000145696430",
-      "created": "2026-08-26T09:36:46.244Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -679,45 +731,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000143222240",
-      "title": "Junior Communications Specialist",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000143222240",
-      "created": "2026-08-13T02:58:26.793Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000143161197",
-      "title": "Artiste éclairagiste - Contrat Temporaire",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000143161197",
-      "created": "2026-08-12T18:23:54.550Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000143159860",
-      "title": "Lighting Artist - Temporary Contract",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000143159860",
-      "created": "2026-08-12T18:22:20.547Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000142975579",
       "title": "[Dungeons & Dragons PC-Console] Concepteur Narratif Senior - Senior Narrative Designer",
       "company": "Gameloft Montreal",
@@ -963,19 +976,6 @@
       "created": "2026-08-05T19:21:44.996000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000141732844",
-      "title": "Senior UI Designer",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000141732844",
-      "created": "2026-08-05T14:20:54.172Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000141577590",
@@ -2861,19 +2861,6 @@
       "created": "2026-02-26T01:43:21.887Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "gh-3712247",
-      "title": "Unsolicited Application Architecture - Candidature spontanée en architecture",
-      "company": "Sid Lee",
-      "location": "Montréal, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=3712247",
-      "created": "2026-02-11T14:48:34-05:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     }
   ]
 }
