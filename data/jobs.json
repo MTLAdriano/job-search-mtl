@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-27T21:59:03.460492Z",
+  "updated": "2026-08-28T10:18:59.398793Z",
   "count": 220,
   "jobs": [
+    {
+      "id": "sr-744000146152009",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000146152009",
+      "created": "2026-08-28T09:52:11.860Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000146034752",
       "title": "Coordinateur(trice) des opérations audio - Audio Operations Coordinator",
@@ -12,19 +25,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000146034752",
       "created": "2026-08-27T16:59:20.749Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000146026789",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000146026789",
-      "created": "2026-08-27T16:10:22.912Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
