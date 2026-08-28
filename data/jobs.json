@@ -1,7 +1,254 @@
 {
-  "updated": "2026-08-28T10:18:59.398793Z",
-  "count": 220,
+  "updated": "2026-08-28T21:53:32.133121Z",
+  "count": 217,
   "jobs": [
+    {
+      "id": "lv-30e554d3-e009-4235-b98b-ce180cc1b7b6",
+      "title": "Technicien Administratif - Gestion de la santé et assurances | Administrative Technician - Health Management and Insurance",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Technicien Administratif - Gestion de la santé et assurances\nTalent\nMode de travail hybride – 4 jours/semaine au bureau\nPoste régulier à temps plein\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la cré",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/30e554d3-e009-4235-b98b-ce180cc1b7b6",
+      "created": "2026-08-28T16:31:03.021000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "gh-8074408",
+      "title": "Account Director ",
+      "company": "Sid Lee",
+      "location": "New York, New York, United States",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8074408",
+      "created": "2026-08-28T14:14:57-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-7669126",
+      "title": "Creative Team",
+      "company": "Sid Lee",
+      "location": "Toronto, Ontario, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7669126",
+      "created": "2026-08-28T14:13:18-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8109705",
+      "title": "Account Executive",
+      "company": "Sid Lee",
+      "location": "Toronto, Ontario, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8109705",
+      "created": "2026-08-28T14:11:45-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8139618",
+      "title": "ACD, Content",
+      "company": "Sid Lee",
+      "location": "Toronto, Ontario, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8139618",
+      "created": "2026-08-28T14:10:49-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8097044",
+      "title": "Account Supervisor",
+      "company": "Sid Lee",
+      "location": "Toronto, Ontario, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8097044",
+      "created": "2026-08-28T14:09:44-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-7961322",
+      "title": "Creative Recruiter (Mat Leave Contract)",
+      "company": "Sid Lee",
+      "location": "Toronto, Ontario, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7961322",
+      "created": "2026-08-28T14:08:15-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-7944190",
+      "title": "Recruteur.euse Créatif.ve (Remplacement de Congé de Maternité) - Creative Recruiter (Maternity Leave Replacement)",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7944190",
+      "created": "2026-08-28T14:05:31-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8001167",
+      "title": "Technologue en architecture Intermédiaire / Sénior ",
+      "company": "Sid Lee",
+      "location": "Montréal, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8001167",
+      "created": "2026-08-28T14:04:20-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8105760",
+      "title": "Gestionnaire de bureau",
+      "company": "Sid Lee",
+      "location": "Montréal, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8105760",
+      "created": "2026-08-28T14:03:02-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8114495",
+      "title": "Conseiller·ère, Talent et acquisition de talents",
+      "company": "Sid Lee",
+      "location": "Montréal, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8114495",
+      "created": "2026-08-28T14:01:24-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-6610686",
+      "title": "Architecte, Chargé.e de projets",
+      "company": "Sid Lee",
+      "location": "Montréal, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=6610686",
+      "created": "2026-08-28T13:59:34-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8097059",
+      "title": "Conseiller·ère – Account Executive",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8097059",
+      "created": "2026-08-28T13:58:21-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8055605",
+      "title": "Superviseur·e, service-conseil  - Account Supervisor",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8055605",
+      "created": "2026-08-28T13:57:31-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8023709",
+      "title": "Développeur.euse Full stack - Adobe Experience Manager (AEM) ",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8023709",
+      "created": "2026-08-28T13:55:35-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8094131",
+      "title": "Gestionnaire de projet numérique - Digital Project Manager (Temporaire 12 mois - Temporary 12 months)",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8094131",
+      "created": "2026-08-28T13:48:15-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-7858881",
+      "title": "Directeur.trice Artistique Senior - Senior Art Director",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7858881",
+      "created": "2026-08-28T13:45:50-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8114479",
+      "title": "Directeur·rice de marque - Director, Brand",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8114479",
+      "created": "2026-08-28T13:44:56-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8114218",
+      "title": "Designer de marque - Brand Designer",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8114218",
+      "created": "2026-08-28T13:43:51-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
     {
       "id": "sr-744000146152009",
       "title": "Senior Product Manager - Asphalt Legends",
@@ -250,58 +497,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "gh-6610686",
-      "title": "Architecte, Chargé.e de projets",
-      "company": "Sid Lee",
-      "location": "Montréal, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=6610686",
-      "created": "2026-08-20T16:02:37-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-8105760",
-      "title": "Gestionnaire de bureau",
-      "company": "Sid Lee",
-      "location": "Montréal, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8105760",
-      "created": "2026-08-20T16:01:38-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-8001167",
-      "title": "Technologue en architecture Intermédiaire / Sénior ",
-      "company": "Sid Lee",
-      "location": "Montréal, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8001167",
-      "created": "2026-08-20T15:54:53-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-8114495",
-      "title": "Conseiller·ère, Talent et acquisition de talents",
-      "company": "Sid Lee",
-      "location": "Montréal, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8114495",
-      "created": "2026-08-20T15:51:37-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "lv-119cbf9e-552c-4451-9df1-b1cfe9609f05",
       "title": "Calling Stage Manager – VStar Entertainment Group",
       "company": "Cirque du Soleil",
@@ -419,19 +614,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "gh-8139618",
-      "title": "ACD, Content",
-      "company": "Sid Lee",
-      "location": "Toronto, Ontario, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8139618",
-      "created": "2026-08-19T11:25:15-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "sr-744000144233955",
       "title": "Software Engineer",
       "company": "Keywords Studios",
@@ -482,19 +664,6 @@
       "created": "2026-08-18T16:15:01.888Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000144033189",
-      "title": "Platform Operations Manager",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000144033189",
-      "created": "2026-08-18T10:13:58.828Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000144033075",
@@ -705,19 +874,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000143341029",
-      "title": "Post-Production Producer - Advertising Department",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000143341029",
-      "created": "2026-08-13T15:03:10.234Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000143330619",
       "title": "Business Development Coordinator - Advertising department",
       "company": "Rodeo FX",
@@ -809,19 +965,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "gh-8094131",
-      "title": "Gestionnaire de projet numérique - Digital Project Manager (Temporaire 12 mois - Temporary 12 months)",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8094131",
-      "created": "2026-08-11T13:15:44-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "lv-2a6f531b-1a69-4d71-9835-bb744d79d148",
       "title": "Marketing and Communications Manager – Blue Man Group & VStar Entertainment",
       "company": "Cirque du Soleil",
@@ -844,19 +987,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/b96bde7b-503b-412a-8c8f-6faeb8ef569b",
       "created": "2026-08-10T23:13:20.202000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-df1de879-8d2f-4686-a6a6-73ee4621d224",
-      "title": "Head Therapist - Drawn to Life",
-      "company": "Cirque du Soleil",
-      "location": "Orlando, FL",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n____________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/df1de879-8d2f-4686-a6a6-73ee4621d224",
-      "created": "2026-08-10T23:04:12.032000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
@@ -926,45 +1056,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "gh-8114479",
-      "title": "Directeur·rice de marque - Director, Brand",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8114479",
-      "created": "2026-08-07T13:25:25-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-8114218",
-      "title": "Designer de marque - Brand Designer",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8114218",
-      "created": "2026-08-07T11:14:12-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-8109705",
-      "title": "Account Executive",
-      "company": "Sid Lee",
-      "location": "Toronto, Ontario, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8109705",
-      "created": "2026-08-06T11:44:18-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "lv-b96ff0ba-2021-49c8-8a05-0149bab8e234",
       "title": "Coordonnateur.trice Trésorerie | Treasury Coordinator",
       "company": "Cirque du Soleil",
@@ -1028,32 +1119,6 @@
       "created": "2026-07-30T15:31:44.622Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "gh-8097044",
-      "title": "Account Supervisor",
-      "company": "Sid Lee",
-      "location": "Toronto, Ontario, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8097044",
-      "created": "2026-07-30T14:23:26-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-8097059",
-      "title": "Conseiller·ère – Account Executive",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8097059",
-      "created": "2026-07-30T14:11:01-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "sr-744000140597079",
@@ -1420,19 +1485,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "gh-8023709",
-      "title": "Développeur.euse Full stack - Adobe Experience Manager (AEM) ",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8023709",
-      "created": "2026-07-28T10:37:06-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "lv-aa0d9b5f-2a5e-4379-b753-19de2e4a6fc7",
       "title": "Lead Automation Technician – Blue Man Group Orlando",
       "company": "Cirque du Soleil",
@@ -1574,19 +1626,6 @@
       "created": "2026-07-22T14:50:34.966000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "gh-8074408",
-      "title": "Account Director ",
-      "company": "Sid Lee",
-      "location": "New York, New York, United States",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8074408",
-      "created": "2026-07-20T10:20:50-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "lv-6f611edc-31c5-4cf1-8939-dd0287c388ea",
@@ -2148,19 +2187,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "gh-8055605",
-      "title": "Superviseur·e, service-conseil  - Account Supervisor",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8055605",
-      "created": "2026-07-10T13:23:38-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "sr-744000136778258",
       "title": "Devops & Release Engineer",
       "company": "Gameloft Montreal",
@@ -2302,19 +2328,6 @@
       "created": "2026-06-30T14:32:37.845Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "gh-7961322",
-      "title": "Creative Recruiter (Mat Leave Contract)",
-      "company": "Sid Lee",
-      "location": "Toronto, Ontario, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7961322",
-      "created": "2026-06-18T14:12:50-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "sr-744000132817487",
@@ -2551,19 +2564,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "lv-6e3ad96b-c305-4b93-8f86-6be77ecb0b3a",
-      "title": "Directeur.trice des communications – Amériques (Tournées et corporatif) | Director of Communications – Americas (Touring & Corporate)",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Directeur.trice des communications – Amériques (Tournées et corporatif) \nMode de travail hybride – 4 jours/semaine au bureau\nPoste permanent\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativit",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/6e3ad96b-c305-4b93-8f86-6be77ecb0b3a",
-      "created": "2026-06-02T14:18:45.256000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-7aaa288c-ae5e-4a84-adcb-b8ac9b9b49ca",
       "title": "Technicien.ne son sur appel | On-Call Sound Technician",
       "company": "Cirque du Soleil",
@@ -2642,19 +2642,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "gh-7944190",
-      "title": "Recruteur.euse Créatif.ve (Remplacement de Congé de Maternité) - Creative Recruiter (Maternity Leave Replacement)",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7944190",
-      "created": "2026-05-19T18:06:59-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "sr-744000126539670",
       "title": "Account Manager ",
       "company": "Gameloft Montreal",
@@ -2679,32 +2666,6 @@
       "created": "2026-04-29T19:30:28.994000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "gh-7858881",
-      "title": "Directeur.trice Artistique Senior - Senior Art Director",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7858881",
-      "created": "2026-04-27T16:35:13-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-7669126",
-      "title": "Creative Team",
-      "company": "Sid Lee",
-      "location": "Toronto, Ontario, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7669126",
-      "created": "2026-04-13T13:57:48-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "lv-348c66fe-251d-4f22-b22a-11fbbcfd822a",
