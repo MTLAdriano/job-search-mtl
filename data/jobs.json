@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-30T22:30:32.228712Z",
+  "updated": "2026-08-31T04:32:34.681674Z",
   "count": 217,
   "jobs": [
+    {
+      "id": "gh-7944190",
+      "title": "Recruteur.euse - Recruiter",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7944190",
+      "created": "2026-08-30T20:32:13-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
     {
       "id": "lv-30e554d3-e009-4235-b98b-ce180cc1b7b6",
       "title": "Technicien Administratif - Gestion de la santé et assurances | Administrative Technician - Health Management and Insurance",
@@ -90,19 +103,6 @@
       "salary_max": null,
       "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7961322",
       "created": "2026-08-28T14:08:15-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-7944190",
-      "title": "Recruteur.euse Créatif.ve (Remplacement de Congé de Maternité) - Creative Recruiter (Maternity Leave Replacement)",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7944190",
-      "created": "2026-08-28T14:05:31-04:00",
       "category": "Agence",
       "source": "Sid Lee"
     },
