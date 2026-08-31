@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-31T04:32:34.681674Z",
-  "count": 217,
+  "updated": "2026-08-31T15:58:13.771159Z",
+  "count": 215,
   "jobs": [
+    {
+      "id": "lv-6913646c-75ad-4b83-a1de-b46f50031eda",
+      "title": "Chef.fe du gréage – LUZIA | Head of Rigging – LUZIA",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Chef.fe du gréage – Spectacle en tournée\nGréeur Acrobatique\nPoste à temps plein\n \n \n* Veuillez noter que ce poste implique de participer à des tournées internationales à temps plein et de travailler à l’étranger. * \nNous recherchons un chef de département (HOD) Gréage expérimenté et motivé pour diriger et gérer les opérations de rigging pour l’un des spectacles en tournée du Cirque du Soleil. Sous la responsabilité du directeur technique et en étroite collaboration avec le directeur artistique e",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/6913646c-75ad-4b83-a1de-b46f50031eda",
+      "created": "2026-08-31T14:39:59.244000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "gh-7944190",
       "title": "Recruteur.euse - Recruiter",
@@ -822,32 +835,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000143386904",
-      "title": "Artiste Animation Senior I TMNT2",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000143386904",
-      "created": "2026-08-13T20:15:28.096Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000143387709",
-      "title": "Senior Animation Artist I TMNT2 ",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000143387709",
-      "created": "2026-08-13T20:06:24.804Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "lv-23eed2c6-d3fb-4683-a05d-4fd30d6b8ffe",
       "title": "Analyste – Comptabilité corporative | Analyst – Corporate Accounting",
       "company": "Cirque du Soleil",
@@ -1364,19 +1351,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/3302c7b4-d188-4a89-8112-f11ec8eb64ff",
       "created": "2026-07-29T15:56:23.338000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-ad5acad2-9cdc-4843-a162-ef410bc2f423",
-      "title": "Technicien.ne comptable - Opérations de spectacles de tournée | Accounting Technician - Touring Show Operations",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Technicien.ne comptable - Opérations de spectacles de tournée\nFinance et comptabilité\nPoste permanent \n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION \n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et c",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/ad5acad2-9cdc-4843-a162-ef410bc2f423",
-      "created": "2026-07-29T14:37:38.003000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
