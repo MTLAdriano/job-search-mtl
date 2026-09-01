@@ -1,7 +1,59 @@
 {
-  "updated": "2026-09-01T13:15:25.959689Z",
-  "count": 215,
+  "updated": "2026-09-01T19:16:24.820544Z",
+  "count": 213,
   "jobs": [
+    {
+      "id": "sr-744000146767339",
+      "title": "Senior FX Artist - Permanent Role",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000146767339",
+      "created": "2026-09-01T15:57:50.659Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000146761594",
+      "title": "FX Artist - Mid and Senior - Multiple Positions",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000146761594",
+      "created": "2026-09-01T15:46:09.783Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000146762770",
+      "title": "Artiste FX - Senior et intermédiaire - Multiple positions",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000146762770",
+      "created": "2026-09-01T15:45:32.929Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000146762456",
+      "title": "SENIOR FX Artist - Temporary contract",
+      "company": "Rodeo FX",
+      "location": "Toronto, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000146762456",
+      "created": "2026-09-01T15:44:14.212Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000146689461",
       "title": "Senior Product Manager - Asphalt Legends",
@@ -783,32 +835,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000143897484",
-      "title": "SENIOR FX Artist - Temporary contract",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000143897484",
-      "created": "2026-08-17T18:06:43.526Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000143897839",
-      "title": "FX Artist - Mid and Senior - Multiple Positions",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000143897839",
-      "created": "2026-08-17T18:05:13.402Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "lv-47e03d4e-c58f-472a-b4bf-ba28d7b5ed95",
       "title": "Vice-président(e), Marketing – Spectacles internationaux et Amériques | Vice President Marketing – International & Americas Shows",
       "company": "Cirque du Soleil",
@@ -1069,19 +1095,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "lv-073e700a-41fc-4fd3-ae25-37c6dff93e82",
-      "title": "Carpentry Technician (Theatrical) - Drawn to Life",
-      "company": "Cirque du Soleil",
-      "location": "Orlando, FL",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/073e700a-41fc-4fd3-ae25-37c6dff93e82",
-      "created": "2026-08-07T20:18:07.653000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-cc2f0b88-7631-4a0e-a272-cd6cc7f4acd0",
       "title": "Adjoint exécutif - Blue Man Group et VStar Entertainment | Executive Assistant - Blue Man Group & VStar Entertainment",
       "company": "Cirque du Soleil",
@@ -1147,19 +1160,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000141332739",
-      "title": "Artiste FX - Senior et intermédiaire - Multiple positions",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000141332739",
-      "created": "2026-08-03T19:08:48.961Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000140860009",
       "title": "Developer Experience (DX) Lead",
       "company": "Gameloft Montreal",
@@ -1221,19 +1221,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/e7c69483-2ca1-4df2-b33b-cf244db1cc1b",
       "created": "2026-07-29T23:05:16.552000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-dc9e6218-9b57-46df-8650-08a2581c154d",
-      "title": "Assistant Stage Manager - KÀ",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n__________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/dc9e6218-9b57-46df-8650-08a2581c154d",
-      "created": "2026-07-29T21:40:06.253000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
@@ -1455,19 +1442,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000140472110",
       "created": "2026-07-29T13:50:22.544Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000140472989",
-      "title": "Senior FX Artist - Permanent Role",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000140472989",
-      "created": "2026-07-29T13:49:11.423Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
