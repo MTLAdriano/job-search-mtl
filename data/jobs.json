@@ -1,7 +1,98 @@
 {
-  "updated": "2026-09-01T04:14:51.861343Z",
-  "count": 213,
+  "updated": "2026-09-01T13:15:25.959689Z",
+  "count": 215,
   "jobs": [
+    {
+      "id": "sr-744000146689461",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000146689461",
+      "created": "2026-09-01T11:37:59.570Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000146668849",
+      "title": "Manual QA (Junior)",
+      "company": "Gameloft Montreal",
+      "location": "Lviv, ua",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000146668849",
+      "created": "2026-09-01T09:41:08.947Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000146665815",
+      "title": "ゲームエンジンプログラマー",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000146665815",
+      "created": "2026-09-01T09:37:38.075Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
+    {
+      "id": "sr-744000146666791",
+      "title": "Video Game Engine Programmer",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000146666791",
+      "created": "2026-09-01T09:36:32.161Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
+    {
+      "id": "sr-744000146667289",
+      "title": "Unreal Engineプログラマー",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000146667289",
+      "created": "2026-09-01T09:35:13.177Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
+    {
+      "id": "sr-744000146664081",
+      "title": "Unreal Engine Programmer",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000146664081",
+      "created": "2026-09-01T09:32:50.242Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
+    {
+      "id": "sr-744000146666324",
+      "title": "Senior Concept Artist",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000146666324",
+      "created": "2026-09-01T09:31:16.827Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-6913646c-75ad-4b83-a1de-b46f50031eda",
       "title": "Chef.fe du gréage – LUZIA | Head of Rigging – LUZIA",
@@ -261,19 +352,6 @@
       "created": "2026-08-28T13:43:51-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000146152009",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000146152009",
-      "created": "2026-08-28T09:52:11.860Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000146034752",
@@ -1888,32 +1966,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "sr-744000138021679",
-      "title": "Unreal Engine Programmer",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138021679",
-      "created": "2026-07-16T03:43:50.017Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000138021564",
-      "title": "Unreal Engineプログラマー",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138021564",
-      "created": "2026-07-16T03:43:23.671Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
       "id": "sr-744000138021559",
       "title": "ゲームサーバープログラマー",
       "company": "Keywords Studios",
@@ -1936,19 +1988,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138021509",
       "created": "2026-07-16T03:40:59.636Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000138020991",
-      "title": "ゲームエンジンプログラマー",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138020991",
-      "created": "2026-07-16T03:39:42.715Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
     },
@@ -2094,19 +2133,6 @@
       "created": "2026-07-15T09:11:16.466Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000137818464",
-      "title": "Video Game Engine Programmer",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000137818464",
-      "created": "2026-07-15T07:28:03.499Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
     },
     {
       "id": "sr-744000137672429",
