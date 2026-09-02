@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-02T03:37:25.631136Z",
+  "updated": "2026-09-02T08:34:35.272688Z",
   "count": 210,
   "jobs": [
+    {
+      "id": "sr-744000146922463",
+      "title": "Senior UI Designer",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000146922463",
+      "created": "2026-09-02T08:31:40.903Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000146819539",
       "title": "FX Artist - Mid and Senior - Multiple Positions",
@@ -404,19 +417,6 @@
       "created": "2026-08-27T14:37:12-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000145969460",
-      "title": "Senior UI Designer",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000145969460",
-      "created": "2026-08-27T12:20:53.964Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "gh-8161379",
