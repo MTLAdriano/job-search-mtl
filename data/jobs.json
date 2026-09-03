@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T16:03:06.091802Z",
+  "updated": "2026-09-03T22:24:17.228647Z",
   "count": 215,
   "jobs": [
     {
@@ -2161,19 +2161,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "lv-9061cf4f-8165-4c44-982a-a6a4b023fb49",
-      "title": "Temporary Lead Wardrobe Technician – 'Auana",
-      "company": "Cirque du Soleil",
-      "location": "Honolulu, HI",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n______________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/9061cf4f-8165-4c44-982a-a6a4b023fb49",
-      "created": "2026-07-10T22:05:30.664000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "sr-744000136778258",
       "title": "Devops & Release Engineer",
       "company": "Gameloft Montreal",
@@ -2560,6 +2547,19 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/7aaa288c-ae5e-4a84-adcb-b8ac9b9b49ca",
       "created": "2026-05-29T12:43:50.896000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-0c6a8f3a-7cf8-44ee-8826-d5509d232871",
+      "title": "Executive Assistant",
+      "company": "Cirque du Soleil",
+      "location": "London",
+      "description": "***Le poste étant basé en Angleterre, la description de poste est disponible uniquement en anglais.***\n***As this position in based in England, the job description is available in English only.***\n \n_________________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/0c6a8f3a-7cf8-44ee-8826-d5509d232871",
+      "created": "2026-05-26T18:49:58.337000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
