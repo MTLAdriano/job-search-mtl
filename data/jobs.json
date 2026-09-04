@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-04T03:37:23.339257Z",
-  "count": 215,
+  "updated": "2026-09-04T08:38:02.324878Z",
+  "count": 216,
   "jobs": [
+    {
+      "id": "sr-744000147431435",
+      "title": "Release Engineer ",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000147431435",
+      "created": "2026-09-04T07:19:08.166Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000147290869",
       "title": "Business Development Coordinator - Advertising department",
