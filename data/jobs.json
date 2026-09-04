@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-04T08:38:02.324878Z",
-  "count": 216,
+  "updated": "2026-09-04T15:59:18.673297Z",
+  "count": 215,
   "jobs": [
+    {
+      "id": "sr-744000147489419",
+      "title": "Manual QA ",
+      "company": "Gameloft Montreal",
+      "location": "Lviv, ua",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000147489419",
+      "created": "2026-09-04T11:36:13.513Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000147431435",
       "title": "Release Engineer ",
@@ -248,19 +261,6 @@
       "created": "2026-09-01T20:31:13.976Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000146668849",
-      "title": "Manual QA (Junior)",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000146668849",
-      "created": "2026-09-01T09:41:08.947Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000146665815",
@@ -1210,19 +1210,6 @@
       "created": "2026-08-10T23:13:20.202000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000142666211",
-      "title": "Customer Care Agent (English and Spanish)",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000142666211",
-      "created": "2026-08-10T14:42:36.756Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-cc2f0b88-7631-4a0e-a272-cd6cc7f4acd0",
