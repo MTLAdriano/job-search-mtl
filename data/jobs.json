@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-08T03:43:48.375478Z",
-  "count": 213,
+  "updated": "2026-09-08T08:42:56.545254Z",
+  "count": 215,
   "jobs": [
+    {
+      "id": "sr-744000148170394",
+      "title": "3D General Artist",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000148170394",
+      "created": "2026-09-08T08:36:58.546Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000148157889",
+      "title": "Producer",
+      "company": "Keywords Studios",
+      "location": "Adelaide, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000148157889",
+      "created": "2026-09-08T07:44:44.336Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
     {
       "id": "sr-744000147940359",
       "title": "C++ Software Engineer - Asphalt Legends",
