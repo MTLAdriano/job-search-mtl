@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-08T16:17:03.969900Z",
-  "count": 217,
+  "updated": "2026-09-08T22:27:22.165164Z",
+  "count": 212,
   "jobs": [
+    {
+      "id": "sr-744000148323409",
+      "title": "Business Development Coordinator",
+      "company": "Rodeo FX",
+      "location": "Los Angeles, us",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000148323409",
+      "created": "2026-09-08T18:58:28.277Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000148319609",
+      "title": "Senior Animation Artist - Temporary Contract",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000148319609",
+      "created": "2026-09-08T18:30:17.676Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000148319259",
+      "title": "Artiste Animateur Senior - Contrat Temporaire",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000148319259",
+      "created": "2026-09-08T18:27:31.517Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000148284309",
       "title": "Directeur.trice, gestions des ressources technologiques",
@@ -133,19 +172,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000147290869",
-      "title": "Business Development Coordinator - Advertising department",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000147290869",
-      "created": "2026-09-03T15:31:49.108Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "lv-15f1a04f-717d-46e1-8ed8-be5a9c8f8529",
       "title": "Pipeline général : Costumier | General Pipeline: Costumer",
       "company": "Cirque du Soleil",
@@ -241,7 +267,7 @@
       "title": "Pipeline général : Accessoiriste costumes | General Pipeline : Costume Props Specialist",
       "company": "Cirque du Soleil",
       "location": "Montréal, QC",
-      "description": "Accessoiriste costumes\nCostumes et accessoires\nPoste temps plein\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos producti",
+      "description": "Pipeline général : Accessoiriste costumesCostumes et accessoires\nOccasionnel/Sur appel\n \nEs-tu prêt à faire le grand saut?\nLe Groupe Cirque du Soleil a vécu toute une série d’acrobaties et de contorsions au cours des derniers mois. Mais nous sommes des ambitieux et des passionnés de notre travail, et nous savons toujours retomber sur nos pieds, même après des culbutes périlleuses.\nNotre cœur bat donc très fort à l’idée de rebâtir notre entreprise et de rêver à son futur grandiose. As-tu l’audace",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/4d992664-c803-47cb-a6ec-9ae28fdeff27",
@@ -510,19 +536,6 @@
       "source": "Sid Lee"
     },
     {
-      "id": "gh-7961322",
-      "title": "Creative Recruiter (Mat Leave Contract)",
-      "company": "Sid Lee",
-      "location": "Toronto, Ontario, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7961322",
-      "created": "2026-08-28T14:08:15-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "gh-8001167",
       "title": "Technologue en architecture Intermédiaire / Sénior ",
       "company": "Sid Lee",
@@ -757,32 +770,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000145576510",
-      "title": "Artiste Animateur Senior - Manifestation d'intérêt",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000145576510",
-      "created": "2026-08-25T17:44:46.869Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000145575430",
-      "title": "Senior Animation Artist - Expression of interest",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000145575430",
-      "created": "2026-08-25T17:44:22.211Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000145447089",
       "title": "HRBP Specialist",
       "company": "Gameloft Montreal",
@@ -987,19 +974,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/edd21505-6080-430a-b240-70361cb09c61",
       "created": "2026-08-19T17:28:59.813000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-ed66a080-a7bb-4f5c-b3b1-ee00febaca76",
-      "title": "Assistant Chef, Automatisation - ECHO | Assistant Head of Automation - ECHO",
-      "company": "Cirque du Soleil",
-      "location": "*En tournée | On tour",
-      "description": "Assistant chef de département, Automatisation – Spectacle en tournée\nAutomatisation de Scène\nTemps Plein \n \n \n* Veuillez noter que ce poste implique de participer à des tournées internationales à temps plein et de travailler à l’étranger. * \n \n \n \nNous recherchons un assistant chef de département (« AHOD ») en automatisation pour soutenir les opérations d’automatisation de l’un des spectacles en tournée du Cirque du Soleil. Rattaché(e) au directeur technique et travaillant sous la supervision du",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/ed66a080-a7bb-4f5c-b3b1-ee00febaca76",
-      "created": "2026-08-19T17:24:27.125000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
@@ -1784,19 +1758,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "lv-a7b71555-1065-46c5-9152-47a1ad0ea0e5",
-      "title": "Technicien.ne – Comptabilité | Technician– Accounting",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Technicien.ne – Comptabilité\nFinance et comptabilité\nPermanent/Temps Plein\n \n \nLa vie au Cirque, c’est partager notre passion et créer de l’émerveillement avec des collègues de talent, et ce, à vitesse grand V. L’audace et la curiosité font partie de notre ADN et, nous l’espérons, du tien aussi. Ensemble, nous travaillons fort, jonglons avec des priorités et changeons parfois de trajectoire tout en ayant beaucoup de plaisir. Surtout, nous osons nous réinventer et relever de nouveaux défis.\n \nEn ",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/a7b71555-1065-46c5-9152-47a1ad0ea0e5",
-      "created": "2026-07-18T23:08:59.633000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-3c1f175d-9898-4bec-a1b6-383631338879",
       "title": "Technicien.ne – Paie | Technician – Payroll",
       "company": "Cirque du Soleil",
@@ -2577,19 +2538,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "lv-0c6a8f3a-7cf8-44ee-8826-d5509d232871",
-      "title": "Executive Assistant",
-      "company": "Cirque du Soleil",
-      "location": "London",
-      "description": "***Le poste étant basé en Angleterre, la description de poste est disponible uniquement en anglais.***\n***As this position in based in England, the job description is available in English only.***\n \n_________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/0c6a8f3a-7cf8-44ee-8826-d5509d232871",
-      "created": "2026-05-26T18:49:58.337000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "sr-744000128242954",
       "title": "Superviseur.e éclairagiste - PARIS",
       "company": "Rodeo FX",
@@ -2653,19 +2601,6 @@
       "created": "2026-05-14T15:13:29.661Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-70f6f385-dda7-4058-92d2-202c1f356491",
-      "title": "Chef.fe de département, son vidéo et communications – LUDO | Head of Department, Sound Video and Communications – LUDO",
-      "company": "Cirque du Soleil",
-      "location": "Nuevo Nayarit",
-      "description": "Chef.fe de département, son vidéo et communications – LUDO\n\nSonorisation\n\nPostes permanent\n\n \n\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n\n \n\nNOTRE MISSION\n\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/70f6f385-dda7-4058-92d2-202c1f356491",
-      "created": "2026-04-29T19:30:28.994000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-348c66fe-251d-4f22-b22a-11fbbcfd822a",
