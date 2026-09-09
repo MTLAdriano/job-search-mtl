@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-08T22:27:22.165164Z",
-  "count": 212,
+  "updated": "2026-09-09T03:48:33.429909Z",
+  "count": 213,
   "jobs": [
+    {
+      "id": "sr-744000148394315",
+      "title": "Office Assistant",
+      "company": "Gameloft Montreal",
+      "location": "Brisbane, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000148394315",
+      "created": "2026-09-09T01:39:32.946Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000148323409",
       "title": "Business Development Coordinator",
