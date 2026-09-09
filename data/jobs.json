@@ -1,7 +1,85 @@
 {
-  "updated": "2026-09-09T08:49:00.592067Z",
-  "count": 215,
+  "updated": "2026-09-09T16:11:26.372886Z",
+  "count": 220,
   "jobs": [
+    {
+      "id": "sr-744000148485499",
+      "title": "Marketing Activations Intern",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000148485499",
+      "created": "2026-09-09T12:02:34.656Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "gh-7944190",
+      "title": "Partenaire en acquisition de talents // Talent Acquisition Partner",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7944190",
+      "created": "2026-09-09T11:27:24-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "sr-744000148474527",
+      "title": "Graphic Designer - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000148474527",
+      "created": "2026-09-09T11:07:46.199Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000148467279",
+      "title": "Game Designer – Japan & Global Game Development",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000148467279",
+      "created": "2026-09-09T10:32:04.186Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
+    {
+      "id": "sr-744000148467044",
+      "title": "Game Programmer – Japan & Global Game Development",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000148467044",
+      "created": "2026-09-09T10:31:54.335Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
+    {
+      "id": "sr-744000148452684",
+      "title": "Graphic Designer - Creative Agency",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000148452684",
+      "created": "2026-09-09T09:37:04.760Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000148443279",
       "title": "Senior Product Manager - Asphalt Legends",
@@ -495,19 +573,6 @@
       "created": "2026-08-31T14:39:59.244000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "gh-7944190",
-      "title": "Recruteur.euse - Recruiter",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7944190",
-      "created": "2026-08-30T20:32:13-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "lv-30e554d3-e009-4235-b98b-ce180cc1b7b6",
