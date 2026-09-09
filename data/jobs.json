@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-09T03:48:33.429909Z",
-  "count": 213,
+  "updated": "2026-09-09T08:49:00.592067Z",
+  "count": 215,
   "jobs": [
+    {
+      "id": "sr-744000148443279",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000148443279",
+      "created": "2026-09-09T08:47:52.205Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000148441789",
+      "title": "3D Environment Supervisor",
+      "company": "Gameloft Montreal",
+      "location": "Yogyakarta, id",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000148441789",
+      "created": "2026-09-09T08:40:47.838Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000148405609",
+      "title": "Subtitling Project Coordinator - TEST TEST TEST DO NOT APPLY",
+      "company": "Keywords Studios",
+      "location": "Manila, ph",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000148405609",
+      "created": "2026-09-09T04:33:07.144Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
     {
       "id": "sr-744000148394315",
       "title": "Office Assistant",
@@ -79,19 +118,6 @@
       "created": "2026-09-08T15:42:52.224Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000148258095",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000148258095",
-      "created": "2026-09-08T14:31:23.172Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000148237774",
