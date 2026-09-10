@@ -1,7 +1,59 @@
 {
-  "updated": "2026-09-10T08:46:57.151483Z",
-  "count": 220,
+  "updated": "2026-09-10T16:03:32.692565Z",
+  "count": 219,
   "jobs": [
+    {
+      "id": "sr-744000148802300",
+      "title": "Ingénieur.e de platforme senior",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000148802300",
+      "created": "2026-09-10T14:48:33.343Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000148802979",
+      "title": "Senior Platform Engineer",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000148802979",
+      "created": "2026-09-10T14:47:12.956Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000148777389",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000148777389",
+      "created": "2026-09-10T13:18:28.587Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000148763859",
+      "title": "Senior Concept Artist",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000148763859",
+      "created": "2026-09-10T12:34:28.743Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000148667939",
       "title": "Technical Artist ",
@@ -142,19 +194,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000148452684",
       "created": "2026-09-09T09:37:04.760Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000148443279",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000148443279",
-      "created": "2026-09-09T08:47:52.205Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -612,19 +651,6 @@
       "created": "2026-09-01T09:32:50.242Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000146666324",
-      "title": "Senior Concept Artist",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000146666324",
-      "created": "2026-09-01T09:31:16.827Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-30e554d3-e009-4235-b98b-ce180cc1b7b6",
@@ -2200,32 +2226,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000137899577",
-      "title": "Director of Marketing & Communications",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137899577",
-      "created": "2026-07-15T13:45:12.649Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000137902489",
-      "title": "Directeur.trice marketing et communications",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000137902489",
-      "created": "2026-07-15T13:44:40.967Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000137672429",
       "title": "Designer Graphique Senior (Marketing) Contrat Temporaire - Senior Graphic Designer (Marketing) – Temporary Contract",
       "company": "Gameloft Montreal",
@@ -2625,19 +2625,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/7aaa288c-ae5e-4a84-adcb-b8ac9b9b49ca",
       "created": "2026-05-29T12:43:50.896000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-0c6a8f3a-7cf8-44ee-8826-d5509d232871",
-      "title": "Executive Assistant",
-      "company": "Cirque du Soleil",
-      "location": "London",
-      "description": "***Le poste étant basé en Angleterre, la description de poste est disponible uniquement en anglais.***\n***As this position in based in England, the job description is available in English only.***\n \n_________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/0c6a8f3a-7cf8-44ee-8826-d5509d232871",
-      "created": "2026-05-26T18:49:58.337000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
