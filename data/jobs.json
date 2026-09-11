@@ -1,7 +1,72 @@
 {
-  "updated": "2026-09-11T08:44:36.245081Z",
-  "count": 223,
+  "updated": "2026-09-11T16:07:04.860334Z",
+  "count": 224,
   "jobs": [
+    {
+      "id": "sr-744000149059714",
+      "title": "[Disney Dreamlight Valley] Producteur(trice) Senior - Senior Producer",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000149059714",
+      "created": "2026-09-11T16:00:58.999Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000149041389",
+      "title": "[Dungeons & Dragons PC-Console] Artiste de concept intermédiaire - Intermediate Concept Artist",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000149041389",
+      "created": "2026-09-11T14:32:31.648Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000148993289",
+      "title": "Localization Design Lead (2D and Video Assets)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000148993289",
+      "created": "2026-09-11T11:21:01.347Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000148987913",
+      "title": "Division Principal Game Programmer (Unreal Engine, AI)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000148987913",
+      "created": "2026-09-11T11:05:35.633Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000148979899",
+      "title": "3D Environment Supervisor",
+      "company": "Gameloft Montreal",
+      "location": "Yogyakarta, id",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000148979899",
+      "created": "2026-09-11T10:05:29.324Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000148940384",
       "title": "Project Manager-BI",
@@ -276,19 +341,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000148441789",
-      "title": "3D Environment Supervisor",
-      "company": "Gameloft Montreal",
-      "location": "Yogyakarta, id",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000148441789",
-      "created": "2026-09-09T08:40:47.838Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000148405609",
       "title": "Subtitling Project Coordinator - TEST TEST TEST DO NOT APPLY",
       "company": "Keywords Studios",
@@ -441,19 +493,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000147940359",
       "created": "2026-09-07T13:24:13.050Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000147489419",
-      "title": "Manual QA ",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000147489419",
-      "created": "2026-09-04T11:36:13.513Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1030,19 +1069,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000145415469",
-      "title": "Localization Design Lead (2D and Video Assets)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000145415469",
-      "created": "2026-08-25T04:01:48.947Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000145241425",
       "title": "Technical Designer – Japan & Global Game Development",
       "company": "Keywords Studios",
@@ -1223,19 +1249,6 @@
       "created": "2026-08-18T16:15:01.888Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000143985439",
-      "title": "Division Principal Game Programmer (Unreal Engine, AI)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000143985439",
-      "created": "2026-08-18T06:03:38.484Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-47e03d4e-c58f-472a-b4bf-ba28d7b5ed95",
@@ -1496,6 +1509,19 @@
       "created": "2026-08-04T20:39:31.458Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
+    },
+    {
+      "id": "lv-cf05bc48-d373-4343-8535-f7ca383a1fdc",
+      "title": "Agent TI – Centre d’Assistance TI | IT Agent - IT Assistance Center",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Agent TI – Centre d’Assistance TI\nTechnologies\nPoste temporaire \n \n \nNOTRE MISSION\n \n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs ! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos productions à venir à travers le monde entier.\n \nAujourd’hui, nous avons une place pour celles et ceux qui ont un goût marqué pour pen",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/cf05bc48-d373-4343-8535-f7ca383a1fdc",
+      "created": "2026-08-03T19:05:09.103000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000140860009",
@@ -2458,19 +2484,6 @@
       "created": "2026-06-10T13:52:04.174000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000131224045",
-      "title": "[Dungeons & Dragons PC-Console] Producteur(trice) - Producer",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000131224045",
-      "created": "2026-06-09T20:21:36.656Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000131217239",
