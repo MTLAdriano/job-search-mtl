@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-11T03:44:14.457806Z",
-  "count": 224,
+  "updated": "2026-09-11T08:44:36.245081Z",
+  "count": 223,
   "jobs": [
+    {
+      "id": "sr-744000148940384",
+      "title": "Project Manager-BI",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000148940384",
+      "created": "2026-09-11T07:26:03.266Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000148872519",
       "title": "Data Scientist",
@@ -417,19 +430,6 @@
       "created": "2026-09-08T08:36:58.546Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000148157889",
-      "title": "Producer",
-      "company": "Keywords Studios",
-      "location": "Adelaide, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000148157889",
-      "created": "2026-09-08T07:44:44.336Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
     },
     {
       "id": "sr-744000147940359",
@@ -1184,19 +1184,6 @@
       "created": "2026-08-19T17:28:59.813000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000144233955",
-      "title": "Software Engineer",
-      "company": "Keywords Studios",
-      "location": "Fitzroy, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000144233955",
-      "created": "2026-08-19T06:19:40.041Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
     },
     {
       "id": "lv-783b41e5-3d26-4c36-bb8a-52b7e78ce537",
