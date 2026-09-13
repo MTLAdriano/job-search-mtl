@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-13T15:50:19.591135Z",
-  "count": 227,
+  "updated": "2026-09-13T18:37:12.830704Z",
+  "count": 223,
   "jobs": [
     {
       "id": "lv-38741a60-1fc9-4b79-b7c5-35434b4a6d89",
@@ -948,58 +948,6 @@
       "salary_max": null,
       "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8023709",
       "created": "2026-08-28T13:55:35-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-8094131",
-      "title": "Gestionnaire de projet numérique - Digital Project Manager (Temporaire 12 mois - Temporary 12 months)",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8094131",
-      "created": "2026-08-28T13:48:15-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-7858881",
-      "title": "Directeur.trice Artistique Senior - Senior Art Director",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7858881",
-      "created": "2026-08-28T13:45:50-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-8114479",
-      "title": "Directeur·rice de marque - Director, Brand",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8114479",
-      "created": "2026-08-28T13:44:56-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-8114218",
-      "title": "Designer de marque - Brand Designer",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8114218",
-      "created": "2026-08-28T13:43:51-04:00",
       "category": "Agence",
       "source": "Sid Lee"
     },
