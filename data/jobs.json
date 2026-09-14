@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-13T22:13:45.200840Z",
+  "updated": "2026-09-14T04:03:14.454607Z",
   "count": 223,
   "jobs": [
+    {
+      "id": "sr-744000149229564",
+      "title": "3D Graphic Artist",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000149229564",
+      "created": "2026-09-14T02:33:37.727Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-38741a60-1fc9-4b79-b7c5-35434b4a6d89",
       "title": "Directeur général - Spectacles résidents et en tournée | General Manager - Resident & Touring Shows",
@@ -506,19 +519,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000148232709",
       "created": "2026-09-08T13:08:01.600Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000148170394",
-      "title": "3D General Artist",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000148170394",
-      "created": "2026-09-08T08:36:58.546Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
