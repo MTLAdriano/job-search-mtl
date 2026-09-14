@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-14T14:50:35.732890Z",
-  "count": 222,
+  "updated": "2026-09-14T20:12:03.002715Z",
+  "count": 221,
   "jobs": [
+    {
+      "id": "lv-3ae4105e-4780-4188-90ee-b5530f2da361",
+      "title": "General Manager - Resident & Touring Shows",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/3ae4105e-4780-4188-90ee-b5530f2da361",
+      "created": "2026-09-14T19:15:07.581000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000149346590",
       "title": "HR Business Partner",
@@ -118,19 +131,6 @@
       "created": "2026-09-14T02:33:37.727Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-38741a60-1fc9-4b79-b7c5-35434b4a6d89",
-      "title": "Directeur général - Spectacles résidents et en tournée | General Manager - Resident & Touring Shows",
-      "company": "Cirque du Soleil",
-      "location": "*En tournée | On tour",
-      "description": "Directeur général - Spectacles résidents et en tournée\nSoutien au opérations\nTemps Plein\n \n \n \nCe poste de directeur général ou de directrice générale s'applique autant à nos spectacles résidents qu'à nos productions en tournée. Selon le poste spécifique à combler, le rôle peut être établi de façon permanente dans un marché donné ou impliquer une relocalisation et des déplacements dans le cadre d'une production en tournée. Les détails précis sur le lieu et la formule du poste seront communiqués ",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/38741a60-1fc9-4b79-b7c5-35434b4a6d89",
-      "created": "2026-09-11T21:06:22.450000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000149094229",
@@ -2640,19 +2640,6 @@
       "created": "2026-06-03T03:20:29.087Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "lv-6e3ad96b-c305-4b93-8f86-6be77ecb0b3a",
-      "title": "Directeur.trice des communications, Corporatif & Global | Communications Director, Corporate & Global",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Directeur.trice des communications – Corporatif & Global\nMode de travail hybride – 4 jours/semaine au bureau\nPoste permanent\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur d",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/6e3ad96b-c305-4b93-8f86-6be77ecb0b3a",
-      "created": "2026-06-02T14:18:45.256000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-7aaa288c-ae5e-4a84-adcb-b8ac9b9b49ca",
