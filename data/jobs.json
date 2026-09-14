@@ -1,7 +1,111 @@
 {
-  "updated": "2026-09-14T04:03:14.454607Z",
-  "count": 223,
+  "updated": "2026-09-14T14:50:35.732890Z",
+  "count": 222,
   "jobs": [
+    {
+      "id": "sr-744000149346590",
+      "title": "HR Business Partner",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000149346590",
+      "created": "2026-09-14T14:20:24.614Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000149292069",
+      "title": "Release Engineer ",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000149292069",
+      "created": "2026-09-14T10:09:15.222Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000149285950",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000149285950",
+      "created": "2026-09-14T09:47:30.778Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000149260639",
+      "title": "Lead Game Designer (PC/Console/Mobile) ",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000149260639",
+      "created": "2026-09-14T07:56:21.070Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000149243566",
+      "title": "シニア3D背景アーティスト",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000149243566",
+      "created": "2026-09-14T06:41:14.396Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
+    {
+      "id": "sr-744000149246099",
+      "title": "3D 背景アーティスト",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000149246099",
+      "created": "2026-09-14T06:39:06.233Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
+    {
+      "id": "sr-744000149239579",
+      "title": "Game Designer – Japan & Global Game Development",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000149239579",
+      "created": "2026-09-14T05:45:02.179Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
+    {
+      "id": "sr-744000149239469",
+      "title": "Game Programmer – Japan & Global Game Development",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000149239469",
+      "created": "2026-09-14T05:43:52.207Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
     {
       "id": "sr-744000149229564",
       "title": "3D Graphic Artist",
@@ -224,19 +328,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000148777389",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000148777389",
-      "created": "2026-09-10T13:18:28.587Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000148763859",
       "title": "Senior Concept Artist",
       "company": "Gameloft Montreal",
@@ -339,58 +430,6 @@
       "created": "2026-09-09T11:27:24-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000148474527",
-      "title": "Graphic Designer - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000148474527",
-      "created": "2026-09-09T11:07:46.199Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000148467279",
-      "title": "Game Designer – Japan & Global Game Development",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000148467279",
-      "created": "2026-09-09T10:32:04.186Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000148467044",
-      "title": "Game Programmer – Japan & Global Game Development",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000148467044",
-      "created": "2026-09-09T10:31:54.335Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000148452684",
-      "title": "Graphic Designer - Creative Agency",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000148452684",
-      "created": "2026-09-09T09:37:04.760Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000148405609",
@@ -506,19 +545,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000148235006",
       "created": "2026-09-08T13:25:18.482Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000148232709",
-      "title": "Release Engineer ",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000148232709",
-      "created": "2026-09-08T13:08:01.600Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -989,19 +1015,6 @@
       "created": "2026-08-27T08:06:43-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000145789760",
-      "title": "Lead Game Designer (PC/Console/Mobile) ",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000145789760",
-      "created": "2026-08-26T16:25:02.012Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000145604539",
@@ -1485,6 +1498,19 @@
       "source": "Cirque du Soleil"
     },
     {
+      "id": "lv-d1a932ad-67c8-4d87-8fe9-42c358d2bc65",
+      "title": "On-Call Wardrobe Technician - O",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/d1a932ad-67c8-4d87-8fe9-42c358d2bc65",
+      "created": "2026-08-05T19:11:51.028000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
       "id": "sr-744000141577590",
       "title": "Stagiaire en Ressources Humaines - Human Resources Intern",
       "company": "Gameloft Montreal",
@@ -1496,19 +1522,6 @@
       "created": "2026-08-04T20:39:31.458Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-cf05bc48-d373-4343-8535-f7ca383a1fdc",
-      "title": "Agent TI – Centre d’Assistance TI | IT Agent - IT Assistance Center",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Agent TI – Centre d’Assistance TI\nTechnologies\nPoste temporaire \n \n \nNOTRE MISSION\n \n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs ! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos productions à venir à travers le monde entier.\n \nAujourd’hui, nous avons une place pour celles et ceux qui ont un goût marqué pour pen",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/cf05bc48-d373-4343-8535-f7ca383a1fdc",
-      "created": "2026-08-03T19:05:09.103000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000140860009",
@@ -2131,32 +2144,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138022109",
       "created": "2026-07-16T03:47:33.107Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000138021889",
-      "title": "シニア3D背景アーティスト",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138021889",
-      "created": "2026-07-16T03:45:32.207Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000138021789",
-      "title": "3D 背景アーティスト",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138021789",
-      "created": "2026-07-16T03:45:01.882Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
     },
