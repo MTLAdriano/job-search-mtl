@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-15T13:17:34.697777Z",
+  "updated": "2026-09-15T19:34:21.942620Z",
   "count": 223,
   "jobs": [
+    {
+      "id": "lv-2f9b0728-b524-4ace-8448-faf631309673",
+      "title": "Data Scientist | Data Scientist",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "Data Scientist\nProduit & Technologie\nPoste à temps plein – Mode de travail hybride – 4 jours/semaine au bureau\n \n \n \nNous avons une place pour les personnes ayant un goût prononcé pour assurer le bon déroulement de nos spectacles et événements, pour concevoir des produits remarquables, pour mettre leur ingéniosité au service de leur équipe et pour contribuer au développement de leur expertise et à l'établissement de pratiques d'exception. Le Cirque du Soleil Entertainment Group mise sur une appr",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/2f9b0728-b524-4ace-8448-faf631309673",
+      "created": "2026-09-15T17:33:55.862000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-e5cc2013-e248-4e84-9f83-d395842decd2",
+      "title": "Senior Analyst, Marketing Analytics",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/e5cc2013-e248-4e84-9f83-d395842decd2",
+      "created": "2026-09-15T17:32:39.849000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000149586830",
       "title": "Senior Concept Artist",
@@ -1550,19 +1576,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000141577590",
-      "title": "Stagiaire en Ressources Humaines - Human Resources Intern",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000141577590",
-      "created": "2026-08-04T20:39:31.458Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000140860009",
       "title": "Developer Experience (DX) Lead",
       "company": "Gameloft Montreal",
@@ -2757,19 +2770,6 @@
       "created": "2026-04-11T01:03:25.461000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000116612089",
-      "title": "Candidature Spontanée - Spontaneous Application",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000116612089",
-      "created": "2026-03-25T12:51:17.623Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000116096817",
