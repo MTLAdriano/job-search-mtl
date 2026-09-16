@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-16T03:59:31.949734Z",
-  "count": 221,
+  "updated": "2026-09-16T09:14:24.911745Z",
+  "count": 220,
   "jobs": [
+    {
+      "id": "sr-744000149773654",
+      "title": "IT Manager",
+      "company": "Gameloft Montreal",
+      "location": "Brisbane, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000149773654",
+      "created": "2026-09-16T05:08:03.335Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-2f9b0728-b524-4ace-8448-faf631309673",
       "title": "Data Scientist | Data Scientist",
@@ -1602,19 +1615,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "sr-744000140593179",
-      "title": "Art Producer",
-      "company": "Keywords Studios",
-      "location": "Box Hill, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000140593179",
-      "created": "2026-07-30T03:18:26.872Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
       "id": "lv-e7c69483-2ca1-4df2-b33b-cf244db1cc1b",
       "title": "Production Stage Manager – Blue Man Group North American Tour",
       "company": "Cirque du Soleil",
@@ -1845,19 +1845,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000140392455",
       "created": "2026-07-29T07:08:31.959Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000140393689",
-      "title": "IT Manager",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000140393689",
-      "created": "2026-07-29T07:06:03.831Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
