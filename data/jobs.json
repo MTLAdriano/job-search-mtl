@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-15T22:45:27.579327Z",
-  "count": 222,
+  "updated": "2026-09-16T03:59:31.949734Z",
+  "count": 221,
   "jobs": [
     {
       "id": "lv-2f9b0728-b524-4ace-8448-faf631309673",
@@ -1288,19 +1288,6 @@
       "created": "2026-08-19T03:24:51Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000144209908",
-      "title": "Quality Assurance Analyst",
-      "company": "Keywords Studios",
-      "location": "Fortitude Valley, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000144209908",
-      "created": "2026-08-19T01:37:43.280Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
     },
     {
       "id": "sr-744000144123709",
