@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-17T04:06:02.621419Z",
-  "count": 225,
+  "updated": "2026-09-17T13:10:59.689931Z",
+  "count": 214,
   "jobs": [
+    {
+      "id": "sr-744000150091549",
+      "title": "Marketing Activations Intern",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000150091549",
+      "created": "2026-09-17T12:18:41.512Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000150077769",
+      "title": "Division Principal Game Programmer (Unreal Engine, AI)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000150077769",
+      "created": "2026-09-17T11:18:49.189Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000150062104",
+      "title": "3D Graphic Artist",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000150062104",
+      "created": "2026-09-17T09:56:57.959Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-a52b0c55-807c-420f-a5d9-942727ef2974",
       "title": "Head of Lighting – Blue Man Group North American Tour",
@@ -185,19 +224,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000149543880",
-      "title": "Graphic Designer - Creative Agency",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000149543880",
-      "created": "2026-09-15T09:11:30.041Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000149532089",
       "title": "Game Cinematic Artist Intern",
       "company": "Gameloft Montreal",
@@ -354,19 +380,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "sr-744000149229564",
-      "title": "3D Graphic Artist",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000149229564",
-      "created": "2026-09-14T02:33:37.727Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000149094229",
       "title": "Responsable de département RH – Fonctions corporatives",
       "company": "Rodeo FX",
@@ -415,19 +428,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000149041389",
       "created": "2026-09-11T14:32:31.648Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000148987913",
-      "title": "Division Principal Game Programmer (Unreal Engine, AI)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000148987913",
-      "created": "2026-09-11T11:05:35.633Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -612,19 +612,6 @@
       "created": "2026-09-09T18:30:40.900Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000148485499",
-      "title": "Marketing Activations Intern",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000148485499",
-      "created": "2026-09-09T12:02:34.656Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "gh-7944190",
@@ -2161,58 +2148,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "sr-744000138022685",
-      "title": "シニアアニメーター",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138022685",
-      "created": "2026-07-16T04:02:43.886Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000138022899",
-      "title": "Senior Animator",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138022899",
-      "created": "2026-07-16T04:02:20.482Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000138022401",
-      "title": "Animator ",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138022401",
-      "created": "2026-07-16T04:01:27.822Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000138022779",
-      "title": "アニメーター",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138022779",
-      "created": "2026-07-16T04:01:08.360Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
       "id": "sr-744000138022509",
       "title": "Lighting Artist",
       "company": "Keywords Studios",
@@ -2235,32 +2170,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138022469",
       "created": "2026-07-16T03:56:28.597Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000138022199",
-      "title": "UIアーティスト",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138022199",
-      "created": "2026-07-16T03:47:51.946Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000138022109",
-      "title": "UI Artist",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000138022109",
-      "created": "2026-07-16T03:47:33.107Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
     },
@@ -2601,58 +2510,6 @@
       "created": "2026-06-09T15:25:39.198000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000131113519",
-      "title": "VFXアーティスト",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000131113519",
-      "created": "2026-06-09T11:01:36.528Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000131088529",
-      "title": "Mid VFX Artist ",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000131088529",
-      "created": "2026-06-09T09:09:32.990Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000131053725",
-      "title": "Senior VFX Artist",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000131053725",
-      "created": "2026-06-09T07:08:04.304Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000130745699",
-      "title": "シニアエフェクト(VFX)アーティスト ",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000130745699",
-      "created": "2026-06-08T09:03:41.069Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
     },
     {
       "id": "sr-744000130716151",
