@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T22:43:33.460861Z",
-  "count": 214,
+  "updated": "2026-09-18T03:52:06.116465Z",
+  "count": 213,
   "jobs": [
     {
       "id": "lv-9174062a-5e1c-4527-bf0d-e67ed84a0654",
@@ -1327,19 +1327,6 @@
       "created": "2026-08-20T16:23:21.322000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000144523419",
-      "title": "Communications Intern",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000144523419",
-      "created": "2026-08-20T11:10:02.999Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000144515801",
