@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-18T03:52:06.116465Z",
-  "count": 213,
+  "updated": "2026-09-18T08:53:28.150606Z",
+  "count": 214,
   "jobs": [
+    {
+      "id": "sr-744000150306479",
+      "title": "UI UX Designer Intern",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000150306479",
+      "created": "2026-09-18T08:19:19.886Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000150275839",
+      "title": "3D Environment Supervisor",
+      "company": "Gameloft Montreal",
+      "location": "Yogyakarta, id",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000150275839",
+      "created": "2026-09-18T04:40:14.436Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-9174062a-5e1c-4527-bf0d-e67ed84a0654",
       "title": "Director of Communications - Americas (Touring & Corporate)",
@@ -467,19 +493,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000149041389",
       "created": "2026-09-11T14:32:31.648Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000148979899",
-      "title": "3D Environment Supervisor",
-      "company": "Gameloft Montreal",
-      "location": "Yogyakarta, id",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000148979899",
-      "created": "2026-09-11T10:05:29.324Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
