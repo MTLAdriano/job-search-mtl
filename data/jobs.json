@@ -1,17 +1,69 @@
 {
-  "updated": "2026-09-18T08:53:28.150606Z",
-  "count": 214,
+  "updated": "2026-09-18T16:04:06.709220Z",
+  "count": 213,
   "jobs": [
     {
-      "id": "sr-744000150306479",
+      "id": "sr-744000150411476",
+      "title": "Artiste principal.e d’armature  - Permanent",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000150411476",
+      "created": "2026-09-18T15:56:08.077Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000150410002",
+      "title": "Rigging Lead - Permanent",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000150410002",
+      "created": "2026-09-18T15:44:42.789Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000150337009",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000150337009",
+      "created": "2026-09-18T10:36:55.618Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000150317191",
+      "title": "Game Designer",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000150317191",
+      "created": "2026-09-18T09:17:17.608Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000150312827",
       "title": "UI UX Designer Intern",
       "company": "Gameloft Montreal",
       "location": "Hanoi, vn",
       "description": "",
       "salary_min": null,
       "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000150306479",
-      "created": "2026-09-18T08:19:19.886Z",
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000150312827",
+      "created": "2026-09-18T08:56:49.976Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -337,19 +389,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000149510949",
       "created": "2026-09-15T06:37:05.218Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000149510489",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000149510489",
-      "created": "2026-09-15T06:31:04.529Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -2057,19 +2096,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "lv-3c1f175d-9898-4bec-a1b6-383631338879",
-      "title": "Technicien.ne – Paie | Technician – Payroll",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Technicien.ne – Paie\nFinance et comptabilité\nPoste temporaire – Mode de travail hybride – 4 jours/semaine au bureau  \n \n \n \nLa vie au Cirque, c’est partager notre passion et créer de l’émerveillement avec des collègues de talent, et ce, à vitesse grand V. L’audace et la curiosité font partie de notre ADN et, nous l’espérons, du tien aussi. Ensemble, nous travaillons fort, jonglons avec des priorités et changeons parfois de trajectoire tout en ayant beaucoup de plaisir. Surtout, nous osons nous r",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/3c1f175d-9898-4bec-a1b6-383631338879",
-      "created": "2026-07-18T22:42:08.508000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-9e49b488-3ac2-44c6-a934-f5d3f4db1303",
       "title": "On-Call Front of House Staff – Blue Man Group Orlando",
       "company": "Cirque du Soleil",
@@ -2304,19 +2330,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000137672429",
-      "title": "Designer Graphique Senior (Marketing) Contrat Temporaire - Senior Graphic Designer (Marketing) – Temporary Contract",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000137672429",
-      "created": "2026-07-14T13:47:14.044Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000136778258",
       "title": "Devops & Release Engineer",
       "company": "Gameloft Montreal",
@@ -2473,19 +2486,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "lv-07fe113e-a2fd-420c-8d0e-17fcc740bc8c",
-      "title": "Technicien.ne d’éclairage sur appel | On-Call Lighting Technician",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Technicien.ne son\nCréations et productions\nPoste sur appel - À MONTRÉAL, QC\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/07fe113e-a2fd-420c-8d0e-17fcc740bc8c",
-      "created": "2026-06-10T13:52:04.174000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "sr-744000131217239",
       "title": "Coordonnateur(trice) de studio - Studio Coordinator",
       "company": "Gameloft Montreal",
@@ -2562,19 +2562,6 @@
       "created": "2026-06-03T03:20:29.087Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "lv-7aaa288c-ae5e-4a84-adcb-b8ac9b9b49ca",
-      "title": "Technicien.ne son sur appel | On-Call Sound Technician",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Technicien.ne son\nCréations et productions\nPoste sur appel\n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos productions à veni",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/7aaa288c-ae5e-4a84-adcb-b8ac9b9b49ca",
-      "created": "2026-05-29T12:43:50.896000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000128242954",
