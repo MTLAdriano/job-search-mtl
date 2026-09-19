@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-18T22:23:26.329163Z",
-  "count": 221,
+  "updated": "2026-09-19T03:48:55.671885Z",
+  "count": 222,
   "jobs": [
+    {
+      "id": "lv-b1ecfc0f-79f6-42d0-a96a-861386c8313a",
+      "title": "Head Coach - Mystère",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.*** \n \n_______________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/b1ecfc0f-79f6-42d0-a96a-861386c8313a",
+      "created": "2026-09-19T01:15:24.559000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "lv-800f001b-facb-47f4-b430-c24e43e3b5a6",
       "title": "Conseiller(ère) - Fiscalité des particuliers | Advisor – Individual Taxation",
