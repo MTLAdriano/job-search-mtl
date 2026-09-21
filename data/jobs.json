@@ -1,7 +1,72 @@
 {
-  "updated": "2026-09-21T14:56:40.852113Z",
-  "count": 225,
+  "updated": "2026-09-21T20:18:31.461126Z",
+  "count": 229,
   "jobs": [
+    {
+      "id": "lv-5c4d2247-5187-4b13-831f-01c678717b3f",
+      "title": "Assistant.e chef.fe de gréeur - OVO | Assistant Head of Rigging - OVO",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Chef adjoint du département, gréage – Spectacles en tournée\nGréeur acrobatique\n \n* Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste.*\n \nNous recherchons un adjoint au chef du département (« AHOD ») de gréag",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/5c4d2247-5187-4b13-831f-01c678717b3f",
+      "created": "2026-09-21T19:24:14.921000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-325fddbc-505f-4a9d-83e4-a4ece069f94e",
+      "title": "Athletic Trainer/Physical Therapist - Drawn to Life",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.*** \n***As this position in based in the United States, the job description is available in English only.*** \n \n________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/325fddbc-505f-4a9d-83e4-a4ece069f94e",
+      "created": "2026-09-21T19:10:44.137000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000150764049",
+      "title": "VFX Project Manager - 6 months Temporary contract",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000150764049",
+      "created": "2026-09-21T18:28:58.946Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000150763869",
+      "title": "Responsable de projet VFX - Contrat temporaire 6 mois",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000150763869",
+      "created": "2026-09-21T18:28:03.631Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000150743964",
+      "title": "Responsable des Communications - Communication Manager",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000150743964",
+      "created": "2026-09-21T16:20:59.119Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000150674086",
       "title": "Game Producer",
@@ -2588,19 +2653,6 @@
       "created": "2026-07-01T17:31:22.012000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000135099009",
-      "title": "[Dungeons & Dragons PC-Console] Programmeur(euse) Outils - Tools Programmer",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000135099009",
-      "created": "2026-06-30T19:46:25.142Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000135040419",
