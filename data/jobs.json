@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-22T04:00:05.912503Z",
-  "count": 229,
+  "updated": "2026-09-22T09:14:52.652080Z",
+  "count": 231,
   "jobs": [
+    {
+      "id": "sr-744000150972019",
+      "title": "Video Artist",
+      "company": "Gameloft Montreal",
+      "location": "Sofia, bg",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000150972019",
+      "created": "2026-09-22T08:57:54.882Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000150948819",
+      "title": "Graphic Designer (Middle/Senior)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000150948819",
+      "created": "2026-09-22T07:17:54.050Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-5c4d2247-5187-4b13-831f-01c678717b3f",
       "title": "Assistant.e chef.fe de gréeur - OVO | Assistant Head of Rigging - OVO",
