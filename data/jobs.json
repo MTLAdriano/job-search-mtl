@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-23T16:24:34.198631Z",
-  "count": 239,
+  "updated": "2026-09-23T22:48:56.230950Z",
+  "count": 235,
   "jobs": [
+    {
+      "id": "lv-2a773133-f3bf-4b45-9ae8-d1edca0b3536",
+      "title": "Stage Manager - Drawn to Life",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/2a773133-f3bf-4b45-9ae8-d1edca0b3536",
+      "created": "2026-09-23T21:10:10.675000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000151438679",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000151438679",
+      "created": "2026-09-23T17:10:05.411Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000151438429",
+      "title": "Lead Game Designer (PC/Console/Mobile) ",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000151438429",
+      "created": "2026-09-23T17:09:16.789Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000151419289",
       "title": "Superviseur.e éclairagiste - PARIS",
@@ -389,19 +428,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000150664024",
       "created": "2026-09-21T11:07:49.652Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000150624049",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000150624049",
-      "created": "2026-09-21T08:06:05.848Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -887,19 +913,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000149260639",
-      "title": "Lead Game Designer (PC/Console/Mobile) ",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000149260639",
-      "created": "2026-09-14T07:56:21.070Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000149243566",
       "title": "シニア3D背景アーティスト",
       "company": "Keywords Studios",
@@ -1195,32 +1208,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000148323409",
       "created": "2026-09-08T18:58:28.277Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000148319609",
-      "title": "Senior Animation Artist - Temporary Contract",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000148319609",
-      "created": "2026-09-08T18:30:17.676Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000148319259",
-      "title": "Artiste Animateur Senior - Contrat Temporaire",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000148319259",
-      "created": "2026-09-08T18:27:31.517Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -1875,19 +1862,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "lv-edd21505-6080-430a-b240-70361cb09c61",
-      "title": "Chef Machiniste de Scène & Accessoire – Spectacle en tournée | Head of Stage Carpentry & Props – Touring Show",
-      "company": "Cirque du Soleil",
-      "location": "*En tournée | On tour",
-      "description": "Chef Machiniste de Scène & Accessoire – Spectacle en tournée\nMechiniste de Scène & Accessoire\nPoste à temps plein\n \n \n* Veuillez noter que ce poste implique de participer à des tournées internationales à temps plein et de travailler à l’étranger. * \n \n \nNous sommes à la recherche d’un(e) Chef de département (HOD), Menuiserie de scène et Accessoires, hautement motivé(e), pour diriger l’équipe Menuiserie & Accessoires de notre spectacle en tournée. Relevant du Directeur technique et travaillant en",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/edd21505-6080-430a-b240-70361cb09c61",
-      "created": "2026-08-19T17:28:59.813000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-783b41e5-3d26-4c36-bb8a-52b7e78ce537",
       "title": "Digital Marketing Manager – Resident Shows",
       "company": "Cirque du Soleil",
@@ -2200,19 +2174,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "lv-e7c69483-2ca1-4df2-b33b-cf244db1cc1b",
-      "title": "Production Stage Manager – Blue Man Group North American Tour",
-      "company": "Cirque du Soleil",
-      "location": "On tour",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n___________________________________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/e7c69483-2ca1-4df2-b33b-cf244db1cc1b",
-      "created": "2026-07-29T23:05:16.552000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-b09d40b5-b73e-4260-8afe-8707603d9aa3",
       "title": "Swing Technician – Blue Man Group North American Tour",
       "company": "Cirque du Soleil",
@@ -2365,19 +2326,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/4f749127-18c6-4aa2-ae24-fe3998dbbc3c",
       "created": "2026-07-29T18:24:03.127000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-6836eab5-8b48-4cff-8f1d-98d826fbbfb4",
-      "title": "Production Manager – Blue Man Group North American Tour",
-      "company": "Cirque du Soleil",
-      "location": "On tour",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n___________________________________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/6836eab5-8b48-4cff-8f1d-98d826fbbfb4",
-      "created": "2026-07-29T17:59:32.133000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
