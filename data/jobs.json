@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22T22:48:56.688945Z",
-  "count": 240,
+  "updated": "2026-09-23T03:57:17.960061Z",
+  "count": 239,
   "jobs": [
     {
       "id": "sr-744000151127529",
@@ -1145,19 +1145,6 @@
       "created": "2026-09-09T04:33:07.144Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000148394315",
-      "title": "Office Assistant",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000148394315",
-      "created": "2026-09-09T01:39:32.946Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000148323409",
