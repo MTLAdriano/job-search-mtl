@@ -1,7 +1,85 @@
 {
-  "updated": "2026-09-23T09:14:37.078556Z",
+  "updated": "2026-09-23T16:24:34.198631Z",
   "count": 239,
   "jobs": [
+    {
+      "id": "sr-744000151419289",
+      "title": "Superviseur.e éclairagiste - PARIS",
+      "company": "Rodeo FX",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000151419289",
+      "created": "2026-09-23T15:40:10.388Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000151410074",
+      "title": "Graphic Designer - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000151410074",
+      "created": "2026-09-23T15:03:29.880Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000151376299",
+      "title": "Developer Experience (DX) Lead",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000151376299",
+      "created": "2026-09-23T12:54:18.925Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000151374801",
+      "title": "Video Artist",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000151374801",
+      "created": "2026-09-23T12:53:49.533Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000151375919",
+      "title": "Project Manager-BI",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000151375919",
+      "created": "2026-09-23T12:53:07.359Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000151375489",
+      "title": "HR Business Partner",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000151375489",
+      "created": "2026-09-23T12:51:13.401Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000151127529",
       "title": "Regional Head Of Technology (Rodeo FX India)",
@@ -796,19 +874,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000149525179",
-      "title": "Graphic Designer - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000149525179",
-      "created": "2026-09-15T07:53:47.188Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "lv-3ae4105e-4780-4188-90ee-b5530f2da361",
       "title": "General Manager - Resident & Touring Shows",
       "company": "Cirque du Soleil",
@@ -820,19 +885,6 @@
       "created": "2026-09-14T19:15:07.581000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000149346590",
-      "title": "HR Business Partner",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000149346590",
-      "created": "2026-09-14T14:20:24.614Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000149260639",
@@ -948,19 +1000,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000149041389",
       "created": "2026-09-11T14:32:31.648Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000148940384",
-      "title": "Project Manager-BI",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000148940384",
-      "created": "2026-09-11T07:26:03.266Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -2135,19 +2174,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000140860009",
-      "title": "Developer Experience (DX) Lead",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000140860009",
-      "created": "2026-07-31T09:13:19.325Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000140722334",
       "title": "[Dungeons & Dragons PC-Console] Chef d'équipe concepteur de quêtes  - Lead quest designer",
       "company": "Gameloft Montreal",
@@ -2471,19 +2497,6 @@
       "created": "2026-07-18T22:04:02.983000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000138295106",
-      "title": "Video Artist",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000138295106",
-      "created": "2026-07-17T10:19:24.664Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000138023389",
@@ -2900,19 +2913,6 @@
       "created": "2026-06-03T03:20:29.087Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000128242954",
-      "title": "Superviseur.e éclairagiste - PARIS",
-      "company": "Rodeo FX",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000128242954",
-      "created": "2026-05-25T16:15:17.758Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000128242809",
