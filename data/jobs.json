@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-24T16:46:16.052949Z",
-  "count": 233,
+  "updated": "2026-09-24T23:05:33.066193Z",
+  "count": 228,
   "jobs": [
+    {
+      "id": "lv-94e66cb6-d060-4f13-9fa7-620c579e193b",
+      "title": "Régisseur de Production - OVO | Production Stage Manager - OVO",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Régisseur de Production - Spectacle de tournée en Aréna\nGestion technique\n \n* Il s’agit d’un poste à temps plein comportant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production. La maîtrise de l’anglais est requise pour exercer les fonctions de ce poste. *\n \nNous sommes à la recherche d’une personne expérimentée, proactive et apte à occuper le poste de",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/94e66cb6-d060-4f13-9fa7-620c579e193b",
+      "created": "2026-09-24T21:57:57.905000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "lv-2a773133-f3bf-4b45-9ae8-d1edca0b3536",
       "title": "Stage Manager - Drawn to Life",
@@ -823,7 +836,7 @@
     },
     {
       "id": "lv-8b4afe97-4fbc-47b5-949a-13c7cf74a724",
-      "title": "Creative Strategist",
+      "title": "Manager, Partnership Strategy",
       "company": "Cirque du Soleil",
       "location": "Las Vegas, NV",
       "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n \n______________________________________________________________________________\n",
@@ -2031,19 +2044,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "lv-272fce0d-c9df-4974-8dd5-64aba76c3ffe",
-      "title": "Automation Technician – Blue Man Group Orlando",
-      "company": "Cirque du Soleil",
-      "location": "Orlando, FL",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\nAs this position in based in the United States, the job description is available in English only.\n______________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/272fce0d-c9df-4974-8dd5-64aba76c3ffe",
-      "created": "2026-08-11T17:44:31.228000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-6ae879f0-7f43-4626-8b58-d2a7d9793a33",
       "title": "Stage Manager - JOYÀ",
       "company": "Cirque du Soleil",
@@ -2356,19 +2356,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "lv-aa0d9b5f-2a5e-4379-b753-19de2e4a6fc7",
-      "title": "Lead Automation Technician – Blue Man Group Orlando",
-      "company": "Cirque du Soleil",
-      "location": "Orlando, FL",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/aa0d9b5f-2a5e-4379-b753-19de2e4a6fc7",
-      "created": "2026-07-27T21:55:09.518000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-e9e5ef56-81d2-4ac8-9c61-7445d441b28e",
       "title": "​​Head Carpenter​ (Touring) – VStar Entertainment Group",
       "company": "Cirque du Soleil",
@@ -2391,32 +2378,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/eada03a0-9572-495f-b73a-7f4722d1a859",
       "created": "2026-07-23T20:34:31.531000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-6f611edc-31c5-4cf1-8939-dd0287c388ea",
-      "title": "Head of Lighting and Video – Blue Man Group Orlando",
-      "company": "Cirque du Soleil",
-      "location": "Orlando, FL",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.*** \n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/6f611edc-31c5-4cf1-8939-dd0287c388ea",
-      "created": "2026-07-19T00:10:15.265000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-9e49b488-3ac2-44c6-a934-f5d3f4db1303",
-      "title": "On-Call Front of House Staff – Blue Man Group Orlando",
-      "company": "Cirque du Soleil",
-      "location": "Orlando, FL",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/9e49b488-3ac2-44c6-a934-f5d3f4db1303",
-      "created": "2026-07-18T22:04:02.983000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
@@ -2746,19 +2707,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "lv-02fb3f81-9c89-4542-bcfc-ed89cc05cb23",
-      "title": "Lead Video Technician – Blue Man Group Orlando",
-      "company": "Cirque du Soleil",
-      "location": "Orlando, FL",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais***\n***As this position in based in the United States, the job description is available in English only***\n \n__________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/02fb3f81-9c89-4542-bcfc-ed89cc05cb23",
-      "created": "2026-06-15T21:04:22.265000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "sr-744000131217239",
       "title": "Coordonnateur(trice) de studio - Studio Coordinator",
       "company": "Gameloft Montreal",
@@ -2770,19 +2718,6 @@
       "created": "2026-06-09T19:10:16.123Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-b30aede2-0a50-46d1-bf9a-71d3fca082a5",
-      "title": "Marketing and Communications Manager – Blue Man Group Orlando",
-      "company": "Cirque du Soleil",
-      "location": "Orlando, FL",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n______________________________\n \n \n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/b30aede2-0a50-46d1-bf9a-71d3fca082a5",
-      "created": "2026-06-09T15:25:39.198000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000130716151",
