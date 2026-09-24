@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T03:50:57.505362Z",
-  "count": 235,
+  "updated": "2026-09-24T09:07:18.170184Z",
+  "count": 234,
   "jobs": [
     {
       "id": "lv-2a773133-f3bf-4b45-9ae8-d1edca0b3536",
@@ -586,19 +586,6 @@
       "created": "2026-09-18T15:44:42.789Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000150317191",
-      "title": "Game Designer",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000150317191",
-      "created": "2026-09-18T09:17:17.608Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000150312827",
