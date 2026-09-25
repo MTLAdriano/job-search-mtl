@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-25T04:05:52.409664Z",
-  "count": 227,
+  "updated": "2026-09-25T13:24:05.785626Z",
+  "count": 228,
   "jobs": [
+    {
+      "id": "sr-744000151843164",
+      "title": "Senior UI Artist (3+ Years Gaming Exp.)",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000151843164",
+      "created": "2026-09-25T12:48:58.273Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000151808786",
+      "title": "Java Developer - BI",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000151808786",
+      "created": "2026-09-25T09:58:32.408Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000151797179",
+      "title": "B2B Creative Manager",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000151797179",
+      "created": "2026-09-25T09:06:33.648Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-94e66cb6-d060-4f13-9fa7-620c579e193b",
       "title": "Régisseur de Production - OVO | Production Stage Manager - OVO",
@@ -116,19 +155,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000151375919",
       "created": "2026-09-23T12:53:07.359Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000151375489",
-      "title": "HR Business Partner",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000151375489",
-      "created": "2026-09-23T12:51:13.401Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -428,19 +454,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000150674349",
       "created": "2026-09-21T11:57:34.443Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000150664024",
-      "title": "Senior UI Designer",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000150664024",
-      "created": "2026-09-21T11:07:49.652Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
