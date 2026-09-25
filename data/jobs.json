@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-25T13:24:05.785626Z",
-  "count": 228,
+  "updated": "2026-09-25T19:54:35.235442Z",
+  "count": 226,
   "jobs": [
+    {
+      "id": "lv-cb0f414a-2649-4ac3-b328-52af29284269",
+      "title": "Technicien en TI – Spectacles en tournée | IT Technician – Touring Shows",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Technicien en TI – Spectacles en tournée\nServices de soutien aux spectacles\n \n* Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste.*\n \nNous recherchons un technicien en TI polyvalent et débrouillard pour assu",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/cb0f414a-2649-4ac3-b328-52af29284269",
+      "created": "2026-09-25T17:57:27.533000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000151843164",
       "title": "Senior UI Artist (3+ Years Gaming Exp.)",
@@ -506,19 +519,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000150437964",
       "created": "2026-09-18T18:26:39.150Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000150437959",
-      "title": "Animation Supervisor",
-      "company": "Rodeo FX",
-      "location": "Bengaluru, in",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000150437959",
-      "created": "2026-09-18T18:25:22.218Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -1186,19 +1186,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "gh-7944190",
-      "title": "Partenaire en acquisition de talents // Talent Acquisition Partner",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7944190",
-      "created": "2026-09-09T11:27:24-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "sr-744000148405609",
       "title": "Subtitling Project Coordinator - TEST TEST TEST DO NOT APPLY",
       "company": "Keywords Studios",
@@ -1678,19 +1665,6 @@
       "created": "2026-08-28T13:55:35-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000146034752",
-      "title": "Coordinateur(trice) des opérations audio - Audio Operations Coordinator",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000146034752",
-      "created": "2026-08-27T16:59:20.749Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "gh-3712247",
