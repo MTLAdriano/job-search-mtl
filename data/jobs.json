@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-25T23:10:31.166332Z",
+  "updated": "2026-09-26T04:11:05.561222Z",
   "count": 226,
   "jobs": [
+    {
+      "id": "lv-d4f59fc1-b201-461b-9061-9f5bf6d58300",
+      "title": "Head of Audio – “O”",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_______________________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/d4f59fc1-b201-461b-9061-9f5bf6d58300",
+      "created": "2026-09-26T01:36:40.881000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "lv-cb0f414a-2649-4ac3-b328-52af29284269",
       "title": "Technicien en TI – Spectacles en tournée | IT Technician – Touring Shows",
@@ -2300,19 +2313,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/2e55f9b1-a3f7-4c75-a785-4cc278bf602b",
       "created": "2026-07-29T17:53:29.607000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-3302c7b4-d188-4a89-8112-f11ec8eb64ff",
-      "title": "Digital and Paid Social Manager",
-      "company": "Cirque du Soleil",
-      "location": "London",
-      "description": "***Le poste étant basé en Angleterre, la description de poste est disponible uniquement en anglais.***\n***As this position in based in England, the job description is available in English only.***\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/3302c7b4-d188-4a89-8112-f11ec8eb64ff",
-      "created": "2026-07-29T15:56:23.338000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
