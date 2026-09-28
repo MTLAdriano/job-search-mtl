@@ -1,7 +1,72 @@
 {
-  "updated": "2026-09-28T04:27:05.246248Z",
-  "count": 227,
+  "updated": "2026-09-28T16:34:48.126100Z",
+  "count": 226,
   "jobs": [
+    {
+      "id": "sr-744000152141459",
+      "title": "Senior UI Artist (3+ Years Gaming Exp.)",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000152141459",
+      "created": "2026-09-28T10:54:16.500Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000152136350",
+      "title": "3D Generalist Artist",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000152136350",
+      "created": "2026-09-28T10:31:14.883Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000152135300",
+      "title": "Lead Game Designer (PC/Console/Mobile) ",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000152135300",
+      "created": "2026-09-28T10:25:34.400Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000152133679",
+      "title": "Game Cinematic Artist Intern",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000152133679",
+      "created": "2026-09-28T10:11:54.658Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000152133519",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000152133519",
+      "created": "2026-09-28T10:11:00.757Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000152068039",
       "title": "AI Engineer Intern (Game Development)",
@@ -40,19 +105,6 @@
       "created": "2026-09-25T17:57:27.533000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000151843164",
-      "title": "Senior UI Artist (3+ Years Gaming Exp.)",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000151843164",
-      "created": "2026-09-25T12:48:58.273Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000151808786",
@@ -105,32 +157,6 @@
       "created": "2026-09-23T21:10:10.675000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000151438679",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000151438679",
-      "created": "2026-09-23T17:10:05.411Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000151438429",
-      "title": "Lead Game Designer (PC/Console/Mobile) ",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000151438429",
-      "created": "2026-09-23T17:09:16.789Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000151419289",
@@ -196,19 +222,6 @@
       "created": "2026-09-23T12:53:07.359Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000151127529",
-      "title": "Regional Head Of Technology (Rodeo FX India)",
-      "company": "Rodeo FX",
-      "location": "Bengaluru, in",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000151127529",
-      "created": "2026-09-22T20:13:57.727Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000151118749",
@@ -744,19 +757,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000150062104",
-      "title": "3D Graphic Artist",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000150062104",
-      "created": "2026-09-17T09:56:57.959Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "lv-a52b0c55-807c-420f-a5d9-942727ef2974",
       "title": "Head of Lighting – Blue Man Group A New Holiday Surprise Tour",
       "company": "Cirque du Soleil",
@@ -924,19 +924,6 @@
       "created": "2026-09-15T17:32:39.849000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000149532089",
-      "title": "Game Cinematic Artist Intern",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000149532089",
-      "created": "2026-09-15T08:25:41.871Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-3ae4105e-4780-4188-90ee-b5530f2da361",
