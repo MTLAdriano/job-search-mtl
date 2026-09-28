@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-27T22:52:49.247461Z",
-  "count": 226,
+  "updated": "2026-09-28T04:27:05.246248Z",
+  "count": 227,
   "jobs": [
+    {
+      "id": "sr-744000152068039",
+      "title": "AI Engineer Intern (Game Development)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000152068039",
+      "created": "2026-09-28T03:21:10.308Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-d4f59fc1-b201-461b-9061-9f5bf6d58300",
       "title": "Head of Audio – “O”",
