@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T17:51:38.044909Z",
+  "updated": "2026-09-29T23:32:27.182215Z",
   "count": 221,
   "jobs": [
     {
@@ -428,19 +428,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000151087300",
       "created": "2026-09-22T16:21:27.743Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000151087379",
-      "title": "VFX Production Coordinator - Senior",
-      "company": "Rodeo FX",
-      "location": "Bengaluru, in",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000151087379",
-      "created": "2026-09-22T16:20:55.553Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -1743,6 +1730,19 @@
       "created": "2026-08-25T08:08:29.801Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
+    },
+    {
+      "id": "muse-22093939",
+      "title": "Senior Data Analyst",
+      "company": "Sonatype",
+      "location": "Flexible / Remote",
+      "description": "<div><span>Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and innovative software at scale. </span></div>\n\n<div>&nbsp;</div>\n\n<div><span>As founders of Nexus Repository and",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://www.themuse.com/jobs/sonatype/senior-data-analyst-6c697c",
+      "created": "2026-08-24T23:36:34Z",
+      "category": "Data and Analytics",
+      "source": "The Muse"
     },
     {
       "id": "sr-744000144738274",
