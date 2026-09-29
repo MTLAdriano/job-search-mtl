@@ -1,7 +1,59 @@
 {
-  "updated": "2026-09-29T10:29:54.882749Z",
+  "updated": "2026-09-29T17:51:38.044909Z",
   "count": 221,
   "jobs": [
+    {
+      "id": "sr-744000152451689",
+      "title": "Coordonnateur.trice de production VFX Senior",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000152451689",
+      "created": "2026-09-29T14:03:24.574Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000152451119",
+      "title": "Senior VFX Production Coordinator",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000152451119",
+      "created": "2026-09-29T14:01:24.854Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000152450109",
+      "title": "VFX Production Assistant IO - Permanent contract",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000152450109",
+      "created": "2026-09-29T13:58:46.741Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000152449809",
+      "title": "Assistant.e de production VFX IO - Contrat Permanent",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000152449809",
+      "created": "2026-09-29T13:58:10.109Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000152375479",
       "title": "Senior UI Artist (3+ Years Gaming Exp.)",
@@ -1108,32 +1160,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000148863259",
-      "title": "Artiste FX Senior- Contrat temporaire",
-      "company": "Rodeo FX",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000148863259",
-      "created": "2026-09-10T20:27:53.244Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000148863089",
-      "title": "Senior FX artist - Temporary contract",
-      "company": "Rodeo FX",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000148863089",
-      "created": "2026-09-10T20:27:10.495Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "lv-9e4281a1-7801-4778-bcf1-049479e5ef9b",
       "title": "Assistant.e chef.fe de gréeur - LUZIA | Assistant Head of Rigging - LUZIA",
       "company": "Cirque du Soleil",
@@ -1416,32 +1442,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000147069129",
       "created": "2026-09-02T19:26:26.071Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000147033979",
-      "title": "Artiste Sénior Pigiste d'effets (FX)",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000147033979",
-      "created": "2026-09-02T15:57:06.958Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000147031343",
-      "title": "Freelance Senior FX Artist ",
-      "company": "Rodeo FX",
-      "location": "Télétravail / Remote, xx",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000147031343",
-      "created": "2026-09-02T15:54:26.432Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
