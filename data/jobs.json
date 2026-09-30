@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-30T14:44:16.620240Z",
-  "count": 225,
+  "updated": "2026-09-30T20:38:53.544864Z",
+  "count": 229,
   "jobs": [
+    {
+      "id": "sr-744000152714430",
+      "title": "[Dungeons & Dragons PC Console] Concepteur(trice) de jeu technique - Technical Game Designer",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000152714430",
+      "created": "2026-09-30T15:35:19.257Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000152706559",
+      "title": "Artiste senior en modélisation 3D - Position Permanente",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000152706559",
+      "created": "2026-09-30T14:48:12.529Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000152706399",
+      "title": "Senior Modeling Artist - Permanent",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000152706399",
+      "created": "2026-09-30T14:47:05.562Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000152693655",
       "title": "Technical PM",
@@ -14,6 +53,19 @@
       "created": "2026-09-30T14:05:40.538Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
+    },
+    {
+      "id": "lv-7b086037-410b-4124-b630-f81be71a3725",
+      "title": "Technicien à L'atelier Numérique | Digital Workshop Technician",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Technicien à L'atelier Numérique \nCostumes et accessoires\nÀ propos de nous\nNous sommes nés d'une troupe éclectique. Venez vivre l'expérience d'être vous-même au quotidien pour créer l'extraordinaire. \nNotre mission \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l'imaginaire et surprendre les spectateurs! \nL'innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos produ",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/7b086037-410b-4124-b630-f81be71a3725",
+      "created": "2026-09-30T13:34:24.535000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000152683830",
