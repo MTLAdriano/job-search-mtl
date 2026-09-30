@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-29T23:32:27.182215Z",
-  "count": 221,
+  "updated": "2026-09-30T04:43:09.172860Z",
+  "count": 224,
   "jobs": [
+    {
+      "id": "sr-744000152583506",
+      "title": "Business Intelligence Engineer",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000152583506",
+      "created": "2026-09-30T02:53:24.363Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000152549954",
+      "title": "QA Lead",
+      "company": "Gameloft Montreal",
+      "location": "Brisbane, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000152549954",
+      "created": "2026-09-30T00:09:17.383Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000152549019",
+      "title": "Senior Shader / Texture Artist",
+      "company": "Gameloft Montreal",
+      "location": "Brisbane, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000152549019",
+      "created": "2026-09-29T23:46:07.373Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000152451689",
       "title": "Coordonnateur.trice de production VFX Senior",
