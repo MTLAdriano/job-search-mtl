@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-30T20:38:53.544864Z",
+  "updated": "2026-10-01T04:55:14.752553Z",
   "count": 229,
   "jobs": [
+    {
+      "id": "sr-744000152824429",
+      "title": "AI Engineer Intern (LLM)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000152824429",
+      "created": "2026-10-01T04:00:26.337Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000152820619",
+      "title": "Business Intelligence Engineer (Junior)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000152820619",
+      "created": "2026-10-01T02:39:24.686Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000152714430",
       "title": "[Dungeons & Dragons PC Console] Concepteur(trice) de jeu technique - Technical Game Designer",
@@ -129,19 +155,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000152638831",
       "created": "2026-09-30T09:40:22.471Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000152583506",
-      "title": "Business Intelligence Engineer",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000152583506",
-      "created": "2026-09-30T02:53:24.363Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -376,19 +389,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000152133679",
       "created": "2026-09-28T10:11:54.658Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000152068039",
-      "title": "AI Engineer Intern (Game Development)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000152068039",
-      "created": "2026-09-28T03:21:10.308Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
