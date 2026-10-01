@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-01T15:13:25.298010Z",
-  "count": 229,
+  "updated": "2026-10-01T20:52:54.196243Z",
+  "count": 230,
   "jobs": [
+    {
+      "id": "sr-744000153024427",
+      "title": "[Disney Dreamlight Valley PC/Console] Artiste technique - Technical Artist",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000153024427",
+      "created": "2026-10-01T20:15:11.207Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000153024449",
+      "title": "[Dungeons & Dragons PC-Console] Artiste de concept intermédiaire - Intermediate Concept Artist",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000153024449",
+      "created": "2026-10-01T20:12:28.588Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "gh-8247218",
+      "title": "Assistant.e technique, Post-production - Technical assistant, Post-Production",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8247218",
+      "created": "2026-10-01T13:31:08-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
     {
       "id": "sr-744000152824429",
       "title": "AI Engineer Intern (LLM)",
@@ -573,19 +612,6 @@
       "created": "2026-09-22T16:20:04.093Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000151075899",
-      "title": "[Disney Dreamlight Valley PC/Console] Artiste technique - Technical Artist",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000151075899",
-      "created": "2026-09-22T15:41:31.979Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000151071149",
@@ -1234,19 +1260,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000149059714",
       "created": "2026-09-11T16:00:58.999Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000149041389",
-      "title": "[Dungeons & Dragons PC-Console] Artiste de concept intermédiaire - Intermediate Concept Artist",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000149041389",
-      "created": "2026-09-11T14:32:31.648Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
