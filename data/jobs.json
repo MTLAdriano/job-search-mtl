@@ -1,7 +1,59 @@
 {
-  "updated": "2026-10-02T04:45:50.892128Z",
-  "count": 230,
+  "updated": "2026-10-02T14:33:46.960418Z",
+  "count": 224,
   "jobs": [
+    {
+      "id": "sr-744000153186819",
+      "title": "Video Artist",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000153186819",
+      "created": "2026-10-02T13:36:06.949Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000153186539",
+      "title": "3D Motion Video Artist",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000153186539",
+      "created": "2026-10-02T13:35:23.050Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000153129909",
+      "title": "Senior UI Artist (3+ Years Gaming Exp.)",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000153129909",
+      "created": "2026-10-02T08:52:47.667Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000153125680",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000153125680",
+      "created": "2026-10-02T08:40:06.110Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000153024427",
       "title": "[Disney Dreamlight Valley PC/Console] Artiste technique - Technical Artist",
@@ -105,19 +157,6 @@
       "created": "2026-09-30T14:47:05.562Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000152693655",
-      "title": "Technical PM",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000152693655",
-      "created": "2026-09-30T14:05:40.538Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-7b086037-410b-4124-b630-f81be71a3725",
@@ -261,32 +300,6 @@
       "created": "2026-09-29T13:58:10.109Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000152375479",
-      "title": "Senior UI Artist (3+ Years Gaming Exp.)",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000152375479",
-      "created": "2026-09-29T09:57:26.106Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000152368979",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000152368979",
-      "created": "2026-09-29T09:26:12.979Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000152330759",
@@ -510,19 +523,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000151410074",
-      "title": "Graphic Designer - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000151410074",
-      "created": "2026-09-23T15:03:29.880Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000151376299",
       "title": "Developer Experience (DX) Lead",
       "company": "Gameloft Montreal",
@@ -532,19 +532,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000151376299",
       "created": "2026-09-23T12:54:18.925Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000151374801",
-      "title": "Video Artist",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000151374801",
-      "created": "2026-09-23T12:53:49.533Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -740,32 +727,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000150674086",
       "created": "2026-09-21T11:58:46.876Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000150671805",
-      "title": "2D Concept Artist",
-      "company": "Gameloft Montreal",
-      "location": "Sofia, bg",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000150671805",
-      "created": "2026-09-21T11:57:51.031Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000150674349",
-      "title": "Account manager active users",
-      "company": "Gameloft Montreal",
-      "location": "Sofia, bg",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000150674349",
-      "created": "2026-09-21T11:57:34.443Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1316,19 +1277,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "lv-eff425d1-5039-4061-b3f5-b70d2a1dfb7c",
-      "title": "On-Call Aquatics Technician - \"O\"",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n__________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/eff425d1-5039-4061-b3f5-b70d2a1dfb7c",
-      "created": "2026-09-09T21:50:10.143000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-f21e0b6e-22f8-4b93-8be6-2aa6d7750162",
       "title": "Technicien.ne – Paie | Technician – Payroll",
       "company": "Cirque du Soleil",
@@ -1442,19 +1390,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000148235006",
       "created": "2026-09-08T13:25:18.482Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000147940359",
-      "title": "C++ Software Engineer - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000147940359",
-      "created": "2026-09-07T13:24:13.050Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1754,19 +1689,6 @@
       "salary_max": null,
       "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8097059",
       "created": "2026-08-28T13:58:21-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-8055605",
-      "title": "Superviseur·e, service-conseil  - Account Supervisor",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8055605",
-      "created": "2026-08-28T13:57:31-04:00",
       "category": "Agence",
       "source": "Sid Lee"
     },
