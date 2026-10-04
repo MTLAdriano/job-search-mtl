@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-04T19:19:09.705944Z",
-  "count": 228,
+  "updated": "2026-10-04T22:53:06.501073Z",
+  "count": 229,
   "jobs": [
+    {
+      "id": "sr-744000153382859",
+      "title": "Narrative Game Designer & Scriptwriter",
+      "company": "Gameloft Montreal",
+      "location": "Brisbane, au",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000153382859",
+      "created": "2026-10-04T21:51:51.922Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000153276859",
       "title": "Artiste IA Générative",
