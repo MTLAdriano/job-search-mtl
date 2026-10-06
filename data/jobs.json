@@ -1,7 +1,176 @@
 {
-  "updated": "2026-10-06T11:05:54.856513Z",
+  "updated": "2026-10-06T18:05:44.284079Z",
   "count": 228,
   "jobs": [
+    {
+      "id": "sr-744000153820779",
+      "title": "Artiste d'effets de créatures - Manifestation d'intérêt",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000153820779",
+      "created": "2026-10-06T16:45:01.873Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000153818656",
+      "title": "Creature FX Artist - Expression of Interest",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000153818656",
+      "created": "2026-10-06T16:43:56.617Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "lv-062cb518-844a-45d3-9857-4f2effe218d8",
+      "title": "Gestionnaire marketing – Amériques | Marketing Manager - Americas",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Gestionnaire marketing – Amériques\nVentes, marketing et communications\nÀ propos de nous\nNous sommes nés d'une troupe éclectique. Venez vivre l'expérience d'être vous-même au quotidien pour créer l'extraordinaire.\nNotre mission\nDepuis 1984, le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l'imaginaire et surprendre les spectateurs ! L'innovation et la créativité sont au cœur de nos spectacles et continueront de transcende",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/062cb518-844a-45d3-9857-4f2effe218d8",
+      "created": "2026-10-06T16:08:11.584000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-71860537-a489-4468-a60e-015c4b348119",
+      "title": "Gestionnaire principal(e) des ventes – Spectacles en tournée des Amériques | Senior Sales Manager – Americas Touring Shows",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Gestionnaire principal(e) des ventes – Spectacles en tournée des Amériques\nVentes marketing et communications\nÀ propos de nous\nNous sommes nés d'une troupe éclectique. Venez vivre l'expérience d'être vous-même au quotidien pour créer l'extraordinaire.\nNotre mission\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l'imaginaire et surprendre les spectateurs! \nL'innovation et la créativité sont au cœur de nos s",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/71860537-a489-4468-a60e-015c4b348119",
+      "created": "2026-10-06T14:14:45.078000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000153775189",
+      "title": "Senior Concept Artist",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000153775189",
+      "created": "2026-10-06T14:07:48.048Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000153759984",
+      "title": "Lead VFX Artist",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000153759984",
+      "created": "2026-10-06T13:26:18.787Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000153762672",
+      "title": "Lead Animator",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000153762672",
+      "created": "2026-10-06T13:25:57.282Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000153763164",
+      "title": "Game Cinematic Artist Intern",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000153763164",
+      "created": "2026-10-06T13:25:33.708Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000153762912",
+      "title": "Marketing Activations Intern",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000153762912",
+      "created": "2026-10-06T13:24:54.974Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000153762479",
+      "title": "Lead Game Designer (PC/Console/Mobile) ",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000153762479",
+      "created": "2026-10-06T13:22:08.521Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000153757489",
+      "title": "B2B Creative Manager",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000153757489",
+      "created": "2026-10-06T13:04:01.970Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000153757050",
+      "title": "Senior UI Artist (3+ Years Gaming Exp.)",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000153757050",
+      "created": "2026-10-06T13:03:24.741Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000153750337",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000153750337",
+      "created": "2026-10-06T12:58:51.980Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000153712651",
       "title": "IT Intern (6 months)",
@@ -66,19 +235,6 @@
       "created": "2026-10-05T16:33:20-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000153523074",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000153523074",
-      "created": "2026-10-05T14:21:24.279Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000153435271",
@@ -315,19 +471,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000153129909",
-      "title": "Senior UI Artist (3+ Years Gaming Exp.)",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000153129909",
-      "created": "2026-10-02T08:52:47.667Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000153024427",
       "title": "[Disney Dreamlight Valley PC/Console] Artiste technique - Technical Artist",
       "company": "Gameloft Montreal",
@@ -456,32 +599,6 @@
       "created": "2026-09-30T13:21:57.206Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000152680479",
-      "title": "Lead VFX Artist",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000152680479",
-      "created": "2026-09-30T13:05:01.733Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000152648509",
-      "title": "Lead Game Designer (PC/Console/Mobile) ",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000152648509",
-      "created": "2026-09-30T10:16:52.225Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000152638831",
@@ -614,19 +731,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000152133679",
-      "title": "Game Cinematic Artist Intern",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000152133679",
-      "created": "2026-09-28T10:11:54.658Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "lv-d4f59fc1-b201-461b-9061-9f5bf6d58300",
       "title": "Head of Audio – “O”",
       "company": "Cirque du Soleil",
@@ -662,19 +766,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000151808786",
       "created": "2026-09-25T09:58:32.408Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000151797179",
-      "title": "B2B Creative Manager",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000151797179",
-      "created": "2026-09-25T09:06:33.648Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -783,19 +874,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000151035619",
-      "title": "Lead Animator",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000151035619",
-      "created": "2026-09-22T13:17:23.270Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000151013658",
       "title": "Gametech Innovation Developer",
       "company": "Gameloft Montreal",
@@ -846,19 +924,6 @@
       "created": "2026-09-22T07:17:54.050Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-5c4d2247-5187-4b13-831f-01c678717b3f",
-      "title": "Assistant.e chef.fe de gréeur - OVO | Assistant Head of Rigging - OVO",
-      "company": "Cirque du Soleil",
-      "location": "*En tournée | On tour",
-      "description": "Chef adjoint du département, gréage – Spectacles en tournée\nGréeur acrobatique\n \n* Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste.*\n \nNous recherchons un adjoint au chef du département (« AHOD ») de gréag",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/5c4d2247-5187-4b13-831f-01c678717b3f",
-      "created": "2026-09-21T19:24:14.921000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-325fddbc-505f-4a9d-83e4-a4ece069f94e",
@@ -1080,19 +1145,6 @@
       "created": "2026-09-17T18:21:44.753000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000150091549",
-      "title": "Marketing Activations Intern",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000150091549",
-      "created": "2026-09-17T12:18:41.512Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000150077769",
@@ -1379,19 +1431,6 @@
       "created": "2026-09-10T21:12:06.031000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000148763859",
-      "title": "Senior Concept Artist",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000148763859",
-      "created": "2026-09-10T12:34:28.743Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-f21e0b6e-22f8-4b93-8be6-2aa6d7750162",
@@ -1977,32 +2016,6 @@
       "created": "2026-08-18T16:15:01.888Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "lv-47e03d4e-c58f-472a-b4bf-ba28d7b5ed95",
-      "title": "Vice-président(e), Marketing – Spectacles internationaux et Amériques | Vice President Marketing – International & Americas Shows",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "Vice-président(e), Marketing – Spectacles internationaux et Amériques (tournées et résidences)\nVentes, Marketing et Communications\nTemps Plein\n \n \nLieu : Montréal (siège social), Londres (pôle international) ou Las Vegas (pôle Amériques)\nRelève de : Chef de la direction marketing (CMO)\nPortée : Marketing des spectacles et génération de la demande dans tous les marchés internationaux (Europe, Royaume-Uni, Moyen-Orient, Afrique, Asie-Pacifique et Océanie) ainsi que dans les Amériques, pour les pro",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/47e03d4e-c58f-472a-b4bf-ba28d7b5ed95",
-      "created": "2026-08-14T19:28:10.724000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-a1778ea8-7928-4f52-a8a4-79bbbfb2c263",
-      "title": "Vice President, Brand",
-      "company": "Cirque du Soleil",
-      "location": "London",
-      "description": "***Le poste étant basé en Angleterre, la description de poste est disponible uniquement en anglais.***\n***As this position in based in England, the job description is available in English only.***\n \n_________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/a1778ea8-7928-4f52-a8a4-79bbbfb2c263",
-      "created": "2026-08-14T18:33:21.578000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000143547729",
@@ -2822,19 +2835,6 @@
       "created": "2026-05-14T15:13:29.661Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-348c66fe-251d-4f22-b22a-11fbbcfd822a",
-      "title": "Analyste principal - Sécurité Opérationnelle | Senior Analyst - Security Operations",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Analyste principal - Sécurité Opérationnelle\nTechnologie de l'information\nPoste permanent \n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \nNOTRE MISSION\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de tr",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/348c66fe-251d-4f22-b22a-11fbbcfd822a",
-      "created": "2026-04-11T01:03:25.461000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000116096817",
