@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-06T01:12:11.378663Z",
+  "updated": "2026-10-06T11:05:54.856513Z",
   "count": 228,
   "jobs": [
+    {
+      "id": "sr-744000153712651",
+      "title": "IT Intern (6 months)",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000153712651",
+      "created": "2026-10-06T09:49:12.567Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-c869950a-9302-4b06-8481-b3b590d89fe6",
       "title": "Senior Sales Manager – Americas Resident Shows",
@@ -64,19 +77,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000153523074",
       "created": "2026-10-05T14:21:24.279Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000153521079",
-      "title": "2D Concept Artist",
-      "company": "Gameloft Montreal",
-      "location": "Sofia, bg",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000153521079",
-      "created": "2026-10-05T14:11:50.995Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
