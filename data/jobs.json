@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-05T16:55:46.044446Z",
-  "count": 227,
+  "updated": "2026-10-06T01:12:11.378663Z",
+  "count": 228,
   "jobs": [
+    {
+      "id": "lv-c869950a-9302-4b06-8481-b3b590d89fe6",
+      "title": "Senior Sales Manager – Americas Resident Shows",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***  \n \n__________________________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/c869950a-9302-4b06-8481-b3b590d89fe6",
+      "created": "2026-10-06T00:03:27.649000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-b7f529e4-187f-4e35-b252-e94d8ca5dcff",
+      "title": "Senior Digital Marketing Manager – Americas Resident Shows",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n____________________________________________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/b7f529e4-187f-4e35-b252-e94d8ca5dcff",
+      "created": "2026-10-05T23:39:01.236000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "lv-49f7575b-af0e-4904-b99e-60fef686e2f0",
       "title": "Gestionnaire de projets – Équipements événementiels | Project Manager – Events Equipment",
@@ -14,6 +40,19 @@
       "created": "2026-10-05T16:50:23.253000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
+    },
+    {
+      "id": "gh-2248248",
+      "title": "Stratège social·e (contenu) - Social Strategist (Content)",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=2248248",
+      "created": "2026-10-05T16:33:20-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
     },
     {
       "id": "sr-744000153523074",
@@ -1416,32 +1455,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000148323409",
       "created": "2026-09-08T18:58:28.277Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000148284309",
-      "title": "Directeur.trice, gestions des ressources technologiques",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000148284309",
-      "created": "2026-09-08T15:44:07.920Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000148280755",
-      "title": "Head of Technology Resource Management",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000148280755",
-      "created": "2026-09-08T15:42:52.224Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
