@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-07T15:18:36.169889Z",
-  "count": 228,
+  "updated": "2026-10-07T21:05:33.760147Z",
+  "count": 229,
   "jobs": [
+    {
+      "id": "sr-744000154186749",
+      "title": "Directeur.trice technique généraliste - Contrat de 6 mois",
+      "company": "Rodeo FX",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000154186749",
+      "created": "2026-10-07T19:54:20.596Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000154182259",
+      "title": "Generalist TD - 6 Months Contract",
+      "company": "Rodeo FX",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000154182259",
+      "created": "2026-10-07T19:33:26.749Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000154043604",
       "title": "2D Artist",
@@ -2157,19 +2183,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/10eb959b-ae8d-48c3-af33-0c1c519b065b",
       "created": "2026-08-07T14:21:19.380000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-b96ff0ba-2021-49c8-8a05-0149bab8e234",
-      "title": "Coordonnateur.trice Trésorerie | Treasury Coordinator",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Coordonnateur.trice Trésorerie\nFinance et comptabilité\nPoste temps plein/permanent\n \n \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n \n \nNOTRE MISSION\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transc",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/b96ff0ba-2021-49c8-8a05-0149bab8e234",
-      "created": "2026-08-05T19:21:44.996000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
