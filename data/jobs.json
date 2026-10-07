@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-07T05:02:53.467279Z",
-  "count": 231,
+  "updated": "2026-10-07T15:18:36.169889Z",
+  "count": 228,
   "jobs": [
+    {
+      "id": "sr-744000154043604",
+      "title": "2D Artist",
+      "company": "Gameloft Montreal",
+      "location": "Lviv, ua",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000154043604",
+      "created": "2026-10-07T08:51:57.135Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000154035310",
+      "title": "Game Designer Intern",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000154035310",
+      "created": "2026-10-07T08:15:33.212Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000153952949",
       "title": "シニア3D背景アーティスト",
@@ -142,19 +168,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000153762672",
       "created": "2026-10-06T13:25:57.282Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000153763164",
-      "title": "Game Cinematic Artist Intern",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000153763164",
-      "created": "2026-10-06T13:25:33.708Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1524,32 +1537,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000148237774",
-      "title": "Associate Product Manager (Monetization Manager)",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000148237774",
-      "created": "2026-09-08T13:26:29.354Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000148235006",
-      "title": "Junior Product Manager (Monetization Manager)",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000148235006",
-      "created": "2026-09-08T13:25:18.482Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "lv-15f1a04f-717d-46e1-8ed8-be5a9c8f8529",
       "title": "Pipeline général : Costumier | General Pipeline: Costumer",
       "company": "Cirque du Soleil",
@@ -1925,32 +1912,6 @@
       "created": "2026-08-24T23:36:34Z",
       "category": "Data and Analytics",
       "source": "The Muse"
-    },
-    {
-      "id": "sr-744000144738274",
-      "title": "Game Designer Intern",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000144738274",
-      "created": "2026-08-21T10:55:33.960Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000144738369",
-      "title": "Product Manager (Monetization Manager)",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000144738369",
-      "created": "2026-08-21T10:53:00.366Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000144606399",
