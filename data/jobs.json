@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-06T23:39:23.983929Z",
+  "updated": "2026-10-07T05:02:53.467279Z",
   "count": 231,
   "jobs": [
+    {
+      "id": "sr-744000153952949",
+      "title": "シニア3D背景アーティスト",
+      "company": "Keywords Studios",
+      "location": "Tokyo, jp",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000153952949",
+      "created": "2026-10-07T02:42:59.672Z",
+      "category": "Gaming & Entertainment",
+      "source": "Keywords Studios"
+    },
     {
       "id": "sr-744000153868129",
       "title": "QA Lead",
@@ -1366,19 +1379,6 @@
       "created": "2026-09-14T19:15:07.581000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000149243566",
-      "title": "シニア3D背景アーティスト",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000149243566",
-      "created": "2026-09-14T06:41:14.396Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
     },
     {
       "id": "sr-744000149246099",
