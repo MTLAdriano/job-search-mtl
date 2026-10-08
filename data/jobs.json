@@ -1,7 +1,85 @@
 {
-  "updated": "2026-10-08T05:13:09.765581Z",
-  "count": 229,
+  "updated": "2026-10-08T15:22:08.583908Z",
+  "count": 230,
   "jobs": [
+    {
+      "id": "sr-744000154453419",
+      "title": "M&A Analyst Intern ",
+      "company": "Gameloft Montreal",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000154453419",
+      "created": "2026-10-08T14:11:51.394Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000154432095",
+      "title": "Senior Product Manager (features/roadmap) - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000154432095",
+      "created": "2026-10-08T13:05:35.031Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000154412309",
+      "title": "Business Intelligence Engineer (Junior)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000154412309",
+      "created": "2026-10-08T11:25:30.284Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000154397659",
+      "title": "IT - Hardware Intern (6 months)",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000154397659",
+      "created": "2026-10-08T10:10:30.305Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000154397349",
+      "title": "IT - HW Intern (6 months)",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000154397349",
+      "created": "2026-10-08T10:08:52.582Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000154355718",
+      "title": "Lead Game Designer (PC/Console/Mobile) ",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000154355718",
+      "created": "2026-10-08T06:56:45.765Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000154186749",
       "title": "Directeur.trice technique généraliste - Contrat de 6 mois",
@@ -185,19 +263,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000153762672",
-      "title": "Lead Animator",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000153762672",
-      "created": "2026-10-06T13:25:57.282Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000153762912",
       "title": "Marketing Activations Intern",
       "company": "Gameloft Montreal",
@@ -207,19 +272,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000153762912",
       "created": "2026-10-06T13:24:54.974Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000153762479",
-      "title": "Lead Game Designer (PC/Console/Mobile) ",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000153762479",
-      "created": "2026-10-06T13:22:08.521Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -246,19 +298,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000153757050",
       "created": "2026-10-06T13:03:24.741Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000153750337",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000153750337",
-      "created": "2026-10-06T12:58:51.980Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -337,19 +376,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000153435271",
       "created": "2026-10-05T08:42:09.622Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000153422821",
-      "title": "Business Intelligence Engineer (Junior)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000153422821",
-      "created": "2026-10-05T08:06:51.609Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1914,19 +1940,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000145447089",
-      "title": "HRBP Specialist",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000145447089",
-      "created": "2026-08-25T08:08:29.801Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "muse-22093939",
       "title": "Senior Data Analyst",
       "company": "Sonatype",
@@ -2009,7 +2022,7 @@
       "title": "Commis – Comptes payables | Clerk – Account Payables",
       "company": "Cirque du Soleil",
       "location": "Montréal, QC",
-      "description": "Commis – Comptes payables\nFinance et comptabilité\nPoste à temps plein - Mode de travail hybride – 4 jours/semaine au bureau\n \n \nNous avons une place pour celles et ceux qui ont un goût distinct pour assurer le bon déroulement des opérations au profit de nos spectacles et événements, pour penser des produits remarquables, pour mettre leur ingéniosité au service de leur équipe, en plus de contribuer à valoriser leur expertise et développer des pratiques exceptionnelles. Le Groupe Cirque du Soleil ",
+      "description": "Commis – Comptes payables\nFinance et comptabilité\nPoste à temps plein - Mode de travail hybride – 4 jours/semaine au bureau\n \n \nEs-tu prêt.e à faire le grand saut?\nLe Groupe Cirque du Soleil a vécu toute une série d’acrobaties et de contorsions au cours des derniers mois. Mais nous sommes des ambitieux.euses et des passionné.es de notre travail, et nous savons toujours retomber sur nos pieds, même après des culbutes périlleuses.\nNotre cœur bat donc très fort à l’idée de rebâtir notre entreprise ",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/7c951fbd-b5b6-4a42-8bf9-f4bd5a42cb57",
