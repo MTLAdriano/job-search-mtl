@@ -1,17 +1,30 @@
 {
-  "updated": "2026-10-08T15:22:08.583908Z",
+  "updated": "2026-10-08T21:08:49.830739Z",
   "count": 230,
   "jobs": [
     {
-      "id": "sr-744000154453419",
-      "title": "M&A Analyst Intern ",
+      "id": "sr-744000154516129",
+      "title": "Compositing Artist ",
+      "company": "Rodeo FX",
+      "location": "Toronto, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000154516129",
+      "created": "2026-10-08T19:24:32.280Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000154478864",
+      "title": "M&A Analyst Intern - Janvier (6 mois)",
       "company": "Gameloft Montreal",
       "location": "Paris, fr",
       "description": "",
       "salary_min": null,
       "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000154453419",
-      "created": "2026-10-08T14:11:51.394Z",
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000154478864",
+      "created": "2026-10-08T15:59:27.154Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -885,19 +898,6 @@
       "created": "2026-09-25T09:58:32.408Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000151419289",
-      "title": "Superviseur.e éclairagiste - PARIS",
-      "company": "Rodeo FX",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000151419289",
-      "created": "2026-09-23T15:40:10.388Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000151376299",
