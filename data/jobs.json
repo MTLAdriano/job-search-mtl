@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-09T15:04:40.628652Z",
-  "count": 228,
+  "updated": "2026-10-09T20:39:43.940395Z",
+  "count": 225,
   "jobs": [
+    {
+      "id": "lv-0f678cf3-7023-4795-b76f-9847ddf45fa8",
+      "title": "On-Call Rigging Technician - \"O\"",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n___________________________________________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/0f678cf3-7023-4795-b76f-9847ddf45fa8",
+      "created": "2026-10-09T19:03:22.503000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-64f3e54d-1597-4cfe-bf7b-d62360f99c64",
+      "title": "Communications Coordinator - Resident Shows",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_______________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/64f3e54d-1597-4cfe-bf7b-d62360f99c64",
+      "created": "2026-10-09T18:24:58.165000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000154649134",
       "title": "Senior Product Manager (features/roadmap) - Asphalt Legends",
@@ -250,32 +276,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000153820779",
-      "title": "Artiste d'effets de créatures - Manifestation d'intérêt",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000153820779",
-      "created": "2026-10-06T16:45:01.873Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000153818656",
-      "title": "Creature FX Artist - Expression of Interest",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000153818656",
-      "created": "2026-10-06T16:43:56.617Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "lv-062cb518-844a-45d3-9857-4f2effe218d8",
       "title": "Gestionnaire marketing – Amériques | Marketing Manager - Americas",
       "company": "Cirque du Soleil",
@@ -293,7 +293,7 @@
       "title": "Gestionnaire principal(e) des ventes – Spectacles en tournée des Amériques | Senior Sales Manager – Americas Touring Shows",
       "company": "Cirque du Soleil",
       "location": "Montréal, QC",
-      "description": "Gestionnaire principal(e) des ventes – Spectacles en tournée des Amériques\nVentes marketing et communications\nÀ propos de nous\nNous sommes nés d'une troupe éclectique. Venez vivre l'expérience d'être vous-même au quotidien pour créer l'extraordinaire.\nNotre mission\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l'imaginaire et surprendre les spectateurs! \nL'innovation et la créativité sont au cœur de nos s",
+      "description": "Gestionnaire principal(e) des ventes – Spectacles en tournée des Amériques\nVentes marketing et communications\nÀ propos de nous\nNous sommes nés d'une troupe éclectique. Venez vivre l'expérience d'être vous-même au quotidien pour créer l'extraordinaire.\nNotre mission\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l'imaginaire et surprendre les spectateurs!L'innovation et la créativité sont au cœur de nos spe",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/71860537-a489-4468-a60e-015c4b348119",
@@ -2109,19 +2109,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "lv-6ae879f0-7f43-4626-8b58-d2a7d9793a33",
-      "title": "Stage Manager - JOYÀ",
-      "company": "Cirque du Soleil",
-      "location": "Riviera Maya",
-      "description": "Le poste étant situé aux Mexique, la description de poste est disponible uniquement en anglais.\n***As this position in based in the Mexico, the job description is available in English only.*** \n \n_______________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/6ae879f0-7f43-4626-8b58-d2a7d9793a33",
-      "created": "2026-08-11T14:36:13.615000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-2a6f531b-1a69-4d71-9835-bb744d79d148",
       "title": "Marketing and Communications Manager – Blue Man Group & VStar Entertainment",
       "company": "Cirque du Soleil",
@@ -2170,19 +2157,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/10eb959b-ae8d-48c3-af33-0c1c519b065b",
       "created": "2026-08-07T14:21:19.380000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-d1a932ad-67c8-4d87-8fe9-42c358d2bc65",
-      "title": "On-Call Wardrobe Technician - O",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/d1a932ad-67c8-4d87-8fe9-42c358d2bc65",
-      "created": "2026-08-05T19:11:51.028000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
@@ -2404,19 +2378,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/e9e5ef56-81d2-4ac8-9c61-7445d441b28e",
       "created": "2026-07-27T20:22:18.520000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-eada03a0-9572-495f-b73a-7f4722d1a859",
-      "title": "Sales Manager – 'Auana",
-      "company": "Cirque du Soleil",
-      "location": "Honolulu, HI",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.*** \n \n_________________________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/eada03a0-9572-495f-b73a-7f4722d1a859",
-      "created": "2026-07-23T20:34:31.531000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
