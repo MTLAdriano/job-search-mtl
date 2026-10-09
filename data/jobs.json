@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-08T21:08:49.830739Z",
-  "count": 230,
+  "updated": "2026-10-09T05:16:05.168567Z",
+  "count": 228,
   "jobs": [
+    {
+      "id": "sr-744000154568861",
+      "title": "Gametech Innovation Technical Lead",
+      "company": "Gameloft Montreal",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000154568861",
+      "created": "2026-10-09T01:46:39.591Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000154516129",
       "title": "Compositing Artist ",
@@ -272,19 +285,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000153759984",
       "created": "2026-10-06T13:26:18.787Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000153762912",
-      "title": "Marketing Activations Intern",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000153762912",
-      "created": "2026-10-06T13:24:54.974Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -638,19 +638,6 @@
       "created": "2026-10-01T13:31:08-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000152824429",
-      "title": "AI Engineer Intern (LLM)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000152824429",
-      "created": "2026-10-01T04:00:26.337Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000152714430",
@@ -2001,19 +1988,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000144514822",
       "created": "2026-08-20T10:26:16.993Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000144515339",
-      "title": "Creative Project Manager",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000144515339",
-      "created": "2026-08-20T10:25:35.241Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
