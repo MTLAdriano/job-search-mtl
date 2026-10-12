@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-12T05:04:33.267357Z",
-  "count": 225,
+  "updated": "2026-10-12T17:32:07.950844Z",
+  "count": 224,
   "jobs": [
+    {
+      "id": "sr-744000155053124",
+      "title": "Partnerships & Business Development Manager",
+      "company": "Gameloft Montreal",
+      "location": "Seattle, us",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000155053124",
+      "created": "2026-10-12T15:15:20.430Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000154931669",
+      "title": "IT Helpdesk Intern",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000154931669",
+      "created": "2026-10-12T06:49:49.925Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000154931499",
+      "title": "IT Intern (6 months)",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000154931499",
+      "created": "2026-10-12T06:49:13.669Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-0f678cf3-7023-4795-b76f-9847ddf45fa8",
       "title": "On-Call Rigging Technician - \"O\"",
@@ -107,19 +146,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000154478864",
-      "title": "M&A Analyst Intern - Janvier (6 mois)",
-      "company": "Gameloft Montreal",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000154478864",
-      "created": "2026-10-08T15:59:27.154Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000154412309",
       "title": "Business Intelligence Engineer (Junior)",
       "company": "Gameloft Montreal",
@@ -142,19 +168,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000154397659",
       "created": "2026-10-08T10:10:30.305Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000154397349",
-      "title": "IT - HW Intern (6 months)",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000154397349",
-      "created": "2026-10-08T10:08:52.582Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -324,19 +337,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000153759984",
       "created": "2026-10-06T13:26:18.787Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000153712651",
-      "title": "IT Intern (6 months)",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000153712651",
-      "created": "2026-10-06T09:49:12.567Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -2781,19 +2781,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000127486505",
       "created": "2026-05-20T17:02:49.164Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000126539670",
-      "title": "Account Manager ",
-      "company": "Gameloft Montreal",
-      "location": "Seattle, us",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000126539670",
-      "created": "2026-05-14T15:13:29.661Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
