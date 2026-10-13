@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-13T19:02:46.230493Z",
-  "count": 227,
+  "updated": "2026-10-13T23:38:46.946908Z",
+  "count": 226,
   "jobs": [
+    {
+      "id": "gh-8279779",
+      "title": "Coordonnateur.trice talent - Talent Coordinator",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8279779",
+      "created": "2026-10-13T16:51:14-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
     {
       "id": "sr-744000155309327",
       "title": "Pigiste artiste Animateur.trice Senior",
@@ -896,32 +909,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000152266890",
       "created": "2026-09-28T20:23:36.108Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000152248659",
-      "title": "VFX Project Manager - Permanent role",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000152248659",
-      "created": "2026-09-28T18:24:37.428Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000152247679",
-      "title": "Responsable de projet VFX - Contrat Permanent",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000152247679",
-      "created": "2026-09-28T18:16:34.590Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
