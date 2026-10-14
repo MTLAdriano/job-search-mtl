@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-14T04:07:32.386331Z",
+  "updated": "2026-10-14T13:26:12.346067Z",
   "count": 226,
   "jobs": [
+    {
+      "id": "sr-744000155452071",
+      "title": "Senior Game Developer (C++)",
+      "company": "Gameloft Montreal",
+      "location": "Lviv, ua",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000155452071",
+      "created": "2026-10-14T09:11:08.696Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000155431629",
+      "title": "Division Principal Game Programmer (Unreal Engine, AI)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000155431629",
+      "created": "2026-10-14T07:51:53.340Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000155430117",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000155430117",
+      "created": "2026-10-14T07:51:03.992Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "gh-8279779",
       "title": "Coordonnateur.trice talent - Talent Coordinator",
@@ -94,19 +133,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000155220529",
-      "title": "Senior Game Developer (C++)",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000155220529",
-      "created": "2026-10-13T10:13:01.839Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000154931669",
       "title": "IT Helpdesk Intern",
       "company": "Gameloft Montreal",
@@ -170,19 +196,6 @@
       "created": "2026-10-09T18:24:58.165000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000154649134",
-      "title": "Senior Product Manager (features/roadmap) - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000154649134",
-      "created": "2026-10-09T11:24:14.281Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000154644209",
@@ -1275,19 +1288,6 @@
       "created": "2026-09-17T21:13:28.408000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000150077769",
-      "title": "Division Principal Game Programmer (Unreal Engine, AI)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000150077769",
-      "created": "2026-09-17T11:18:49.189Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-a52b0c55-807c-420f-a5d9-942727ef2974",
