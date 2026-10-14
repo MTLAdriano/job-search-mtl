@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-14T13:26:12.346067Z",
-  "count": 226,
+  "updated": "2026-10-14T20:02:42.737026Z",
+  "count": 228,
   "jobs": [
+    {
+      "id": "sr-744000155570406",
+      "title": "Lead Game Designer (PC/Console/Mobile) ",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000155570406",
+      "created": "2026-10-14T16:48:31.039Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "gh-8282336",
+      "title": "Concepteur·trice-rédacteur·trice - Copywriter",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8282336",
+      "created": "2026-10-14T15:33:57-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8282238",
+      "title": "Chargé·e de projet numérique, soutien et maintenance - Digital Project Manager Support ",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8282238",
+      "created": "2026-10-14T15:15:47-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
     {
       "id": "sr-744000155452071",
       "title": "Senior Game Developer (C++)",
@@ -90,19 +129,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000155285856",
       "created": "2026-10-13T14:48:20.358Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000155284514",
-      "title": "Lead Game Designer (PC/Console/Mobile) ",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000155284514",
-      "created": "2026-10-13T14:45:25.361Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
