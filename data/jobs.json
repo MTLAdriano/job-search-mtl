@@ -1,7 +1,72 @@
 {
-  "updated": "2026-10-15T16:33:54.150895Z",
-  "count": 235,
+  "updated": "2026-10-15T22:56:38.268474Z",
+  "count": 233,
   "jobs": [
+    {
+      "id": "sr-744000155854169",
+      "title": "CG Supervisor",
+      "company": "Rodeo FX",
+      "location": "Bengaluru, in",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000155854169",
+      "created": "2026-10-15T21:14:06.083Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000155854159",
+      "title": "Texture Lookdev Artist - Senior",
+      "company": "Rodeo FX",
+      "location": "Bengaluru, in",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000155854159",
+      "created": "2026-10-15T21:13:09.882Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000155854089",
+      "title": "Asset Supervisor",
+      "company": "Rodeo FX",
+      "location": "Bengaluru, in",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000155854089",
+      "created": "2026-10-15T21:12:16.853Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000155853070",
+      "title": "DFX Supervisor",
+      "company": "Rodeo FX",
+      "location": "Bengaluru, in",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000155853070",
+      "created": "2026-10-15T21:11:24.062Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000155810572",
+      "title": "Lead UI artist",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000155810572",
+      "created": "2026-10-15T16:59:33.009Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000155800450",
       "title": "Senior Engine Programmer",
@@ -77,45 +142,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000155739956",
       "created": "2026-10-15T12:10:22.135Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000155743279",
-      "title": "CG Supervisor",
-      "company": "Rodeo FX",
-      "location": "Bengaluru, in",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000155743279",
-      "created": "2026-10-15T12:09:39.935Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000155742911",
-      "title": "Texture Lookdev Artist - Senior",
-      "company": "Rodeo FX",
-      "location": "Bengaluru, in",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000155742911",
-      "created": "2026-10-15T12:08:55.499Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000155743049",
-      "title": "Asset Supervisor",
-      "company": "Rodeo FX",
-      "location": "Bengaluru, in",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000155743049",
-      "created": "2026-10-15T12:08:04.892Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -289,19 +315,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000155284749",
-      "title": "Senior UI Artist (3+ Years Gaming Exp.)",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000155284749",
-      "created": "2026-10-13T14:44:23.527Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000155261105",
       "title": "Partnerships & Business Development Manager",
       "company": "Gameloft Montreal",
@@ -339,19 +352,6 @@
       "created": "2026-10-12T06:49:13.669Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-5994a1fd-e53f-49d3-81cb-da965a6acf83",
-      "title": "HR Business Partner – Blue Man Group & VStar Entertainment",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/5994a1fd-e53f-49d3-81cb-da965a6acf83",
-      "created": "2026-10-09T21:25:02.933000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-0f678cf3-7023-4795-b76f-9847ddf45fa8",
@@ -1264,19 +1264,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "lv-b1ecfc0f-79f6-42d0-a96a-861386c8313a",
-      "title": "Head Coach - Mystère",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.*** \n \n_______________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/b1ecfc0f-79f6-42d0-a96a-861386c8313a",
-      "created": "2026-09-19T01:15:24.559000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-800f001b-facb-47f4-b430-c24e43e3b5a6",
       "title": "Conseiller(ère) - Fiscalité des particuliers | Advisor – Individual Taxation",
       "company": "Cirque du Soleil",
@@ -2172,19 +2159,6 @@
       "created": "2026-08-19T03:24:51Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000144123709",
-      "title": "Senior Lookdev Artist - Multiple Positions",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000144123709",
-      "created": "2026-08-18T16:15:01.888Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000143547729",
