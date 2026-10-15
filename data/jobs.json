@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-14T20:02:42.737026Z",
-  "count": 228,
+  "updated": "2026-10-15T03:49:49.174027Z",
+  "count": 229,
   "jobs": [
+    {
+      "id": "sr-744000155619417",
+      "title": "Superviseur.e de simulation de foule",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000155619417",
+      "created": "2026-10-14T22:20:50.503Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000155620410",
+      "title": "Crowd Simulation Supervisor",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000155620410",
+      "created": "2026-10-14T22:18:36.346Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000155570406",
       "title": "Lead Game Designer (PC/Console/Mobile) ",
@@ -14,6 +40,19 @@
       "created": "2026-10-14T16:48:31.039Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
+    },
+    {
+      "id": "gh-8282479",
+      "title": "Le·la gestionnaire de projet numérique senior  - Senior Digital Project Manager ",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8282479",
+      "created": "2026-10-14T16:27:59-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
     },
     {
       "id": "gh-8282336",
@@ -887,19 +926,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "sr-744000152330589",
-      "title": "Game Programmer – Japan & Global Game Development",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000152330589",
-      "created": "2026-09-29T06:09:16.249Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
       "id": "sr-744000152330519",
       "title": "Game Designer – Japan & Global Game Development",
       "company": "Keywords Studios",
@@ -1436,7 +1462,7 @@
       "id": "lv-8b4afe97-4fbc-47b5-949a-13c7cf74a724",
       "title": "Manager, Partnership Strategy",
       "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
+      "location": "New York City, NY",
       "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n \n______________________________________________________________________________\n",
       "salary_min": null,
       "salary_max": null,
@@ -1548,19 +1574,6 @@
       "created": "2026-09-10T21:40:51.183Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-0ba15a7a-0a05-4899-80c9-8e1df49fbe32",
-      "title": "On-Call Carpentry Technician (Theatrical) - Drawn to Life",
-      "company": "Cirque du Soleil",
-      "location": "Orlando, FL",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/0ba15a7a-0a05-4899-80c9-8e1df49fbe32",
-      "created": "2026-09-10T21:12:06.031000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-f21e0b6e-22f8-4b93-8be6-2aa6d7750162",
