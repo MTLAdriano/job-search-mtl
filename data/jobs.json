@@ -1,7 +1,98 @@
 {
-  "updated": "2026-10-16T03:45:43.155781Z",
-  "count": 233,
+  "updated": "2026-10-16T08:50:36.292135Z",
+  "count": 236,
   "jobs": [
+    {
+      "id": "sr-744000155935860",
+      "title": "3D Motion Video Artist",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000155935860",
+      "created": "2026-10-16T08:23:21.946Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000155935130",
+      "title": "Video Artist",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000155935130",
+      "created": "2026-10-16T08:22:57.397Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000155937119",
+      "title": "UA & Cinematic Video Producer (UE, Blender, AE)",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000155937119",
+      "created": "2026-10-16T08:22:23.428Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000155936719",
+      "title": "3D Motion Designer – Cinematics & Video Production",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000155936719",
+      "created": "2026-10-16T08:20:32.482Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000155936300",
+      "title": "3D Motion Designer & Video Editor (Unreal Engine / After Effects)",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000155936300",
+      "created": "2026-10-16T08:19:49.602Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000155933275",
+      "title": "Lead UI artist",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000155933275",
+      "created": "2026-10-16T08:08:50.927Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000155929939",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000155929939",
+      "created": "2026-10-16T07:46:31.493Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000155870109",
       "title": "Responsable de département RH – Fonctions corporatives",
@@ -79,19 +170,6 @@
       "created": "2026-10-15T21:11:24.062Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000155810572",
-      "title": "Lead UI artist",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000155810572",
-      "created": "2026-10-15T16:59:33.009Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000155800450",
@@ -272,19 +350,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000155431629",
       "created": "2026-10-14T07:51:53.340Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000155430117",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000155430117",
-      "created": "2026-10-14T07:51:03.992Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -885,32 +950,6 @@
       "created": "2026-10-02T16:40:35.427000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000153186819",
-      "title": "Video Artist",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000153186819",
-      "created": "2026-10-02T13:36:06.949Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000153186539",
-      "title": "3D Motion Video Artist",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000153186539",
-      "created": "2026-10-02T13:35:23.050Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000153024427",
