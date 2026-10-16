@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-16T08:50:36.292135Z",
-  "count": 236,
+  "updated": "2026-10-16T16:18:56.452788Z",
+  "count": 237,
   "jobs": [
+    {
+      "id": "sr-744000155997330",
+      "title": "[Dungeons & Dragons PC Console] Concepteur(trice) de jeu technique - Technical Game Designer",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000155997330",
+      "created": "2026-10-16T13:23:48.250Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000155976357",
+      "title": "Lead Game Designer (PC/Console/Mobile) ",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000155976357",
+      "created": "2026-10-16T11:59:50.608Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000155948244",
+      "title": "Senior UI Artist [Freelance]",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000155948244",
+      "created": "2026-10-16T09:20:18.858Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000155935860",
       "title": "3D Motion Video Artist",
@@ -248,19 +287,6 @@
       "created": "2026-10-15T12:10:22.135Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000155711115",
-      "title": "Lead Game Designer (PC/Console/Mobile) ",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000155711115",
-      "created": "2026-10-15T09:42:38.902Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000155619417",
@@ -989,19 +1015,6 @@
       "created": "2026-10-01T13:31:08-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000152714430",
-      "title": "[Dungeons & Dragons PC Console] Concepteur(trice) de jeu technique - Technical Game Designer",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000152714430",
-      "created": "2026-09-30T15:35:19.257Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000152706559",
