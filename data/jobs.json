@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-16T16:18:56.452788Z",
-  "count": 237,
+  "updated": "2026-10-16T22:40:06.700116Z",
+  "count": 236,
   "jobs": [
+    {
+      "id": "sr-744000156070189",
+      "title": "Production Manager",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000156070189",
+      "created": "2026-10-16T19:32:41.443Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000156069899",
+      "title": "Production Manager",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000156069899",
+      "created": "2026-10-16T19:30:30.656Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000156003059",
+      "title": "VFX Producer - Senior",
+      "company": "Rodeo FX",
+      "location": "Bengaluru, in",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000156003059",
+      "created": "2026-10-16T13:42:22.616Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000155997330",
       "title": "[Dungeons & Dragons PC Console] Concepteur(trice) de jeu technique - Technical Game Designer",
@@ -883,32 +922,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000153260599",
       "created": "2026-10-02T19:24:19.640Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000153258779",
-      "title": "Coordonnateur.trice de production VFX Senior",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000153258779",
-      "created": "2026-10-02T19:09:34.840Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000153258609",
-      "title": "Senior VFX Production Coordinator",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000153258609",
-      "created": "2026-10-02T19:08:08.400Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -2276,32 +2289,6 @@
       "created": "2026-08-11T20:52:41.399Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-f8ef784c-d1ca-4ea5-a334-3191833c7b39",
-      "title": "Company Manager (Touring) – VStar Entertainment Group",
-      "company": "Cirque du Soleil",
-      "location": "On tour",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n______________________________________________________________\n \n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/f8ef784c-d1ca-4ea5-a334-3191833c7b39",
-      "created": "2026-08-11T18:37:15.837000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-2a6f531b-1a69-4d71-9835-bb744d79d148",
-      "title": "Marketing and Communications Manager – Blue Man Group & VStar Entertainment",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/2a6f531b-1a69-4d71-9835-bb744d79d148",
-      "created": "2026-08-11T01:07:55.191000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-b96bde7b-503b-412a-8c8f-6faeb8ef569b",
