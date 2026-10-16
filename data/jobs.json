@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-15T22:56:38.268474Z",
+  "updated": "2026-10-16T03:45:43.155781Z",
   "count": 233,
   "jobs": [
+    {
+      "id": "sr-744000155870109",
+      "title": "Responsable de département RH – Fonctions corporatives",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000155870109",
+      "created": "2026-10-15T23:44:16.366Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000155869187",
+      "title": "HR Department Manager - Corporate functions",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000155869187",
+      "created": "2026-10-15T23:43:37.618Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000155854169",
       "title": "CG Supervisor",
@@ -1600,32 +1626,6 @@
       "created": "2026-09-14T06:39:06.233Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000149094229",
-      "title": "Responsable de département RH – Fonctions corporatives",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000149094229",
-      "created": "2026-09-11T19:13:39.210Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000149093144",
-      "title": "HR Department Manager - Corporate functions",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000149093144",
-      "created": "2026-09-11T19:13:06.039Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000149059714",
