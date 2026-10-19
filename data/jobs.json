@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-19T09:42:45.752408Z",
-  "count": 236,
+  "updated": "2026-10-19T18:30:33.864716Z",
+  "count": 230,
   "jobs": [
+    {
+      "id": "sr-744000156360043",
+      "title": "Lead Game Designer (PC/Console/Mobile) ",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000156360043",
+      "created": "2026-10-19T15:30:37.353Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000156273939",
       "title": "Senior Product Manager - Asphalt Legends",
@@ -25,19 +38,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000156268931",
       "created": "2026-10-19T09:32:49.287Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000156263200",
-      "title": "Lead Game Designer (PC/Console/Mobile) ",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000156263200",
-      "created": "2026-10-19T09:04:59.606Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -391,6 +391,19 @@
       "created": "2026-10-14T15:15:47-04:00",
       "category": "Agence",
       "source": "Sid Lee"
+    },
+    {
+      "id": "lv-3462486c-f14b-49ba-ba92-90bb1a94c421",
+      "title": "Chef d’équipe – Comptes payables | Team Lead – Accounts Payable",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Chef d’équipe – Comptes payables \nFinance et comptabilité\nÀ propos de nous \nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \nNOTRE MISSION\nDepuis 1984, le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l'imaginaire et surprendre les spectateurs ! L'innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos produc",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/3462486c-f14b-49ba-ba92-90bb1a94c421",
+      "created": "2026-10-14T14:58:03.389000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000155452071",
@@ -1186,19 +1199,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "lv-cb0f414a-2649-4ac3-b328-52af29284269",
-      "title": "Technicien en TI – Spectacles en tournée | IT Technician – Touring Shows",
-      "company": "Cirque du Soleil",
-      "location": "*En tournée | On tour",
-      "description": "Technicien en TI – Spectacles en tournée\nServices de soutien aux spectacles\n \n* Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste.*\n \nNous recherchons un technicien en TI polyvalent et débrouillard pour assu",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/cb0f414a-2649-4ac3-b328-52af29284269",
-      "created": "2026-09-25T17:57:27.533000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "sr-744000151118749",
       "title": "Producteur.trice VFX - Sénior - Permanent",
       "company": "Rodeo FX",
@@ -1524,32 +1524,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "lv-e4891ed8-06de-4f35-8a42-597569a6459a",
-      "title": "Company Manager – Blue Man Group A New Holiday Surprise Tour",
-      "company": "Cirque du Soleil",
-      "location": "On tour",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n___________________________________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/e4891ed8-06de-4f35-8a42-597569a6459a",
-      "created": "2026-09-16T23:57:41.917000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-5f47dc4a-bfbe-46aa-90ea-c6d1fcb5a791",
-      "title": "Assistant Stage Manager – Blue Man Group A New Holiday Surprise Tour",
-      "company": "Cirque du Soleil",
-      "location": "On tour",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n____________________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/5f47dc4a-bfbe-46aa-90ea-c6d1fcb5a791",
-      "created": "2026-09-16T23:53:58.796000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-9db5c156-08db-4ece-9a99-fa30f05f5cf9",
       "title": "Head of Audio & MIT – Blue Man Group A New Holiday Surprise Tour",
       "company": "Cirque du Soleil",
@@ -1769,19 +1743,6 @@
       "created": "2026-09-09T04:33:07.144Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000148323409",
-      "title": "Business Development Coordinator",
-      "company": "Rodeo FX",
-      "location": "Los Angeles, us",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000148323409",
-      "created": "2026-09-08T18:58:28.277Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "lv-15f1a04f-717d-46e1-8ed8-be5a9c8f8529",
@@ -2161,19 +2122,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "lv-17ed5d10-3217-41f3-8d02-ba275ea225ef",
-      "title": "Responsable du développement de produits – Produits de consommation | Product Development Lead – Consumer Products",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Responsable du développement de produits – Produits de consommation\nExpérience client\nPoste à temps plein\n \n \nSous la responsabilité de la directrice, Produits de consommation, le titulaire du poste accompagne l'ensemble du cycle de développement des produits, notamment l'élaboration des concepts, la coordination avec les fournisseurs, la gestion des échantillons, la direction artistique ainsi que le suivi des coûts et des échéanciers.\n \nLe titulaire du poste dirige le processus de développement",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/17ed5d10-3217-41f3-8d02-ba275ea225ef",
-      "created": "2026-08-20T16:23:21.322000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "sr-744000144515801",
       "title": "DevOps Software Engineer",
       "company": "Gameloft Montreal",
@@ -2482,32 +2430,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/382cde8f-961c-4847-9efe-8b2bf21c018f",
       "created": "2026-07-29T18:36:08.726000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-4f749127-18c6-4aa2-ae24-fe3998dbbc3c",
-      "title": "Assistant Stage Manager – Blue Man Group North American Tour",
-      "company": "Cirque du Soleil",
-      "location": "On tour",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/4f749127-18c6-4aa2-ae24-fe3998dbbc3c",
-      "created": "2026-07-29T18:24:03.127000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-2e55f9b1-a3f7-4c75-a785-4cc278bf602b",
-      "title": "Company Manager – Blue Man Group North American Tour",
-      "company": "Cirque du Soleil",
-      "location": "On tour",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n___________________________________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/2e55f9b1-a3f7-4c75-a785-4cc278bf602b",
-      "created": "2026-07-29T17:53:29.607000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
