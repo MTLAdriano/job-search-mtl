@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-19T03:52:03.243489Z",
+  "updated": "2026-10-19T09:42:45.752408Z",
   "count": 236,
   "jobs": [
+    {
+      "id": "sr-744000156273939",
+      "title": "Senior Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000156273939",
+      "created": "2026-10-19T09:41:33.959Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000156268931",
+      "title": "Lead UI artist",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000156268931",
+      "created": "2026-10-19T09:32:49.287Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000156263200",
+      "title": "Lead Game Designer (PC/Console/Mobile) ",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000156263200",
+      "created": "2026-10-19T09:04:59.606Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000156070189",
       "title": "Production Manager",
@@ -51,19 +90,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000155997330",
       "created": "2026-10-16T13:23:48.250Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000155976357",
-      "title": "Lead Game Designer (PC/Console/Mobile) ",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000155976357",
-      "created": "2026-10-16T11:59:50.608Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -142,32 +168,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000155936300",
       "created": "2026-10-16T08:19:49.602Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000155933275",
-      "title": "Lead UI artist",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000155933275",
-      "created": "2026-10-16T08:08:50.927Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000155929939",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000155929939",
-      "created": "2026-10-16T07:46:31.493Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
