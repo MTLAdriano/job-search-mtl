@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-20T13:25:00.439332Z",
-  "count": 205,
+  "updated": "2026-10-20T19:53:59.224372Z",
+  "count": 204,
   "jobs": [
+    {
+      "id": "lv-b69ba04b-b3bb-4049-8b3b-434c0024273c",
+      "title": "Technicien(ne) Immeuble – Maintenance et menuiserie | Building Technician – Maintenance and Carpentry",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Technicien(ne) Immeuble – Maintenance et menuiserieServices immobiliers \nÀ propos de nous\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire.\nNotre mission\nDepuis 1984, le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l'imaginaire et surprendre les spectateurs ! L'innovation et la créativité sont au cœur de nos spectacles et continueront de transcend",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/b69ba04b-b3bb-4049-8b3b-434c0024273c",
+      "created": "2026-10-20T14:00:23.804000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "lv-e2bf9371-7de8-4f8b-b821-aea7c5090f23",
       "title": "Director of Commercial Finance - Americas",
@@ -14,19 +27,6 @@
       "created": "2026-10-19T20:29:53.400000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000156360043",
-      "title": "Lead Game Designer (PC/Console/Mobile) ",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000156360043",
-      "created": "2026-10-19T15:30:37.353Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000156268931",
@@ -1249,19 +1249,6 @@
       "created": "2026-09-21T11:58:46.876Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-800f001b-facb-47f4-b430-c24e43e3b5a6",
-      "title": "Conseiller(ère) - Fiscalité des particuliers | Advisor – Individual Taxation",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Conseiller(ère) - Fiscalité des particuliersFinance et comptabilité\n \nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs ! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos productions à venir à travers le monde entier.      \nAujourd’hui, nous avons une place pour celles et ceux qui ont un goût marqué pour penser des produ",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/800f001b-facb-47f4-b430-c24e43e3b5a6",
-      "created": "2026-09-18T19:53:26.384000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000150437600",
