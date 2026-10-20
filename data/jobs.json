@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20T04:04:00.283489Z",
-  "count": 212,
+  "updated": "2026-10-20T13:25:00.439332Z",
+  "count": 205,
   "jobs": [
     {
       "id": "lv-e2bf9371-7de8-4f8b-b821-aea7c5090f23",
@@ -25,19 +25,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000156360043",
       "created": "2026-10-19T15:30:37.353Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000156273939",
-      "title": "Senior Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000156273939",
-      "created": "2026-10-19T09:41:33.959Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -116,71 +103,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000155948244",
       "created": "2026-10-16T09:20:18.858Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000155935860",
-      "title": "3D Motion Video Artist",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000155935860",
-      "created": "2026-10-16T08:23:21.946Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000155935130",
-      "title": "Video Artist",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000155935130",
-      "created": "2026-10-16T08:22:57.397Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000155937119",
-      "title": "UA & Cinematic Video Producer (UE, Blender, AE)",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000155937119",
-      "created": "2026-10-16T08:22:23.428Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000155936719",
-      "title": "3D Motion Designer – Cinematics & Video Production",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000155936719",
-      "created": "2026-10-16T08:20:32.482Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000155936300",
-      "title": "3D Motion Designer & Video Editor (Unreal Engine / After Effects)",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000155936300",
-      "created": "2026-10-16T08:19:49.602Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -820,19 +742,6 @@
       "created": "2026-10-05T16:33:20-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000153435271",
-      "title": "3D Environment Supervisor",
-      "company": "Gameloft Montreal",
-      "location": "Yogyakarta, id",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000153435271",
-      "created": "2026-10-05T08:42:09.622Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000153382859",
