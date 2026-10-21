@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20T23:01:12.001187Z",
-  "count": 204,
+  "updated": "2026-10-21T03:52:34.582680Z",
+  "count": 207,
   "jobs": [
     {
       "id": "lv-b69ba04b-b3bb-4049-8b3b-434c0024273c",
@@ -25,6 +25,45 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000156564309",
       "created": "2026-10-20T13:40:44.359Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000156541495",
+      "title": "Video Editor & Motion Designer",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000156541495",
+      "created": "2026-10-20T12:16:58.540Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000156534082",
+      "title": "Lead Product Manager - Asphalt Legends",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000156534082",
+      "created": "2026-10-20T11:46:50.581Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000156498423",
+      "title": "Principal 3D Environment Artist",
+      "company": "Gameloft Montreal",
+      "location": "Yogyakarta, id",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000156498423",
+      "created": "2026-10-20T08:46:07.859Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -103,6 +142,19 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000155948244",
       "created": "2026-10-16T09:20:18.858Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000155935130",
+      "title": "Video Artist",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000155935130",
+      "created": "2026-10-16T08:22:57.397Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -744,6 +796,19 @@
       "source": "Sid Lee"
     },
     {
+      "id": "sr-744000153435271",
+      "title": "3D Environment Supervisor",
+      "company": "Gameloft Montreal",
+      "location": "Yogyakarta, id",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000153435271",
+      "created": "2026-10-05T08:42:09.622Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
       "id": "sr-744000153382859",
       "title": "Narrative Game Designer & Scriptwriter",
       "company": "Gameloft Montreal",
@@ -1329,19 +1394,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000150432009",
-      "title": "Lighting Supervisor",
-      "company": "Rodeo FX",
-      "location": "Bengaluru, in",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000150432009",
-      "created": "2026-09-18T17:44:39.142Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000150411476",
       "title": "Artiste principal.e d’armature  - Permanent",
       "company": "Rodeo FX",
@@ -1416,19 +1468,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/2f9b0728-b524-4ace-8448-faf631309673",
       "created": "2026-09-15T17:33:55.862000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-e5cc2013-e248-4e84-9f83-d395842decd2",
-      "title": "Senior Analyst, Marketing Analytics",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/e5cc2013-e248-4e84-9f83-d395842decd2",
-      "created": "2026-09-15T17:32:39.849000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
