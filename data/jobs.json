@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T16:51:06.179877Z",
-  "count": 209,
+  "updated": "2026-10-21T23:04:25.290067Z",
+  "count": 207,
   "jobs": [
     {
       "id": "lv-90472bf9-08f1-4a74-a88b-1310d96cae83",
@@ -1416,32 +1416,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000150433324",
       "created": "2026-09-18T18:00:24.021Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000150411476",
-      "title": "Artiste principal.e d’armature  - Permanent",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000150411476",
-      "created": "2026-09-18T15:56:08.077Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000150410002",
-      "title": "Rigging Lead - Permanent",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000150410002",
-      "created": "2026-09-18T15:44:42.789Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
