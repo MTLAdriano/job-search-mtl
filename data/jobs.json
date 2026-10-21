@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T03:52:34.582680Z",
-  "count": 207,
+  "updated": "2026-10-21T09:12:51.017406Z",
+  "count": 204,
   "jobs": [
     {
       "id": "lv-b69ba04b-b3bb-4049-8b3b-434c0024273c",
@@ -1030,32 +1030,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000152683830",
-      "title": "Ingénieur.e de platforme senior",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000152683830",
-      "created": "2026-09-30T13:22:17.892Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000152683900",
-      "title": "Senior Platform Engineer",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000152683900",
-      "created": "2026-09-30T13:21:57.206Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000152638831",
       "title": "Project Manager-BI",
       "company": "Gameloft Montreal",
@@ -1182,19 +1156,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000151090139",
       "created": "2026-09-22T16:34:35.401Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000151087300",
-      "title": "VFX Project Manager - Senior",
-      "company": "Rodeo FX",
-      "location": "Bengaluru, in",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000151087300",
-      "created": "2026-09-22T16:21:27.743Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
