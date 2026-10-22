@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-22T09:15:31.606221Z",
-  "count": 206,
+  "updated": "2026-10-22T16:51:09.330748Z",
+  "count": 208,
   "jobs": [
+    {
+      "id": "sr-744000157147935",
+      "title": "Gestionnaire des incitatifs fiscaux R&D (RS&DE)",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000157147935",
+      "created": "2026-10-22T14:22:04.315Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000157104239",
+      "title": "Customer Care Agent (English and French)",
+      "company": "Gameloft Montreal",
+      "location": "Lviv, ua",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000157104239",
+      "created": "2026-10-22T11:20:06.499Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "gh-8312737",
+      "title": "Freelance Producer - Talent Pipeline",
+      "company": "Sid Lee",
+      "location": "Toronto, Ontario, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8312737",
+      "created": "2026-10-22T10:45:10-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
     {
       "id": "sr-744000157055749",
       "title": "Live Ops Intern",
@@ -92,19 +131,6 @@
       "created": "2026-10-21T14:30:14.744Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000156808269",
-      "title": "Gestionnaire des incitatifs fiscaux R&D (RS&DE)",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000156808269",
-      "created": "2026-10-21T13:39:45.996Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000156806326",
