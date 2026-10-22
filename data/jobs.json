@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-22T03:52:42.866545Z",
+  "updated": "2026-10-22T09:15:31.606221Z",
   "count": 206,
   "jobs": [
+    {
+      "id": "sr-744000157055749",
+      "title": "Live Ops Intern",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000157055749",
+      "created": "2026-10-22T07:40:57.646Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000157034009",
+      "title": "Graphic Designer (Middle/Senior)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000157034009",
+      "created": "2026-10-22T04:12:14.664Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-90472bf9-08f1-4a74-a88b-1310d96cae83",
       "title": "Assistant.e chef.fe Automatisation - L'ÉVEIL D'UTOPIA | Assistant Head of Automation - FINDING UTOPIA",
@@ -92,19 +118,6 @@
       "created": "2026-10-21T13:39:18.267Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000156746849",
-      "title": "Live Ops Intern",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000156746849",
-      "created": "2026-10-21T08:58:40.864Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-b69ba04b-b3bb-4049-8b3b-434c0024273c",
@@ -1286,19 +1299,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000150972019",
       "created": "2026-09-22T08:57:54.882Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000150948819",
-      "title": "Graphic Designer (Middle/Senior)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000150948819",
-      "created": "2026-09-22T07:17:54.050Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
