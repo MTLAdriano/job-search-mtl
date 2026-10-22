@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T23:04:25.290067Z",
-  "count": 207,
+  "updated": "2026-10-22T03:52:42.866545Z",
+  "count": 206,
   "jobs": [
     {
       "id": "lv-90472bf9-08f1-4a74-a88b-1310d96cae83",
@@ -1455,19 +1455,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/8b4afe97-4fbc-47b5-949a-13c7cf74a724",
       "created": "2026-09-16T23:37:18.634000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-2f9b0728-b524-4ace-8448-faf631309673",
-      "title": "Data Scientist | Data Scientist",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "Data Scientist\nProduit & Technologie\nPoste à temps plein – Mode de travail hybride – 4 jours/semaine au bureau\n \n \n \nNous avons une place pour les personnes ayant un goût prononcé pour assurer le bon déroulement de nos spectacles et événements, pour concevoir des produits remarquables, pour mettre leur ingéniosité au service de leur équipe et pour contribuer au développement de leur expertise et à l'établissement de pratiques d'exception. Le Cirque du Soleil Entertainment Group mise sur une appr",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/2f9b0728-b524-4ace-8448-faf631309673",
-      "created": "2026-09-15T17:33:55.862000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
