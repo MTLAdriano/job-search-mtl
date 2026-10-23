@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-23T16:43:21.158349Z",
+  "updated": "2026-10-23T22:57:31.359148Z",
   "count": 213,
   "jobs": [
+    {
+      "id": "gh-8282479",
+      "title": "Gestionnaire de Projets Numériques Senior  - Senior Digital Project Manager ",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8282479",
+      "created": "2026-10-23T14:01:47-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
     {
       "id": "sr-744000157438869",
       "title": "3D Graphic Artist",
@@ -573,19 +586,6 @@
       "created": "2026-10-14T22:18:36.346Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "gh-8282479",
-      "title": "Le·la gestionnaire de projet numérique senior  - Senior Digital Project Manager ",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8282479",
-      "created": "2026-10-14T16:27:59-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "gh-8282336",
