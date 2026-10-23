@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-23T03:56:45.924574Z",
-  "count": 212,
+  "updated": "2026-10-23T09:14:30.176617Z",
+  "count": 213,
   "jobs": [
+    {
+      "id": "sr-744000157396089",
+      "title": "Lead UI Artist",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000157396089",
+      "created": "2026-10-23T07:02:51.923Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000157384105",
+      "title": "3D Graphic Artist",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000157384105",
+      "created": "2026-10-23T05:17:42.275Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000157206179",
       "title": "Pigiste artiste Animateur.trice Senior",
@@ -285,19 +311,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000156498423",
       "created": "2026-10-20T08:46:07.859Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000156268931",
-      "title": "Lead UI artist",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000156268931",
-      "created": "2026-10-19T09:32:49.287Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
