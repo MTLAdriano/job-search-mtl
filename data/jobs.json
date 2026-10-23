@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-23T09:14:30.176617Z",
+  "updated": "2026-10-23T16:43:21.158349Z",
   "count": 213,
   "jobs": [
+    {
+      "id": "sr-744000157438869",
+      "title": "3D Graphic Artist",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000157438869",
+      "created": "2026-10-23T10:30:12.608Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000157396089",
       "title": "Lead UI Artist",
@@ -12,19 +25,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000157396089",
       "created": "2026-10-23T07:02:51.923Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000157384105",
-      "title": "3D Graphic Artist",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000157384105",
-      "created": "2026-10-23T05:17:42.275Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
