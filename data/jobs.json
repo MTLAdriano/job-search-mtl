@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-25T22:22:23.518335Z",
+  "updated": "2026-10-26T03:53:59.865946Z",
   "count": 213,
   "jobs": [
+    {
+      "id": "sr-744000157715899",
+      "title": "3D Graphic Artist",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000157715899",
+      "created": "2026-10-26T02:46:02.022Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "gh-8282479",
       "title": "Gestionnaire de Projets Numériques Senior  - Senior Digital Project Manager ",
@@ -14,19 +27,6 @@
       "created": "2026-10-23T14:01:47-04:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000157438869",
-      "title": "3D Graphic Artist",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000157438869",
-      "created": "2026-10-23T10:30:12.608Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000157396089",
