@@ -1,7 +1,72 @@
 {
-  "updated": "2026-10-26T18:27:56.296380Z",
+  "updated": "2026-10-26T23:38:26.466440Z",
   "count": 208,
   "jobs": [
+    {
+      "id": "lv-f13da8df-7976-4b45-9abf-b8cd6c56b0d7",
+      "title": "Head Carpenter - PAW Patrol Live! A Mighty Adventure",
+      "company": "Cirque du Soleil",
+      "location": "On tour",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/f13da8df-7976-4b45-9abf-b8cd6c56b0d7",
+      "created": "2026-10-26T22:19:31.804000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-4c7bad5f-9ea1-40ff-a6c9-19339074af93",
+      "title": "Assistant Carpenter - PAW Patrol Live! A Mighty Adventure",
+      "company": "Cirque du Soleil",
+      "location": "On tour",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/4c7bad5f-9ea1-40ff-a6c9-19339074af93",
+      "created": "2026-10-26T22:14:25.573000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-95f3894a-b33a-4193-92ce-84b65ca9a92f",
+      "title": "Assistant Audio Video - Paw Patrol Live! A Mighty Adventure",
+      "company": "Cirque du Soleil",
+      "location": "On tour",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/95f3894a-b33a-4193-92ce-84b65ca9a92f",
+      "created": "2026-10-26T22:01:33.743000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-3cfa8ef4-18ad-42eb-8c7d-8a7be28a01cb",
+      "title": "Assistant Wardrobe - Paw Patrol Live! A Mighty Adventure",
+      "company": "Cirque du Soleil",
+      "location": "On tour",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/3cfa8ef4-18ad-42eb-8c7d-8a7be28a01cb",
+      "created": "2026-10-26T21:54:24.924000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-dee98bce-6f5f-4c29-b02e-23b41718b9d5",
+      "title": "On-Call Carpentry Technician - KÀ",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n___________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/dee98bce-6f5f-4c29-b02e-23b41718b9d5",
+      "created": "2026-10-26T21:39:56.453000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000157715899",
       "title": "3D Graphic Artist",
@@ -558,32 +623,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000155739956",
       "created": "2026-10-15T12:10:22.135Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000155619417",
-      "title": "Superviseur.e de simulation de foule",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000155619417",
-      "created": "2026-10-14T22:20:50.503Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000155620410",
-      "title": "Crowd Simulation Supervisor",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000155620410",
-      "created": "2026-10-14T22:18:36.346Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -1940,32 +1979,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000145587250",
-      "title": "Artiste de développement visuel Senior - Plusieurs postes",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000145587250",
-      "created": "2026-08-25T18:55:05.020Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000145587059",
-      "title": "Senior Lookdev Artist - Multiple Positions",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000145587059",
-      "created": "2026-08-25T18:54:36.016Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "muse-22093939",
       "title": "Senior Data Analyst",
       "company": "Sonatype",
@@ -2172,19 +2185,6 @@
       "created": "2026-07-29T07:08:31.959Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-e9e5ef56-81d2-4ac8-9c61-7445d441b28e",
-      "title": "​​Head Carpenter​ (Touring) – VStar Entertainment Group",
-      "company": "Cirque du Soleil",
-      "location": "On tour",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n___________________________________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/e9e5ef56-81d2-4ac8-9c61-7445d441b28e",
-      "created": "2026-07-27T20:22:18.520000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-9e49b488-3ac2-44c6-a934-f5d3f4db1303",
