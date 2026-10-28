@@ -1,7 +1,85 @@
 {
-  "updated": "2026-10-28T04:45:07.879050Z",
-  "count": 227,
+  "updated": "2026-10-28T14:56:27.275156Z",
+  "count": 231,
   "jobs": [
+    {
+      "id": "sr-744000158285779",
+      "title": "Lead UI Artist [Freelance]",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000158285779",
+      "created": "2026-10-28T12:48:35.922Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000158284679",
+      "title": "Lead UI Artist",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000158284679",
+      "created": "2026-10-28T12:45:20.873Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000158269799",
+      "title": "Lead Game Designer (PC/Console/Mobile) ",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000158269799",
+      "created": "2026-10-28T11:35:09.013Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000158232289",
+      "title": "3D Animator (Middle/Senior)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000158232289",
+      "created": "2026-10-28T08:46:53.519Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000158230061",
+      "title": "2D Artist (Middle/Senior)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000158230061",
+      "created": "2026-10-28T08:37:57.929Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000158215559",
+      "title": "Game Designer (Middle/Senior)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000158215559",
+      "created": "2026-10-28T07:01:24.064Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000158204479",
       "title": "3D Environment Artist (Middle/Senior)",
@@ -159,58 +237,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000158023748",
-      "title": "3D Animator (Middle/Senior)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000158023748",
-      "created": "2026-10-27T11:36:29.602Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000158020149",
-      "title": "Lead Game Designer (PC/Console/Mobile) ",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000158020149",
-      "created": "2026-10-27T11:22:09.885Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000158019099",
-      "title": "2D Artist (Middle/Senior)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000158019099",
-      "created": "2026-10-27T11:16:24.994Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000158013719",
-      "title": "Lead UI Artist",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000158013719",
-      "created": "2026-10-27T10:50:28.889Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "gh-8327262",
       "title": "Production Coordinator",
       "company": "Sid Lee",
@@ -354,6 +380,19 @@
       "source": "Rodeo FX"
     },
     {
+      "id": "sr-744000157899079",
+      "title": "Crowd Simulation Supervisor",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000157899079",
+      "created": "2026-10-26T19:27:07.583Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
       "id": "sr-744000157898193",
       "title": "Superviseur.e de composition d’images",
       "company": "Rodeo FX",
@@ -402,6 +441,19 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000157854061",
       "created": "2026-10-26T15:51:56.256Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000157805629",
+      "title": "Senior Modeling Artist - Permanent",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000157805629",
+      "created": "2026-10-26T12:48:07.966Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -601,19 +653,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000156850529",
-      "title": "Lead Product Manager - Asphalt Legends",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000156850529",
-      "created": "2026-10-21T16:27:27.779Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "lv-95b5ba7c-1aba-4593-8b2d-91abf3c28cfd",
       "title": "Assistant.e chef.fe de gréeur - L'ÉVEIL D'UTOPIA | Assistant Head of Rigging - FINDING UTOPIA",
       "company": "Cirque du Soleil",
@@ -742,19 +781,6 @@
       "created": "2026-10-16T13:42:22.616Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000155948244",
-      "title": "Senior UI Artist [Freelance]",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000155948244",
-      "created": "2026-10-16T09:20:18.858Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000155935130",
@@ -922,6 +948,19 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000155739956",
       "created": "2026-10-15T12:10:22.135Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000155619417",
+      "title": "Superviseur.e de simulation de foule",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000155619417",
+      "created": "2026-10-14T22:20:50.503Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -1548,6 +1587,19 @@
       "created": "2026-10-01T13:31:08-04:00",
       "category": "Agence",
       "source": "Sid Lee"
+    },
+    {
+      "id": "sr-744000152706559",
+      "title": "Artiste senior en modélisation 3D - Position Permanente",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000152706559",
+      "created": "2026-09-30T14:48:12.529Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000152549019",
