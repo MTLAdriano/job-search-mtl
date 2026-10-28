@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-27T20:29:45.240854Z",
-  "count": 217,
+  "updated": "2026-10-28T04:45:07.879050Z",
+  "count": 227,
   "jobs": [
+    {
+      "id": "sr-744000158204479",
+      "title": "3D Environment Artist (Middle/Senior)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000158204479",
+      "created": "2026-10-28T04:41:49.029Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000158202699",
+      "title": "3D Character Artist (Middle/Senior)",
+      "company": "Gameloft Montreal",
+      "location": "Ho Chi Minh City, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000158202699",
+      "created": "2026-10-28T04:02:18.334Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000158130787",
       "title": "3D AI Generalist - 6 Months Contract",
@@ -40,6 +66,19 @@
       "created": "2026-10-27T15:51:20.218000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000158056189",
+      "title": "Lead Product Manager",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000158056189",
+      "created": "2026-10-27T14:03:29.300Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-1d2a20a2-2973-4e13-afee-2239d403b8e3",
@@ -261,6 +300,110 @@
       "created": "2026-10-26T21:39:56.453000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000157905439",
+      "title": "Artiste Set Surfacing ",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000157905439",
+      "created": "2026-10-26T20:24:25.252Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000157904659",
+      "title": " Set Surfacing Artist",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000157904659",
+      "created": "2026-10-26T20:19:42.881Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000157903279",
+      "title": "Character Surfacing Artist",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000157903279",
+      "created": "2026-10-26T20:06:30.569Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000157903188",
+      "title": "Character Surfacing Artist",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000157903188",
+      "created": "2026-10-26T20:05:40.461Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000157898193",
+      "title": "Superviseur.e de composition d’images",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000157898193",
+      "created": "2026-10-26T19:22:15.668Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000157898089",
+      "title": "Compositing Supervisor",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000157898089",
+      "created": "2026-10-26T19:21:49.250Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000157855739",
+      "title": "Artiste éclairagiste - Contrat Temporaire",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000157855739",
+      "created": "2026-10-26T15:52:25.685Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000157854061",
+      "title": "Lighting Artist - Temporary Contract",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000157854061",
+      "created": "2026-10-26T15:51:56.256Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000157715899",
@@ -2120,19 +2263,6 @@
       "created": "2026-08-20T17:23:04.910Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000144515801",
-      "title": "DevOps Software Engineer",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000144515801",
-      "created": "2026-08-20T10:28:21.515Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000144514822",
