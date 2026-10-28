@@ -1,7 +1,59 @@
 {
-  "updated": "2026-10-28T14:56:27.275156Z",
-  "count": 231,
+  "updated": "2026-10-28T20:51:08.829191Z",
+  "count": 234,
   "jobs": [
+    {
+      "id": "sr-744000158374311",
+      "title": "Artiste d'effets de créatures - contrat",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000158374311",
+      "created": "2026-10-28T19:25:42.019Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000158372860",
+      "title": "Creature FX Artist - 1 Month Contract",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000158372860",
+      "created": "2026-10-28T19:23:05.030Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000158365616",
+      "title": "Avocat(e) - Lawyer",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000158365616",
+      "created": "2026-10-28T18:40:49.720Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "lv-4df23819-c3c1-4d12-a7ae-6f65026cab9f",
+      "title": "Assistant.e chef.fe Éclairage - ALEGRIA | Assistant Head of Lighting - ALEGRIA",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Adjoint au chef de département, Éclairage – Spectacle en tournée\nÉclairage de scène\nPoste à temps plein \n \n \n* Veuillez noter que ce poste implique de participer à des tournées internationales à temps plein et de travailler à l’étranger. *\n \n \nNous recherchons un chef de département adjoint (« AHOD ») en éclairage pour soutenir les opérations d’éclairage et de projection vidéo de l’un des spectacles en tournée du Cirque du Soleil. Relevant du directeur technique et travaillant sous la supervisio",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/4df23819-c3c1-4d12-a7ae-6f65026cab9f",
+      "created": "2026-10-28T16:05:12.520000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000158285779",
       "title": "Lead UI Artist [Freelance]",
@@ -2417,19 +2469,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/b96bde7b-503b-412a-8c8f-6faeb8ef569b",
       "created": "2026-08-10T23:13:20.202000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-cc2f0b88-7631-4a0e-a272-cd6cc7f4acd0",
-      "title": "Adjoint exécutif - Blue Man Group et VStar Entertainment | Executive Assistant - Blue Man Group & VStar Entertainment",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Adjoint exécutif – Bureau de la Présidente Blue Man Group et VStar Entertainment\nSoutien administratif\nPoste à temps plein\n \n \nÀ propos de Blue Man Group\n \nBlue Man Group est un phénomène mondial du divertissement, reconnu pour ses productions théâtrales primées, ses personnages iconiques et son exploration créative sans limites. Détenu et exploité par le Groupe de divertissement Cirque du Soleil, Blue Man Group offre des célébrations euphoriques de la connexion humaine à travers l'art, la musiq",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/cc2f0b88-7631-4a0e-a272-cd6cc7f4acd0",
-      "created": "2026-08-07T15:58:55.590000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
