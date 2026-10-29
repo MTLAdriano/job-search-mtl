@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T15:01:55.080695Z",
-  "count": 236,
+  "updated": "2026-10-29T20:56:10.134158Z",
+  "count": 231,
   "jobs": [
     {
       "id": "sr-744000158523709",
@@ -523,32 +523,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000157855739",
-      "title": "Artiste éclairagiste - Contrat Temporaire",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000157855739",
-      "created": "2026-10-26T15:52:25.685Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000157854061",
-      "title": "Lighting Artist - Temporary Contract",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000157854061",
-      "created": "2026-10-26T15:51:56.256Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000157805629",
       "title": "Senior Modeling Artist - Permanent",
       "company": "Rodeo FX",
@@ -846,32 +820,6 @@
       "created": "2026-10-20T08:46:07.859Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000156070189",
-      "title": "Production Manager",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000156070189",
-      "created": "2026-10-16T19:32:41.443Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000156069899",
-      "title": "Production Manager",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000156069899",
-      "created": "2026-10-16T19:30:30.656Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000156003059",
@@ -1561,32 +1509,6 @@
       "created": "2026-10-02T20:46:17.063000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000153260659",
-      "title": "Assistant.e de production VFX IO - Contrat Permanent",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000153260659",
-      "created": "2026-10-02T19:24:38.370Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000153260599",
-      "title": "VFX Production Assistant IO - Permanent contract",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000153260599",
-      "created": "2026-10-02T19:24:19.640Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "lv-1d063c18-b604-4b43-b23c-afc6f8b49fb9",
@@ -2430,6 +2352,19 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/783b41e5-3d26-4c36-bb8a-52b7e78ce537",
       "created": "2026-08-19T03:24:51Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-47e03d4e-c58f-472a-b4bf-ba28d7b5ed95",
+      "title": "Vice-président(e), Marketing & Billetterie – Spectacles internationaux et Amériques | Vice President Marketing & Ticketing – International & Americas Shows",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "Vice-président(e), Marketing & billetterie – Spectacles internationaux et Amériques (tournées et résidences)\nVentes, Marketing et Communications\nTemps Plein\n \n \nLieu : Montréal (siège social), Londres (pôle international) ou Las Vegas (pôle Amériques)\nRelève de : Chef de la direction marketing (CMO)\nPortée : Marketing des spectacles et génération de la demande dans tous les marchés internationaux (Europe, Royaume-Uni, Moyen-Orient, Afrique, Asie-Pacifique et Océanie) ainsi que dans les Amériques",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/47e03d4e-c58f-472a-b4bf-ba28d7b5ed95",
+      "created": "2026-08-14T19:28:10.724000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
