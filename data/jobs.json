@@ -1,7 +1,59 @@
 {
-  "updated": "2026-10-29T20:56:10.134158Z",
-  "count": 231,
+  "updated": "2026-10-30T04:56:39.603542Z",
+  "count": 233,
   "jobs": [
+    {
+      "id": "sr-744000158655881",
+      "title": "3D Artist",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000158655881",
+      "created": "2026-10-30T02:14:53.627Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000158655929",
+      "title": "3D Game Artist",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000158655929",
+      "created": "2026-10-30T02:14:12.972Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000158655704",
+      "title": "3D Model Artist ",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000158655704",
+      "created": "2026-10-30T02:12:19.246Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000158655739",
+      "title": "3D Graphic Artist",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000158655739",
+      "created": "2026-10-30T02:10:13.268Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000158523709",
       "title": "Artiste Animateur Senior - Contrat Temporaire",
@@ -534,19 +586,6 @@
       "created": "2026-10-26T12:48:07.966Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000157715899",
-      "title": "3D Graphic Artist",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000157715899",
-      "created": "2026-10-26T02:46:02.022Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "gh-8282479",
@@ -1314,19 +1353,6 @@
       "created": "2026-10-06T22:15:43.642Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "lv-0af3e9d7-6ba9-4669-a8c7-2dc43a004846",
-      "title": "Stage Manager - \"O\"",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/0af3e9d7-6ba9-4669-a8c7-2dc43a004846",
-      "created": "2026-10-06T20:21:09.355000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000153841857",
