@@ -1,7 +1,98 @@
 {
-  "updated": "2026-10-30T14:54:54.753776Z",
-  "count": 232,
+  "updated": "2026-10-30T20:31:51.101121Z",
+  "count": 241,
   "jobs": [
+    {
+      "id": "lv-3ccbf2e9-6a72-47a6-b7d5-dbdcaf7476cb",
+      "title": "Senior Marketing Manager - ʻAuana",
+      "company": "Cirque du Soleil",
+      "location": "Honolulu, HI",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/3ccbf2e9-6a72-47a6-b7d5-dbdcaf7476cb",
+      "created": "2026-10-30T20:01:05.901000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-667fe040-1be0-4238-803c-0410b9989d6b",
+      "title": "On-Call Rigging Technician - KÀ",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n___________________________________________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/667fe040-1be0-4238-803c-0410b9989d6b",
+      "created": "2026-10-30T19:16:46.573000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-012f0bc3-c773-4f3a-a2f3-3820027f9593",
+      "title": "Coordonateur.trice de Production | Production Coordinator",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Coordonnateur.trice de production\nCréations et productions\nÀ propos de nous\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire.\nNotre mission\nDepuis 1984, le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l'imaginaire et surprendre les spectateurs ! L'innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos product",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/012f0bc3-c773-4f3a-a2f3-3820027f9593",
+      "created": "2026-10-30T18:27:07.054000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-d53d6304-1f4f-4f1e-9d5c-6ae9962f1e5c",
+      "title": "Technicien en gréage - KURIOS | Rigging Technician - KURIOS",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Technicien en gréage – Spectacle en tournée\nGréeur acrobatique\n \n*Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste.*\n \nNous recherchons un technicien en gréage pour rejoindre l’un des spectacles en tournée ",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/d53d6304-1f4f-4f1e-9d5c-6ae9962f1e5c",
+      "created": "2026-10-30T17:16:58.192000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-6e4294df-c5ea-4f56-b95d-5e03e59f67d5",
+      "title": "Technicien.ne accessoires - OVO | Props Technician - OVO",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Technicien.ne accessoires - Spectacle de tournée\nMachiniste de scène et accessoires \n \n* Il s'agit d'un poste à temps plein comportant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d'une compagnie de tournée internationale où l'anglais est la langue de travail de la production. La maîtrise de l'anglais est requise pour exercer les fonctions de ce poste. * \n \nNous sommes à la recherche d’un(e) technicien.ne accessoires pour se joindre à l’éq",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/6e4294df-c5ea-4f56-b95d-5e03e59f67d5",
+      "created": "2026-10-30T17:14:40.336000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000158778010",
+      "title": "HR Coordinator",
+      "company": "Rodeo FX",
+      "location": "Bengaluru, in",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000158778010",
+      "created": "2026-10-30T15:28:52.133Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000158780129",
+      "title": "Human Resources Department Manager",
+      "company": "Rodeo FX",
+      "location": "Bengaluru, in",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000158780129",
+      "created": "2026-10-30T15:27:55.404Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000158764560",
       "title": "Senior Animation Artist - Temporary Contract",
@@ -27,6 +118,19 @@
       "created": "2026-10-30T14:01:00.854Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
+    },
+    {
+      "id": "gh-8337488",
+      "title": "Service Desk L1 Support Agent",
+      "company": "Sid Lee",
+      "location": "Toronto, Ontario, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8337488",
+      "created": "2026-10-30T13:55:13-04:00",
+      "category": "Agence",
+      "source": "Sid Lee"
     },
     {
       "id": "sr-744000158745579",
@@ -846,6 +950,19 @@
       "created": "2026-10-20T08:46:07.859Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
+    },
+    {
+      "id": "lv-e2bf9371-7de8-4f8b-b821-aea7c5090f23",
+      "title": "Director of Commercial Finance - Americas",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/e2bf9371-7de8-4f8b-b821-aea7c5090f23",
+      "created": "2026-10-19T20:29:53.400000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000156003059",
