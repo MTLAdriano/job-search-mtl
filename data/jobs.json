@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-30T04:56:39.603542Z",
-  "count": 233,
+  "updated": "2026-10-30T14:54:54.753776Z",
+  "count": 232,
   "jobs": [
+    {
+      "id": "sr-744000158764560",
+      "title": "Senior Animation Artist - Temporary Contract",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000158764560",
+      "created": "2026-10-30T14:39:51.090Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000158751720",
+      "title": "Python Software Developer",
+      "company": "Rodeo FX",
+      "location": "Bengaluru, in",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000158751720",
+      "created": "2026-10-30T14:01:00.854Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000158745579",
+      "title": "Lead Game Designer (PC/Console/Mobile) ",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000158745579",
+      "created": "2026-10-30T13:32:01.637Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000158655881",
       "title": "3D Artist",
@@ -64,19 +103,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000158523709",
       "created": "2026-10-29T13:46:55.876Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000158522865",
-      "title": "Senior Animation Artist - Temporary Contract",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000158522865",
-      "created": "2026-10-29T13:46:30.342Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -194,19 +220,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000158284679",
       "created": "2026-10-28T12:45:20.873Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000158269799",
-      "title": "Lead Game Designer (PC/Console/Mobile) ",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000158269799",
-      "created": "2026-10-28T11:35:09.013Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -601,19 +614,6 @@
       "source": "Sid Lee"
     },
     {
-      "id": "sr-744000157206179",
-      "title": "Pigiste artiste Animateur.trice Senior",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000157206179",
-      "created": "2026-10-22T18:20:17.022Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000157204897",
       "title": "FX Artist - Mid and Senior - Multiple Positions",
       "company": "Rodeo FX",
@@ -636,19 +636,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000157201791",
       "created": "2026-10-22T18:14:34.383Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000157203024",
-      "title": "Animation Artist Freelance",
-      "company": "Rodeo FX",
-      "location": "Télétravail / Remote, xx",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000157203024",
-      "created": "2026-10-22T18:14:01.893Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
