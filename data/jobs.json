@@ -1,7 +1,111 @@
 {
-  "updated": "2026-11-02T05:05:03.065752Z",
-  "count": 240,
+  "updated": "2026-11-02T17:59:14.310945Z",
+  "count": 243,
   "jobs": [
+    {
+      "id": "sr-744000159202019",
+      "title": "Associate VFX Producer",
+      "company": "Rodeo FX",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000159202019",
+      "created": "2026-11-02T16:56:14.754Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000159188309",
+      "title": "Artiste d'effets de creatures - Senior - Contrat temporaire",
+      "company": "Rodeo FX",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000159188309",
+      "created": "2026-11-02T16:07:29.014Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000159186144",
+      "title": "Creature FX Artist - Senior -Temporary contract",
+      "company": "Rodeo FX",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000159186144",
+      "created": "2026-11-02T16:06:54.790Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000159141868",
+      "title": "C++ Game Developer ",
+      "company": "Gameloft Montreal",
+      "location": "Lviv, ua",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000159141868",
+      "created": "2026-11-02T13:32:34.486Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000159128019",
+      "title": "Unity Game Developer",
+      "company": "Gameloft Montreal",
+      "location": "Lviv, ua",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000159128019",
+      "created": "2026-11-02T12:48:27.860Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000159078472",
+      "title": "3D Artist (Junior/Middle)",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000159078472",
+      "created": "2026-11-02T09:19:29.043Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000159082004",
+      "title": "3D Generalist Artist (Junior/Middle)",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000159082004",
+      "created": "2026-11-02T09:17:06.097Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000159069829",
+      "title": "3D Game Model Artist",
+      "company": "Gameloft Montreal",
+      "location": "Hanoi, vn",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000159069829",
+      "created": "2026-11-02T08:19:47.098Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-3ccbf2e9-6a72-47a6-b7d5-dbdcaf7476cb",
       "title": "Senior Marketing Manager - ʻAuana",
@@ -68,32 +172,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000158778010",
-      "title": "HR Coordinator",
-      "company": "Rodeo FX",
-      "location": "Bengaluru, in",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000158778010",
-      "created": "2026-10-30T15:28:52.133Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000158780129",
-      "title": "Human Resources Department Manager",
-      "company": "Rodeo FX",
-      "location": "Bengaluru, in",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000158780129",
-      "created": "2026-10-30T15:27:55.404Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000158764560",
       "title": "Senior Animation Artist - Temporary Contract",
       "company": "Rodeo FX",
@@ -146,19 +224,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000158655881",
-      "title": "3D Artist",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000158655881",
-      "created": "2026-10-30T02:14:53.627Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000158655929",
       "title": "3D Game Artist",
       "company": "Gameloft Montreal",
@@ -181,19 +246,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000158655704",
       "created": "2026-10-30T02:12:19.246Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000158655739",
-      "title": "3D Graphic Artist",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000158655739",
-      "created": "2026-10-30T02:10:13.268Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1795,19 +1847,6 @@
       "created": "2026-09-29T06:08:30.875Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000152315164",
-      "title": "3D Generalist Artist",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000152315164",
-      "created": "2026-09-29T01:52:46.558Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000152300130",
