@@ -1,7 +1,33 @@
 {
-  "updated": "2026-11-03T11:43:11.186858Z",
-  "count": 245,
+  "updated": "2026-11-03T19:15:19.397503Z",
+  "count": 235,
   "jobs": [
+    {
+      "id": "sr-744000159399443",
+      "title": "Java Developer - BI",
+      "company": "Gameloft Montreal",
+      "location": "Bucharest, ro",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000159399443",
+      "created": "2026-11-03T14:21:14.667Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "gh-8337488",
+      "title": "Service Desk L1 Support Agent",
+      "company": "Sid Lee",
+      "location": "Toronto, Ontario, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8337488",
+      "created": "2026-11-03T11:46:31-05:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
     {
       "id": "sr-744000159361159",
       "title": "Narrative Designer (DISNEY DREAMLIGHT VALLEY)",
@@ -69,7 +95,7 @@
     },
     {
       "id": "lv-979643ca-8095-419f-bd4e-38d68c5ed229",
-      "title": "Technicien.ne éclairage | Lighting Technician - OVO",
+      "title": "Technicien.ne éclairage - OVO | Lighting Technician - OVO",
       "company": "Cirque du Soleil",
       "location": "*En tournée | On tour",
       "description": "Technicien en éclairage - Spectacle en tournée\nÉclairage de scène\n \n* Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste*\n \nNous recherchons un technicien en éclairage pour rejoindre l’une des tournées du Cir",
@@ -131,19 +157,6 @@
       "created": "2026-11-02T19:31:20.833000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000159202019",
-      "title": "Associate VFX Producer",
-      "company": "Rodeo FX",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000159202019",
-      "created": "2026-11-02T16:56:14.754Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000159188309",
@@ -313,19 +326,6 @@
       "created": "2026-10-30T14:39:51.090Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "gh-8337488",
-      "title": "Service Desk L1 Support Agent",
-      "company": "Sid Lee",
-      "location": "Toronto, Ontario, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8337488",
-      "created": "2026-10-30T13:55:13-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "sr-744000158655929",
@@ -1147,19 +1147,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000155854159",
-      "title": "Texture Lookdev Artist - Senior",
-      "company": "Rodeo FX",
-      "location": "Bengaluru, in",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000155854159",
-      "created": "2026-10-15T21:13:09.882Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000155854089",
       "title": "Asset Supervisor",
       "company": "Rodeo FX",
@@ -1290,19 +1277,6 @@
       "source": "Sid Lee"
     },
     {
-      "id": "gh-8282238",
-      "title": "Chargé·e de projet numérique, soutien et maintenance - Digital Project Manager Support ",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8282238",
-      "created": "2026-10-14T15:15:47-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "lv-3462486c-f14b-49ba-ba92-90bb1a94c421",
       "title": "Chef d’équipe – Comptes payables | Team Lead – Accounts Payable",
       "company": "Cirque du Soleil",
@@ -1403,19 +1377,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000154644209",
       "created": "2026-10-09T10:38:55.748Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000154631631",
-      "title": "Java Developer - BI",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000154631631",
-      "created": "2026-10-09T09:45:04.099Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1624,19 +1585,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/b7f529e4-187f-4e35-b252-e94d8ca5dcff",
       "created": "2026-10-05T23:39:01.236000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-49f7575b-af0e-4904-b99e-60fef686e2f0",
-      "title": "Gestionnaire de projets – Équipements événementiels | Project Manager – Events Equipment",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Gestionnaire de projets – Équipements événementiels\nSite et Infrastructure\nPoste Temporaire (12 mois)\n \n \nNous avons une place pour celles et ceux qui ont un goût distinct pour assurer le bon déroulement des opérations au profit de nos spectacles et événements, pour penser des produits remarquables, pour mettre leur ingéniosité au service de leur équipe, en plus de contribuer à valoriser leur expertise et développer des pratiques exceptionnelles. Le Groupe Cirque du Soleil mise sur une approche ",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/49f7575b-af0e-4904-b99e-60fef686e2f0",
-      "created": "2026-10-05T16:50:23.253000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
@@ -1940,19 +1888,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000151087189",
-      "title": "VFX Production Assistant IO - Senior",
-      "company": "Rodeo FX",
-      "location": "Bengaluru, in",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000151087189",
-      "created": "2026-09-22T16:20:04.093Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000151071149",
       "title": "[Dungeons & Dragons PC-Console] Producteur(trice) - Producer",
       "company": "Gameloft Montreal",
@@ -2003,19 +1938,6 @@
       "created": "2026-09-21T19:10:44.137000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000150743964",
-      "title": "Responsable des Communications - Communication Manager",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000150743964",
-      "created": "2026-09-21T16:20:59.119Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000150674086",
@@ -2174,19 +2096,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "sr-744000149059714",
-      "title": "[Disney Dreamlight Valley] Producteur(trice) Senior - Senior Producer",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000149059714",
-      "created": "2026-09-11T16:00:58.999Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000148872519",
       "title": "Data Scientist",
       "company": "Gameloft Montreal",
@@ -2250,19 +2159,6 @@
       "created": "2026-09-03T14:37:01.268000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000147270279",
-      "title": "Layout Artist",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000147270279",
-      "created": "2026-09-03T14:20:04.715Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "lv-90d9962e-bbfa-4f77-8c42-9747eb3b46bf",
@@ -2447,19 +2343,6 @@
       "source": "Sid Lee"
     },
     {
-      "id": "gh-8097059",
-      "title": "Conseiller·ère – Account Executive",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8097059",
-      "created": "2026-08-28T13:58:21-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "gh-8023709",
       "title": "Développeur.euse Full stack - Adobe Experience Manager (AEM) ",
       "company": "Sid Lee",
@@ -2564,19 +2447,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000143547729",
-      "title": "Artiste de maquette",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000143547729",
-      "created": "2026-08-14T15:32:17.129Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000143396449",
       "title": "Post-Production Coordinator - Expression of interest",
       "company": "Rodeo FX",
@@ -2669,7 +2539,7 @@
     },
     {
       "id": "lv-9e49b488-3ac2-44c6-a934-f5d3f4db1303",
-      "title": "On-Call Front of House Staff – Blue Man Group Orlando",
+      "title": "Front of House Staff – Blue Man Group Orlando",
       "company": "Cirque du Soleil",
       "location": "Orlando, FL",
       "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________________________________\n",
