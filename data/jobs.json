@@ -1,7 +1,59 @@
 {
-  "updated": "2026-11-03T02:04:13.229311Z",
-  "count": 248,
+  "updated": "2026-11-03T11:43:11.186858Z",
+  "count": 245,
   "jobs": [
+    {
+      "id": "sr-744000159361159",
+      "title": "Narrative Designer (DISNEY DREAMLIGHT VALLEY)",
+      "company": "Gameloft Montreal",
+      "location": "Lviv, ua",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000159361159",
+      "created": "2026-11-03T11:28:07.680Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000159308135",
+      "title": "Lead Game Designer (PC/Console/Mobile) ",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000159308135",
+      "created": "2026-11-03T07:24:23.568Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000159307389",
+      "title": "Lead UI Artist",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000159307389",
+      "created": "2026-11-03T07:17:09.562Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000159297799",
+      "title": "Unreal Developer Intern",
+      "company": "Gameloft Montreal",
+      "location": "Yogyakarta, id",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000159297799",
+      "created": "2026-11-03T05:41:57.184Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-757cf509-efa3-4799-9e0c-0c8f9fd73f66",
       "title": "Régisseur - ECHO | Stage Manager - ECHO",
@@ -69,10 +121,10 @@
     },
     {
       "id": "lv-2590f4c7-4515-4a9a-aa7d-75f10e537bbf",
-      "title": "Wardrobe Technician – ALIZÉ",
+      "title": "Wardrobe Technician - ALIZÉ",
       "company": "Cirque du Soleil",
       "location": "Berlin",
-      "description": "Wardrobe Technician – ALIZÉ – Resident Shows\nCostumes and Props\nFull-Time position\n \nWe are looking for a Wardrobe Technician whose role, as a part of the Wardrobe team, will be to ensure costume elements are well maintained and the smooth running of shows.  Under the leadership of the HOD of Wardrobe, all team members are expected to support the show and their co-workers in a positive and professional manner. All duties are to be performed in accordance with department and property policies, pr",
+      "description": "Wardrobe Technician – ALIZÉ\n \nCostumes and Props\n \n \nWe are looking for a Wardrobe Technician whose role, as a part of the Wardrobe team, will be to ensure costume elements are well maintained and the smooth running of shows.  Under the leadership of the HOD of Wardrobe, all team members are expected to support the show and their co-workers in a positive and professional manner. All duties are to be performed in accordance with department and property policies, practices, and procedures. The ide",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/2590f4c7-4515-4a9a-aa7d-75f10e537bbf",
@@ -276,19 +328,6 @@
       "source": "Sid Lee"
     },
     {
-      "id": "sr-744000158745579",
-      "title": "Lead Game Designer (PC/Console/Mobile) ",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000158745579",
-      "created": "2026-10-30T13:32:01.637Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000158655929",
       "title": "3D Game Artist",
       "company": "Gameloft Montreal",
@@ -428,19 +467,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000158285779",
       "created": "2026-10-28T12:48:35.922Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000158284679",
-      "title": "Lead UI Artist",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000158284679",
-      "created": "2026-10-28T12:45:20.873Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -965,32 +991,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "lv-90472bf9-08f1-4a74-a88b-1310d96cae83",
-      "title": "Assistant.e chef.fe Automatisation - L'ÉVEIL D'UTOPIA | Assistant Head of Automation - FINDING UTOPIA",
-      "company": "Cirque du Soleil",
-      "location": "*En tournée | On tour",
-      "description": "Assistant chef de département, Automatisation - Spectacle en tournée\nAutomatisation de Scène\n* Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste.*\n \nJoignez-vous à une toute nouvelle production originale sou",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/90472bf9-08f1-4a74-a88b-1310d96cae83",
-      "created": "2026-10-21T16:39:17.174000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-95b5ba7c-1aba-4593-8b2d-91abf3c28cfd",
-      "title": "Assistant.e chef.fe de gréeur - L'ÉVEIL D'UTOPIA | Assistant Head of Rigging - FINDING UTOPIA",
-      "company": "Cirque du Soleil",
-      "location": "*En tournée | On tour",
-      "description": "Chef adjoint du département, gréage - Spectacle en tournée\nGréeur acrobatique\n\n* Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste.*\nJoignez-vous à une toute nouvelle production originale sous chapiteau du C",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/95b5ba7c-1aba-4593-8b2d-91abf3c28cfd",
-      "created": "2026-10-21T16:00:06.980000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "sr-744000156826952",
       "title": "Senior Online/Network Programmer",
       "company": "Gameloft Montreal",
@@ -1368,32 +1368,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000154931669",
-      "title": "IT Helpdesk Intern",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000154931669",
-      "created": "2026-10-12T06:49:49.925Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000154931499",
-      "title": "IT Intern (6 months)",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000154931499",
-      "created": "2026-10-12T06:49:13.669Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "lv-0f678cf3-7023-4795-b76f-9847ddf45fa8",
       "title": "On-Call Rigging Technician - \"O\"",
       "company": "Cirque du Soleil",
@@ -1481,19 +1455,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000154412309",
       "created": "2026-10-08T11:25:30.284Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000154397659",
-      "title": "IT - Hardware Intern (6 months)",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000154397659",
-      "created": "2026-10-08T10:10:30.305Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
