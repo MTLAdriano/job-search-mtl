@@ -1,7 +1,72 @@
 {
-  "updated": "2026-11-04T00:27:52.838612Z",
+  "updated": "2026-11-04T11:55:54.666287Z",
   "count": 237,
   "jobs": [
+    {
+      "id": "sr-744000159604587",
+      "title": "2D Artist",
+      "company": "Gameloft Montreal",
+      "location": "Lviv, ua",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000159604587",
+      "created": "2026-11-04T11:26:14.388Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000159606824",
+      "title": "Senior Game Developer (C++)",
+      "company": "Gameloft Montreal",
+      "location": "Lviv, ua",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000159606824",
+      "created": "2026-11-04T11:25:47.675Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000159608059",
+      "title": "Unity Game Developer",
+      "company": "Gameloft Montreal",
+      "location": "Lviv, ua",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000159608059",
+      "created": "2026-11-04T11:25:16.022Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000159607225",
+      "title": "C++ Game Developer ",
+      "company": "Gameloft Montreal",
+      "location": "Lviv, ua",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000159607225",
+      "created": "2026-11-04T11:24:14.251Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000159607510",
+      "title": "Narrative Designer (DISNEY DREAMLIGHT VALLEY)",
+      "company": "Gameloft Montreal",
+      "location": "Lviv, ua",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000159607510",
+      "created": "2026-11-04T11:23:31.984Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-7dfe9cc6-7b0f-47cc-98dc-e45c7111a39b",
       "title": "Technicien.ne, costumes - KURIOS | Wardrobe Technician - KURIOS",
@@ -79,19 +144,6 @@
       "created": "2026-11-03T11:46:31-05:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000159361159",
-      "title": "Narrative Designer (DISNEY DREAMLIGHT VALLEY)",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000159361159",
-      "created": "2026-11-03T11:28:07.680Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000159308135",
@@ -235,32 +287,6 @@
       "created": "2026-11-02T16:06:54.790Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000159141868",
-      "title": "C++ Game Developer ",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000159141868",
-      "created": "2026-11-02T13:32:34.486Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000159128019",
-      "title": "Unity Game Developer",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000159128019",
-      "created": "2026-11-02T12:48:27.860Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000159078472",
@@ -1355,19 +1381,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000155452071",
-      "title": "Senior Game Developer (C++)",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000155452071",
-      "created": "2026-10-14T09:11:08.696Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000155431629",
       "title": "Division Principal Game Programmer (Unreal Engine, AI)",
       "company": "Gameloft Montreal",
@@ -1509,19 +1522,6 @@
       "created": "2026-10-07T19:33:26.749Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000154043604",
-      "title": "2D Artist",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000154043604",
-      "created": "2026-10-07T08:51:57.135Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000154035310",
