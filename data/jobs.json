@@ -1,7 +1,59 @@
 {
-  "updated": "2026-11-03T19:15:19.397503Z",
-  "count": 235,
+  "updated": "2026-11-04T00:27:52.838612Z",
+  "count": 237,
   "jobs": [
+    {
+      "id": "lv-7dfe9cc6-7b0f-47cc-98dc-e45c7111a39b",
+      "title": "Technicien.ne, costumes - KURIOS | Wardrobe Technician - KURIOS",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Technicien.ne, costumes - Spectacle en tournée\nCostumes, accessoires, coiffure et maquillage\n \n* Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste.*\n \nNous recherchons un(e) Technicien.ne, costumes pour rejo",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/7dfe9cc6-7b0f-47cc-98dc-e45c7111a39b",
+      "created": "2026-11-03T22:55:24.786000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000159505031",
+      "title": "DFX Supervisor",
+      "company": "Rodeo FX",
+      "location": "Bengaluru, in",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000159505031",
+      "created": "2026-11-03T22:04:52.925Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "lv-9ccfe4ea-9671-459b-a078-11cd6a09bded",
+      "title": "Seasonal Front of House Staff - Blue Man Group",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/9ccfe4ea-9671-459b-a078-11cd6a09bded",
+      "created": "2026-11-03T21:32:42.802000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-8abe4ddc-2b29-4ec7-a4a4-599e86674614",
+      "title": "Technicien en Gréeur - OVO | Rigging Technician - OVO",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Technicien en gréage – Spectacle en tournée \nGréeur acrobatique \n \n \n*Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste.* \n \n \nNous recherchons un technicien en gréage pour rejoindre l’un des spectacles en t",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/8abe4ddc-2b29-4ec7-a4a4-599e86674614",
+      "created": "2026-11-03T15:13:03.093000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000159399443",
       "title": "Java Developer - BI",
@@ -443,6 +495,19 @@
       "created": "2026-10-28T18:40:49.720Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
+    },
+    {
+      "id": "lv-a534f875-a4a7-4628-9727-a207b74543d0",
+      "title": "Coordonnateur.trice - Gestion Matières | Materials Management Coordinator",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Coordonnateur.trice - Gestion des matières\nCostumes et accessories\nÀ propos de nous\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire.\nNotre mission\nDepuis 1984, le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l'imaginaire et surprendre les spectateurs ! L'innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/a534f875-a4a7-4628-9727-a207b74543d0",
+      "created": "2026-10-28T18:22:16.843000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-4df23819-c3c1-4d12-a7ae-6f65026cab9f",
@@ -1992,19 +2057,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000150435899",
-      "title": "Compositing Artist - Senior",
-      "company": "Rodeo FX",
-      "location": "Bengaluru, in",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000150435899",
-      "created": "2026-09-18T18:12:12.859Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000150435360",
       "title": "Compositing Supervisor",
       "company": "Rodeo FX",
@@ -2014,19 +2066,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000150435360",
       "created": "2026-09-18T18:11:46.771Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000150433324",
-      "title": "Lighting Artist - Senior",
-      "company": "Rodeo FX",
-      "location": "Bengaluru, in",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000150433324",
-      "created": "2026-09-18T18:00:24.021Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -2536,19 +2575,6 @@
       "created": "2026-07-30T04:43:29.198Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "lv-9e49b488-3ac2-44c6-a934-f5d3f4db1303",
-      "title": "Front of House Staff – Blue Man Group Orlando",
-      "company": "Cirque du Soleil",
-      "location": "Orlando, FL",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_____________________________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/9e49b488-3ac2-44c6-a934-f5d3f4db1303",
-      "created": "2026-07-18T22:04:02.983000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000138023389",
