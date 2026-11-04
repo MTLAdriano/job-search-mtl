@@ -1,17 +1,43 @@
 {
-  "updated": "2026-11-04T11:55:54.666287Z",
-  "count": 237,
+  "updated": "2026-11-04T19:34:38.636374Z",
+  "count": 235,
   "jobs": [
     {
-      "id": "sr-744000159604587",
+      "id": "sr-744000159712339",
+      "title": "[Disney Dreamlight Valley PC/Console] Analyste de données sénior - Senior Data Analyst ",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000159712339",
+      "created": "2026-11-04T19:21:31.551Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000159651229",
       "title": "2D Artist",
       "company": "Gameloft Montreal",
       "location": "Lviv, ua",
       "description": "",
       "salary_min": null,
       "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000159604587",
-      "created": "2026-11-04T11:26:14.388Z",
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000159651229",
+      "created": "2026-11-04T14:42:57.739Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000159624374",
+      "title": "Lead Product Manager",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000159624374",
+      "created": "2026-11-04T12:58:27.090Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -103,6 +129,19 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/9ccfe4ea-9671-459b-a078-11cd6a09bded",
       "created": "2026-11-03T21:32:42.802000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-ae5d9c09-beba-450f-89d2-fece34d4225e",
+      "title": "Musical Instrument Technician (MIT) - Blue Man Group",
+      "company": "Cirque du Soleil",
+      "location": "Las Vegas, NV",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n\n________________________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/ae5d9c09-beba-450f-89d2-fece34d4225e",
+      "created": "2026-11-03T16:14:30.536000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
@@ -254,7 +293,7 @@
       "title": "Wardrobe Technician - ALIZÉ",
       "company": "Cirque du Soleil",
       "location": "Berlin",
-      "description": "Wardrobe Technician – ALIZÉ\n \nCostumes and Props\n \n \nWe are looking for a Wardrobe Technician whose role, as a part of the Wardrobe team, will be to ensure costume elements are well maintained and the smooth running of shows.  Under the leadership of the HOD of Wardrobe, all team members are expected to support the show and their co-workers in a positive and professional manner. All duties are to be performed in accordance with department and property policies, practices, and procedures. The ide",
+      "description": "Wardrobe Technician – ALIZÉ\nCostumes and Props\n \n \nWe are looking for a Wardrobe Technician whose role, as a part of the Wardrobe team, will be to ensure costume elements are well maintained and the smooth running of shows.  Under the leadership of the HOD of Wardrobe, all team members are expected to support the show and their co-workers in a positive and professional manner. All duties are to be performed in accordance with department and property policies, practices, and procedures. The ideal",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/2590f4c7-4515-4a9a-aa7d-75f10e537bbf",
@@ -354,19 +393,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "lv-012f0bc3-c773-4f3a-a2f3-3820027f9593",
-      "title": "Coordonateur.trice de Production | Production Coordinator",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Coordonnateur.trice de production\nCréations et productions\nÀ propos de nous\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire.\nNotre mission\nDepuis 1984, le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l'imaginaire et surprendre les spectateurs ! L'innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos product",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/012f0bc3-c773-4f3a-a2f3-3820027f9593",
-      "created": "2026-10-30T18:27:07.054000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-d53d6304-1f4f-4f1e-9d5c-6ae9962f1e5c",
       "title": "Technicien en gréage - KURIOS | Rigging Technician - KURIOS",
       "company": "Cirque du Soleil",
@@ -443,19 +469,6 @@
       "created": "2026-10-29T13:46:55.876Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000158491239",
-      "title": "Lead Product Manager",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000158491239",
-      "created": "2026-10-29T11:05:01.520Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "gh-8333862",
@@ -540,7 +553,7 @@
       "title": "Assistant.e chef.fe Éclairage - ALEGRIA | Assistant Head of Lighting - ALEGRIA",
       "company": "Cirque du Soleil",
       "location": "*En tournée | On tour",
-      "description": "Adjoint au chef de département, Éclairage – Spectacle en tournée\n \nÉclairage de scène\n \n \n \n* Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste.*\n \n \nNous recherchons un chef de département adjoint (« AHOD »",
+      "description": "Adjoint au chef de département, Éclairage – Spectacle en tournée\nÉclairage de scène\n \n \n \n* Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste.*\n \n \nNous recherchons un chef de département adjoint (« AHOD ») ",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/4df23819-c3c1-4d12-a7ae-6f65026cab9f",
@@ -638,19 +651,6 @@
       "created": "2026-10-27T19:18:16.407Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "lv-c10e7df0-d385-4f71-8b55-bad370910f44",
-      "title": "Assistant.e chef.fe Projections Vidéo - L'ÉVEIL D'UTOPIA | Assistant Head of Video Projections - FINDING UTOPIA",
-      "company": "Cirque du Soleil",
-      "location": "*En tournée | On tour",
-      "description": "Adjoint au chef de département, Projections Vidéo – Spectacle en tournée\nProjections Vidéo\n \n \n* Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste. *\n \nJoignez-vous à une toute nouvelle production originale ",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/c10e7df0-d385-4f71-8b55-bad370910f44",
-      "created": "2026-10-27T16:53:52.129000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-8cb4b18b-e58f-466f-a363-810592f06ebe",
@@ -937,19 +937,6 @@
       "created": "2026-10-26T12:48:07.966Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "gh-8282479",
-      "title": "Gestionnaire de Projets Numériques Senior  - Senior Digital Project Manager ",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8282479",
-      "created": "2026-10-23T14:01:47-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "sr-744000157204897",
@@ -2419,19 +2406,6 @@
       "created": "2026-08-25T21:22:43.158Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "muse-22093939",
-      "title": "Senior Data Analyst",
-      "company": "Sonatype",
-      "location": "Flexible / Remote",
-      "description": "<div><span>Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and innovative software at scale. </span></div>\n\n<div>&nbsp;</div>\n\n<div><span>As founders of Nexus Repository and",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://www.themuse.com/jobs/sonatype/senior-data-analyst-6c697c",
-      "created": "2026-08-24T23:36:34Z",
-      "category": "Data and Analytics",
-      "source": "The Muse"
     },
     {
       "id": "sr-744000144606399",
