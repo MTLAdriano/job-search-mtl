@@ -1,7 +1,33 @@
 {
-  "updated": "2026-11-05T11:58:48.693171Z",
-  "count": 237,
+  "updated": "2026-11-05T19:51:09.177509Z",
+  "count": 236,
   "jobs": [
+    {
+      "id": "lv-7f89c099-6d71-44d5-8197-570fa5325d8c",
+      "title": "Props Technician – Blue Man Group Orlando",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/7f89c099-6d71-44d5-8197-570fa5325d8c",
+      "created": "2026-11-05T19:10:23.652000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "gh-8333862",
+      "title": "Junior Producer",
+      "company": "Sid Lee",
+      "location": "Toronto, Ontario, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8333862",
+      "created": "2026-11-05T14:18:41-05:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
     {
       "id": "sr-744000159774229",
       "title": "DFX Supervisor",
@@ -163,7 +189,7 @@
       "title": "Musical Instrument Technician (MIT) - Blue Man Group",
       "company": "Cirque du Soleil",
       "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n\n________________________________________\n",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________________\n",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/ae5d9c09-beba-450f-89d2-fece34d4225e",
@@ -495,19 +521,6 @@
       "created": "2026-10-29T13:46:55.876Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "gh-8333862",
-      "title": "Junior Producer",
-      "company": "Sid Lee",
-      "location": "Toronto, Ontario, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8333862",
-      "created": "2026-10-29T09:42:47-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "sr-744000158458299",
@@ -859,32 +872,6 @@
       "created": "2026-10-26T21:39:56.453000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000157905439",
-      "title": "Artiste Set Surfacing ",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000157905439",
-      "created": "2026-10-26T20:24:25.252Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000157904659",
-      "title": " Set Surfacing Artist",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000157904659",
-      "created": "2026-10-26T20:19:42.881Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000157903279",
