@@ -1,7 +1,20 @@
 {
-  "updated": "2026-11-05T00:46:58.026091Z",
+  "updated": "2026-11-05T11:58:48.693171Z",
   "count": 237,
   "jobs": [
+    {
+      "id": "sr-744000159774229",
+      "title": "DFX Supervisor",
+      "company": "Rodeo FX",
+      "location": "Bengaluru, in",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000159774229",
+      "created": "2026-11-05T02:32:41.662Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000159725359",
       "title": "[Disney Dreamlight Valley PC/Console] Analyste de données sénior - Senior Data Analyst ",
@@ -131,19 +144,6 @@
       "created": "2026-11-03T22:55:24.786000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000159505031",
-      "title": "DFX Supervisor",
-      "company": "Rodeo FX",
-      "location": "Bengaluru, in",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000159505031",
-      "created": "2026-11-03T22:04:52.925Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "lv-9ccfe4ea-9671-459b-a078-11cd6a09bded",
