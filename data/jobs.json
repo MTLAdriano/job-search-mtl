@@ -1,19 +1,45 @@
 {
-  "updated": "2026-11-04T19:34:38.636374Z",
-  "count": 235,
+  "updated": "2026-11-05T00:46:58.026091Z",
+  "count": 237,
   "jobs": [
     {
-      "id": "sr-744000159712339",
+      "id": "sr-744000159725359",
       "title": "[Disney Dreamlight Valley PC/Console] Analyste de données sénior - Senior Data Analyst ",
       "company": "Gameloft Montreal",
       "location": "Montreal, ca",
       "description": "",
       "salary_min": null,
       "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000159712339",
-      "created": "2026-11-04T19:21:31.551Z",
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000159725359",
+      "created": "2026-11-04T20:49:31.271Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
+    },
+    {
+      "id": "gh-8353838",
+      "title": "Chargé(e) de Projets, Marque et Contenu - Brand Operations & Content Manager",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8353838",
+      "created": "2026-11-04T15:52:01-05:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8028401",
+      "title": "Cordonnateur.trice aux Approvisionnements - Procurement Coordinator",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8028401",
+      "created": "2026-11-04T14:50:01-05:00",
+      "category": "Agence",
+      "source": "Sid Lee"
     },
     {
       "id": "sr-744000159651229",
