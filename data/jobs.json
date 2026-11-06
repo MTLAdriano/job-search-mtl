@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-06T19:03:32.698518Z",
-  "count": 228,
+  "updated": "2026-11-06T23:59:27.363953Z",
+  "count": 229,
   "jobs": [
     {
       "id": "lv-6d1e5d61-c1d8-4820-b862-8546d0b46a68",
       "title": "Directeur.trice artistique | Artistic Director – Ludo",
       "company": "Cirque du Soleil",
       "location": "Nuevo Nayarit",
-      "description": "",
+      "description": "Directeur.trice artistique – Ludo \nSpectacles résidents \nÀ propos de nous\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire.\nNotre mission\nDepuis 1984, le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l'imaginaire et surprendre les spectateurs ! L'innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos productio",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/6d1e5d61-c1d8-4820-b862-8546d0b46a68",
@@ -27,6 +27,19 @@
       "created": "2026-11-06T17:19:58.914000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
+    },
+    {
+      "id": "gh-8360432",
+      "title": "Creative Director",
+      "company": "Sid Lee",
+      "location": "Toronto, Ontario, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8360432",
+      "created": "2026-11-06T17:00:04-05:00",
+      "category": "Agence",
+      "source": "Sid Lee"
     },
     {
       "id": "lv-dae601d6-804a-45e3-8ce8-1f09c7a1375f",
@@ -55,8 +68,21 @@
       "source": "Gameloft Montreal"
     },
     {
+      "id": "gh-8028401",
+      "title": "Cordonnateur.trice aux Approvisionnements - Procurement Coordinator",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8028401",
+      "created": "2026-11-06T15:26:33-05:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
       "id": "lv-e5e1dc4c-4881-4029-80a8-7eedca1a7402",
-      "title": "Technicien.ne Swing - KURIOS | Swing Technician - KURIOS",
+      "title": "Technicien.ne Swing (Accessoires) - KURIOS | Swing Technician (Props) - KURIOS",
       "company": "Cirque du Soleil",
       "location": "*En tournée | On tour",
       "description": "Technicien.ne Swing - Spectacle en tournée\nMechiniste de scène et accessoires\n* Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste. *\nNous recherchons un technicien.ne de balançoires pour rejoindre l’un des s",
@@ -168,19 +194,6 @@
       "salary_max": null,
       "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8353838",
       "created": "2026-11-04T15:52:01-05:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-8028401",
-      "title": "Cordonnateur.trice aux Approvisionnements - Procurement Coordinator",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8028401",
-      "created": "2026-11-04T14:50:01-05:00",
       "category": "Agence",
       "source": "Sid Lee"
     },
