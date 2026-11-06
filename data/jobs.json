@@ -1,7 +1,98 @@
 {
-  "updated": "2026-11-06T11:54:52.856910Z",
+  "updated": "2026-11-06T19:03:32.698518Z",
   "count": 228,
   "jobs": [
+    {
+      "id": "lv-6d1e5d61-c1d8-4820-b862-8546d0b46a68",
+      "title": "Directeur.trice artistique | Artistic Director – Ludo",
+      "company": "Cirque du Soleil",
+      "location": "Nuevo Nayarit",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/6d1e5d61-c1d8-4820-b862-8546d0b46a68",
+      "created": "2026-11-06T17:36:12.108000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-fd66f4c1-5c10-4d90-b272-39636afa9f3f",
+      "title": "Chef.fe de département, Éclairage | Head of Department, Lighting - Ludo",
+      "company": "Cirque du Soleil",
+      "location": "Nuevo Nayarit",
+      "description": "Chef.fe de département, Éclairage – Ludo \nSpectacles résidents \nÀ propos de nous\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire.\nNotre mission\nDepuis 1984, le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l'imaginaire et surprendre les spectateurs ! L'innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos pr",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/fd66f4c1-5c10-4d90-b272-39636afa9f3f",
+      "created": "2026-11-06T17:19:58.914000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-dae601d6-804a-45e3-8ce8-1f09c7a1375f",
+      "title": "Chef.fe de département, Automatisation | Head of Department, Automation – Ludo",
+      "company": "Cirque du Soleil",
+      "location": "Nuevo Nayarit",
+      "description": "Chef.fe de département, Automatisation – Ludo \nSpectacles résidents \nÀ propos de nous\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire.\nNotre mission\nDepuis 1984, le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l'imaginaire et surprendre les spectateurs ! L'innovation et la créativité sont au cœur de nos spectacles et continueront de transcender n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/dae601d6-804a-45e3-8ce8-1f09c7a1375f",
+      "created": "2026-11-06T16:37:21.171000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000160245731",
+      "title": "Avocat(e) - Lawyer",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000160245731",
+      "created": "2026-11-06T15:56:16.121Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "lv-e5e1dc4c-4881-4029-80a8-7eedca1a7402",
+      "title": "Technicien.ne Swing - KURIOS | Swing Technician - KURIOS",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Technicien.ne Swing - Spectacle en tournée\nMechiniste de scène et accessoires\n* Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste. *\nNous recherchons un technicien.ne de balançoires pour rejoindre l’un des s",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/e5e1dc4c-4881-4029-80a8-7eedca1a7402",
+      "created": "2026-11-06T14:55:24.634000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000160221619",
+      "title": "Game Cinematic Artist Intern",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000160221619",
+      "created": "2026-11-06T14:38:40.192Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000160202212",
+      "title": "DFX Supervisor",
+      "company": "Rodeo FX",
+      "location": "Bengaluru, in",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000160202212",
+      "created": "2026-11-06T13:40:54.030Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000160160819",
       "title": "3D Technical Artist",
@@ -29,6 +120,19 @@
       "source": "Gameloft Montreal"
     },
     {
+      "id": "lv-a8f8d1ea-ba35-4d49-8586-b43e877bd24f",
+      "title": "On-Call Props Technician - Blue Man Group",
+      "company": "Cirque du Soleil",
+      "location": "Orlando, FL",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/a8f8d1ea-ba35-4d49-8586-b43e877bd24f",
+      "created": "2026-11-05T20:33:36.597000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
       "id": "gh-8333862",
       "title": "Junior Producer",
       "company": "Sid Lee",
@@ -40,19 +144,6 @@
       "created": "2026-11-05T14:18:41-05:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000159774229",
-      "title": "DFX Supervisor",
-      "company": "Rodeo FX",
-      "location": "Bengaluru, in",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000159774229",
-      "created": "2026-11-05T02:32:41.662Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000159725359",
@@ -316,7 +407,7 @@
     },
     {
       "id": "lv-59fcc1a3-66ac-4fb5-a520-97fb0ce2cbf6",
-      "title": "Carpentry Technician – Blue Man Group Orlando",
+      "title": "On-Call Carpentry Technician – Blue Man Group Orlando",
       "company": "Cirque du Soleil",
       "location": "Orlando, FL",
       "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________________\n",
@@ -521,19 +612,6 @@
       "created": "2026-10-28T19:23:05.030Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000158365616",
-      "title": "Avocat(e) - Lawyer",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000158365616",
-      "created": "2026-10-28T18:40:49.720Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-a534f875-a4a7-4628-9727-a207b74543d0",
@@ -1173,19 +1251,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000155853070",
-      "title": "DFX Supervisor",
-      "company": "Rodeo FX",
-      "location": "Bengaluru, in",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000155853070",
-      "created": "2026-10-15T21:11:24.062Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000155800450",
       "title": "Senior Engine Programmer",
       "company": "Gameloft Montreal",
@@ -1221,32 +1286,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000155761320",
       "created": "2026-10-15T13:31:50.587Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000155746419",
-      "title": "Directeur des installations et de l’immobilier",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000155746419",
-      "created": "2026-10-15T12:24:52.978Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000155745449",
-      "title": "Head of Facilities and Real Estate",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000155745449",
-      "created": "2026-10-15T12:19:20.800Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -1418,32 +1457,6 @@
       "created": "2026-10-08T11:25:30.284Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000154186749",
-      "title": "Directeur.trice technique généraliste - Contrat de 6 mois",
-      "company": "Rodeo FX",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000154186749",
-      "created": "2026-10-07T19:54:20.596Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000154182259",
-      "title": "Generalist TD - 6 Months Contract",
-      "company": "Rodeo FX",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000154182259",
-      "created": "2026-10-07T19:33:26.749Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000154035310",
@@ -2393,19 +2406,6 @@
       "created": "2026-08-13T21:30:17.238Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "lv-70f5fefe-a0ab-4470-93b8-4bb878b9ba26",
-      "title": "Head Therapist - LUDÕ",
-      "company": "Cirque du Soleil",
-      "location": "Nuevo Nayarit",
-      "description": "***Le poste étant situé aux Mexique, la description de poste est disponible uniquement en anglais.***\n**As this position in based in the Mexico, the job description is available in English only.*** \n \n________________________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/70f5fefe-a0ab-4470-93b8-4bb878b9ba26",
-      "created": "2026-08-13T17:17:26.942000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000142975579",
