@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-05T19:51:09.177509Z",
-  "count": 236,
+  "updated": "2026-11-06T00:53:45.452859Z",
+  "count": 232,
   "jobs": [
     {
-      "id": "lv-7f89c099-6d71-44d5-8197-570fa5325d8c",
-      "title": "Props Technician – Blue Man Group Orlando",
-      "company": "Cirque du Soleil",
-      "location": "Orlando, FL",
+      "id": "sr-744000159968050",
+      "title": "Data Scientist",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
       "description": "",
       "salary_min": null,
       "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/7f89c099-6d71-44d5-8197-570fa5325d8c",
-      "created": "2026-11-05T19:10:23.652000Z",
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000159968050",
+      "created": "2026-11-05T21:01:07.292Z",
       "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
+      "source": "Gameloft Montreal"
     },
     {
       "id": "gh-8333862",
@@ -306,7 +306,7 @@
       "title": "Carpentry Technician – Blue Man Group Orlando",
       "company": "Cirque du Soleil",
       "location": "Orlando, FL",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n\n________________________________________\n",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n________________________________________\n",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/59fcc1a3-66ac-4fb5-a520-97fb0ce2cbf6",
@@ -576,10 +576,10 @@
     },
     {
       "id": "lv-a534f875-a4a7-4628-9727-a207b74543d0",
-      "title": "Coordonnateur.trice - Gestion Matières | Materials Management Coordinator",
+      "title": "Manutentionnaire - Matières textiles | Textile Management Handler",
       "company": "Cirque du Soleil",
       "location": "Montréal, QC",
-      "description": "Coordonnateur.trice - Gestion des matières\nCostumes et accessories\nÀ propos de nous\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire.\nNotre mission\nDepuis 1984, le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l'imaginaire et surprendre les spectateurs ! L'innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos",
+      "description": "Manutentionnaire - Matières textiles\nCostumes et accessories\nÀ propos de nous\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire.\nNotre mission\nDepuis 1984, le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l'imaginaire et surprendre les spectateurs ! L'innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos produ",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/a534f875-a4a7-4628-9727-a207b74543d0",
@@ -872,32 +872,6 @@
       "created": "2026-10-26T21:39:56.453000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000157903279",
-      "title": "Character Surfacing Artist",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000157903279",
-      "created": "2026-10-26T20:06:30.569Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000157903188",
-      "title": "Character Surfacing Artist",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000157903188",
-      "created": "2026-10-26T20:05:40.461Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000157899079",
@@ -2109,19 +2083,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "lv-3ae4105e-4780-4188-90ee-b5530f2da361",
-      "title": "General Manager - Resident & Touring Shows",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n____________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/3ae4105e-4780-4188-90ee-b5530f2da361",
-      "created": "2026-09-14T19:15:07.581000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "sr-744000149246099",
       "title": "3D 背景アーティスト",
       "company": "Keywords Studios",
@@ -2133,19 +2094,6 @@
       "created": "2026-09-14T06:39:06.233Z",
       "category": "Gaming & Entertainment",
       "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000148872519",
-      "title": "Data Scientist",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000148872519",
-      "created": "2026-09-10T21:40:51.183Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-f21e0b6e-22f8-4b93-8be6-2aa6d7750162",
