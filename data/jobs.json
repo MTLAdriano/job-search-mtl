@@ -1,7 +1,72 @@
 {
-  "updated": "2026-11-10T12:18:30.357137Z",
-  "count": 221,
+  "updated": "2026-11-10T21:41:53.762683Z",
+  "count": 224,
   "jobs": [
+    {
+      "id": "sr-744000160880969",
+      "title": "Marketing Activations Intern",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000160880969",
+      "created": "2026-11-10T13:49:15.190Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000160866640",
+      "title": "DFX Supervisor",
+      "company": "Rodeo FX",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000160866640",
+      "created": "2026-11-10T12:55:31.369Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000160866481",
+      "title": "DFX Supervisor",
+      "company": "Rodeo FX",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000160866481",
+      "created": "2026-11-10T12:54:31.143Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000160864624",
+      "title": "Customer Care Agent (English only/ night shift)",
+      "company": "Gameloft Montreal",
+      "location": "Lviv, ua",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000160864624",
+      "created": "2026-11-10T12:47:15.110Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000160864769",
+      "title": "Customer Care Agent (English&Spanish)",
+      "company": "Gameloft Montreal",
+      "location": "Lviv, ua",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000160864769",
+      "created": "2026-11-10T12:37:54.537Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-b3635a1e-6683-4511-842f-0a6260bcd738",
       "title": "Ticket Agent – 'Auana",
@@ -547,32 +612,6 @@
       "created": "2026-11-02T19:31:20.833000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000159188309",
-      "title": "Artiste d'effets de creatures - Senior - Contrat temporaire",
-      "company": "Rodeo FX",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000159188309",
-      "created": "2026-11-02T16:07:29.014Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000159186144",
-      "title": "Creature FX Artist - Senior -Temporary contract",
-      "company": "Rodeo FX",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000159186144",
-      "created": "2026-11-02T16:06:54.790Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000159082004",
