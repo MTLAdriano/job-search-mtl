@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T02:35:50.077949Z",
-  "count": 222,
+  "updated": "2026-11-10T12:18:30.357137Z",
+  "count": 221,
   "jobs": [
     {
       "id": "lv-b3635a1e-6683-4511-842f-0a6260bcd738",
@@ -1535,19 +1535,6 @@
       "created": "2026-10-06T14:14:45.078000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000153775189",
-      "title": "Senior Concept Artist",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000153775189",
-      "created": "2026-10-06T14:07:48.048Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000153759984",
