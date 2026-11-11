@@ -1,7 +1,20 @@
 {
-  "updated": "2026-11-10T21:41:53.762683Z",
-  "count": 224,
+  "updated": "2026-11-11T05:20:31.540949Z",
+  "count": 221,
   "jobs": [
+    {
+      "id": "lv-dacb68b2-4335-4d1b-9416-a9038d845f60",
+      "title": "Commis d'entrepôt | Warehouse Associate",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Commis d'entrepôt\nCostumes et accessories\nÀ propos de nous\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire.\nNotre mission\nDepuis 1984, le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l'imaginaire et surprendre les spectateurs ! L'innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos productions à venir à tr",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/dacb68b2-4335-4d1b-9416-a9038d845f60",
+      "created": "2026-11-10T22:02:45.344000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000160880969",
       "title": "Marketing Activations Intern",
@@ -612,19 +625,6 @@
       "created": "2026-11-02T19:31:20.833000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000159082004",
-      "title": "3D Generalist Artist (Junior/Middle)",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000159082004",
-      "created": "2026-11-02T09:17:06.097Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-3ccbf2e9-6a72-47a6-b7d5-dbdcaf7476cb",
@@ -1498,19 +1498,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000154035310",
-      "title": "Game Designer Intern",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000154035310",
-      "created": "2026-10-07T08:15:33.212Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000153952949",
       "title": "シニア3D背景アーティスト",
       "company": "Keywords Studios",
@@ -1706,19 +1693,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "lv-6d91b53b-9802-4ff4-8a4e-46a8678a0abd",
-      "title": "On-Call Lighting Technician - Drawn to Life",
-      "company": "Cirque du Soleil",
-      "location": "Orlando, FL",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n\n________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/6d91b53b-9802-4ff4-8a4e-46a8678a0abd",
-      "created": "2026-10-02T18:02:49.010000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "sr-744000153245089",
       "title": "Spécialiste junior de l’acquisition de talents en effets visuels – contrat de 6 mois",
       "company": "Rodeo FX",
@@ -1860,19 +1834,6 @@
       "created": "2026-09-28T20:23:36.108Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "lv-d4f59fc1-b201-461b-9061-9f5bf6d58300",
-      "title": "Head of Audio – “O”",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_______________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/d4f59fc1-b201-461b-9061-9f5bf6d58300",
-      "created": "2026-09-26T01:36:40.881000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000151118749",
