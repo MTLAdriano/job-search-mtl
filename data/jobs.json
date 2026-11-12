@@ -1,7 +1,20 @@
 {
-  "updated": "2026-11-12T06:24:45.925698Z",
-  "count": 214,
+  "updated": "2026-11-12T16:39:28.054654Z",
+  "count": 211,
   "jobs": [
+    {
+      "id": "sr-744000161288789",
+      "title": "Lead UI Artist",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000161288789",
+      "created": "2026-11-12T12:29:23.503Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-dacb68b2-4335-4d1b-9416-a9038d845f60",
       "title": "Commis d'entrepôt | Warehouse Associate",
@@ -222,19 +235,6 @@
       "created": "2026-11-06T14:55:24.634000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000160221619",
-      "title": "Game Cinematic Artist Intern",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000160221619",
-      "created": "2026-11-06T14:38:40.192Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000160202212",
@@ -506,32 +506,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000159308135",
       "created": "2026-11-03T07:24:23.568Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000159307389",
-      "title": "Lead UI Artist",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000159307389",
-      "created": "2026-11-03T07:17:09.562Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000159297799",
-      "title": "Unreal Developer Intern",
-      "company": "Gameloft Montreal",
-      "location": "Yogyakarta, id",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000159297799",
-      "created": "2026-11-03T05:41:57.184Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1403,19 +1377,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000154644209",
       "created": "2026-10-09T10:38:55.748Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000154631639",
-      "title": "Gametech Innovation Technical Lead",
-      "company": "Gameloft Montreal",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000154631639",
-      "created": "2026-10-09T09:37:35.788Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
