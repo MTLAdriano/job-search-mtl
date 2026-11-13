@@ -1,7 +1,33 @@
 {
-  "updated": "2026-11-12T16:39:28.054654Z",
+  "updated": "2026-11-13T00:56:43.764612Z",
   "count": 211,
   "jobs": [
+    {
+      "id": "lv-639cf74b-6b61-4bc8-a314-445bf179ccbc",
+      "title": "General Stage Manager - LUDO",
+      "company": "Cirque du Soleil",
+      "location": "Nuevo Nayarit",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/639cf74b-6b61-4bc8-a314-445bf179ccbc",
+      "created": "2026-11-12T17:05:24.963000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "gh-8028401",
+      "title": "Cordonnateur.trice aux Approvisionnements - Procurement Coordinator",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8028401",
+      "created": "2026-11-12T14:45:39-05:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
     {
       "id": "sr-744000161288789",
       "title": "Lead UI Artist",
@@ -209,19 +235,6 @@
       "created": "2026-11-06T15:56:16.121Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "gh-8028401",
-      "title": "Cordonnateur.trice aux Approvisionnements - Procurement Coordinator",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8028401",
-      "created": "2026-11-06T15:26:33-05:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "lv-e5e1dc4c-4881-4029-80a8-7eedca1a7402",
@@ -1442,19 +1455,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/062cb518-844a-45d3-9857-4f2effe218d8",
       "created": "2026-10-06T16:08:11.584000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-71860537-a489-4468-a60e-015c4b348119",
-      "title": "Gestionnaire principal(e) des ventes – Spectacles en tournée des Amériques | Senior Sales Manager – Americas Touring Shows",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Gestionnaire principal(e) des ventes – Spectacles en tournée des Amériques\nVentes marketing et communications\nÀ propos de nous\nNous sommes nés d'une troupe éclectique. Venez vivre l'expérience d'être vous-même au quotidien pour créer l'extraordinaire.\nNotre mission\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l'imaginaire et surprendre les spectateurs!L'innovation et la créativité sont au cœur de nos spe",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/71860537-a489-4468-a60e-015c4b348119",
-      "created": "2026-10-06T14:14:45.078000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
