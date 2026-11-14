@@ -1,7 +1,20 @@
 {
-  "updated": "2026-11-13T19:31:37.910471Z",
+  "updated": "2026-11-14T00:46:11.829079Z",
   "count": 216,
   "jobs": [
+    {
+      "id": "sr-744000161564940",
+      "title": "Senior Maya Technical Director (TD) - 6 Month Contract",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000161564940",
+      "created": "2026-11-13T19:39:43.471Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000161564259",
       "title": "Directeur Technique Maya Senior - Contrat de 6 mois",
@@ -12,19 +25,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000161564259",
       "created": "2026-11-13T19:31:03.672Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000161563259",
-      "title": "Senior Maya Technical Director (TD) - 6 Month Contract",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000161563259",
-      "created": "2026-11-13T19:24:59.259Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
