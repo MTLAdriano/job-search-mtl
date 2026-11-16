@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T20:53:31.073867Z",
-  "count": 216,
+  "updated": "2026-11-16T05:31:18.317346Z",
+  "count": 214,
   "jobs": [
     {
       "id": "sr-744000161564940",
@@ -1756,32 +1756,6 @@
       "created": "2026-09-29T23:46:07.373Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000152330759",
-      "title": "Technical Designer – Japan & Global Game Development",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000152330759",
-      "created": "2026-09-29T06:09:43.036Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
-    },
-    {
-      "id": "sr-744000152330519",
-      "title": "Game Designer – Japan & Global Game Development",
-      "company": "Keywords Studios",
-      "location": "Tokyo, jp",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000152330519",
-      "created": "2026-09-29T06:08:30.875Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
     },
     {
       "id": "sr-744000152300130",
