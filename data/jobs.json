@@ -1,7 +1,111 @@
 {
-  "updated": "2026-11-16T05:31:18.317346Z",
-  "count": 214,
+  "updated": "2026-11-16T18:05:57.280068Z",
+  "count": 216,
   "jobs": [
+    {
+      "id": "sr-744000161827169",
+      "title": "Asset Supervisor",
+      "company": "Rodeo FX",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000161827169",
+      "created": "2026-11-16T14:38:20.719Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000161826969",
+      "title": "Asset Supervisor",
+      "company": "Rodeo FX",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000161826969",
+      "created": "2026-11-16T14:37:55.924Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "gh-8353838",
+      "title": "Chargé(e) de Projets, Marque et Contenu - Brand Operations & Content Manager",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8353838",
+      "created": "2026-11-16T10:25:17-05:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8279779",
+      "title": "Coordonnateur.trice talent - Talent Coordinator",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8279779",
+      "created": "2026-11-16T10:21:44-05:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8247218",
+      "title": "Assistant.e technique, Post-production - Technical assistant, Post-Production",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8247218",
+      "created": "2026-11-16T10:13:26-05:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8023709",
+      "title": "Développeur.euse Full stack - Adobe Experience Manager (AEM) ",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8023709",
+      "created": "2026-11-16T10:12:12-05:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-2248248",
+      "title": "Stratège social·e (contenu) - Social Strategist (Content)",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=2248248",
+      "created": "2026-11-16T10:11:34-05:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
+    {
+      "id": "gh-8282336",
+      "title": "Concepteur·trice-rédacteur·trice - Copywriter",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8282336",
+      "created": "2026-11-16T10:08:17-05:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
     {
       "id": "sr-744000161564940",
       "title": "Senior Maya Technical Director (TD) - 6 Month Contract",
@@ -469,19 +573,6 @@
       "created": "2026-11-04T20:49:31.271Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "gh-8353838",
-      "title": "Chargé(e) de Projets, Marque et Contenu - Brand Operations & Content Manager",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8353838",
-      "created": "2026-11-04T15:52:01-05:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "sr-744000159651229",
@@ -1381,19 +1472,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "gh-8282336",
-      "title": "Concepteur·trice-rédacteur·trice - Copywriter",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8282336",
-      "created": "2026-10-14T15:33:57-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "lv-3462486c-f14b-49ba-ba92-90bb1a94c421",
       "title": "Chef d’équipe – Comptes payables | Team Lead – Accounts Payable",
       "company": "Cirque du Soleil",
@@ -1418,19 +1496,6 @@
       "created": "2026-10-14T07:51:53.340Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "gh-8279779",
-      "title": "Coordonnateur.trice talent - Talent Coordinator",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8279779",
-      "created": "2026-10-13T16:51:14-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "sr-744000155261105",
@@ -1576,19 +1641,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "gh-2248248",
-      "title": "Stratège social·e (contenu) - Social Strategist (Content)",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=2248248",
-      "created": "2026-10-05T16:33:20-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "sr-744000153435271",
       "title": "3D Environment Supervisor",
       "company": "Gameloft Montreal",
@@ -1730,19 +1782,6 @@
       "created": "2026-10-01T20:12:28.588Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "gh-8247218",
-      "title": "Assistant.e technique, Post-production - Technical assistant, Post-Production",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8247218",
-      "created": "2026-10-01T13:31:08-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
     },
     {
       "id": "sr-744000152549019",
@@ -2170,19 +2209,6 @@
       "salary_max": null,
       "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8001167",
       "created": "2026-08-28T14:04:20-04:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-8023709",
-      "title": "Développeur.euse Full stack - Adobe Experience Manager (AEM) ",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8023709",
-      "created": "2026-08-28T13:55:35-04:00",
       "category": "Agence",
       "source": "Sid Lee"
     },
