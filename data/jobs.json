@@ -1,7 +1,20 @@
 {
-  "updated": "2026-11-16T18:05:57.280068Z",
-  "count": 216,
+  "updated": "2026-11-17T02:49:10.166306Z",
+  "count": 215,
   "jobs": [
+    {
+      "id": "lv-ef3b6c71-3909-4457-b049-09a21449b900",
+      "title": "Technicien(ne) en gréage et automatisation - ECHO  | Rigging & Automation Technician - ECHO",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Technicien(ne) en gréage et automatisation – Spectacle de tournée \nAutomatisation scénique \n \n* Il s’agit d’un poste à temps plein au sein d’une tournée internationale. La personne retenue travaillera et voyagera dans plusieurs pays avec une compagnie de tournée internationale où l’anglais est la langue de travail de la production. La maîtrise de l’anglais est requise pour exercer les fonctions de ce poste. * \n \nNous sommes à la recherche d’une personne technicienne en gréage et automatisation p",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/ef3b6c71-3909-4457-b049-09a21449b900",
+      "created": "2026-11-16T22:56:23.825000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
     {
       "id": "sr-744000161827169",
       "title": "Asset Supervisor",
@@ -784,7 +797,7 @@
     },
     {
       "id": "lv-3ccbf2e9-6a72-47a6-b7d5-dbdcaf7476cb",
-      "title": "Senior Marketing Manager - ʻAuana",
+      "title": "Senior Marketing Manager - 'Auana",
       "company": "Cirque du Soleil",
       "location": "Honolulu, HI",
       "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n___________________________\n",
@@ -805,19 +818,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/d53d6304-1f4f-4f1e-9d5c-6ae9962f1e5c",
       "created": "2026-10-30T17:16:58.192000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-6e4294df-c5ea-4f56-b95d-5e03e59f67d5",
-      "title": "Technicien.ne accessoires - OVO | Props Technician - OVO",
-      "company": "Cirque du Soleil",
-      "location": "*En tournée | On tour",
-      "description": "Technicien.ne accessoires - Spectacle de tournée\nMachiniste de scène et accessoires \n \n* Il s'agit d'un poste à temps plein comportant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d'une compagnie de tournée internationale où l'anglais est la langue de travail de la production. La maîtrise de l'anglais est requise pour exercer les fonctions de ce poste. * \n \nNous sommes à la recherche d’un(e) technicien.ne accessoires pour se joindre à l’éq",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/6e4294df-c5ea-4f56-b95d-5e03e59f67d5",
-      "created": "2026-10-30T17:14:40.336000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
@@ -935,19 +935,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/8cb4b18b-e58f-466f-a363-810592f06ebe",
       "created": "2026-10-27T15:51:20.218000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-1d2a20a2-2973-4e13-afee-2239d403b8e3",
-      "title": "Technicien.ne menuiserie - OVO | Carpentry Technician - OVO",
-      "company": "Cirque du Soleil",
-      "location": "*En tournée | On tour",
-      "description": "Technicien.ne menuiserie - Spectacle de tournée\nMachiniste de scène et accessoires \n \n* Il s'agit d'un poste à temps plein comportant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d'une compagnie de tournée internationale où l'anglais est la langue de travail de la production. La maîtrise de l'anglais est requise pour exercer les fonctions de ce poste. * \n \nNous sommes à la recherche d'un(e) technician.ne menuiserie pour se joindre à l'équi",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/1d2a20a2-2973-4e13-afee-2239d403b8e3",
-      "created": "2026-10-27T13:59:15.735000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
