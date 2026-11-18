@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T23:23:53.890748Z",
-  "count": 220,
+  "updated": "2026-11-18T06:34:06.967797Z",
+  "count": 221,
   "jobs": [
     {
       "id": "sr-744000162138620",
@@ -33,7 +33,7 @@
       "title": "Head of Props - PAW Patrol Live! A Mighty Adventure",
       "company": "Cirque du Soleil",
       "location": "On tour",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n________________________________________________________\n",
+      "description": "",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/8316c5e1-bc35-4911-ae95-584f1905e011",
@@ -46,11 +46,24 @@
       "title": "Assistant Props - PAW Patrol Live! A Mighty Adventure",
       "company": "Cirque du Soleil",
       "location": "On tour",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n________________________________________________________\n",
+      "description": "",
       "salary_min": null,
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/904f8395-5a26-4b82-b98d-008ef0c1d3a8",
       "created": "2026-11-17T16:50:20.107000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-1ee6dd1a-ce61-40ef-b755-6f7c299976af",
+      "title": "Production Manager - PAW Patrol Live! A Mighty Adventure",
+      "company": "Cirque du Soleil",
+      "location": "On tour",
+      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n______________________________\n",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/1ee6dd1a-ce61-40ef-b755-6f7c299976af",
+      "created": "2026-11-17T16:40:36.548000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
