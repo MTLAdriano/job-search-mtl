@@ -1,7 +1,85 @@
 {
-  "updated": "2026-11-19T12:37:19.196623Z",
-  "count": 220,
+  "updated": "2026-11-19T22:56:50.997938Z",
+  "count": 213,
   "jobs": [
+    {
+      "id": "sr-744000162608573",
+      "title": "Data Scientist",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000162608573",
+      "created": "2026-11-19T21:43:30.145Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000162572249",
+      "title": "Lead Gameplay Designer",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000162572249",
+      "created": "2026-11-19T17:26:56.978Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000162550779",
+      "title": "Lead Product Manager",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000162550779",
+      "created": "2026-11-19T15:56:16.245Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000162550679",
+      "title": "Lead UI Artist",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000162550679",
+      "created": "2026-11-19T15:55:38.104Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000162550119",
+      "title": "Lead VFX Artist",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000162550119",
+      "created": "2026-11-19T15:53:27.793Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000162532564",
+      "title": "Runner",
+      "company": "Rodeo FX",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000162532564",
+      "created": "2026-11-19T14:54:50.324Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
     {
       "id": "sr-744000162478759",
       "title": "Sound Designer Intern ",
@@ -38,32 +116,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000162455909",
       "created": "2026-11-19T08:05:57.205Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000162455664",
-      "title": "Lead UI Artist",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000162455664",
-      "created": "2026-11-19T08:03:47.026Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000162455119",
-      "title": "Lead Game Designer (PC/Console/Mobile) ",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000162455119",
-      "created": "2026-11-19T07:56:49.762Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -105,19 +157,6 @@
       "created": "2026-11-18T15:39:52.100Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000162256281",
-      "title": "Lead Product Manager",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000162256281",
-      "created": "2026-11-18T10:06:57.120Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000162246709",
@@ -233,19 +272,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000162096869",
       "created": "2026-11-17T14:51:16.226Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000162084039",
-      "title": "Lead VFX Artist",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000162084039",
-      "created": "2026-11-17T13:54:13.936Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -445,19 +471,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "lv-a9c2f946-b23a-4b92-bbe3-02a2aab0e20e",
-      "title": "Audio Technician - Michael Jackson ONE",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n \n_________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/a9c2f946-b23a-4b92-bbe3-02a2aab0e20e",
-      "created": "2026-11-13T18:10:37.848000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-0904f7f7-88fb-4a96-9a26-9fd0d1748052",
       "title": "Sous-chef - KOOZA | Sous Chef - KOOZA",
       "company": "Cirque du Soleil",
@@ -521,19 +534,6 @@
       "created": "2026-11-10T22:02:45.344000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000160880969",
-      "title": "Marketing Activations Intern",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000160880969",
-      "created": "2026-11-10T13:49:15.190Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000160866640",
@@ -740,19 +740,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000160160819",
       "created": "2026-11-06T10:09:29.278Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000159968050",
-      "title": "Data Scientist",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000159968050",
-      "created": "2026-11-05T21:01:07.292Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1122,7 +1109,7 @@
     },
     {
       "id": "lv-4ff93ea9-d4e4-4b2f-bd2d-66663f120fd8",
-      "title": "Talent Manager - Americas",
+      "title": "HR Manager - Americas",
       "company": "Cirque du Soleil",
       "location": "Las Vegas, NV",
       "description": "",
@@ -1368,19 +1355,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000157104239",
-      "title": "Customer Care Agent (English and French)",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000157104239",
-      "created": "2026-10-22T11:20:06.499Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "gh-8312737",
       "title": "Freelance Producer - Talent Pipeline",
       "company": "Sid Lee",
@@ -1509,32 +1483,6 @@
       "created": "2026-10-16T08:22:57.397Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000155870109",
-      "title": "Responsable de département RH – Fonctions corporatives",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000155870109",
-      "created": "2026-10-15T23:44:16.366Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000155869187",
-      "title": "HR Department Manager - Corporate functions",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000155869187",
-      "created": "2026-10-15T23:43:37.618Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000155854169",
@@ -1821,32 +1769,6 @@
       "created": "2026-10-02T18:39:41.870000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000153245089",
-      "title": "Spécialiste junior de l’acquisition de talents en effets visuels – contrat de 6 mois",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000153245089",
-      "created": "2026-10-02T17:37:14.135Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000153243527",
-      "title": "Talent Acquisition Specialist in Visual effects - 6 months contract",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000153243527",
-      "created": "2026-10-02T17:35:19.679Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "lv-993f40d6-9cd6-4c8d-928b-74d25299d6d8",
@@ -2393,19 +2315,6 @@
       "created": "2026-08-10T23:13:20.202000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000140722334",
-      "title": "[Dungeons & Dragons PC-Console] Chef d'équipe concepteur de quêtes  - Lead quest designer",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000140722334",
-      "created": "2026-07-30T15:31:44.622Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000140597079",
