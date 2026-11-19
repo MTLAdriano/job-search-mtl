@@ -1,7 +1,20 @@
 {
-  "updated": "2026-11-18T17:01:26.319305Z",
-  "count": 222,
+  "updated": "2026-11-19T01:46:09.665602Z",
+  "count": 220,
   "jobs": [
+    {
+      "id": "sr-744000162359610",
+      "title": "[Dungeons & Dragons PC-Console] Concepteur(trice) de jeux Systèmes Sénior - Senior Game Designer Systems",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000162359610",
+      "created": "2026-11-18T17:21:01.776Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000162333699",
       "title": "Senior Asset Generalist - 2 Month Contract",
@@ -285,19 +298,6 @@
       "salary_max": null,
       "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8353838",
       "created": "2026-11-16T10:25:17-05:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-8279779",
-      "title": "Coordonnateur.trice talent - Talent Coordinator",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8279779",
-      "created": "2026-11-16T10:21:44-05:00",
       "category": "Agence",
       "source": "Sid Lee"
     },
@@ -844,19 +844,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/9ccfe4ea-9671-459b-a078-11cd6a09bded",
       "created": "2026-11-03T21:32:42.802000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-37a34ccf-cef2-4ea3-8a5f-27013e05c6f4",
-      "title": "Director of Commercial Sponsorship - EMEA",
-      "company": "Cirque du Soleil",
-      "location": "London",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/37a34ccf-cef2-4ea3-8a5f-27013e05c6f4",
-      "created": "2026-11-03T16:34:41.954000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
@@ -2042,19 +2029,6 @@
       "created": "2026-09-18T18:11:46.771Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000150312827",
-      "title": "UI UX Designer Intern",
-      "company": "Gameloft Montreal",
-      "location": "Hanoi, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000150312827",
-      "created": "2026-09-18T08:56:49.976Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-9174062a-5e1c-4527-bf0d-e67ed84a0654",
