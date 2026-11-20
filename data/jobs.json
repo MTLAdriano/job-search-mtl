@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T22:56:50.997938Z",
-  "count": 213,
+  "updated": "2026-11-20T06:22:46.504362Z",
+  "count": 210,
   "jobs": [
     {
       "id": "sr-744000162608573",
@@ -1173,19 +1173,6 @@
       "source": "Sid Lee"
     },
     {
-      "id": "sr-744000157926609",
-      "title": "Game Designer (Gameplay & Combat)",
-      "company": "Gameloft Montreal",
-      "location": "Brisbane, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000157926609",
-      "created": "2026-10-27T00:03:58.075Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "lv-f13da8df-7976-4b45-9abf-b8cd6c56b0d7",
       "title": "Head Carpenter - PAW Patrol Live! A Mighty Adventure",
       "company": "Cirque du Soleil",
@@ -1689,19 +1676,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/c869950a-9302-4b06-8481-b3b590d89fe6",
       "created": "2026-10-06T00:03:27.649000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-b7f529e4-187f-4e35-b252-e94d8ca5dcff",
-      "title": "Senior Digital Marketing Manager – Americas Resident Shows",
-      "company": "Cirque du Soleil",
-      "location": "Las Vegas, NV",
-      "description": "***Le poste étant situé aux États-Unis, la description de poste est disponible uniquement en anglais.***\n***As this position in based in the United States, the job description is available in English only.***\n____________________________________________________________________________\n",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/b7f529e4-187f-4e35-b252-e94d8ca5dcff",
-      "created": "2026-10-05T23:39:01.236000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
@@ -2315,19 +2289,6 @@
       "created": "2026-08-10T23:13:20.202000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000140597079",
-      "title": "Senior Engineer - Console and PC Games",
-      "company": "Keywords Studios",
-      "location": "Box Hill, au",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/KeywordsStudios/744000140597079",
-      "created": "2026-07-30T04:43:29.198Z",
-      "category": "Gaming & Entertainment",
-      "source": "Keywords Studios"
     },
     {
       "id": "sr-744000138023389",
