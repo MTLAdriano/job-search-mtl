@@ -1,7 +1,46 @@
 {
-  "updated": "2026-11-20T16:48:30.169378Z",
-  "count": 210,
+  "updated": "2026-11-21T01:10:46.777466Z",
+  "count": 209,
   "jobs": [
+    {
+      "id": "sr-744000162807799",
+      "title": "Artiste GenFX",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000162807799",
+      "created": "2026-11-20T19:28:13.143Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000162806102",
+      "title": "GenFX Artist",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000162806102",
+      "created": "2026-11-20T19:27:08.843Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "gh-7395541",
+      "title": "Analyste financier.ère Senior - Senior Financial Analyst",
+      "company": "Sid Lee",
+      "location": "Montréal, Quebec, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=7395541",
+      "created": "2026-11-20T16:24:46-05:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
     {
       "id": "sr-744000162761315",
       "title": "Compositing Artist",
@@ -342,7 +381,7 @@
     },
     {
       "id": "lv-ef3b6c71-3909-4457-b049-09a21449b900",
-      "title": "Technicien(ne) en gréage et automatisation - ECHO  | Rigging & Automation Technician - ECHO",
+      "title": "Technicien.ne gréage et automatisation - ECHO  | Rigging & Automation Technician - ECHO",
       "company": "Cirque du Soleil",
       "location": "*En tournée | On tour",
       "description": "Technicien(ne) en gréage et automatisation – Spectacle de tournée \nAutomatisation scénique \n \n* Il s’agit d’un poste à temps plein au sein d’une tournée internationale. La personne retenue travaillera et voyagera dans plusieurs pays avec une compagnie de tournée internationale où l’anglais est la langue de travail de la production. La maîtrise de l’anglais est requise pour exercer les fonctions de ce poste. * \n \nNous sommes à la recherche d’une personne technicienne en gréage et automatisation p",
@@ -350,19 +389,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/ef3b6c71-3909-4457-b049-09a21449b900",
       "created": "2026-11-16T22:56:23.825000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-7c9ceb2e-cbc0-498e-b838-658a342b815e",
-      "title": "Analyste principal.e des systèmes d’affaires (SIRH) | Sr. Business Systems Analyst (HRIS)",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/7c9ceb2e-cbc0-498e-b838-658a342b815e",
-      "created": "2026-11-16T20:27:10.225000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
@@ -874,19 +900,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "lv-7dfe9cc6-7b0f-47cc-98dc-e45c7111a39b",
-      "title": "Technicien.ne, costumes - KURIOS | Wardrobe Technician - KURIOS",
-      "company": "Cirque du Soleil",
-      "location": "*En tournée | On tour",
-      "description": "Technicien.ne, costumes - Spectacle en tournée\nCostumes, accessoires, coiffure et maquillage\n \n* Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste.*\n \nNous recherchons un(e) Technicien.ne, costumes pour rejo",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/7dfe9cc6-7b0f-47cc-98dc-e45c7111a39b",
-      "created": "2026-11-03T22:55:24.786000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-9ccfe4ea-9671-459b-a078-11cd6a09bded",
       "title": "Seasonal Front of House Staff - Blue Man Group",
       "company": "Cirque du Soleil",
@@ -914,7 +927,7 @@
     },
     {
       "id": "lv-8abe4ddc-2b29-4ec7-a4a4-599e86674614",
-      "title": "Technicien en Gréeur - OVO | Rigging Technician - OVO",
+      "title": "Technicien.ne Gréeur - OVO | Rigging Technician - OVO",
       "company": "Cirque du Soleil",
       "location": "*En tournée | On tour",
       "description": "Technicien en gréage – Spectacle en tournée \nGréeur acrobatique \n \n \n*Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste.* \n \n \nNous recherchons un technicien en gréage pour rejoindre l’un des spectacles en t",
@@ -1018,7 +1031,7 @@
     },
     {
       "id": "lv-d53d6304-1f4f-4f1e-9d5c-6ae9962f1e5c",
-      "title": "Technicien en gréage - KURIOS | Rigging Technician - KURIOS",
+      "title": "Technicien.ne gréage - KURIOS | Rigging Technician - KURIOS",
       "company": "Cirque du Soleil",
       "location": "*En tournée | On tour",
       "description": "Technicien en gréage – Spectacle en tournée\nGréeur acrobatique\n \n*Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste.*\n \nNous recherchons un technicien en gréage pour rejoindre l’un des spectacles en tournée ",
@@ -1135,7 +1148,7 @@
     },
     {
       "id": "lv-8cb4b18b-e58f-466f-a363-810592f06ebe",
-      "title": "Technicien en gréage - ECHO | Rigging Technician - ECHO",
+      "title": "Technicien.ne gréage - ECHO | Rigging Technician - ECHO",
       "company": "Cirque du Soleil",
       "location": "*En tournée | On tour",
       "description": "Technicien en gréage – Spectacle en tournée\nGréeur acrobatique\n \n*Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste.*\n \nNous recherchons un technicien en gréage pour rejoindre l’un des spectacles en tournée ",
@@ -1717,32 +1730,6 @@
       "created": "2026-10-04T21:51:51.922Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000153276859",
-      "title": "Artiste IA Générative",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000153276859",
-      "created": "2026-10-02T21:59:44.419Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000153276245",
-      "title": "Generative AI Artist",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000153276245",
-      "created": "2026-10-02T21:58:49.471Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "lv-1d063c18-b604-4b43-b23c-afc6f8b49fb9",
