@@ -1,7 +1,85 @@
 {
-  "updated": "2026-11-23T14:10:51.241888Z",
-  "count": 209,
+  "updated": "2026-11-24T02:47:20.270901Z",
+  "count": 204,
   "jobs": [
+    {
+      "id": "lv-46984425-9c0a-4cf9-9079-f95c18ca2202",
+      "title": "Assistant.e chef.fe de gréeur – ECHO | Assistant Head of Rigging – ECHO",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Chef adjoint du département, gréage – Spectacles en tournée\nGréeur acrobatique\n* Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste.*\nNous recherchons un adjoint au chef du département (« AHOD ») de gréage po",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/46984425-9c0a-4cf9-9079-f95c18ca2202",
+      "created": "2026-11-23T21:03:23.244000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "lv-528e222d-6d20-471f-be3d-465026d4a055",
+      "title": "Head of Department, Wardrobe - ALIZÉ",
+      "company": "Cirque du Soleil",
+      "location": "Berlin",
+      "description": "Head of Department, Wardrobe - ALIZÉ\nCostumes and Props\n \n  \nWe are looking for a Head of Department (“HOD”), Wardrobe to lead our Wardrobe team. In collaboration with the Show Technical Director and Costume Shop, this position will lead the wardrobe team to construct, maintain, and run the production costumes in a safe and consistent manner.\n \nThe Wardrobe HOD will have the opportunity to: \nOversee all departmental task lists and crew scheduling of day and show crews, rehearsals, trainings and ",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/528e222d-6d20-471f-be3d-465026d4a055",
+      "created": "2026-11-23T18:04:07.107000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000163286135",
+      "title": "Compositing Lead",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000163286135",
+      "created": "2026-11-23T17:28:38.277Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "lv-9fc27605-ce68-4ab7-8ad7-79d66e3d68d6",
+      "title": "Assistant.e chef éclairage - KURIOS | Assistant Head of Lighting - KURIOS",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Adjoint au chef de département, Éclairage – Spectacle en tournée\nÉclairage de scène\n \n \n \n* Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste.*\n \n \nNous recherchons un chef de département adjoint (« AHOD ») ",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/9fc27605-ce68-4ab7-8ad7-79d66e3d68d6",
+      "created": "2026-11-23T16:02:35.171000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000163258832",
+      "title": "Lead Gameplay Designer",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000163258832",
+      "created": "2026-11-23T15:49:32.214Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "gh-8412002",
+      "title": "Designer d'intérieur",
+      "company": "Sid Lee",
+      "location": "Montréal, Canada",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8412002",
+      "created": "2026-11-23T13:24:04-05:00",
+      "category": "Agence",
+      "source": "Sid Lee"
+    },
     {
       "id": "sr-744000163205089",
       "title": "Project Manager - BI",
@@ -94,19 +172,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000162762999",
-      "title": "Compositing Lead",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000162762999",
-      "created": "2026-11-20T15:31:01.496Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000162672709",
       "title": "Lead Product Manager (Asphalt 9)",
       "company": "Gameloft Montreal",
@@ -129,19 +194,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000162608573",
       "created": "2026-11-19T21:43:30.145Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000162572249",
-      "title": "Lead Gameplay Designer",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000162572249",
-      "created": "2026-11-19T17:26:56.978Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -263,32 +315,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000162138620",
-      "title": "Rigging Artist",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000162138620",
-      "created": "2026-11-17T17:30:50.664Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000162138529",
-      "title": "Rigging Artist ",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000162138529",
-      "created": "2026-11-17T17:30:29.464Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "lv-8316c5e1-bc35-4911-ae95-584f1905e011",
       "title": "Head of Props - PAW Patrol Live! A Mighty Adventure",
       "company": "Cirque du Soleil",
@@ -404,19 +430,6 @@
       "created": "2026-11-17T10:55:44.215Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "lv-ef3b6c71-3909-4457-b049-09a21449b900",
-      "title": "Technicien.ne gréage et automatisation - ECHO  | Rigging & Automation Technician - ECHO",
-      "company": "Cirque du Soleil",
-      "location": "*En tournée | On tour",
-      "description": "Technicien(ne) en gréage et automatisation – Spectacle de tournée \nAutomatisation scénique \n \n* Il s’agit d’un poste à temps plein au sein d’une tournée internationale. La personne retenue travaillera et voyagera dans plusieurs pays avec une compagnie de tournée internationale où l’anglais est la langue de travail de la production. La maîtrise de l’anglais est requise pour exercer les fonctions de ce poste. * \n \nNous sommes à la recherche d’une personne technicienne en gréage et automatisation p",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/ef3b6c71-3909-4457-b049-09a21449b900",
-      "created": "2026-11-16T22:56:23.825000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "sr-744000161827169",
@@ -610,19 +623,6 @@
       "salary_max": null,
       "url": "https://jobs.lever.co/cirquedusoleil/639cf74b-6b61-4bc8-a314-445bf179ccbc",
       "created": "2026-11-12T17:05:24.963000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
-      "id": "lv-dacb68b2-4335-4d1b-9416-a9038d845f60",
-      "title": "Commis d'entrepôt | Warehouse Associate",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Commis d'entrepôt\nCostumes et accessories\nÀ propos de nous\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire.\nNotre mission\nDepuis 1984, le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l'imaginaire et surprendre les spectateurs ! L'innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos productions à venir à tr",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/dacb68b2-4335-4d1b-9416-a9038d845f60",
-      "created": "2026-11-10T22:02:45.344000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
     },
@@ -978,19 +978,6 @@
       "source": "Sid Lee"
     },
     {
-      "id": "lv-979643ca-8095-419f-bd4e-38d68c5ed229",
-      "title": "Technicien.ne éclairage - OVO | Lighting Technician - OVO",
-      "company": "Cirque du Soleil",
-      "location": "*En tournée | On tour",
-      "description": "Technicien en éclairage - Spectacle en tournée\nÉclairage de scène\n \n* Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste*\n \nNous recherchons un technicien en éclairage pour rejoindre l’une des tournées du Cir",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/979643ca-8095-419f-bd4e-38d68c5ed229",
-      "created": "2026-11-02T21:43:25.128000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-59fcc1a3-66ac-4fb5-a520-97fb0ce2cbf6",
       "title": "On-Call Carpentry Technician – Blue Man Group Orlando",
       "company": "Cirque du Soleil",
@@ -1082,19 +1069,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "lv-a534f875-a4a7-4628-9727-a207b74543d0",
-      "title": "Manutentionnaire - Matières textiles | Textile Management Handler",
-      "company": "Cirque du Soleil",
-      "location": "Montréal, QC",
-      "description": "Manutentionnaire - Matières textiles\nCostumes et accessories\nÀ propos de nous\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire.\nNotre mission\nDepuis 1984, le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l'imaginaire et surprendre les spectateurs ! L'innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos produ",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/a534f875-a4a7-4628-9727-a207b74543d0",
-      "created": "2026-10-28T18:22:16.843000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
-    },
-    {
       "id": "lv-4df23819-c3c1-4d12-a7ae-6f65026cab9f",
       "title": "Assistant.e chef.fe Éclairage - ALEGRIA | Assistant Head of Lighting - ALEGRIA",
       "company": "Cirque du Soleil",
@@ -1171,19 +1145,6 @@
       "created": "2026-10-27T19:18:16.407Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "lv-8cb4b18b-e58f-466f-a363-810592f06ebe",
-      "title": "Technicien.ne gréage - ECHO | Rigging Technician - ECHO",
-      "company": "Cirque du Soleil",
-      "location": "*En tournée | On tour",
-      "description": "Technicien en gréage – Spectacle en tournée\nGréeur acrobatique\n \n*Il s’agit d’un poste à temps plein impliquant des tournées internationales. La personne retenue travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est donc requise pour exercer les fonctions liées à ce poste.*\n \nNous recherchons un technicien en gréage pour rejoindre l’un des spectacles en tournée ",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://jobs.lever.co/cirquedusoleil/8cb4b18b-e58f-466f-a363-810592f06ebe",
-      "created": "2026-10-27T15:51:20.218000Z",
-      "category": "Gaming & Entertainment",
-      "source": "Cirque du Soleil"
     },
     {
       "id": "lv-4ff93ea9-d4e4-4b2f-bd2d-66663f120fd8",
@@ -1533,19 +1494,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000155854169",
       "created": "2026-10-15T21:14:06.083Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000155854089",
-      "title": "Asset Supervisor",
-      "company": "Rodeo FX",
-      "location": "Bengaluru, in",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000155854089",
-      "created": "2026-10-15T21:12:16.853Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -2263,19 +2211,6 @@
       "created": "2026-08-13T21:30:17.238Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000142975579",
-      "title": "[Dungeons & Dragons PC-Console] Concepteur Narratif Senior - Senior Narrative Designer",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000142975579",
-      "created": "2026-08-11T20:52:41.399Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-b96bde7b-503b-412a-8c8f-6faeb8ef569b",
