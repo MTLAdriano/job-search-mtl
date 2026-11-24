@@ -1,7 +1,59 @@
 {
-  "updated": "2026-11-24T02:47:20.270901Z",
-  "count": 204,
+  "updated": "2026-11-24T14:38:58.709323Z",
+  "count": 201,
   "jobs": [
+    {
+      "id": "sr-744000163468009",
+      "title": "Lead Gameplay Designer",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000163468009",
+      "created": "2026-11-24T14:11:21.123Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000163466139",
+      "title": "Lead Product Manager (Asphalt 9)",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000163466139",
+      "created": "2026-11-24T14:04:24.084Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000163432159",
+      "title": "Lead UI Artist",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000163432159",
+      "created": "2026-11-24T10:48:58.010Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
+      "id": "sr-744000163422269",
+      "title": "Partnerships & Business Development Manager",
+      "company": "Gameloft Montreal",
+      "location": "Seattle, us",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000163422269",
+      "created": "2026-11-24T10:03:39.560Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "lv-46984425-9c0a-4cf9-9079-f95c18ca2202",
       "title": "Assistant.e chef.fe de gréeur – ECHO | Assistant Head of Rigging – ECHO",
@@ -53,19 +105,6 @@
       "created": "2026-11-23T16:02:35.171000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000163258832",
-      "title": "Lead Gameplay Designer",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000163258832",
-      "created": "2026-11-23T15:49:32.214Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "gh-8412002",
@@ -172,19 +211,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000162672709",
-      "title": "Lead Product Manager (Asphalt 9)",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000162672709",
-      "created": "2026-11-20T08:17:20.326Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000162608573",
       "title": "Data Scientist",
       "company": "Gameloft Montreal",
@@ -194,19 +220,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000162608573",
       "created": "2026-11-19T21:43:30.145Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000162550679",
-      "title": "Lead UI Artist",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000162550679",
-      "created": "2026-11-19T15:55:38.104Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -640,19 +653,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000160866481",
-      "title": "DFX Supervisor",
-      "company": "Rodeo FX",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000160866481",
-      "created": "2026-11-10T12:54:31.143Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000160864624",
       "title": "Customer Care Agent (English only/ night shift)",
       "company": "Gameloft Montreal",
@@ -662,19 +662,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000160864624",
       "created": "2026-11-10T12:47:15.110Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000160864769",
-      "title": "Customer Care Agent (English&Spanish)",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000160864769",
-      "created": "2026-11-10T12:37:54.537Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1589,19 +1576,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000155261105",
-      "title": "Partnerships & Business Development Manager",
-      "company": "Gameloft Montreal",
-      "location": "Seattle, us",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000155261105",
-      "created": "2026-10-13T13:21:08.984Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "lv-0f678cf3-7023-4795-b76f-9847ddf45fa8",
       "title": "On-Call Rigging Technician - \"O\"",
       "company": "Cirque du Soleil",
@@ -2432,19 +2406,6 @@
       "created": "2026-07-15T15:54:36.809Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000136778258",
-      "title": "Devops & Release Engineer",
-      "company": "Gameloft Montreal",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000136778258",
-      "created": "2026-07-09T10:11:41.126Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000136753850",
