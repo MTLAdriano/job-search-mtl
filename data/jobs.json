@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T00:27:10.452531Z",
-  "count": 197,
+  "updated": "2026-11-25T13:59:40.189247Z",
+  "count": 194,
   "jobs": [
     {
       "id": "sr-744000163559639",
@@ -211,19 +211,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000162608573",
-      "title": "Data Scientist",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000162608573",
-      "created": "2026-11-19T21:43:30.145Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000162550119",
       "title": "Lead VFX Artist",
       "company": "Gameloft Montreal",
@@ -259,19 +246,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000162476551",
       "created": "2026-11-19T10:03:30.728Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000162455909",
-      "title": "AI Engineer Intern (Project: Talking Toy)",
-      "company": "Gameloft Montreal",
-      "location": "Ho Chi Minh City, vn",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000162455909",
-      "created": "2026-11-19T08:05:57.205Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -638,19 +612,6 @@
       "created": "2026-11-10T12:55:31.369Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000160864624",
-      "title": "Customer Care Agent (English only/ night shift)",
-      "company": "Gameloft Montreal",
-      "location": "Lviv, ua",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000160864624",
-      "created": "2026-11-10T12:47:15.110Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "lv-b3635a1e-6683-4511-842f-0a6260bcd738",
