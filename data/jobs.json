@@ -1,7 +1,20 @@
 {
-  "updated": "2026-11-24T14:38:58.709323Z",
-  "count": 201,
+  "updated": "2026-11-25T00:27:10.452531Z",
+  "count": 197,
   "jobs": [
+    {
+      "id": "sr-744000163559639",
+      "title": "Programmeur Innovation GameTech - GameTech Innovation Developer",
+      "company": "Gameloft Montreal",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000163559639",
+      "created": "2026-11-24T23:21:33.459Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000163468009",
       "title": "Lead Gameplay Designer",
@@ -183,19 +196,6 @@
       "created": "2026-11-20T16:24:46-05:00",
       "category": "Agence",
       "source": "Sid Lee"
-    },
-    {
-      "id": "sr-744000162761315",
-      "title": "Compositing Artist",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000162761315",
-      "created": "2026-11-20T15:33:26.021Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000162761923",
@@ -445,6 +445,19 @@
       "source": "Rodeo FX"
     },
     {
+      "id": "lv-7c9ceb2e-cbc0-498e-b838-658a342b815e",
+      "title": "Analyste principal.e des systèmes d’affaires (SIRH) | Sr. Business Systems Analyst (HRIS)",
+      "company": "Cirque du Soleil",
+      "location": "Montréal, QC",
+      "description": "Analyste principal.e des systèmes d’affaires (SIRH)\nTalent\nÀ propos de nous\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire.\nNotre mission\nDepuis 1984, le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l'imaginaire et surprendre les spectateurs ! L'innovation et la créativité sont au cœur de nos spectacles et continueront de transcender nos product",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/7c9ceb2e-cbc0-498e-b838-658a342b815e",
+      "created": "2026-11-16T20:27:10.225000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
       "id": "sr-744000161827169",
       "title": "Asset Supervisor",
       "company": "Rodeo FX",
@@ -484,19 +497,6 @@
       "source": "Sid Lee"
     },
     {
-      "id": "gh-8247218",
-      "title": "Assistant.e technique, Post-production - Technical assistant, Post-Production",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8247218",
-      "created": "2026-11-16T10:13:26-05:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
       "id": "gh-8023709",
       "title": "Développeur.euse Full stack - Adobe Experience Manager (AEM) ",
       "company": "Sid Lee",
@@ -506,19 +506,6 @@
       "salary_max": null,
       "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8023709",
       "created": "2026-11-16T10:12:12-05:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-2248248",
-      "title": "Stratège social·e (contenu) - Social Strategist (Content)",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=2248248",
-      "created": "2026-11-16T10:11:34-05:00",
       "category": "Agence",
       "source": "Sid Lee"
     },
@@ -1979,19 +1966,6 @@
       "source": "Cirque du Soleil"
     },
     {
-      "id": "sr-744000147069129",
-      "title": " Compositeur.trice numérique",
-      "company": "Rodeo FX",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000147069129",
-      "created": "2026-09-02T19:26:26.071Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000146665815",
       "title": "ゲームエンジンプログラマー",
       "company": "Keywords Studios",
@@ -2434,19 +2408,6 @@
       "source": "Keywords Studios"
     },
     {
-      "id": "sr-744000135040419",
-      "title": "Développeur(se) d'automatisation et d'infrastructure - Infrastructure & Automation Developer",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000135040419",
-      "created": "2026-06-30T14:32:37.845Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000130716151",
       "title": "Lead Lighting Artist Vic/SA/Qld",
       "company": "Keywords Studios",
@@ -2534,19 +2495,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000127486505",
       "created": "2026-05-20T17:02:49.164Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000115751358",
-      "title": "[Dungeons & Dragons PC-Console] Artiste de concept - Concept Artist ",
-      "company": "Gameloft Montreal",
-      "location": "Montreal, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000115751358",
-      "created": "2026-03-19T21:33:03.323Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
