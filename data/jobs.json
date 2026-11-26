@@ -1,10 +1,23 @@
 {
-  "updated": "2026-11-26T00:02:21.643609Z",
-  "count": 191,
+  "updated": "2026-11-26T13:39:05.157905Z",
+  "count": 190,
   "jobs": [
     {
+      "id": "sr-744000163831209",
+      "title": "Lead VFX Artist",
+      "company": "Gameloft Montreal",
+      "location": "Barcelona, es",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000163831209",
+      "created": "2026-11-26T09:09:46.802Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
+    {
       "id": "lv-42ff92a9-a2ce-409c-ada1-aaccda86d486",
-      "title": "Mécanicien - Alegria | Mechanic - Alegria",
+      "title": "Mécanicien - ALEGRIA | Mechanic - ALEGRIA",
       "company": "Cirque du Soleil",
       "location": "*En tournée | On tour",
       "description": "Mécanicien - Spectacle en tournée\nOpérations de site\n \n*Il s’agit d’un poste à temps plein dans le cadre d’une tournée internationale. Le candidat retenu travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est requise pour exercer les fonctions de ce poste.*\n \nNous recherchons un mécanicien compétent et proactif pour rejoindre l’équipe des opérations sur site d’un",
@@ -224,19 +237,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000163203567",
-      "title": "HR Business Partner",
-      "company": "Gameloft Montreal",
-      "location": "Bucharest, ro",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000163203567",
-      "created": "2026-11-23T11:49:38.894Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
       "id": "sr-744000162807799",
       "title": "Artiste GenFX",
       "company": "Rodeo FX",
@@ -287,19 +287,6 @@
       "created": "2026-11-20T15:31:40.142Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000162550119",
-      "title": "Lead VFX Artist",
-      "company": "Gameloft Montreal",
-      "location": "Barcelona, es",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000162550119",
-      "created": "2026-11-19T15:53:27.793Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
     },
     {
       "id": "sr-744000162478759",
