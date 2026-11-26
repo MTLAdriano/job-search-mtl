@@ -1,7 +1,85 @@
 {
-  "updated": "2026-11-25T13:59:40.189247Z",
-  "count": 194,
+  "updated": "2026-11-26T00:02:21.643609Z",
+  "count": 191,
   "jobs": [
+    {
+      "id": "lv-42ff92a9-a2ce-409c-ada1-aaccda86d486",
+      "title": "Mécanicien - Alegria | Mechanic - Alegria",
+      "company": "Cirque du Soleil",
+      "location": "*En tournée | On tour",
+      "description": "Mécanicien - Spectacle en tournée\nOpérations de site\n \n*Il s’agit d’un poste à temps plein dans le cadre d’une tournée internationale. Le candidat retenu travaillera et voyagera dans plusieurs pays au sein d’une compagnie de tournée internationale où l’anglais est la langue de travail de la production — une maîtrise parfaite de l’anglais est requise pour exercer les fonctions de ce poste.*\n \nNous recherchons un mécanicien compétent et proactif pour rejoindre l’équipe des opérations sur site d’un",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://jobs.lever.co/cirquedusoleil/42ff92a9-a2ce-409c-ada1-aaccda86d486",
+      "created": "2026-11-25T23:16:29.160000Z",
+      "category": "Gaming & Entertainment",
+      "source": "Cirque du Soleil"
+    },
+    {
+      "id": "sr-744000163759819",
+      "title": "Artiste FX - Manifestation d’intérêt - Rodeo FX",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000163759819",
+      "created": "2026-11-25T20:22:45.893Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000163759739",
+      "title": "FX Artist - Expression of interest - Rodeo FX",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000163759739",
+      "created": "2026-11-25T20:22:17.182Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000163756260",
+      "title": "Human Resources Department Manager",
+      "company": "Rodeo FX",
+      "location": "Bengaluru, in",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000163756260",
+      "created": "2026-11-25T19:56:14.306Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000163755999",
+      "title": "Technicien.ne Comptable - Mikros Animation",
+      "company": "Rodeo FX",
+      "location": "Montreal, ca",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/RodeoFX/744000163755999",
+      "created": "2026-11-25T19:43:57.180Z",
+      "category": "Gaming & Entertainment",
+      "source": "Rodeo FX"
+    },
+    {
+      "id": "sr-744000163701689",
+      "title": "Senior Gameplay/Network Programmer",
+      "company": "Gameloft Montreal",
+      "location": "Paris, fr",
+      "description": "",
+      "salary_min": null,
+      "salary_max": null,
+      "url": "https://careers.smartrecruiters.com/Gameloft/744000163701689",
+      "created": "2026-11-25T14:39:00.521Z",
+      "category": "Gaming & Entertainment",
+      "source": "Gameloft Montreal"
+    },
     {
       "id": "sr-744000163559639",
       "title": "Programmeur Innovation GameTech - GameTech Innovation Developer",
@@ -276,19 +354,6 @@
       "source": "Gameloft Montreal"
     },
     {
-      "id": "sr-744000162333699",
-      "title": "Senior Asset Generalist - 2 Month Contract",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000162333699",
-      "created": "2026-11-18T15:39:52.100Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000162246709",
       "title": "Sound Designer Intern",
       "company": "Gameloft Montreal",
@@ -480,19 +545,6 @@
       "salary_max": null,
       "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8023709",
       "created": "2026-11-16T10:12:12-05:00",
-      "category": "Agence",
-      "source": "Sid Lee"
-    },
-    {
-      "id": "gh-8282336",
-      "title": "Concepteur·trice-rédacteur·trice - Copywriter",
-      "company": "Sid Lee",
-      "location": "Montréal, Quebec, Canada",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://sidlee.com/en/careers/job-listing/jobdetails?gh_jid=8282336",
-      "created": "2026-11-16T10:08:17-05:00",
       "category": "Agence",
       "source": "Sid Lee"
     },
@@ -742,19 +794,6 @@
       "created": "2026-11-06T14:55:24.634000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000160202212",
-      "title": "DFX Supervisor",
-      "company": "Rodeo FX",
-      "location": "Bengaluru, in",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000160202212",
-      "created": "2026-11-06T13:40:54.030Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000160160819",
@@ -1212,45 +1251,6 @@
       "source": "Rodeo FX"
     },
     {
-      "id": "sr-744000157204897",
-      "title": "FX Artist - Mid and Senior - Multiple Positions",
-      "company": "Rodeo FX",
-      "location": "Toronto, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000157204897",
-      "created": "2026-10-22T18:16:04.788Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000157201791",
-      "title": "Artiste FX - Senior et intermédiaire - Multiple positions",
-      "company": "Rodeo FX",
-      "location": "Montreal and Quebec City, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000157201791",
-      "created": "2026-10-22T18:14:34.383Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000157204799",
-      "title": "FX Artist - Mid and Senior - Multiple Positions",
-      "company": "Rodeo FX",
-      "location": "Montreal and Quebec City, ca",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000157204799",
-      "created": "2026-10-22T18:14:01.229Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
       "id": "sr-744000157197189",
       "title": "Superviseur.e d'effets (FX)",
       "company": "Rodeo FX",
@@ -1312,19 +1312,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/Gameloft/744000157034009",
       "created": "2026-10-22T04:12:14.664Z",
-      "category": "Gaming & Entertainment",
-      "source": "Gameloft Montreal"
-    },
-    {
-      "id": "sr-744000156826952",
-      "title": "Senior Online/Network Programmer",
-      "company": "Gameloft Montreal",
-      "location": "Paris, fr",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/Gameloft/744000156826952",
-      "created": "2026-10-21T14:50:35.065Z",
       "category": "Gaming & Entertainment",
       "source": "Gameloft Montreal"
     },
@@ -1392,19 +1379,6 @@
       "created": "2026-10-19T20:29:53.400000Z",
       "category": "Gaming & Entertainment",
       "source": "Cirque du Soleil"
-    },
-    {
-      "id": "sr-744000156003059",
-      "title": "VFX Producer - Senior",
-      "company": "Rodeo FX",
-      "location": "Bengaluru, in",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000156003059",
-      "created": "2026-10-16T13:42:22.616Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
     },
     {
       "id": "sr-744000155935130",
@@ -1715,19 +1689,6 @@
       "salary_max": null,
       "url": "https://careers.smartrecruiters.com/RodeoFX/744000151118749",
       "created": "2026-09-22T19:19:30.601Z",
-      "category": "Gaming & Entertainment",
-      "source": "Rodeo FX"
-    },
-    {
-      "id": "sr-744000151090139",
-      "title": "Head of Production Rodeo FX India",
-      "company": "Rodeo FX",
-      "location": "Bengaluru, in",
-      "description": "",
-      "salary_min": null,
-      "salary_max": null,
-      "url": "https://careers.smartrecruiters.com/RodeoFX/744000151090139",
-      "created": "2026-09-22T16:34:35.401Z",
       "category": "Gaming & Entertainment",
       "source": "Rodeo FX"
     },
@@ -2435,7 +2396,7 @@
     },
     {
       "id": "lv-e11a0ca0-f549-4ac8-b3b5-93b30e433a76",
-      "title": "Chef.fe de département, gréeur – LUDO | Head of Department, Rigging – LUDO",
+      "title": "Head of Department, Rigging – LUDO",
       "company": "Cirque du Soleil",
       "location": "Nuevo Nayarit",
       "description": "Chef.fe de département, gréeur – LUDO\n\nGréage acrobatique\n\nPostes permanent\n\n \n\nNous sommes nés d'une troupe éclectique. Viens vivre l'expérience d'être toi-même au quotidien pour créer l'extraordinaire. \n\n \n\nNOTRE MISSION\n\nDepuis 1984, Le Groupe Cirque du Soleil mise sur un travail toujours plus créatif et féérique afin de repousser sans cesse les limites de l’imaginaire et surprendre les spectateurs! L’innovation et la créativité sont au cœur de nos spectacles et continueront de transcender no",
